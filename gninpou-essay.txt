@@ -3,13 +3,13 @@
 〇兩	lin lian
 一上去	iq zaon chi
 一下去	iq gho chi
-一不做二不休	iq paq tsou gni paq shieu
 一世	iq shi
 一世紀	iq syu ci
 一世英名	iq shi in min
 一九九二	iq cieu cieu gni
 一九九兩	iq cieu cieu lian
 一乾二淨	iq kI gni zhin
+一乾二淨	iq kI er zhin
 一乾而盡	iq kI er jin
 一了	iq liau
 一了心願	iq liau shin gniu
@@ -20,8 +20,6 @@
 一二	iq gni
 一二三	iq gni sae
 一兩三	iq lian sae
-一二九運動	iq gni cieu yun don
-一二八事變	iq gni paq zy pi
 一些人	iq shiq gnin
 一些問題	iq shiq ven di
 一人之下萬人之上	iq gnin tsy gho vae gnin tsy zaon
@@ -29,16 +27,11 @@
 一人傳虛	iq gnin dzoe shiu
 一人得道	iq gnin taq dau
 一人得道雞犬升天	iq gnin taq dau ci chiu shin thi
-一介	iq cia
-一介不取	iq cia paq tshyu
-一仗	iq jian
+一仗	iq cian
 一代人	iq de gnin
 一代新人換舊人	iq de shin gnin wun jieu gnin
-一任	iq gnin
 一佛出世	iq vaq tshyuq syu
 一佛出世二佛生天	iq vaq tshyuq syu gni vaq sen thi
-一個不小心	iq goq paq shiau shin
-一個不小心	iq ghoq paq shiau shin
 一個勿小心	iq goq vaq shiau shin
 一個勿小心	iq ghoq vaq shiau shin
 一個弗小心	iq goq vaq shiau shin
@@ -110,15 +103,17 @@
 一千個	iq chi ghoq
 一千零兩	iq chi lin lian
 一去	iq chi
-一去不回	iq chi paq wei
 一去勿回	iq chi vaq wei
 一去弗回	iq chi vaq wei
 一去不回頭	iq chi paq wei deu
 一去勿回頭	iq chi vaq wei deu
 一去弗回頭	iq chi vaq wei deu
-一去不復	iq chi paq voq
-一去不復返	iq chi paq voq fae
-一去不返	iq chi paq fae
+一去勿復	iq chi vaq voq
+一去勿復返	iq chi vaq voq fae
+一去勿返	iq chi vaq fae
+一去弗復	iq chi vaq voq
+一去弗復返	iq chi vaq voq fae
+一去弗返	iq chi vaq fae
 一去無影蹤	iq chi Wu in tson
 一去無影蹤	iq chi vu in tson
 一口吃隻胖子	iq kheu chioq tsaq phaon tsy
@@ -157,7 +152,6 @@
 一日一個樣	iq gniq iq ghoq yan
 一夫當關萬夫莫敵	iq fu taon kuae vae fu moq diq
 一夫當關萬夫莫開	iq fu taon kuae vae fu moq khe
-一字不差	iq zy paq tsho
 一字勿差	iq zy vaq tsho
 一字之差	iq zy tsy tsho
 一字長蛇陣	iq zy jian dzo jin
@@ -180,16 +174,10 @@
 一干人	iq kI gnin
 一年之計在於春	iq gni tsy ci dze yu tshyun
 一年被蛇咬十年怕井繩	iq gni bei dzo ngau zyuq gni pho cin zhin
-一往無前	iq uaon Wu zhi
-一往無前	iq uaon vu zhi
 一心兩用	iq shin lian yon
 一念之差	iq nE tsy tsho
 一念之間	iq nE tsy ci
-一念無明	iq nE Wu min
-一念無明	iq nE vu min
 一意孤行	iq i ku yin
-一戰	iq ci
-一戰之下	iq ci tsy gho
 一手交貨	iq shieu kau hou
 一手交錢	iq shieu kau ji
 一手交鈔票	iq shieu kau tshau phiau
@@ -224,603 +212,600 @@
 一日遊	iq gniq yeu
 一旦無常萬事休	iq tae Wu dzaon vae zy shieu
 一旦無常萬事休	iq tae vu dzaon vae zy shieu
-一時之間	
-一時間	
-一曝十寒	
-一更	
-一望	
-一望無垠	
-一望無邊	
-一望無際	
-一望而知	
-一朝	
-一朝一夕	
-一朝之忿	
-一朝天子	
-一朝天子一朝臣	
-一朝被蛇咬	
-一杯水	
-一架	
-一條魚	
-一棍子打死	
-一櫃	
-一次生	
-一步一個腳印	
-一歲	
-一死	
-一死一傷	
-一死了之	
-一段時間	
-一氧化二氮	
-一水	
-一水之隔	
-一池	
-一池春水	
-一池秋水	
-一汽大衆	
-一波	
-一波三折	
-一波又起	
-一波未平	
-一流人才	
-一流學府	
-一清二楚	
-一清二白	
-一清如水	
-一溜	
-一溜歪斜	
-一溜煙	
-一滴水	
-一滴淚	
-一潭死水	
-一炷香	
-一無	
-一無可取	
-一無所得	
-一無所恃	
-一無所有	
-一無所獲	
-一無所知	
-一無所聞	
-一無所長	
-一無是處	
-一無長物	
-一爭兩醜	
-一爭長短	
-一片狼藉	
-一物降一物	
-一狀	
-一班人	
-一生	
-一生中	
-一生受用不盡	
-一甲	
-一甲子	
-一男二女	
-一畝	
-一百二十	
-一百人	
-一百個	
-一百分	
-一目十行	
-一直沒有	
-一眼望去	
-一着	
-一着不慎	
-一瞄	
-一瞬間	
-一知半解	
-一石二鳥	
-一石兩鳥	
-一碗水端平	
-一神教	
-一票人	
-一票人馬	
-一窮二白	
-一笑了之	
-一簾幽夢	
-一籌莫展	
-一線希望	
-一線生機	
-一缸水	
-一羣人	
-一脈相傳	
-一至於此	
-一般人	
-一般人員	
-一般狀況	
-一般貿易	
-一萬人	
-一萬個	
-一號電池	
-一行	
-一行三昧	
-一行人	
-一行行	
-一衣帶水	
-一表人才	
-一表人材	
-一表人物	
-一被	
-一視同仁	
-一覺	
-一覺睡到天亮	
-一覽無遺	
-一覽無餘	
-一觸即爆	
-一言一行	
-一言不和	
-一誤再誤	
-一走了之	
-一起分享	
-一起去	
-一辭莫贊	
-一進去	
-一過去	
-一部分	
-一醉解千愁	
-一錘子買賣	
-一錘定音	
-一長	
-一長一短	
-一間	
-一防	
-一隻貓	
-一集	
-一震	
-一霎間	
-一面之交	
-一頂	
-一頭撞死	
-一頭霧水	
-一風吹	
-一飲一啄	
-一飽耳福	
-一髮之差	
-一髮之間	
-一鳴驚人	
-一點也	
-一點也不	
-一點也沒	
-一黨獨大	
-一鼻子	
-一鼻子灰	
-一鼻孔	
-一鼻孔出氣	
-丁一確二	
-丁二烯	
-丁二醇	
-丁克家庭	
-丁加奴	
-丁固生松	
-丁基橡膠	
-丁寵家庭	
-丁未	
-丁村人	
-丁苯橡膠	
-丁骨牛排	
-七世	
-七世夫妻	
-七了八當	
-七人	
-七個	
-七個人	
-七個八個	
-七億人	
-七分	
-七分之一	
-七分鐘	
-七十七國集團	
-七十二	
-七十二行	
-七十二變	
-七千人	
-七和絃	
-七國集團	
-七堵	
-七堵區	
-七大	
-七大工業國集團	
-七大洲	
-七姊妹星團	
-七孔生煙	
-七層架構	
-七帶石斑魚	
-七扭八歪	
-七日	
-七歲	
-七百人	
-七竅生煙	
-七級浮屠	
-七號電池	
-七行	
-七行詩	
-七覺支	
-七魄	
-丈二和尚	
-丈二和尚摸不着頭腦	
-丈二金剛	
-三一學院	
-三下五除二	
-三世	
-三世佛	
-三世紀	
-三人	
-三人份	
-三人成虎	
-三人行	
-三人行必有我師	
-三仁	
-三令五申	
-三任	
-三伏天	
-三伯	
-三伯母	
-三伯父	
-三保太監	
-三個	
-三個世界	
-三個人	
-三個代表	
-三個和尚沒水喝	
-三個女人一個墟	
-三個女人一臺戲	
-三個字	
-三個方面	
-三個月	
-三個臭皮匠	
-三個臭皮匠勝過諸葛亮	
-三個臭皮匠賽過諸葛亮	
-三個臭皮匠頂個諸葛亮	
-三個階段	
-三億人	
-三分	
-三分之一	
-三分之二	
-三分法	
-三分熟	
-三分球	
-三分線	
-三分鐘	
-三分鐘熱度	
-三分頭	
-三十二	
-三十二相	
-三十二萬	
-三十日	
-三十歲	
-三千世界	
-三千人	
-三千個	
-三句不離本行	
-三句話不離本行	
-三呼萬歲	
-三和絃	
-三和路	
-三商行	
-三國無雙	
-三圍	
-三壇大戒	
-三大	
-三大件	
-三大作風	
-三大塊	
-三大差別	
-三大政策	
-三大洋	
-三大片	
-三大發明	
-三大革命	
-三大革命運動	
-三大類	
-三天打魚	
-三夷教	
-三好學生	
-三好生	
-三孃教子	
-三學	
-三家	
-三家村	
-三對三鬥牛	
-三峽	
-三峽大壩	
-三峽工程	
-三峽庫	
-三峽庫區	
-三峽水庫	
-三峽鎮	
-三年生	
-三度空間	
-三座大山	
-三從	
-三從四德	
-三心二意	
-三思而後行	
-三思而行	
-三戰	
-三戰兩勝	
-三房二廳	
-三教	
-三教九流	
-三文魚	
-三日	
-三日不讀書面目可憎	
-三日份	
-三日打魚	
-三星集團	
-三更	
-三更半夜	
-三月不知肉味	
-三朝元老	
-三杯和萬事	
-三樂	
-三權分立	
-三歲	
-三歲時	
-三毛貓	
-三氯甲烷	
-三水	
-三水區	
-三水縣	
-三江侗族自治縣	
-三江生態旅遊區	
-三牲	
-三生	
-三生有幸	
-三生石	
-三甲	
-三申五令	
-三百人	
-三百個	
-三百六十行	
-三百六十行行行出狀元	
-三省	
-三硝基甲苯	
-三等分	
-三等分角	
-三絃樂器	
-三維空間	
-三聯單	
-三聲無奈	
-三自	
-三自性	
-三自愛國教會	
-三自教會	
-三色貓	
-三萬二千	
-三萬人	
-三萬個	
-三號電池	
-三行	
-三角學	
-三角架	
-三跪九叩	
-三農問題	
-三都水族自治縣	
-三重人	
-三重人格	
-三長制	
-三門峽	
-三門峽市	
-三間	
-三閭大夫	
-三防	
-三阿姨	
-三集	
-三面夏娃	
-三體問題	
-三魂七魄	
-三鹵甲烷	
-三鹿集團	
-上一個	
-上上個月	
-上下交困	
-上下文菜單	
-上下班時間	
-上不了	
-上不了臺面	
-上不去	
-上世	
-上世紀	
-上乘	
-上也	
-上了	
-上了年紀	
-上了歲數	
-上交	
-上交所	
-上人	
-上個	
-上個世紀	
-上個星期	
-上傳	
-上傳到	
-上傳圖片	
-上分器	
-上前去	
-上加	
-上千人	
-上半部分	
-上去	
-上吊自殺	
-上哪	
-上大學	
-上天無路	
-上學時	
-上學校	
-上官婉兒	
-上市交易	
-上市時間	
-上市櫃	
-上帝教	
-上戰	
-上戰場	
-上新世	
-上映期間	
-上朝	
-上架	
-上榜名單	
-上樓去	
-上機時間	
-上櫃	
-上歲數	
-上水	
-上水船	
-上水道	
-上沃爾特	
-上流人士	
-上浮	
-上海交大	
-上海交通大學	
-上海人	
-上海商務印書館	
-上海外國語大學	
-上海大劇院	
-上海大學	
-上海大衆	
-上海寶鋼集團公司	
-上海師範大學	
-上海戲劇學院	
-上海文廣新聞傳媒集團	
-上海汽車工業集團	
-上海浦東發展銀行	
-上海第二醫科大學	
-上海證券交易所	
-上海證卷交易所	
-上海車展	
-上海醫科大學	
-上海音樂學院	
-上牀睡覺	
-上片時間	
-上牌	
-上班時間	
-上癮	
-上百人	
-上着	
-上確界	
-上簇	
-上籃得分	
-上網時間	
-上自	
-上艾瑟爾	
-上行	
-上行下效	
-上行列車	
-上訴人	
-上還	
-上酒家	
-上門去	
-上門服務	
-上集	
-下一個	
-下下個月	
-下不了	
-下不了臺	
-下不去	
-下乘	
-下了	
-下人	
-下任	
-下個	
-下個星期	
-下傳	
-下去	
-下吧	
-下問	
-下單	
-下地無門	
-下墜	
-下墜球	
-下奶	
-下學	
-下學時	
-下崗工人	
-下得了	
-下懷	
-下拉	
-下拉框	
-下拉菜單	
-下於	
-下朝	
-下架	
-下樓去	
-下死勁	
-下水	
-下水典禮	
-下水禮	
-下水管	
-下水船	
-下水道	
-下水道系統	
-下流人士	
-下浮	
-下無立錐之地	
-下班時間	
-下生	
-下着	
-下着雨	
-下着雪	
-下自	
-下自成蹊	
-下行	
-下行列車	
-下註解	
-下課時間	
-下賤	
-下跪	
-下里巴人	
-下降	
-下集	
-下雨了	
-下鼻甲	
-不上去	
-不下去	
-不下於	
-不世之材	
-不世出	
-不中於款	
-不乏其人	
-不也	
-不也是	
-不乾不淨	
-不乾性油	
-不乾杯	
-不乾淨	
-不乾脆	
-不乾膠	
-不乾裂	
-不了	
-不了之局	
-不了了	
-不了了之	
-不了情	
-不了漢	
-不二	
-不二價	
-不二法門	
-不亞於	
-不交	
-不亦樂乎	
-不亮也光	
-不人道	
-不仁	
-不仁不義	
-不介意	
-不令人鼓舞	
-不以人廢言	
-不以爲忤	
-不低於	
-不作第二	
-不作第二人想	
-不信任	
-不信任動議	
-不信任投票	
-不信任案	
-不假	
-不假外出	
-不假外求	
-不假思索	
-不做虧心事	
+一時之間	iq zy tsy ci
+一時間	iq zy ci
+一曝十寒	iq boq zyuq ghEI
+一更	iq kan
+一朝一夕	iq ciau iq zhiq
+一朝之忿	iq ciau tsy ven
+一朝天子	iq jiau thi tsy
+一朝天子一朝臣	iq jiau thi tsy iq jiau jin
+一朝被蛇咬	iq ciau bei dzo ngau
+一杯水	iq pei syu
+一架	iq ko
+一條魚	iq diau ng
+一棍子打煞	iq kuen tsy tan saq
+一櫃	iq guei
+一次生	iq tshy san
+一步一個腳印	iq bu iq goq ciaq in
+一步一個腳印	iq bu iq ghoq ciaq in
+一歲	iq syu
+一死	iq shi
+一死一傷	iq shi iq saon
+一死了之	iq shi liau tsy
+一段時間	iq doe zy ci
+一水	iq syu
+一水之隔	iq syu tsy kaq
+一汽大衆	iq chi da tson
+一流人才	iq lieu zyun dze
+一流學府	iq lieu ghoq fu
+一清如水	iq chin zyu syu
+一滴水	iq tiq syu
+一潭死水	iq dae shi syu
+一無所長	iq vu so jian
+一無所長	iq Wu so jian
+一無長物	iq vu jian vaq
+一無長物	iq Wu jian vaq
+一片狼藉	iq phi laon zhiq
+一物降一物	iq vaq ghaon iq vaq
+一狀	iq zaon
+一班人	iq pae gnin
+一生	iq sen
+一生中	iq sen tson
+一生受用不盡	iq sen zhieu yon paq jin
+一生受用勿盡	iq sen zhieu yon vaq jin
+一生受用弗盡	iq sen zhieu yon vaq jin
+一甲	iq ciaq
+一甲子	iq ciaq tsy
+一百人	iq paq gnin
+一百個	iq paq goq
+一百個	iq paq ghoq
+一百分	iq paq fen
+一目十行	iq moq zyuq ghaon
+一眼望去	iq ngae vaon chi
+一眼望去	iq ngae maon chi
+一着	iq ciq
+一着不慎	iq ciq paq zyun
+一瞄	iq mhiau
+一瞬間	iq syun ci
+一石二鳥	iq zaq gni gniau
+一石二鳥	iq zaq er gniau
+一石兩鳥	iq zaq lian gniau
+一碗水端平	iq un syu toe bin
+一神教	iq zyun ciau
+一票人	iq phiau gnin
+一笑了之	iq shiau liau tsy
+一簾幽夢	iq li ieu mon
+一籌莫展	iq jieu moq ci
+一籌莫展	iq jieu moq tsoe
+一線希望	iq shi shi vaon
+一線生機	iq shi sen ci
+一缸水	iq kaon syu
+一羣人	iq jiun gnin
+一脈相傳	iq maq shian dzOE
+一至於此	iq tsy yu tshy
+一般人	iq pae gnin
+一般人員	iq pae zyun yu
+一般狀況	iq pae dzaon huaon
+一般貿易	iq pae meu yiq
+一萬人	iq vae gnin
+一萬個	iq vae goq
+一萬個	iq vae ghoq
+一號電池	iq ghau di ji
+一行	iq ghaon
+一行	iq yin
+一行三昧	iq yin sae mei
+一行人	iq yin gnin
+一行行	iq yin yin
+一衣帶水	iq i ta syu
+一表人才	iq piau zyun dze
+一表人材	iq piau zyun dze
+一表人物	iq piau zyun vaq
+一被	iq bei
+一視同仁	iq zy don zyun
+一覺	iq kau
+一覺睏到天亮	iq kau khuen tau thi lian
+一覺睏到天亮	iq kau khuen tau thiq gnian
+一覺睏到大天亮	iq kau khuen tau dou thi lian
+一觸即爆	iq tshoq ciq bau
+一言一行	iq yi iq yin
+一言不和	iq yi paq ghou
+一言勿和	iq yi vaq ghou
+一言弗和	iq yi vaq ghou
+一走了之	iq tseu liau tsy
+一辭莫贊	iq dzy moq tsae
+一進去	iq cin chi
+一過去	iq kou chi
+一部分	iq bu ven
+一醉解千愁	iq tsei ka chi zeu
+一錘子買賣	iq zei tsy ma ma
+一錘定音	iq zei din in
+一長	iq jian
+一長一短	iq jian iq toe
+一間	iq kae
+一隻貓	iq tsaq mae
+一集	iq jiq
+一霎間	iq saq ci
+一面之交	iq mi tsy ciau
+一頂	iq tin
+一頭撞煞	iq deu dzaon saq
+一頭霧水	iq deu vu syu
+一頭霧水	iq deu Wu syu
+一風吹	iq fon tshyu
+一飽耳福	iq pau er foq
+一髮之差	iq faq tsy tsho
+一髮之間	iq faq tsy ci
+一鳴驚人	iq min cin zyun
+一眼也	iq ngae gha
+一眼也勿	iq ngae gha vaq
+一眼也弗	iq ngae gha vaq
+一眼也嘸沒	iq ngae gha mhiq
+一黨獨大	iq taon doq dou
+一鼻子	iq biq tsy
+一鼻子灰	iq biq tsy huei
+一鼻孔	iq biq khon
+一鼻孔出氣	iq biq khon tshyuq chi
+丁一確二	tin iq chiuq er
+丁二烯	tin er shi
+丁二醇	tin er zyun
+丁克家庭	tin khaq cia din
+丁加奴	tin cia nu
+丁固生松	tin ku sen son
+丁基橡膠	tin ci zhian ciau
+丁寵家庭	tin tshon cia din
+丁未	tin vi
+丁村人	tin tshen gnin
+丁苯橡膠	tin pen zhian ciau
+丁骨牛排	tin kuaq ngeu ba
+七世	chiq shi
+七世夫妻	chiq shi fu chi
+七了八當	chiq liau paq taon
+七人	chiq gnin
+七個	chiq goq
+七個	chiq ghoq
+七個人	chiq goq gnin
+七個人	chiq ghoq gnin
+七個八個	chiq goq paq goq
+七個八個	chiq ghoq paq ghoq
+七億人	chiq i gnin
+七分	chiq fen
+七分之一	chiq fen tsy iq
+七分鐘	chiq fen tson
+七十七國集團	chiq zyuq chiq koq jiq doe
+七十二	chiq zyuq gni
+七十二行	chiq zyuq gni ghaon
+七千人	chiq chi gnin
+七和絃	chiq ghou yi
+七國集團	chiq koq jiq doe
+七堵	chiq tu
+七堵區	chiq tu chiu
+七大	chiq da
+七大工業國集團	chiq da kon gniq koq jiq doe
+七大洲	chiq da cieu
+七姊妹星團	chiq ci mei shin doe
+七層架構	chiq zen cia keu
+七帶石斑魚	chiq ta zaq pae ng
+七扭八歪	chiq gnieu paq hua
+七日	chiq gniq
+七歲	chiq syu
+七百人	chiq paq gnin
+七級浮屠	chiq ciq vu du
+七號電池	chiq ghau di ji
+七行	chiq ghaon
+七行詩	chiq ghaon sy
+七覺支	chiq ciuq tsy
+七魄	chiq phaq
+丈二和尚	jian gni ghou zaon
+丈二和尚摸勿着頭腦	jian gni ghou zaon moq vaq dzoq deu nau
+丈二和尚摸弗着頭腦	jian gni ghou zaon moq vaq dzoq deu nau
+丈二和尚摸勿着頭腦	jian gni ghou zaon moq vaq zyuq deu nau
+丈二和尚摸弗着頭腦	jian gni ghou zaon moq vaq zyuq deu nau
+丈二金剛	jian gni cin kaon
+三世	sae shi
+三世佛	sae shi vaq
+三世紀	sae syu ci
+三人	sae gnin
+三人份	sae gnin ven
+三人成虎	sae gnin jin fu
+三人行	sae zyun yin
+三人行必有我師	sae zyun yin piq yeu ngo sy
+三仁	sae zyun
+三伏天	sae voq thi
+三伯	sae paq
+三伯父	sae paq vu
+三保太監	sae pau tha kae
+三個世界	sae goq syu ka
+三個世界	sae ghoq syu ka
+三個人	sae goq gnin
+三個人	sae ghoq gnin
+三個代表	sae goq de piau
+三個代表	sae ghoq de piau
+三個和尚嘸沒水喝	sae goq ghou zaon mhiq syu haq
+三個和尚嘸沒水喝	sae ghoq ghou zaon mhiq syu haq
+三個和尚嘸沒水吃	sae goq ghou zaon mhiq syu chioq
+三個和尚嘸沒水吃	sae ghoq ghou zaon mhiq syu chioq
+三個女人一臺戲	sae goq gniu gnin iq de shi
+三個女人一臺戲	sae ghoq gniu gnin iq de shi
+三個字	sae goq zy
+三個字	sae ghoq zy
+三個方面	sae goq faon mi
+三個方面	sae ghoq faon mi
+三個月	sae goq yuq
+三個月	sae ghoq yuq
+三個臭皮匠	sae goq chieu bi zhian
+三個臭皮匠	sae ghoq chieu bi zhian
+三個臭皮匠勝過諸葛亮	sae goq chieu bi zhian shin kou tsyu kaq lian
+三個臭皮匠勝過諸葛亮	sae ghoq chieu bi zhian shin kou tsyu kaq lian
+三個臭皮匠賽過諸葛亮	sae goq chieu bi zhian se kou tsyu kaq lian
+三個臭皮匠賽過諸葛亮	sae ghoq chieu bi zhian se kou tsyu kaq lian
+三個臭皮匠頂個諸葛亮	sae goq chieu bi zhian tin goq tsyu kaq lian
+三個臭皮匠頂個諸葛亮	sae ghoq chieu bi zhian tin ghoq tsyu kaq lian
+三個階段	sae goq ka doe
+三個階段	sae ghoq ka doe
+三億人	sae i gnin
+三分	sae fen
+三分之一	sae fen tsy iq
+三分之二	sae fen tsy gni
+三分之兩	sae fen tsy lian
+三分法	sae fen faq
+三分熟	sae fen zoq
+三分球	sae fen jieu
+三分線	sae fen shi
+三分鐘	sae fen tson
+三分鐘熱度	sae fen tson gniq du
+三分頭	sae fen deu
+三十二	sae zyuq gni
+三十兩萬	sae zyuq lian vae
+三十日	sae zyuq gniq
+三十歲	sae zyuq syu
+三千世界	sae chi syu ka
+三千人	sae chi gnin
+三千個	sae chi goq
+三千個	sae chi ghoq
+三句不離本行	sae ciu paq li pen ghaon
+三句勿離本行	sae ciu vaq li pen ghaon
+三句弗離本行	sae ciu vaq li pen ghaon
+三句話不離本行	sae ciu wo paq li pen ghaon
+三句話勿離本行	sae ciu wo vaq li pen ghaon
+三句話弗離本行	sae ciu wo vaq li pen ghaon
+三呼萬歲	sae fu vae sei
+三和絃	sae ghou yi
+三和路	sae ghou lu
+三商行	sae saon ghaon
+三國無雙	sae koq vu saon
+三國無雙	sae koq Wu saon
+三圍	sae wei
+三大	sae da
+三大件	sae da ji
+三大作風	sae da tsoq fon
+三大塊	sae dou khuei
+三大差別	sae da tsho biq
+三大政策	sae da cin tshaq
+三大洋	sae da yan
+三大片	sae da phi
+三大發明	sae da faq min
+三大革命	sae da kaq min
+三大革命運動	sae da kaq min yun don
+三大類	sae da lei
+三天打魚	sae thi tan ng
+三夷教	sae yi ciau
+三好學生	sae hau ghoq san
+三好生	sae hau san
+三孃教子	sae gnian ciau tsy
+三家	sae cia
+三家村	sae cia tshen
+三對三鬥牛	sae tei sae teu ngeu
+三年生	sae gni san
+三度空間	sae du khon ci
+三座大山	sae zou da sae
+三從	sae dzon
+三從四德	sae dzon sy taq
+三心兩意	sae shin lian i
+三思而後行	sae sy er gheu yin
+三思而行	sae sy er yin
+三房兩廳	sae vaon lian thin
+三教	sae ciau
+三教九流	sae ciau cieu lieu
+三文魚	sae ven ng
+三日	sae gniq
+三日不讀書面目可憎	sae gniq paq doq syu mi moq khou tsen
+三日勿讀書面目可憎	sae gniq vaq doq syu mi moq khou tsen
+三日弗讀書面目可憎	sae gniq vaq doq syu mi moq khou tsen
+三日份	sae gniq ven
+三日打魚	sae gniq tan ng
+三星集團	sae shin jiq doe
+三更	sae kan
+三更半夜	sae kan pun ya
+三朝元老	sae jiau gniu lau
+三杯和萬事	sae pei ghou vae zy
+三樂	sae loq
+三權分立	sae jiu fen liq
+三歲	sae syu
+三歲時	sae syu zy
+三毛貓	sae mau mae
+三氯甲烷	sae loq ciaq wun
+三水	sae syu
+三水區	sae syu chiu
+三水縣	sae syu yu
+三江生態旅遊區	sae kaon sen the li yeu chiu
+三牲	sae san
+三生	sae sen
+三生有幸	sae sen yeu yin
+三生石	sae sen zaq
+三甲	sae ciaq
+三申五令	sae syun ng lin
+三百人	sae paq gnin
+三百個	sae paq goq
+三百個	sae paq ghoq
+三百六十行	sae paq loq zyuq ghaon
+三百六十行行行出狀元	sae paq loq zyuq ghaon ghaon ghaon tshyuq dzaon gniu
+三省	sae san
+三硝基甲苯	sae shiau ci ciaq pen
+三等分	sae ten fen
+三等分角	sae ten fen koq
+三絃樂器	sae yi yuq chi
+三維空間	sae vi khon ci
+三聯單	sae li tae
+三聲無奈	sae shin vu nae
+三自	sae zy
+三自性	sae zy shin
+三自愛國教會	sae zy e koq ciau wei
+三自教會	sae zy ciau wei
+三色貓	sae saq mae
+三萬兩千	sae vae lian chi
+三萬人	sae vae gnin
+三萬個	sae vae goq
+三萬個	sae vae ghoq
+三號電池	sae ghau di ji
+三行	sae ghaon
+三角學	sae koq yuq
+三角架	sae koq ko
+三跪九叩	sae jiu cieu kheu
+三農問題	sae non ven di
+三都水族自治縣	sae tu syu dzoq zy dzyu yu
+三重人	sae dzon gnin
+三重人格	sae dzon gnin kaq
+三長制	sae jian tsyu
+三間	sae kae
+三閭大夫	sae li da fu
+三阿姨	sae aq yi
+三集	sae jiq
+三面夏娃	sae mi gho ua
+三體問題	sae thi ven di
+三魂七魄	sae wen chiq phaq
+三鹵甲烷	sae lu ciaq wun
+三鹿集團	sae loq jiq doe
+上一個	zaon iq goq
+上一個	zaon iq ghoq
+上下交困	zaon gho ciau khuen
+上下文菜單	zaon gho ven tshe tae
+上下班時間	zaon gho pae zy ci
+上落班時間	zaon loq pae zy ci
+上落班辰光	zaon loq pae zyun kuaon
+上勿了	zaon vaq liau
+上弗了	zaon vaq liau
+上勿了臺面	zaon vaq liau de mi
+上弗了臺面	zaon vaq liau de mi
+上勿去	zaon vaq chi
+上弗去	zaon vaq chi
+上世	zaon shi
+上世紀	zaon syu ci
+上乘	zaon jin
+上也	zaon ye
+上歲數	zaon sei su
+上交	zaon ciau
+上交所	zaon ciau so
+上人	zaon gnin
+上個	zaon goq
+上個	zaon ghoq
+上個世紀	zaon goq syu ci
+上個世紀	zaon ghoq syu ci
+上個星期	zaon goq shin ji
+上個星期	zaon ghoq shin ji
+上傳	zaon dzOE
+上傳到	zaon dzOE tau
+上傳圖片	zaon dzOE du phi
+上分器	zaon fen chi
+上前去	zaon zhi chi
+上千人	zaon chi gnin
+上半部分	zaon pun bu ven
+上去	zaon chi
+上吊自殺	zaon tiau zhi saq
+上大學	zaon da ghoq
+上學時	zaon ghoq zy
+上學校	zaon ghoq yau
+上官婉兒	zaon kun un er
+上市交易	zaon zy ciau yiq
+上市時間	zaon zy zy ci
+上帝教	zaon ti ciau
+上新世	zaon shin syu
+上映期間	zaon in ji ci
+上朝	zaon jiau
+上架	zaon ko
+上榜名單	zaon paon min tae
+上樓去	zaon leu chi
+上機時間	zaon ci zy ci
+上歲數	zaon sei su
+上水	zaon syu
+上水船	zaon syu zOE
+上水道	zaon syu dau
+上沃爾特	zaon oq er daq
+上流人士	zaon lieu zyun zy
+上海交大	zaon he ciau da
+上海交通大學	zaon he ciau thon da ghoq
+上海人	zaon he gnin
+上海商務印書館	zaon he saon vu in syu kun
+上海外國語大學	zaon he nga koq gniu da ghoq
+上海大劇院	zaon he da jiq yu
+上海大學	zaon he da ghoq
+上海大衆	zaon he da tson
+上海寶鋼集團公司	zaon he pau kaon jiq doe kon sy
+上海師範大學	zaon he sy vae da ghoq
+上海戲劇學院	zaon he shi jiq ghoq yu
+上海文廣新聞傳媒集團	zaon he ven kuaon shin ven dzOE mei jiq doe
+上海汽車工業集團	zaon he chi tsho kon gniq jiq doe
+上海第二醫科大學	zaon he di gni i khou da ghoq
+上海證券交易所	zaon he cin chiu ciau yiq so
+上海車展	zaon he tsho tsoe
+上海醫科大學	zaon he i khou da ghoq
+上海音樂學院	zaon he in yuq ghoq yu
+上牀睏覺	zaon zaon khuen kau
+上片時間	zaon phi zy ci
+上牌	zaon ba
+上班時間	zaon pae zy ci
+上班辰光	zaon pae zyun kuaon
+上癮	zaon in
+上癮頭	zaon gni deu
+上百人	zaon paq gnin
+上確界	zaon chiuq ka
+上籃得分	zaon lae taq fen
+上網時間	zaon maon zy ci
+上網辰光	zaon maon zyun kuaon
+上自	zaon zy
+上艾瑟爾	zaon nge saq er
+上行	zaon yin
+上行下效	zaon yin gho yau
+上行列車	zaon yin liq tsho
+上訴人	zaon su gnin
+上還	zaon wae
+上酒家	zaon cieu cia
+上門去	zaon men chi
+上門服務	zaon men voq vu
+上集	zaon jiq
+下一個	gho iq goq
+下一個	gho iq ghoq
+下勿了	gho vaq liau
+下弗了	gho vaq liau
+下勿了臺	gho vaq liau de
+下弗了臺	gho vaq liau de
+下勿去	gho vaq chi
+下弗去	gho vaq chi
+下乘	gho jin
+下人	gho gnin
+下任	gho gnin
+下個	gho goq
+下個	gho ghoq
+下個星期	gho goq shin ji
+下個星期	gho ghoq shin ji
+下個禮拜	gho goq li pa
+下個禮拜	gho ghoq li pa
+下傳	gho dzOE
+下去	gho chi
+下單	gho tae
+下地無門	gho di vu men
+下地無門	gho di Wu men
+下墜	gho dzyu
+下墜球	gho dzyu jieu
+下奶	gho na
+下崗工人	gho kaon kon gnin
+下得了	gho taq liau
+下懷	gho wae
+下拉	gho lha
+下拉框	gho lha khuaon
+下拉菜單	gho lha tshe tae
+下於	gho yu
+下朝	gho jiau
+下架	gho ko
+下樓去	gho leu chi
+下水	gho syu
+下水典禮	gho syu ti li
+下水禮	gho syu li
+下水管	gho syu kun
+下水船	gho syu zOE
+下水道	gho syu dau
+下水道系統	gho syu dau shi thon
+下流人士	gho lieu zyun zy
+下班時間	gho pae zy ci
+下班辰光	gho pae zyun kuaon
+下着	gho dzoq
+下着	gho zyuq
+下自	gho zy
+下自成蹊	gho zy jin chi
+下行	gho yin
+下行列車	gho yin liq tsho
+落課時間	loq khou zy ci
+落課辰光	loq khou zyun kuaon
+下賤	gho zhi
+下跪	gho jiu
+跪落	jiu loq
+下降	gho ciaon
+下集	gho jiq
+落雨了	loq yu lei
+下鼻甲	gho biq ciaq
+勿上去	vaq zaon chi
+弗上去	vaq zaon chi
+勿下去	vaq gho chi
+弗下去	vaq gho chi
+勿落去	vaq loq chi
+弗落去	vaq loq chi
+不下於	paq gho yu
+勿下於	vaq gho yu
+弗下於	vaq gho yu
+不世之材	paq syu tsy dze
+勿世之材	vaq syu tsy dze
+弗世之材	vaq syu tsy dze
+不世出	paq syu tshyuq
+勿世出	vaq syu tshyuq
+弗世出	vaq syu tshyuq
+不中於款	paq tson yu khun
+不乏其人	paq vaq ji zyun
+不乾不淨	paq kI paq zhin
+勿乾勿淨	vaq kI vaq zhin
+勿乾弗淨	vaq kI vaq zhin
+不乾性油	paq kI shin yeu
+勿乾性油	vaq kI shin yeu
+弗乾性油	vaq kI shin yeu
+勿乾杯	vaq kI pei
+弗乾杯	vaq kI pei
+勿乾淨	vaq kI zhin
+弗乾淨	vaq kI zhin
+勿乾脆	vaq kI tshei
+弗乾脆	vaq kI tshei
+不乾膠	paq kI ciau
+勿乾裂	vaq kI liq
+弗乾裂	vaq kI liq
+不了之局	paq liau tsy jiuq
+不了了	paq liau liau
+不了了之	paq liau liau tsy
+不了情	paq liau jin
+不了漢	paq liau he
+不二法門	paq gni faq men
+勿二法門	vaq gni faq men
+弗二法門	vaq gni faq men
+不亞於	paq ia yu
+勿亞於	vaq ia yu
+弗亞於	vaq ia yu
+勿交	vaq ciau
+弗交	vaq ciau
+勿交	vaq kau
+弗交	vaq kau
+不亦樂乎	paq yiq loq wu
+不亦樂乎	paq yiq loq vu
+勿人道	vaq zyun dau
+弗人道	vaq zyun dau
+不仁	paq zyun
+不仁不義	paq zyun paq gni
+勿介意	vaq ka i
+弗介意	vaq ka i
+不低於	paq ti yu
+勿低於	vaq ti yu
+弗低於	vaq ti yu
+不信任	paq shin zyun
+勿信任	vaq shin zyun
+弗信任	vaq shin zyun
+不信任動議	paq shin zyun don gni
+勿信任動議	vaq shin zyun don gni
+弗信任動議	vaq shin zyun don gni
+不信任投票	paq shin zyun deu phiau
+勿信任投票	vaq shin zyun deu phiau
+弗信任投票	vaq shin zyun deu phiau
+不信任案	paq shin zyun EI
+勿信任案	vaq shin zyun EI
+弗信任案	vaq shin zyun EI
+不假思索	paq cia sy soq
+不做虧心事	paq tsou khuei shin zy
+勿做虧心事	vaq tsou khuei shin zy
+弗做虧心事	vaq tsou khuei shin zy
 不停	
 不停地	
 不停當	
@@ -1660,14 +1645,12 @@
 中正理工學院	
 中水	
 中法戰爭	
-中波	
 中波段	
 中波長	
 中源地震	
 中生	
 中生代	
 中甲	
-中短波	
 中秋快樂	
 中立國家	
 中等專業學校	
@@ -3005,7 +2988,6 @@
 于正昇	
 于正昌	
 于歸	
-于永波	
 于江震	
 于波	
 于洪區	
@@ -3069,7 +3051,6 @@
 五七幹部學校	
 五世	
 五世同堂	
-五五波	
 五人	
 五人份	
 五人墓碑記	
@@ -4866,7 +4847,6 @@
 低值易耗品	
 低分	
 低利率	
-低周波	
 低尾氣排放	
 低於	
 低昂	
@@ -6497,7 +6477,6 @@
 光彩照人	
 光明日報	
 光明正大	
-光波	
 光波長	
 光溜	
 光溜溜	
@@ -6571,7 +6550,6 @@
 克里絲蒂娃	
 克隆人	
 克雷伯氏菌屬	
-克雷斯波	
 克魯茲	
 兌換率	
 免不了	
@@ -7033,7 +7011,6 @@
 六朝時代	
 六歲	
 六歲時	
-六波羅蜜	
 六甲	
 六甲鄉	
 六百人	
@@ -7262,8 +7239,6 @@
 凌人	
 凌晨時分	
 凌氣逼人	
-凌波	
-凌波微步	
 凌空飛行	
 凌藉	
 凌遲	
@@ -8325,7 +8300,6 @@
 劇集	
 劈哩啪啦	
 劈材	
-劈波斬浪	
 劈里啪啦	
 劉伯溫	
 劉先生	
@@ -8336,9 +8310,7 @@
 劉家村	
 劉家輝	
 劉易斯	
-劉曉波	
 劉松仁	
-劉波	
 劉涓子鬼遺方	
 劉禹錫	
 劉若英	
@@ -8373,7 +8345,6 @@
 力持	
 力敵萬人	
 力有未逮	
-力波	
 力爭	
 力爭上游	
 力疾從公	
@@ -8844,8 +8815,6 @@
 勇猛過人	
 勒克萊爾	
 勒哈費爾	
-勒斯波斯	
-勒斯波斯島	
 勒死	
 動不了	
 動了	
@@ -9426,8 +9395,6 @@
 半歲	
 半死	
 半死不活	
-半波整流	
-半波整流器	
 半無產階級	
 半無限	
 半生	
@@ -9615,7 +9582,6 @@
 卡樂星	
 卡死	
 卡波耶拉	
-卡波西氏肉瘤	
 卡洛娜	
 卡爾	
 卡爾加里	
@@ -9664,7 +9630,6 @@
 印江土家族苗族自治縣	
 印着	
 印第安人	
-印第安納波利斯	
 印累綬若	
 印行	
 印過去	
@@ -10296,7 +10261,6 @@
 古根海姆	
 古樂	
 古氣候學	
-古波	
 古爾班通古特沙漠	
 古爾邦節	
 古生代	
@@ -11121,11 +11085,9 @@
 周星馳	
 周朝	
 周樹人	
-周波	
 周率	
 周王朝	
 周盛淵	
-周立波	
 周行	
 周遊世界	
 呱呱	
@@ -12636,7 +12598,6 @@
 四腳朝天	
 四萬人	
 四萬個	
-四處奔波	
 四處張望	
 四號電池	
 四行	
@@ -12684,7 +12645,6 @@
 回望	
 回朝	
 回水	
-回波	
 回潮率	
 回狀	
 回生	
@@ -13097,7 +13057,6 @@
 圖拉	
 圖文並茂	
 圖書館學	
-圖波列夫	
 圖爾	
 圖爾庫	
 圖盧茲	
@@ -13225,7 +13184,6 @@
 地方分權	
 地方自治	
 地毯式轟炸	
-地波	
 地無三里平	
 地球上的生物	
 地球人	
@@ -13503,7 +13461,6 @@
 基本矛盾	
 基本覈算單位	
 基桑加尼	
-基波	
 基準利率	
 基準日	
 基爾	
@@ -15894,7 +15851,6 @@
 天水市	
 天水街	
 天池	
-天波	
 天津人	
 天津大學	
 天津師範大學	
@@ -16322,7 +16278,6 @@
 奏樂	
 奏着	
 奔去	
-奔波	
 奔波往返	
 奔行	
 奔馳	
