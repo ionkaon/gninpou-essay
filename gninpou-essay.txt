@@ -806,62 +806,59 @@
 不做虧心事	paq tsou khuei shin zy
 勿做虧心事	vaq tsou khuei shin zy
 弗做虧心事	vaq tsou khuei shin zy
-不停	
-不停地	
-不停當	
-不停的	
-不傳	
-不傷和氣	
-不先去	
-不克自制	
-不免一死	
-不共戴天	
-不共戴天之仇	
-不准你	
-不准問	
-不准沒	
-不出去	
-不分	
-不分伯仲	
-不分勝敗	
-不分勝負	
-不分彼此	
-不分情由	
-不分晝夜	
-不分清紅皁白	
-不分男女老幼	
-不分皁白	
-不分輕重緩急	
-不分青紅	
-不分青紅皁白	
-不分首從	
-不分高下	
-不划算	
-不列顛哥倫比亞省	
-不利於	
-不到長城非好漢	
-不到黃河心不死	
-不加	
-不加修飾	
-不加區別	
-不加思索	
-不加拘束	
-不加掩飾	
-不加牛奶	
-不加理睬	
-不加考慮	
-不加選擇	
-不動了	
-不務正業	
-不勞無獲	
-不區分大小寫	
-不升反降	
-不卜可知	
-不占卜	
-不去	
-不去理	
-不可一世	
-不可再生資源	
+勿停	vaq din
+弗停	vaq din
+勿傳	vaq dzOE
+弗傳	vaq dzOE
+勿傷和氣	vaq saon ghou chi
+弗傷和氣	vaq saon ghou chi
+不共戴天	paq gon te thi
+不共戴天之仇	paq gon te thi tsy jieu
+勿准問	vaq tsyun men
+弗准問	vaq tsyun men
+勿出去	vaq tshyuq chi
+弗出去	vaq tshyuq chi
+勿分	vaq fen
+弗分	vaq fen
+不分伯仲	paq fen paq dzon
+不分勝敗	paq fen shin ba
+不分勝負	paq fen shin veu
+不分彼此	paq fen pei tshy
+不分情由	paq fen jin yeu
+不分晝夜	paq fen cieu ya
+不分清紅皁白	paq fen chin ghon zau baq
+勿分清紅皁白	vaq fen chin ghon zau baq
+勿分清紅皁白	vaq fen chin ghon zau baq
+不分男女老幼	paq fen nEI gniu lau ieu
+不分皁白	paq fen zau baq
+不分輕重緩急	paq fen chin dzon wun ciq
+不分青紅	paq fen chin ghon
+不分青紅皁白	paq fen chin ghon zau baq
+不分首從	paq fen shieu dzon
+不分高下	paq fen kau gho
+不列顛哥倫比亞省	paq liq ti kou len pi ia san
+不利於	paq li yu
+勿利於	vaq li yu
+弗利於	vaq li yu
+不到長城非好漢	paq tau jian jin fi hau he
+勿到長城非好漢	vaq tau jian jin fi hau he
+弗到長城非好漢	vaq tau jian jin fi hau he
+勿動了	vaq don lei
+弗動了	vaq don lei
+不務正業	paq vu cin gniq
+勿區分大小寫	vaq chiu fen dou shiau shia
+弗區分大小寫	vaq chiu fen dou shiau shia
+不升反降	paq shin fae ciaon
+勿升反降	vaq shin fae ciaon
+弗升反降	vaq shin fae ciaon
+勿去	vaq chi
+弗去	vaq chi
+勿去睬	vaq chi tshe
+弗去睬	vaq chi tshe
+不可一世	paq khou iq syu
+不可再生資源	paq khou tse sen tsy gniu
+勿可再生資源	vaq khou tse sen tsy gniu
+弗可再生資源	vaq khou tse sen tsy gniu
 不可分	
 不可分割	
 不可分離	
