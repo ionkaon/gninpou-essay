@@ -859,139 +859,309 @@
 不可再生資源	paq khou tse sen tsy gniu
 勿可再生資源	vaq khou tse sen tsy gniu
 弗可再生資源	vaq khou tse sen tsy gniu
-不可分	
-不可分割	
-不可分離	
-不可同日	
-不可同日而語	
-不可名狀	
-不可否認	
-不可告人	
-不可戰勝	
-不可數集	
-不可更新資源	
-不可終日	
-不可解	
-不可言傳	
-不可言狀	
-不可開交	
-不吃虧	
-不同人	
-不同國家	
-不同於	
-不同日月	
-不同顏色	
-不吝賜教	
-不和	
-不問	
-不問前因後果	
-不問好歹	
-不問是非曲直	
-不問青紅皁白	
-不善於	
-不單	
-不單只是	
-不單是	
-不在乎	
-不在了	
-不在家	
-不堪	
-不堪一擊	
-不堪入目	
-不堪入耳	
-不堪回首	
-不堪忍受	
-不堪設想	
-不堪重負	
-不墜	
-不壞	
-不外乎	
-不多幾日	
-不多於	
-不大	
-不大不小	
-不大合時	
-不大好	
-不大想	
-不大離	
-不太	
-不太好	
-不太想	
-不太明白	
-不太會	
-不太能	
-不失衆望	
-不好了	
-不如歸去	
-不孚衆望	
-不孝有三無後爲大	
-不學	
-不學亡術	
-不學無術	
-不安分	
-不安於位	
-不安於室	
-不定積分	
-不宣而戰	
-不容分說	
-不容易	
-不容樂觀	
-不對味	
-不小於	
-不少人	
-不少於	
-不屑於	
-不展	
-不屬於	
-不差	
-不差毫釐	
-不差毫髮	
-不干你	
-不幸中之大幸	
-不幸中的大幸	
-不形於色	
-不得了	
-不得人心	
-不得其解	
-不得好死	
-不得擅自	
-不從	
-不忘	
-不忘本	
-不快樂	
-不怕死	
-不怕沒柴燒	
-不怕鬼敲門	
-不急之務	
-不恤人言	
-不恥下問	
-不悟	
-不惜一戰	
-不惜犧牲	
-不愛你	
-不愧	
-不愧下學	
-不愧不怍	
-不愧是	
-不愧爲	
-不懈	
-不懈努力	
-不懈怠	
-不應該	
-不懷	
-不懷好意	
-不成問題	
-不成材	
-不戰	
-不戰不和	
-不戰而勝	
-不戰而敗	
-不戰而退	
-不戴	
-不打自招	
-不承認主義	
-不把人看在眼裏	
-不拉	
+不可分	paq khou 2fen
+弗可分	vaq khou 2fen
+勿可分	vaq khou 2fen
+不可分割	paq khou 2fen kaq
+弗可分割	vaq khou 2fen kaq
+勿可分割	vaq khou 2fen kaq
+不可分離	paq khou 2fen li
+弗可分離	vaq khou 2fen li
+勿可分離	vaq khou 2fen li
+不可同日	paq khou don zyuq
+不可同日而語	paq khou don zyuq er gniu
+不可名狀	paq khou min 2dzaon
+不可否認	paq khou feu zyun
+不可告人	paq khou kau zyun
+不可數集	paq khou 2su 2jiq
+不可更新資源	paq khou 3ken shin tsy gniu
+不可終日	paq khou tson zyuq
+不可解	paq khou cia
+不可言傳	paq khou yi 2dzOE
+不可言狀	paq khou yi 2dzaon
+不可開交	paq khou khe ciau
+不吃虧	paq chioq khuei
+不同人	paq don gnin
+不同國家	paq don koq cia
+不同於	paq don 2yu
+不同日月	paq don zyuq yuq
+不同顏色	paq don 2ngae saq
+不吝賜教	paq lin sy 2ciau
+不和	paq 3ghou
+不問	paq men
+不問前因後果	paq men zhi in gheu kou
+不問好歹	paq men 2hau te
+不問是非曲直	paq men zy fi chiuq jiq
+不問青紅皁白	paq men chin ghon zau baq
+弗問	vaq men
+弗問前因後果	vaq men zhi in gheu kou
+弗問好歹	vaq men 2hau te
+弗問是非曲直	vaq men zy fi chiuq jiq
+弗問青紅皁白	vaq men chin ghon zau baq
+勿問	vaq men
+勿問前因後果	vaq men zhi in gheu kou
+勿問好歹	vaq men 2hau te
+勿問是非曲直	vaq men zy fi chiuq jiq
+勿問青紅皁白	vaq men chin ghon zau baq
+不善於	paq zoe 2yu
+不單	paq tae
+弗單	vaq tae
+勿單	vaq tae
+不單只是	paq tae tsy zy
+不單是	paq tae zy
+勿單是	vaq tae zy
+弗單是	vaq tae zy
+不在乎	paq dze 2fu
+勿在乎	vaq dze 2fu
+弗在乎	vaq dze 2fu
+不在家	paq dze cia
+勿在家	vaq dze cia
+弗在家	vaq dze cia
+不堪	paq khae
+不堪一擊	paq khae iq ciq
+勿堪	vaq khae
+勿堪一擊	vaq khae iq ciq
+弗堪	vaq khae
+弗堪一擊	vaq khae iq ciq
+不堪入目	paq khae zyuq moq
+不堪入耳	paq khae zyuq 2er
+不堪回首	paq khae wei shieu
+不堪忍受	paq khae zyun zhieu
+不堪設想	paq khae shiq shian
+不堪重負	paq khae 2dzon veu
+勿堪入目	vaq khae zyuq moq
+勿堪入耳	vaq khae zyuq 2er
+勿堪回首	vaq khae wei shieu
+勿堪忍受	vaq khae zyun zhieu
+勿堪設想	vaq khae shiq shian
+勿堪重負	vaq khae 2dzon veu
+弗堪入目	vaq khae zyuq moq
+弗堪入耳	vaq khae zyuq 2er
+弗堪回首	vaq khae wei shieu
+弗堪忍受	vaq khae zyun zhieu
+弗堪設想	vaq khae shiq shian
+弗堪重負	vaq khae 2dzon veu
+不墜	paq 2dzei
+不壞	paq ua
+勿壞	vaq ua
+弗壞	vaq ua
+不外乎	paq nga 2fu
+弗外乎	vaq nga 2fu
+勿外乎	vaq nga 2fu
+不多幾日	paq tou ci zyuq
+不多於	paq tou 2yu
+勿多於	vaq tou 2yu
+弗多於	vaq tou 2yu
+不大	paq da
+勿大	vaq da
+弗大	vaq da
+不大不小	paq da paq shiau
+勿大勿小	vaq da vaq shiau
+弗大弗小	vaq da vaq shiau
+不大合時	paq da ghaq zy
+不大好	paq da 2hau
+勿大好	vaq da 2hau
+弗大好	vaq da 2hau
+不大想	paq da shian
+勿大想	vaq da shian
+弗大想	vaq da shian
+不大離	paq da li
+不大明白	paq da min baq
+不大會	paq da wei
+不大能	paq da nen
+勿大明白	vaq da min baq
+勿大會	vaq da wei
+勿大能	vaq da nen
+弗大明白	vaq da min baq
+弗大會	vaq da wei
+弗大能	vaq da nen
+不失衆望	paq syuq tson vaon
+不好了	paq 2hau lei
+勿好了	vaq 2hau lei
+弗好了	vaq 2hau lei
+不如歸去	paq zyu kuei chiu
+不如歸去	paq zyu kuei chi
+不孚衆望	paq fu tson vaon
+不孝有三無後爲大	paq shiau yeu sae 2vu gheu 2wei da
+不孝有三無後爲大	paq shiau yeu sae Wu gheu 2wei da
+不學	paq yuq
+不學亡術	paq yuq vu zyuq
+不學亡術	paq yuq Wu zyuq
+不學無術	paq yuq 2vu zyuq
+不學無術	paq yuq Wu zyuq
+不安分	paq EI ven
+不安於位	paq EI 2yu wei
+不安於室	paq EI 2yu syuq
+不定積分	paq din ciq 2fen
+不宣而戰	paq soe er 2ci
+不宣而戰	paq soe er tsoe
+不容分說	paq yon 2fen syuq
+不容易	paq yon 2yi
+勿容易	vaq yon 2yi
+弗容易	vaq yon 2yi
+不容樂觀	paq yon 3loq kun
+不對味	paq tei vi
+勿對味	vaq tei vi
+弗對味	vaq tei vi
+不小於	paq shiau 2yu
+勿小於	vaq shiau 2yu
+弗小於	vaq shiau 2yu
+不少人	paq 2shiau zyun
+不少於	paq 2shiau 2yu
+勿少人	vaq 2shiau zyun
+勿少於	vaq 2shiau 2yu
+弗少人	vaq 2shiau zyun
+不少於	vaq 2shiau 2yu
+不屑於	paq shiq 2yu
+勿屬於	paq dzoq 2yu
+弗屬於	vaq dzoq 2yu
+不屬於	vaq dzoq 2yu
+不差	paq 2tsho
+不差毫釐	paq 2tsha ghau li
+不差毫髮	paq 2tsha ghau faq
+勿差	vaq 2tsho
+勿差毫釐	vaq 2tsha ghau li
+勿差毫髮	vaq 2tsha ghau faq
+弗差	vaq 2tsho
+弗差毫釐	vaq 2tsha ghau li
+弗差毫髮	vaq 2tsha ghau faq
+不干你	paq kI gni
+不幸中之大幸	paq yin tson tsy da yin
+不幸中的大幸	paq yin tson tiq da yin
+不幸中個大幸	paq yin tson goq da yin
+不幸中個大幸	paq yin tson ghoq da yin
+勿幸中之大幸	vaq yin tson tsy da yin
+勿幸中的大幸	vaq yin tson tiq da yin
+勿幸中個大幸	vaq yin tson goq da yin
+勿幸中個大幸	vaq yin tson ghoq da yin
+弗幸中之大幸	vaq yin tson tsy da yin
+弗幸中的大幸	vaq yin tson tiq da yin
+弗幸中個大幸	vaq yin tson goq da yin
+弗幸中個大幸	vaq yin tson ghoq da yin
+不形於色	paq yin 2yu saq
+不得了	paq taq 3liau
+不得人心	paq taq zyun shin
+不得其解	paq taq 2ji cia
+不得好死	paq taq 2hau shi
+不得擅自	paq taq zoe zy
+勿形於色	vaq yin 2yu saq
+勿得了	vaq taq 3liau
+勿得人心	vaq taq zyun shin
+勿得其解	vaq taq 2ji cia
+勿得好死	vaq taq 2hau shi
+勿得擅自	vaq taq zoe zy
+弗形於色	vaq yin 2yu saq
+弗得了	vaq taq 3liau
+弗得人心	vaq taq zyun shin
+弗得其解	vaq taq 2ji cia
+弗得好死	vaq taq 2hau shi
+弗得擅自	vaq taq zoe zy
+不從	paq 2tshon
+勿從	vaq 2tshon
+弗從	vaq 2tshon
+不忘	paq vaon
+不忘本	paq vaon pen
+勿忘	vaq vaon
+勿忘本	vaq vaon pen
+弗忘	vaq vaon
+弗忘本	vaq vaon pen
+不快樂	paq khua 3loq
+不怕死	paq pho sy
+不怕沒柴燒	paq pho 2maq za shiau
+不怕嘸沒柴燒	paq pho mhiq za shiau
+不怕鬼敲門	paq pho ciu chiau men
+勿快樂	vaq khua 3loq
+勿怕死	vaq pho shi
+勿怕嘸沒柴燒	vaq pho mhiq za shiau
+勿怕鬼敲門	vaq pho ciu khau men
+弗快樂	vaq khua 3loq
+弗怕死	vaq pho shi
+弗怕嘸沒柴燒	vaq pho mhiq za shiau
+弗怕鬼敲門	vaq pho ciu khau men
+不急之務	paq ciq tsy 2vu
+不恤人言	paq shiuq zyun yi
+不悟	paq 2Nu
+不惜一戰	paq shiq iq 2ci
+不惜一戰	paq shiq iq tsoe
+不惜犧牲	paq shiq shi 2sen
+勿惜一戰	vaq shiq iq 2ci
+勿惜一戰	vaq shiq iq tsoe
+勿惜犧牲	vaq shiq shi 2sen
+弗惜一戰	vaq shiq iq 2ci
+弗惜一戰	vaq shiq iq tsoe
+弗惜犧牲	vaq shiq shi 2sen
+不愛你	paq e gni
+勿愛你	vaq e gni
+弗愛你	vaq e gni
+不愧	paq khuei
+不愧下學	paq khuei gho yuq
+不愧不怍	paq khuei paq dzoq
+不愧是	paq khuei zy
+不愧爲	paq khuei 2wei
+勿愧	vaq khuei
+勿愧下學	vaq khuei gho yuq
+勿愧勿怍	vaq khuei vaq dzoq
+勿愧是	vaq khuei zy
+勿愧爲	vaq khuei 2wei
+弗愧	vaq khuei
+弗愧下學	vaq khuei gho yuq
+弗愧弗怍	vaq khuei vaq dzoq
+弗愧是	vaq khuei zy
+弗愧爲	vaq khuei 2wei
+不懈	paq ye
+不懈努力	paq ye 2nu liq
+不懈怠	paq ye de
+不應該	paq 2in 2ke
+不懷	paq wae
+不懷好意	paq wae 2hau i
+勿懷	vaq wae
+勿懷好意	vaq wae 2hau i
+弗懷	vaq wae
+弗懷好意	vaq wae 2hau i
+不成問題	paq jin ven di
+不成材	paq jin 2dze
+勿成問題	vaq jin ven di
+勿成材	vaq jin 2dze
+弗成問題	vaq jin ven di
+弗成材	vaq jin 2dze
+不戰	paq 2ci
+不戰不和	paq 2ci paq ghou
+不戰而勝	paq 2ci er shin
+不戰而敗	paq 2ci er ba
+不戰而退	paq 2ci er thei
+不戰	paq tsoe
+不戰不和	paq tsoe paq ghou
+不戰而勝	paq tsoe er shin
+不戰而敗	paq tsoe er ba
+不戰而退	paq tsoe er thei
+勿戰	vaq 2ci
+勿戰勿和	vaq 2ci vaq ghou
+勿戰而勝	vaq 2ci er shin
+勿戰而敗	vaq 2ci er ba
+勿戰而退	vaq 2ci er thei
+勿戰	vaq tsoe
+勿戰勿和	vaq tsoe vaq ghou
+勿戰而勝	vaq tsoe er shin
+勿戰而敗	vaq tsoe er ba
+勿戰而退	vaq tsoe er thei
+弗戰	vaq 2ci
+弗戰弗和	vaq 2ci vaq ghou
+弗戰而勝	vaq 2ci er shin
+弗戰而敗	vaq 2ci er ba
+弗戰而退	vaq 2ci er thei
+弗戰	vaq tsoe
+弗戰弗和	vaq tsoe vaq ghou
+弗戰而勝	vaq tsoe er shin
+弗戰而敗	vaq tsoe er ba
+弗戰而退	vaq tsoe er thei
+不戴	paq 2ta
+勿戴	vaq 2ta
+弗戴	vaq 2ta
+不戴	paq tae
+勿戴	vaq tae
+弗戴	vaq tae
+不打自招	paq tan zy ciau
+不承認主義	paq jin zyun tsyu gni
 不拿	
 不拿白不拿	
 不按牌理	
@@ -1103,6 +1273,8 @@
 不等於	
 不管三七二十一	
 不簡單	
+勿簡單	
+弗簡單	
 不結盟國家	
 不絕於耳	
 不經一事不長一智	
@@ -1765,7 +1937,6 @@
 主管人員	
 主管教區	
 主腦人	
-主菜單	
 主要人物	
 主要任務	
 主要分佈	
@@ -1778,7 +1949,6 @@
 主要責任	
 主計長	
 主辦人	
-主辦單位	
 主長	
 乃堆拉	
 乃堆拉山口	
@@ -2391,7 +2561,6 @@
 事在人爲	
 事實勝於雄辯	
 事態發展	
-事業單位	
 事業家	
 事業發展	
 事無鉅細	
@@ -3146,7 +3315,6 @@
 亞利安娜	
 亞力山大帝	
 亞哈斯	
-亞單位	
 亞太	
 亞太區	
 亞太國家	
@@ -4315,7 +4483,6 @@
 付出去	
 付去	
 付款人	
-付款單	
 付款日	
 付着	
 付諸實行	
@@ -4548,18 +4715,15 @@
 任重致遠	
 任重道遠	
 任隨	
-仿單	
 仿射空間	
 仿生	
 仿生學	
 仿生建築	
 仿真服務器	
 仿行	
-企事業單位	
 企劃人	
 企望	
 企業品牌	
-企業單位	
 企業家	
 企業戰略	
 企業法人	
@@ -4726,8 +4890,6 @@
 伯里克利	
 伯雍種玉	
 伯顏	
-估價單	
-估單	
 伴生	
 伴生氣	
 伴着	
@@ -5210,7 +5372,6 @@
 保人	
 保全人員	
 保加利亞	
-保單	
 保增長	
 保姆	
 保存着	
@@ -5256,7 +5417,6 @@
 保防工作	
 保障範圍	
 保險人	
-保險單	
 保險業務	
 保險櫃	
 保險範圍	
@@ -5507,7 +5667,6 @@
 借回去	
 借屍還魂	
 借方差額	
-借書單	
 借款人	
 借水推船	
 借水行舟	
@@ -5785,7 +5944,6 @@
 停手	
 停掉	
 停損	
-停損單	
 停損點	
 停播	
 停擺	
