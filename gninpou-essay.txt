@@ -627,7 +627,7 @@
 上機時間	zaon ci zy ci
 上歲數	zaon sei su
 上水	zaon syu
-上水船	zaon syu zOE
+上水船	zaon syu ZOE
 上水道	zaon syu dau
 上沃爾特	zaon oq er daq
 上流人士	zaon lieu zyun zy
@@ -711,7 +711,7 @@
 下水典禮	gho syu ti li
 下水禮	gho syu li
 下水管	gho syu kun
-下水船	gho syu zOE
+下水船	gho syu ZOE
 下水道	gho syu dau
 下水道系統	gho syu dau shi thon
 下流人士	gho lieu zyun zy
@@ -1080,7 +1080,7 @@
 弗怕鬼敲門	vaq pho ciu khau men
 不急之務	paq ciq tsy vu
 不恤人言	paq shiuq zyun yi
-不悟	paq Nu
+不悟	paq nu
 不惜一戰	paq shiq iq ci
 不惜一戰	paq shiq iq tsoe
 不惜犧牲	paq shiq shi sen
@@ -1619,9 +1619,9 @@
 弗認人	vaq gnin gnin
 弗認帳	vaq gnin cian
 弗認賬	vaq gnin cian
-不誤	paq Nu
-勿誤	vaq Nu
-弗誤	vaq Nu
+不誤	paq nu
+勿誤	vaq nu
+弗誤	vaq nu
 不誤	paq wu
 勿誤	vaq wu
 弗誤	vaq wu
@@ -1899,8 +1899,8 @@
 世界經濟	syu ka cin ci
 世界經濟危機	syu ka cin ci wei ci
 世界經濟論壇	syu ka cin ci len dae
-世界維吾爾代表大會	syu ka vi Nu er de piau da wei
-世界維吾爾代表大會	syu ka vi Wu er de piau da wei
+世界維吾爾代表大會	syu ka vi nu er de piau da wei
+世界維吾爾代表大會	syu ka vi WU er de piau da wei
 世界聞名	syu ka ven min
 世界自然基金會	syu ka zy zoe ci cin wei
 世界華文文學獎	syu ka wo ven ven yuq cian
@@ -2127,8 +2127,8 @@
 中國社會科學院	tson koq dzo wei khou yuq yu
 中國科學院	tson koq khou yuq yu
 中國航海日	tson koq ghaon he zyuq
-中國船舶貿易公司	tson koq zOE boq meu yi kon sy
-中國船舶重工集團公司	tson koq zOE boq dzon kon jiq doe kon sy
+中國船舶貿易公司	tson koq ZOE boq meu yi kon sy
+中國船舶重工集團公司	tson koq ZOE boq dzon kon jiq doe kon sy
 中國農業銀行	tson koq non gniq gnin ghaon
 中國農民銀行	tson koq non min gnin ghaon
 中國進出口銀行	tson koq cin tshyuq kheu gnin ghaon
@@ -2393,10 +2393,10 @@
 乖乖牌	kua kua ba
 乖乖牌	kua kua bae
 乖剌	kua la
-乖忤	kua Nu
+乖忤	kua nu
 乖忤	kua wu
 乖覺	kua ciuq
-乖迕	kua Nu
+乖迕	kua nu
 乖迕	kua wu
 乘了	jin laq
 乘人不備	jin gnin paq bei
@@ -2918,7 +2918,7 @@
 了事	liau zy
 了事環	liau zy wae
 了得	liau taq
-了悟	liau Nu
+了悟	liau nu
 了斷	liau doe
 了案	liau EI
 了此殘生	liau tshy dzae sen
@@ -3339,7 +3339,7 @@
 二氯胺	er loq EI
 二水	gni syu
 二水鄉	gni syu shian
-二泉映月	gni dzOE in yuq
+二泉映月	gni DZOE in yuq
 二流	gni lieu
 二流人才	gni lieu zyun dze
 二流角色	gni lieu koq saq
@@ -3623,7 +3623,7 @@
 于贈	iu dzen
 于越	iu yuq
 于軍	iu ciun
-于道泉	iu dau dzOE
+于道泉	iu dau DZOE
 于遠偉	iu yu wei
 于都	yu tu
 于都縣	yu tu yu
@@ -3653,6 +3653,8 @@
 互派大使	wu pha da sy
 互爭	wu tsen
 互爭雄長	wu tsen yon cian
+互爭	wu tsan
+互爭雄長	wu tsan yon cian
 互生	wu sen
 互生葉	wu sen yiq
 互相聯繫	wu shian li shi
