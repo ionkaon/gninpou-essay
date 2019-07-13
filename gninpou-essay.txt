@@ -4686,19 +4686,12 @@
 人知道	gnin tsyu dau
 人神共憤	gnin zyun gon ven
 人神同憤	gnin zyun don ven
-人禍	zyun ghou
-人種	zyun tson
 人種學	zyun tson yuq
-人種差別	zyun tson tsho biq
-人稱	zyun chin
-人稱代名詞	zyun chin de min dzy
-人稱代詞	zyun chin de dzy
 人窮志不窮	zyun jion tsy paq jion
 人窮志短	zyun jion tsy toe
 人算不如天算	gnin soe paq zyu thi soe
 人算勿如天算	gnin soe vaq zyu thi soe
 人算弗如天算	gnin soe vaq zyu thi soe
-人精	zyun cin
 人給家足	zyun ciq cia tsoq
 人緣	gnin yu
 人罵	gnin mo
