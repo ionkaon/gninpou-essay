@@ -4687,6 +4687,7 @@
 人神共憤	gnin zyun gon ven
 人神同憤	gnin zyun don ven
 人種學	zyun tson yuq
+人種學	gnin tson yuq
 人窮志不窮	zyun jion tsy paq jion
 人窮志短	zyun jion tsy toe
 人算不如天算	gnin soe paq zyu thi soe
