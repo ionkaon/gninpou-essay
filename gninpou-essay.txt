@@ -735,7 +735,6 @@
 跪落	jiu loq
 下降	gho ciaon
 下集	gho jiq
-落雨了	loq yu lei
 下鼻甲	gho biq ciaq
 勿上去	vaq zaon chi
 弗上去	vaq zaon chi
@@ -856,8 +855,6 @@
 不升反降	paq shin fae ciaon
 勿升反降	vaq shin fae ciaon
 弗升反降	vaq shin fae ciaon
-勿去	vaq chi
-弗去	vaq chi
 勿去睬	vaq chi tshe
 弗去睬	vaq chi tshe
 不可一世	paq khou iq syu
@@ -958,11 +955,12 @@
 勿多於	vaq tou yu
 弗多於	vaq tou yu
 不大	paq da
-勿大	vaq da
-弗大	vaq da
-不大不小	paq da paq shiau
-勿大勿小	vaq da vaq shiau
-弗大弗小	vaq da vaq shiau
+不大	paq dou
+勿大	vaq dou
+弗大	vaq dou
+不大不小	paq dou paq shiau
+勿大勿小	vaq dou vaq shiau
+弗大弗小	vaq dou vaq shiau
 不大合時	paq da ghaq zy
 不大好	paq da hau
 勿大好	vaq da hau
@@ -1050,13 +1048,11 @@
 不得好死	paq taq hau shi
 不得擅自	paq taq zoe zy
 勿形於色	vaq yin yu saq
-勿得了	vaq taq liau
 勿得人心	vaq taq zyun shin
 勿得其解	vaq taq ji cia
 勿得好死	vaq taq hau shi
 勿得擅自	vaq taq zoe zy
 弗形於色	vaq yin yu saq
-弗得了	vaq taq liau
 弗得人心	vaq taq zyun shin
 弗得其解	vaq taq ji cia
 弗得好死	vaq taq hau shi
@@ -3356,8 +3352,6 @@
 兩男兩女	lian nEI lian gniu
 二百	gni paq
 兩百	lian paq
-兩百二	lian paq gni
-兩百五	lian paq ng
 兩百人	lian paq gnin
 兩百個	lian paq goq
 兩百個	lian paq ghoq
@@ -3404,7 +3398,6 @@
 兩維	lian vi
 兩維碼	lian vi mo
 兩線	lian shi
-兩老	lian lau
 二老闆	gni lau pae
 兩者	lian tse
 二者不可兼得	er tse paq khou ci taq
@@ -4867,9 +4860,6 @@
 什麼時間	zyuq mou zy ci
 什麼牌子	zyuq mou ba tsy
 什麼顏色	zyuq mou ngae saq
-啥人	soq gnin
-啥人	so gnin
-啥人	sou gnin
 啥問題	soq ven di
 啥問題	so ven di
 啥問題	sou ven di
