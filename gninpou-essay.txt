@@ -856,7 +856,6 @@
 弗大明白	vaq da min baq
 弗大會	vaq da wei
 弗大能	vaq da nen
-𣍐咋	vei dza
 不失衆望	paq syuq tson vaon
 不好了	paq hau lei
 勿好了	vaq hau lei
@@ -901,8 +900,6 @@
 不幸中個大幸	paq yin tson goq da yin
 不幸中個大幸	paq yin tson ghoq da yin
 不得了	paq taq liau
-勿得了	vaq taq liau
-弗得了	vaq taq liau
 不得人心	paq taq zyun shin
 不得其解	paq taq ji cia
 不得好死	paq taq hau shi
@@ -1209,10 +1206,8 @@
 不能言傳	paq nen yi dzOE
 忘記勿來	maon ci vaq le
 定勿落來	din vaq loq le
-講勿來	kaon vaq le
 忘記弗來	maon ci vaq le
 定弗落來	din vaq loq le
-講弗來	kaon vaq le
 不自	paq zy
 不自主	paq zy tsyu
 不自在	paq zy dze
@@ -2168,7 +2163,6 @@
 乾梅子	kI mei tsy
 乾此杯	kI tshy pei
 乾死	kI sy
-燥煞	sau saq
 燥煞死	sau saq shi
 乾毛巾	kI mau cin
 燥毛巾	sau mau cin
