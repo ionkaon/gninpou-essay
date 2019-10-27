@@ -338,8 +338,6 @@
 三人行必有我師	sae zyun yin piq yeu ngo sy
 三仁	sae zyun
 三伏天	sae voq thi
-三伯	sae paq
-三伯父	sae paq vu
 三保太監	sae pau tha kae
 三個世界	sae goq syu ka
 三個世界	sae ghoq syu ka
@@ -509,7 +507,6 @@
 上弗去	zaon vaq chi
 上世	zaon shi
 上世紀	zaon syu ci
-上乘	zaon jin
 上歲數	zaon sei su
 上交	zaon ciau
 上交所	zaon ciau so
@@ -595,7 +592,6 @@
 下弗了臺	gho vaq liau de
 下勿去	gho vaq chi
 下弗去	gho vaq chi
-下乘	gho jin
 下人	gho gnin
 下個	gho goq
 下個	gho ghoq
@@ -695,7 +691,6 @@
 不做虧心事	paq tsou khuei shin zy
 勿做虧心事	vaq tsou khuei shin zy
 弗做虧心事	vaq tsou khuei shin zy
-不停	paq din
 勿停	vaq din
 弗停	vaq din
 不傷和氣	paq saon ghou chi
@@ -712,7 +707,6 @@
 不分	paq fen
 勿分	vaq fen
 弗分	vaq fen
-不分伯仲	paq fen paq dzon
 不分勝敗	paq fen shin ba
 不分勝負	paq fen shin veu
 不分彼此	paq fen pei tshy
@@ -1967,16 +1961,12 @@
 乘人不備	jin gnin paq bei
 乘人之危	jin gnin tsy wei
 乘僞行詐	jin wei yin tso
-乘其不備	jin ji paq bei
-乘奔御風	jin pen gniu fon
 乘數	jin su
 乘涼	zhin lian
 乘着	jin dzoq
 乘着	jin zyuq
 乘長風破萬里浪	jin jian fon phou vae li laon
 乘間	jin ci
-乘風	jin fon
-乘風破浪	jin fon phou laon
 乙丙橡膠	iq pin zhian ciau
 乙二醇	iq er zyun
 乙太	iq tha
@@ -1985,8 +1975,6 @@
 乙狀結腸	iq dzaon ciq jian
 乙種維生素	iq tson vi sen su
 九世紀	cieu syu ci
-九九乘法	cieu cieu jin faq
-九九乘法表	cieu cieu jin faq piau
 九二一	cieu er iq
 九個	cieu goq
 九個人	cieu goq gnin
@@ -2931,7 +2919,6 @@
 五個	ng ghoq
 五個人	ng ghoq gnin
 五個方面	ng ghoq faon mi
-五停心觀	ng din shin kun
 五分	ng fen
 五分之一	ng fen tsy iq
 五分制	ng fen tsyu
@@ -3013,7 +3000,6 @@
 井水	cin syu
 井水不犯河水	cin syu paq vae ghou syu
 亙古未有	ken ku vi yeu
-亞伯	ia paq
 亞伯拉罕	ia paq lha he
 亞倫艾克哈特	ia len nge khaq ha daq
 亞利安人	ia li EI gnin
@@ -4362,59 +4348,13 @@
 休閒娛樂	shieu ghae gniu loq
 休閒度假	shieu ghae du cia
 休養生息	shieu ian sen shiq
-伯仲	paq dzon
 伯仲之間	paq dzon tsy ci
-伯仲叔季	paq dzon soq ci
-伯余	paq yu
-伯傑	paq jiq
-伯克	paq khaq
-伯克來	paq khaq le
-伯克利	paq khaq li
-伯克制度	paq khaq tsyu du
-伯利	paq li
-伯利恆	paq li ghen
 伯利茲	paq li tsy
-伯勞	paq lau
-伯勞鳥	paq lau gniau
-伯南克	paq nEI khaq
-伯叔祖母	paq soq tsu meu
-伯叔祖父	paq soq tsu vu
-伯多祿	paq tou loq
-伯孃	paq gnian
-伯德	paq taq
-伯恩	paq en
-伯恩斯	paq en sy
-伯恩茅斯	paq en mau sy
 伯拉第斯拉瓦	paq lha di sy lha ngo
-伯斯	paq sy
-伯明罕	paq min he
-伯明翰	paq min ghEI
-伯根地	paq ken di
-伯格	paq kaq
 伯樂	paq loq
-伯母	paq meu
-伯爵	paq ciaq
-伯爵夫人	paq ciaq fu gnin
-伯父	paq vu
-伯父母	paq vu meu
 伯爾	paq er
 伯爾尼	paq er gni
-伯特蘭	paq daq lae
-伯特蘭德	paq daq lae taq
-伯祖	paq tsu
-伯祖母	paq tsu meu
-伯納	paq naq
-伯納克	paq naq khaq
-伯納斯李	paq naq sy li
 伯羅奔尼撒同盟	paq lou pen gni saq don men
-伯莎	paq so
-伯賽大	paq se da
-伯都	paq tu
-伯里克利	paq li khaq li
-伯雍種玉	paq ion tson gnioq
-伯顏	paq yi
-伴生	bun san
-伴生氣	bun san chi
 伴着	bun dzoq
 伴隨着	bun zei dzoq
 伴着	bun zyuq
@@ -4434,8 +4374,6 @@
 伸展出去	shin ci tshyuq chi
 伸展出去	shin tsoe tshyuq chi
 伸手不打笑面人	shin shieu paq tan shiau mi gnin
-伸手勿打笑面人	shin shieu vaq tan shiau mi gnin
-伸手弗打笑面人	shin shieu vaq tan shiau mi gnin
 伸手不見五指	shin shieu paq ci ng tsy
 伸手勿見五指	shin shieu vaq ci ng tsy
 伸手弗見五指	shin shieu vaq ci ng tsy
@@ -4470,7 +4408,6 @@
 佈防	pu vaon
 位差	wei tsho
 位形空間	wei yin khon ci
-位極人臣	wei jiq gnin jin
 低下去	ti gho chi
 低落去	ti loq chi
 低下頭去	ti gho deu chi
@@ -4485,8 +4422,6 @@
 低利率	ti li liq
 低尾氣排放	ti vi chi ba faon
 低昂	ti ngaon
-低水平	ti sei bin
-低水平	ti syu bin
 低眉	ti mei
 低着	ti dzoq
 低着	ti zyuq
@@ -4494,10 +4429,10 @@
 低着頭	ti zyuq deu
 低勒	ti laq
 低勒頭	ti laq deu
+頭低勒仔	deu ti laq tsy
 低空飛行	ti khon fi yin
 低等生物	ti ten sen vaq
 低能兒	ti nen er
-低賤	ti zhi
 低速率	ti soq liq
 低音大提琴	ti in da di jin
 低音大號	ti in da ghau
@@ -4517,14 +4452,13 @@
 佐世保	tsou syu pau
 佔世界	ci syu ka
 佔了	ci laq
-佔人便宜	ci zyun bi gni
+佔人便宜	ci gnin bi gni
 佔個	ci goq
 佔個位	ci goq wei
 佔個	ci ghoq
 佔個位	ci ghoq wei
 佔分	ci fen
 佔去	ci chi
-佔大	ci dou
 佔有率	ci yeu liq
 佔率	ci liq
 佔用率	ci yon liq
@@ -4536,14 +4470,13 @@
 佔過去	ci kou chi
 佔世界	tsoe syu ka
 佔了	tsoe laq
-佔人便宜	tsoe zyun bi gni
+佔人便宜	tsoe gnin bi gni
 佔個	tsoe goq
 佔個位	tsoe goq wei
 佔個	tsoe ghoq
 佔個位	tsoe ghoq wei
 佔分	tsoe fen
 佔去	tsoe chi
-佔大	tsoe dou
 佔有率	tsoe yeu liq
 佔率	tsoe liq
 佔用率	tsoe yon liq
@@ -4554,20 +4487,12 @@
 佔耕	tsoe kan
 佔過去	tsoe kou chi
 何以自處	ghou yi zy tshyu
-何去何從	ghou chi ghou dzon
 何堪	ghou khae
-何年何月何日	ghou gni ghou yuq ghou gniq
-何日	ghou gniq
 何曾	ghou dzen
-何月何日	ghou yuq ghou gniq
 何樂不爲	ghou loq paq wei
 何樂而不爲	ghou loq er paq wei
 何西阿書	ghou shi a syu
-何許人	ghou shiu gnin
-佘太君	zo tha ciun
 余光生	yu kuaon sen
-余吾鎮	yu NU tsyun
-余吾鎮	yu WU tsyun
 佛圖澄	vaq du jin
 佛學	vaq yuq
 佛學界	vaq yuq ka
@@ -4577,8 +4502,7 @@
 佛教	vaq ciau
 佛教徒	vaq ciau du
 佛教語	vaq ciau gniu
-佛瑞斯特懷特克	vaq zei sy daq wa daq khaq
-佛誕日	vaq dae gniq
+佛瑞斯特懷特克	vaq zei sy daq wae daq khaq
 佛頭着糞	vaq deu dzoq fen
 佛頭着糞	vaq deu zyuq fen
 作了	tsoq laq
@@ -4612,28 +4536,14 @@
 作鬼臉	tsoq kuei li
 作鳥獸散	tsoq gniau shieu sae
 佞人	gnin gnin
-你也	gni gha
-你乾一杯	gni kI iq pei
-你個	gni goq
-你個	gni ghoq
-你和	gni ghou
 你太	gni tha
-你快樂	gni khua loq
 你是爲了	gni zy wei liau
-你是爲了	gni zy wei laq
-你死	gni shi
-你死我活	gni shi ngo waq
-你沒	gni maq
+你死	gni sy
+你死我活	gni sy ngo waq
 你爭我奪	gni tsen ngo daq
 你自己	gni zy ci
 你行	gni yin
 你覺得	gni ciuq taq
-你該	gni ke
-你走了	gni tseu laq
-你還	gni wa
-你還會	gni wa wei
-你還	gni gha
-你還會	gni gha wei
 你一	ng iq
 你勿	ng vaq
 你弗	ng vaq
@@ -4685,6 +4595,7 @@
 你愛我	ng e ngo
 你懂	ng ton
 你搭我	ng taq ngo
+你搭我	ng to
 你尋	ng zhin
 你搜	ng seu
 你搞	ng gau
@@ -4693,7 +4604,6 @@
 你是我	ng zy ngo
 你是爲了	ng zy wei laq
 你是啥人	ng zy soq gnin
-你最	ng tsei
 你頂	ng tin
 你會	ng wei
 你有	ng yeu
@@ -4792,6 +4702,7 @@
 爾愛我	ng e ngo
 爾懂	ng ton
 爾搭我	ng taq ngo
+爾搭我	ng to
 爾尋	ng zhin
 爾搜	ng seu
 爾搞	ng gau
@@ -4800,7 +4711,6 @@
 爾是我	ng zy ngo
 爾是爲了	ng zy wei laq
 爾是啥人	ng zy soq gnin
-爾最	ng tsei
 爾頂	ng tin
 爾會	ng wei
 爾有	ng yeu
@@ -4897,6 +4807,7 @@
 俉愛我	ng e ngo
 俉懂	ng ton
 俉搭我	ng taq ngo
+俉搭我	ng to
 俉尋	ng zhin
 俉搜	ng seu
 俉搞	ng gau
@@ -4905,7 +4816,6 @@
 俉是我	ng zy ngo
 俉是爲了	ng zy wei laq
 俉是啥人	ng zy soq gnin
-俉最	ng tsei
 俉頂	ng tin
 俉會	ng wei
 俉有	ng yeu
@@ -5003,6 +4913,7 @@
 儂愛我	nou e ngo
 儂懂	nou ton
 儂搭我	nou taq ngo
+儂搭我	nou to
 儂尋	nou zhin
 儂搜	nou seu
 儂搞	nou gau
@@ -5012,7 +4923,6 @@
 儂是爲了	nou zy wei laq
 儂是啥人	nou zy soq gnin
 儂啥人	nou soq gnin
-儂最	nou tsei
 儂頂	nou tin
 儂會	nou wei
 儂有	nou yeu
@@ -5082,18 +4992,13 @@
 佩勒	bei laq
 佩脫拉克	bei thaq lha khaq
 佩魯賈	bei lu cia
-佯死	yan shi
 佳世客	cia syu khaq
-佳人	cia gnin
-佳人才子	cia gnin dze tsy
 佳得樂	cia taq loq
 佳木斯大學	cia moq sy da ghoq
 佳樂水	cia loq syu
 併爲一家	pin wei iq cia
 佾生	yiq sen
 佾舞生	yiq Wu sen
-使人	sy gnin
-使人信服	sy gnin shin voq
 使你	sy gni
 使你	sy ng
 使爾	sy ng
@@ -5124,7 +5029,7 @@
 來個	le goq
 來個	le ghoq
 來去分明	le chi fen min
-來去自如	le chi zy zyu
+來去分明	le chiu fen min
 來參加	le tshae ko
 來吧	le pa
 來吶	le naq
@@ -5141,16 +5046,12 @@
 來捉	le tsoq
 來馱	le dou
 來料加工	le liau cia kon
-來日	le gniq
-來日方長	le gniq faon cian
+來日方長	le zyuq faon jian
 來樣加工	le yan cia kon
-來生	le sen
-來看你	le khI gni
 來看你	le khI ng
 來看爾	le khI ng
 來看俉	le khI ng
 來看儂	le khI nou
-來着	le tsaq
 來自	le zy
 來自中國	le zy tson koq
 來自北京	le zy poq cin
@@ -5161,7 +5062,6 @@
 來臺訪問	le de faon ven
 來華訪問	le wo faon ven
 來蘇水	le su syu
-來鴻去燕	le ghon chiu i
 來龍去脈	le lon chiu maq
 侈談和平	tshy dae ghou bin
 例行	li yin
@@ -5205,15 +5105,17 @@
 侵權行爲	chin jiu ghan wei
 侵犯了您	chin vae liau gnin
 侵犯了您	chin vae laq gnin
+侵犯了俉	chin vae laq ng
+侵犯了爾	chin vae laq ng
+侵犯了你	chin vae laq ng
 侵犯了儂	chin vae laq nou
 侵華日軍	chin wo zyuq ciun
-便了	bi liau
 便去	bi chi
 便宜不過當家	bi gni paq kou taon ko
 便宜行事	bi gni yin zy
 便尿	bi gniau
 便衣人員	bi i zyun yu
-便被	bi bi
+便被	bi bei
 便車旅行者	bi tsho li yin tse
 係爭	shi tsen
 係爭物	shi tsen vaq
@@ -5287,13 +5189,11 @@
 保護自己	pau wu zy ci
 保護自家	pau wu zhi ko
 保護鳥	pau wu gniau
-保送入學	pau son zyuq yuq
 保長	pau cian
 保障範圍	pau tsaon vae wei
 保險人	pau shi gnin
 保險櫃	pau shi guei
 保險範圍	pau shi vae wei
-俠盜獵車手	yaq dau liaq tsho shieu
 俠行	yaq yin
 信仰自由	shin gnian zy yeu
 信任	shin zyun
@@ -5319,10 +5219,10 @@
 信筆塗鴉	shin piq du ia
 信譽卓著	shin yu tsoq tsyu
 信貸衍生產品	shin the yi sen tshae phin
+信貸衍生產品	shin de yi sen tshae phin
 信陽師範學院	shin yan sy vae yuq yu
 信鳥	shin gniau
 修和	shieu ghou
-修學	shieu ghoq
 修指甲	shieu tsy khaq
 修水	shieu syu
 修水利	shieu syu li
@@ -5334,15 +5234,12 @@
 修行	shieu yin
 修行人	shieu yin zyun
 修行在個人	shieu yin dze kou gnin
-修詞學	shieu dzy yuq
 修身齊家	shieu shin ji cia
-修辭學	shieu dzy yuq
 修道人	shieu dau gnin
 修長	shieu jian
 俯下去	fu gho chiu
 俯落去	fu loq chiu
 俯仰之間	fu gnian tsy ci
-俯仰由人	fu gnian yeu gnin
 俯伏	fu voq
 俯拾皆是	fu zyuq cie zy
 俯首帖耳	fu shieu thiaq er
@@ -5476,12 +5373,12 @@
 個體發育	kou thi faq yuq
 個體經濟	kou thi cin ci
 個體經營	kou thi cin yin
-倍加	bei ko
 倍日并行	bei gniq pin yin
 倍率	bei liq
 倍道兼行	bei dau ci yin
 倒上去	tau zaon chi
 倒下去	tau gho chi
+倒落去	tau loq chi
 倒也	tau gha
 倒也不	tau gha paq
 倒也不是	tau gha paq zy
@@ -5493,6 +5390,7 @@
 倒也弗是	tau gha vaq zy
 倒也𣍐	tau gha vei
 倒了	tau lei
+倒了	tau laq
 倒了八輩子楣	tau laq paq pei tsy mei
 倒了架	tau laq ko
 倒了架子	tau laq ko tsy
@@ -5502,10 +5400,7 @@
 倒去	tau chi
 倒回去	tau wei chi
 倒戈卸甲	tau kou shia ciaq
-倒抽了一口氣	tau chieu liau iq kheu chi
-倒抽了一口氣	tau chieu laq iq kheu chi
 倒拉	tau lha
-倒持干戈	tau dzy kI kou
 倒數第二	tau su di gni
 倒杯水	tau pei syu
 倒楣鬼	tau mei ciu
@@ -5526,7 +5421,7 @@
 候選人	gheu soe gnin
 候魚	gheu ng
 候鳥	gheu gniau
-倚仗	i cian
+倚仗	i jian
 倚山傍水	i sae baon syu
 倚望	i maon
 倚欄望月	i lae maon yuq
@@ -5552,7 +5447,7 @@
 借問	cia ven
 借單	cia tae
 借回去	cia wei chi
-借屍還魂	cia sy wa wen
+借屍還魂	cia sy wae wen
 借方差額	cia faon tsho ngaq
 借款人	cia khun gnin
 借水推船	cia syu thei ZOE
@@ -5564,13 +5459,12 @@
 借酒三分醉	cia cieu sae fen tsei
 借閱率	cia yuq liq
 倦鳥歸巢	jiu gniau kuei dzau
-倦鳥知歸	jiu gniau tsyu kuei
-倦鳥知返	jiu gniau tsyu fae
-倦鳥餘花	jiu gniau yu huo
 倫敦大學亞非學院	len ten da ghoq ia fi yuq yu
+倫敦大學亞非學院	len ten da ghoq ia fi ghoq yu
 倫敦大學學院	len ten da ghoq yuq yu
+倫敦大學學院	len ten da ghoq ghoq yu
 倫敦帝國理工學院	len ten ti koq li kon yuq yu
-倫理學	len li yuq
+倫敦帝國理工學院	len ten ti koq li kon ghoq yu
 倭人	ou gnin
 倭馬亞王朝	ou ma ia waon jiau
 值得品味	jiq taq phin vi
@@ -5580,10 +5474,7 @@
 值日表	jiq gniq piau
 值星班長	jiq shin pae cian
 值班人	jiq pae gnin
-假人	ko gnin
-假人像	ko gnin zhian
 假以時日	cia yi zy zyuq
-假作	ko tsoq
 假使	cia sy
 假使在	cia sy dze
 假使來	cia sy le
@@ -5595,12 +5486,9 @@
 假使話	cia sy wo
 假公濟私	cia kon ci sy
 假分數	ko fen su
+假分數	cia fen su
 假力於人	cia liq yu zyun
-假劣	ko liaq
-假動作	ko don tsoq
-假名	ko min
 假名假姓	ko min ko shin
-假名字	ko min zy
 假吏	cia li
 假唱	ko tshaon
 假善人	ko zoe zyun
@@ -5609,7 +5497,6 @@
 假執行	ko ciq ghan
 假報	ko pau
 假報告	ko pau kau
-假大空	ko da khon
 假如	cia zyu
 假如是	cia zyu zy
 假如會	cia zyu wei
@@ -5635,12 +5522,9 @@
 假想敵	cia shian diq
 假慈悲	ko dzy pei
 假手他人	cia shieu tha gnin
-假打	ko tan
 假扣押	ko kheu aq
 假新聞	ko shin ven
-假日	ko gniq
 假期	ko ji
-假果	ko kou
 假根	ko ken
 假案	ko EI
 假條	ko diau
@@ -5650,7 +5534,6 @@
 假牌	ko ba
 假牙	ko ngo
 假牙齒	ko ngo tsy
-假球	ko jieu
 假用	cia yon
 假畫	ko wo
 假的	ko tiq
@@ -5684,23 +5567,10 @@
 假裝有	cia tsaon yeu
 假裝能	cia tsaon nen
 假託	cia thoq
-假設	cia shiq
-假設在	cia shiq dze
-假設來	cia shiq le
-假設是	cia shiq zy
-假設會	cia shiq wei
-假設有	cia shiq yeu
-假設能	cia shiq nen
-假設語氣	cia shiq gniu chi
-假設說	cia shiq syuq
-假設講	cia shiq kaon
-假設話	cia shiq wo
 假話	ko wo
 假說	cia syuq
 假證	ko cin
 假證件	ko cin ji
-假象	ko zhian
-假象牙	ko zhian ngo
 假貨	ko hou
 假貸	ko the
 假貸	ko de
@@ -5711,7 +5581,6 @@
 假道	cia dau
 假道伐虢	cia dau vaq koq
 假道學	ko dau yuq
-假酒	ko cieu
 假釋期間	cia shiq ji ci
 假釋期間	ko shiq ji ci
 假鈔	ko tshau
@@ -5780,175 +5649,47 @@
 做自家	tsou zhi ko
 做鬼	tsou ciu
 做鬼臉	tsou kuei li
-停上	din zaon
-停上來	din zaon le
 停上去	din zaon chi
-停下	din gho
-停下來	din gho le
 停下去	din gho chi
 停落	din loq
 停落來	din loq le
 停落去	din loq chi
-停不下	din paq gho
-停不下來	din paq gho le
 停勿落	din vaq loq
 停勿落來	din vaq loq le
 停弗落	din vaq loq
 停弗落來	din vaq loq le
-停不住	din paq dzyu
 停勿牢	din vaq lau
 停弗牢	din vaq lau
 停了	din laq
 停了	din lei
-停住	din dzyu
 停牢	din lau
 停來停去	din le din chi
-停俸	din von
-停停	din din
-停停看	din din khe
-停刊	din khae
-停利	din li
-停到	din tau
-停勻	din yun
-停售	din jieu
-停在	din dze
 停勒	din laq
-停妥	din thou
 停學	din ghoq
-停完	din wun
 停屍	din sy
 停屍房	din sy vaon
 停屍間	din sy kae
-停工	din kon
-停建	din ci
-停得	din taq
-停徵	din cin
-停息	din shiq
-停戰	din ci
-停戰協定	din ci yaq din
 停戰和約	din ci ghou iaq
-停戰日	din ci zyuq
-停戰	din tsoe
-停戰協定	din tsoe yaq din
 停戰和約	din tsoe ghou iaq
-停戰日	din tsoe zyuq
-停手	din shieu
-停掉	din diau
-停損	din sen
-停損點	din sen ti
-停播	din pou
-停擺	din pa
-停放	din faon
-停放在	din faon dze
 停放勒	din faon laq
-停會	din wei
-停有	din yeu
-停板	din pae
-停板制度	din pae tsyu du
-停業	din gniq
 停業處分	din gniq tshyu ven
-停機	din ci
-停機坪	din ci bin
-停權	din jiu
-停歇	din shiq
-停止	din tsy
-停止下來	din tsy gho le
 停止落來	din tsy loq le
-停止損失	din tsy sen syuq
-停步	din bu
-停水	din syu
-停水通知	din syu thon tsyu
-停泊	din boq
-停泊費	din boq fi
-停滯	din dzy
-停滯不前	din dzy paq zhi
 停滯勿前	din dzy vaq zhi
 停滯弗前	din dzy vaq zhi
-停滯	din ji
-停滯不前	din ji paq zhi
 停滯勿前	din ji vaq zhi
 停滯弗前	din ji vaq zhi
-停火	din hou
-停火協定	din hou yaq din
-停火協議	din hou yaq gni
-停火線	din hou shi
 停牌	din ba
-停產	din tshae
-停用	din yon
-停留	din lieu
-停留在	din lieu dze
 停留勒	din lieu laq
 停留時間	din lieu zy ci
 停留辰光	din lieu zyun kuaon
-停發	din faq
-停盤	din bun
 停着	din dzoq
 停着	din zyuq
 停勒	din laq
-停站	din dzae
-停筆	din piq
-停約	din iaq
-停經	din cin
-停經期	din cin ji
-停經片	din cin phi
-停置	din tsyu
-停職	din ciq
-停航	din ghaon
-停船	din ZOE
-停船靠岸	din ZOE khau nge
-停薪	din shin
-停薪留職	din shin lieu ciq
-停藥	din yaq
-停表	din piau
-停製	din tsyu
-停訓	din shiun
-停診	din cin
-停話	din wo
-停課	din khou
-停賽	din se
-停蹄	din di
-停車	din tsho
-停車位	din tsho wei
-停車位置	din tsho wei tsyu
-停車位子	din tsho wei tsy
-停車場	din tsho jian
-停車庫	din tsho khu
-停車燈	din tsho ten
-停車站	din tsho dzae
-停車計時器	din tsho ci zy chi
-停車費	din tsho fi
-停載	din tse
-停轉	din tsoe
-停辦	din bae
-停進	din cin
-停進來	din cin le
 停進去	din cin chi
-停運	din yun
-停過	din kou
-停過來	din kou le
 停過去	din kou chi
 停酒止樂	din cieu tsy loq
-停錯	din tshou
-停閉	din pi
-停開	din khe
-停雲	din yun
-停雲落月	din yun loq yuq
-停電	din di
-停電通知	din di thon tsyu
-停靈	din lin
-停靠	din khau
-停靠在	din khau dze
 停靠勒	din khau laq
-停靠港	din khau kaon
-停靠站	din khau dzae
-停頓	din ten
-停頓下來	din ten gho le
 停頓落來	din ten loq le
-停顯	din shi
-停飛	din fi
-停食	din zhiq
-停駐	din dzyu
-停駛	din sy
 健兒	ji er
 健壯如牛	ji tsaon zyu ngeu
 健康快樂	ji khaon khua loq
@@ -5968,7 +5709,6 @@
 偵防	cin vaon
 偶人	ngeu gnin
 偶像人物	ngeu zhian zyun vaq
-偶家	ngeu ko
 偶然之間	ngeu zoe tsy ci
 偶然間	ngeu zoe ci
 偶爾	ngeu er
@@ -5977,7 +5717,6 @@
 偷了	theu laq
 偷人	theu gnin
 偷來偷去	theu le theu chi
-偷停	theu din
 偷出去	theu tshyuq chi
 偷加	theu ko
 偷去	theu chi
@@ -6002,7 +5741,7 @@
 傍人籬壁	baon gnin li piq
 傍人門戶	baon gnin men wu
 傍大款	baon da khun
-傑佛茲	jiq faq dzy
+傑佛茲	jiq faq tsy
 傑哈德巴特勒	jiq ha taq pa daq laq
 傑哈德巴狄厄	jiq ha taq pa diq aq
 傑弗遜	jiq faq sen
@@ -6304,7 +6043,6 @@
 傷亡人數	saon vaon gnin su
 傷人	saon gnin
 傷來傷去	saon le saon chi
-傷停補時	saon din pu zy
 傷弓之鳥	saon kon tsy gniau
 傷心致死	saon shin tsy sy
 傷懷	saon wae
@@ -6329,7 +6067,6 @@
 傾耳而聽	chin er er thin
 僅作參考	jin tsoq tshae khau
 僅供參考	jin kon tshae khau
-像你	zhian gni
 像你	zhian ng
 像俉	zhian ng
 像爾	zhian ng
@@ -6349,7 +6086,6 @@
 僞頂	wei ten
 僧人	sen gnin
 僧加羅語	sen cia lou gniu
-僬僥	ciau ciau
 僱人	ku gnin
 僱個	ku goq
 僱個	ku ghoq
@@ -6358,8 +6094,6 @@
 僵持勿落	cian dzy vaq loq
 僵持弗落	cian dzy vaq loq
 僵死	cian sy
-僵煞	cian saq
-僵煞死	cian saq shi
 價單	ko tae
 價差	ko tsho
 價格戰	ko kaq ci
@@ -6389,7 +6123,7 @@
 償回	dzaon wei
 償回來	dzaon wei le
 償清	dzaon chin
-償還	dzaon wa
+償還	dzaon wae
 償願	dzaon gniu
 優先認股權	ieu shi gnin ku jiu
 優化大師	ieu huo da sy
@@ -6403,7 +6137,6 @@
 優等生	ieu ten san
 優良傳統	ieu lian dzOE thon
 優良單株	ieu lian tae tsyu
-優諾牌	ieu noq ba
 優遊自在	ieu yeu zy dze
 優遊自得	ieu yeu zy taq
 儲水	zyu syu
@@ -6509,7 +6242,6 @@
 光伏	kuaon voq
 光伏器件	kuaon voq chi ji
 光出溜	kuaon tshyuq lhieu
-光刻膠	kuaon khaq ciau
 光功率	kuaon kon liq
 光化學	kuaon huo yuq
 光化學煙霧	kuaon huo yuq i vu
@@ -6562,8 +6294,6 @@
 克克爾	khaq khaq er
 克分子	khaq fen tsy
 克分子濃度	khaq fen tsy gnion du
-克卜勒	khaq poq laq
-克卜勒定律	khaq poq laq din liq
 克基拉島	khaq ci lha tau
 克婁巴特拉	khaq leu pa daq lha
 克孜爾千佛洞	khaq tsy er chi vaq don
@@ -6598,7 +6328,7 @@
 克莉絲汀娜	khaq li sy thin na
 克萊兒	khaq le er
 克蕾兒	khaq lei er
-克虜伯	khaq lou pan
+克虜伯	khaq lou paq
 克里奧爾語	khaq li au er gniu
 克里姆林	khaq li m lin
 克里姆林宮	khaq li m lin kon
@@ -6619,7 +6349,7 @@
 免去職務	mi chiu ciq Wu
 免參	mi tshae
 免戰牌	mi ci ba
-免疫學	mi yuq yuq
+免戰牌	mi tsoe ba
 免試升學	mi sy shin ghoq
 兒化	er huo
 兒化韻	er huo yun
@@ -6666,8 +6396,6 @@
 兒郎	er laon
 兒馬	er mo
 兔子尾巴長不了	thu tsy mi po jian paq liau
-兔子尾巴長勿了	thu tsy mi po jian vaq liau
-兔子尾巴長弗了	thu tsy mi po jian vaq liau
 兔死狐悲	thu sy wu pei
 兔死狗烹	thu sy keu phan
 党太尉	taon tha uei
@@ -6688,11 +6416,8 @@
 入圍	zyuq wei
 入境問俗	zyuq cin men dzoq
 入夢	zyuq mon
-入學	zyuq ghoq
-入學年齡	zyuq ghoq gni lin
 入學校	zyuq ghoq yau
-入學率	zyuq ghoq saq
-入學考試	zyuq ghoq khau sy
+入學率	zyuq yuq liq
 入射波	zyuq zhiq pou
 入教	zyuq ciau
 入朝	zyuq jiau
@@ -6756,13 +6481,11 @@
 全世界無產者聯合起來	dzoe syu ka Wu tshae tse li ghaq chi le
 全世界第一	dzoe syu ka di iq
 全乾	dzoe kI
-全人	dzoe gnin
 全人類	dzoe zyun lei
-全仗綠葉扶持	dzoe cian loq yiq vu dzy
-全仗綠葉扶持	dzoe cian loq yiq vu ji
+全仗綠葉扶持	dzoe jian loq yiq vu dzy
+全仗綠葉扶持	dzoe jian loq yiq vu ji
 全傳	dzoe dzoe
 全出去	dzoe tshyuq chi
-全去	dzoe chiu
 全國人大	dzoe koq zyun da
 全國人大代表	dzoe koq zyun da de piau
 全國人大常委會	dzoe koq zyun da dzaon uei wei
@@ -6777,36 +6500,27 @@
 全國頂大	dzoe koq tin dou
 全國範圍	dzoe koq vae wei
 全套教材	dzoe thau ciau dze
-全家	dzoe cia
-全家	dzoe ko
 全家人	dzoe cia gnin
 全家人	dzoe ko gnin
 全家樂	dzoe cia loq
-全家樂	dzoe ko loq
 全家福	dzoe cia foq
 全新世	dzoe shin syu
-全日	dzoe zyuq
-全日	dzoe gniq
 全日制	dzoe zyuq tsyu
 全日空	dzoe zyuq khon
-全材	dzoe ze
 全校同學	dzoe yau don ghoq
 全校學生	dzoe yau ghoq san
 全校師生	dzoe yau sy san
 全權大使	dzoe jiu da sy
 全武行	dzoe Wu ghaon
-全殲	dzoe ci
 全民皆兵	dzoe min cie pin
 全然不解	dzoe zoe paq cia
-全班同學	dzoe pae don yuq
+全班同學	dzoe pae don ghoq
 全班學生	dzoe pae ghoq san
 全球最大	dzoe jieu tsei dou
 全球頂大	dzoe jieu tin dou
 全球發展中心	dzoe jieu faq ci tson shin
 全球發展中心	dzoe jieu faq tsoe tson shin
 全球範圍	dzoe jieu vae wei
-全球華人	dzoe jieu wo gnin
-全生育期	dzoe san yuq ji
 全盛	dzoe zhin
 全盛時期	dzoe zhin zy ji
 全盤皆輸	dzoe bun cie syu
@@ -6829,8 +6543,6 @@
 全體人員	dzoe thi zyun yu
 全體同仁	dzoe thi don zyun
 全體師生	dzoe thi sy san
-兩不誤	lian paq nu
-兩不誤	lian paq wu
 兩人	lian gnin
 兩人三腳	lian gnin sae ciaq
 兩人份	lian gnin ven
@@ -6874,9 +6586,7 @@
 兩家人	lian ko gnin
 兩尾	lian vi
 兩岸人民關係條例	lian nge zyun min kuae shi diau li
-兩年生	lian gni sen
 兩性之間	lian shin tsy ci
-兩性差距	lian shin tsho jiu
 兩性生殖	lian shin sen jiq
 兩性間	lian shin ci
 兩日	lian gniq
@@ -6896,8 +6606,6 @@
 兩種人	lian tson gnin
 兩耳	lian er
 兩耳不聞窗外事	lian er paq ven tshaon nga zy
-兩耳勿聞窗外事	lian er vaq ven tshaon nga zy
-兩耳弗聞窗外事	lian er vaq ven tshaon nga zy
 兩萬人	lian vae gnin
 兩萬個	lian vae goq
 兩萬個	lian vae ghoq
@@ -6956,14 +6664,11 @@
 八竿子打勿着	paq kI tsy tan vaq zyuq
 八竿子打弗着	paq kI tsy tan vaq dzoq
 八竿子打弗着	paq kI tsy tan vaq zyuq
-八色鳥	paq saq gniau
 八萬大藏經	paq vae da dzaon cin
 八號分機	paq ghau fen ci
 八行書	paq ghaon syu
 八集	paq jiq
 八風吹不動	paq fon tshei paq don
-八風吹勿動	paq fon tshei vaq don
-八風吹弗動	paq fon tshei vaq don
 公了	kon liau
 公交	kon ciau
 公交公司	kon ciau kon sy
@@ -6974,7 +6679,6 @@
 公休日	kon shieu gniq
 公侯伯子男	kon gheu paq tsy nEI
 公保大樓	kon pau da leu
-公假	kon cia
 公共交通	kon gon ciau thon
 公共假期	kon gon ko ji
 公共行政	kon gon yin cin
@@ -7002,7 +6706,6 @@
 公平貿易	kon bin meu yiq
 公廣集團	kon kuaon jiq doe
 公才公望	kon dze kon vaon
-公撮	kon tshaq
 公教	kon ciau
 公教人員	kon ciau zyun yu
 公文旅行	kon ven li yin
@@ -7020,6 +6723,7 @@
 公立學校	kon liq ghoq yau
 公羊傳	kon yan dzoe
 公而忘私	kon er vaon sy
+公而忘私	kon er maon sy
 公職人員	kon ciq zyun yu
 公衆人物	kon tson zyun vaq
 公衆參與	kon tson tshae yu
@@ -7066,8 +6770,6 @@
 六尾	loq vi
 六度萬行	loq du vae yin
 六日	loq gniq
-六日戰爭	loq gniq ci tsen
-六日戰爭	loq gniq tsoe tsen
 六朝	loq jiau
 六朝四大家	loq jiau sy da cia
 六朝時代	loq jiau zy de
@@ -7084,12 +6786,9 @@
 六萬個	loq vae goq
 六萬個	loq vae ghoq
 六親不認	loq chin paq gnin
-六親勿認	loq chin vaq gnin
-六親弗認	loq chin vaq gnin
 六集	loq jiq
 六龜	loq kuei
 六龜鄉	loq kuei shian
-共乘	gon jin
 共分	gon fen
 共去	gon chi
 共同感覺	gon don kI ciuq
@@ -7107,17 +6806,13 @@
 共和黨人	gon ghou taon gnin
 共和黨籍	gon ghou taon zhiq
 共商大計	gon saon da ci
-共學	gon ghoq
 共從	gon dzon
 共樂	gon loq
 共生	gon sen
 共生死	gon sen sy
 共產集團	gon tshae jiq doe
 共產黨人	gon tshae taon gnin
-共背	gon pei
-共虧	gon chiu
 共襄盛舉	gon shian zhin ciu
-共降	gon ciaon
 兵學	pin yuq
 兵家	pin cia
 兵家大忌	pin cia da ji
@@ -7127,10 +6822,8 @@
 兵甲	pin ciaq
 兵諫	pin ci
 兵貴神速	pin kuei zyun soq
-兵車行	pin tsho ghan
+兵車行	pin tsho yin
 兵馬未動	pin mo vi don
-其二	ji er
-其二	ji gni
 其人	ji gnin
 其他人	ji tha gnin
 其他品牌	ji tha phin ba
@@ -7150,10 +6843,8 @@
 典獄長	ti yuq cian
 典範長存	ti vae jian dzen
 兼了	ci liau
-兼任教師	ci zyun ciau sy
 兼任教師	ci gnin ciau sy
 兼差	ci tsha
-兼行	ci yin
 冀望	ci vaon
 冀朝鑄	ci jiau tsyu
 冉冉	zoe zoe
@@ -7214,7 +6905,6 @@
 再出去	tse tshyuq chi
 再加	tse ko
 再去	tse chi
-再問	tse ven
 再回去	tse wei chi
 再大	tse dou
 再好也不過	tse hau gha paq kou
@@ -7244,6 +6934,7 @@
 再行	tse yin
 再說下去	tse syuq gho chi
 再講落去	tse kaon loq chi
+再話落去	tse wo loq chi
 再進去	tse cin chi
 再過去	tse kou chi
 再降	tse ciaon
@@ -7398,7 +7089,6 @@
 出乎意料	
 出乎意料之外	
 出乎預料	
-出乘	
 出了	
 出了事	
 出了月	
@@ -9044,9 +8734,6 @@
 勿施於人	
 包上去	
 包下去	
-包乘	
-包乘制	
-包乘組	
 包乾	
 包乾制	
 包二奶	
@@ -9375,8 +9062,6 @@
 十集	
 十面埋伏	
 十頂	
-千乘	
-千乘萬騎	
 千了百當	
 千人	
 千人所指	
@@ -9605,45 +9290,11 @@
 博物洽聞	
 博識洽聞	
 卜人	
-卜卜	
-卜卜米	
-卜占	
-卜吉	
-卜商	
-卜問	
-卜夜卜晝	
-卜威廉	
-卜婿	
 卜學亮	
-卜宅	
-卜居	
-卜年	
-卜度	
-卜式	
-卜征	
 卜日	
 卜易	
-卜晝卜夜	
-卜甲	
-卜睿哲	
-卜祝	
-卜筮	
-卜筮官	
-卜算	
-卜算子	
-卜築	
-卜老	
-卜者	
-卜舫濟	
-卜蜂	
-卜辭	
-卜鄰	
-卜骨	
 占了卜	
 占人	
-占卜	
-占卜師	
-占卜術	
 占夢	
 占星學	
 占星家	
@@ -10426,7 +10077,6 @@
 叫了	
 叫人	
 叫個	
-叫停	
 叫出去	
 叫去	
 叫啥	
@@ -10446,8 +10096,6 @@
 可上去	
 可下去	
 可不行	
-可乘	
-可乘之機	
 可也	
 可也沒	
 可也沒有	
@@ -10462,7 +10110,6 @@
 可以申請	
 可供參考	
 可信任	
-可停	
 可傳	
 可先去	
 可免於	
@@ -10719,10 +10366,7 @@
 吉人	
 吉人天相	
 吉凶未卜	
-吉卜力工作室	
-吉卜賽	
 吉卜賽人	
-吉卜齡	
 吉大	
 吉大港	
 吉姆	
@@ -12053,7 +11697,6 @@
 喊下去	
 喊了	
 喊來喊去	
-喊停	
 喊出去	
 喊回去	
 喊着	
@@ -12747,7 +12390,6 @@
 因人成事	
 因人而異	
 因公請假	
-因利乘便	
 因小失大	
 因式分解	
 因故未來	
@@ -12761,7 +12403,6 @@
 因病請假	
 因紐特人	
 因素分析	
-因雨暫停	
 囡仔	
 困了	
 困人	
@@ -13263,7 +12904,6 @@
 地廣人稀	
 地拉那	
 地政事務所	
-地方停車	
 地方分權	
 地方自治	
 地毯式轟炸	
@@ -14171,7 +13811,6 @@
 夢中的	
 夢兆	
 夢到	
-夢卜	
 夢周公	
 夢囈	
 夢園	
@@ -16422,7 +16061,6 @@
 奮鬥不懈	
 女主人	
 女主人公	
-女乘務員	
 女人來自金星	
 女人味	
 女人心	
@@ -16542,7 +16180,6 @@
 好個	
 好借好還再借不難	
 好假	
-好停	
 好傢伙	
 好兒女	
 好兒子	
@@ -18082,7 +17719,6 @@
 將伯之助	
 將假當真	
 將出去	
-將占卜	
 將去	
 將回去	
 將從	
@@ -18227,7 +17863,6 @@
 小丑魚	
 小主人	
 小主教	
-小乘	
 小乘佛教	
 小了	
 小事化了	
@@ -20552,7 +20187,6 @@
 心驚膽戰	
 心髒死亡	
 心魄	
-必停	
 必和必拓	
 必學	
 必從	
@@ -21470,7 +21104,6 @@
 成行	
 成親之日	
 成都人	
-成都賣卜	
 成都體育大學	
 成長	
 成長性	
@@ -23695,13 +23328,11 @@
 揚長避短	
 換上去	
 換下去	
-換乘	
 換了	
 換交	
 換人	
 換來換去	
 換個	
-換停	
 換出去	
 換去	
 換口味	
@@ -23769,14 +23400,12 @@
 搔頭摸耳	
 搖了	
 搖了一下	
-搖動不停	
 搖尾	
 搖尾乞憐	
 搖尾巴	
 搖搖欲墜	
 搖擺樂	
 搖旗吶喊	
-搖晃不停	
 搖曳生姿	
 搖椅	
 搖滾樂	
@@ -23818,7 +23447,7 @@
 搬石頭砸自己的腳	
 搬起石頭砸自己的腳	
 搭上去	
-搭乘	
+搭趁	
 搭來搭去	
 搭個	
 搭咕	
@@ -24310,7 +23939,7 @@
 收集情報	
 收養人	
 改不了	
-改乘	
+改趁	
 改了	
 改了又改	
 改任	
@@ -25460,7 +25089,6 @@
 日增	
 日夕	
 日夜	
-日夜不停	
 日夜不分	
 日夜兼程	
 日媒	
@@ -26202,10 +25830,6 @@
 暢通無阻	
 暨南大學	
 暨大	
-暫停	
-暫停比賽	
-暫停營業	
-暫停鈕	
 暫擱	
 暫於	
 暫時沒有	
@@ -26565,7 +26189,6 @@
 最大規模	
 最大速率	
 最大限度	
-最小二乘	
 最小公分母	
 最小範圍	
 最差	
@@ -26611,9 +26234,7 @@
 會乾脆	
 會乾裂	
 會了	
-會佔卜	
 會個	
-會停	
 會出去	
 會分	
 會加	
@@ -26778,7 +26399,6 @@
 有樣學樣	
 有機分子	
 有機化學	
-有機可乘	
 有殼蝸牛	
 有氣沒力	
 有氣無力	
@@ -26842,7 +26462,6 @@
 有限責任	
 有限責任公司	
 有限集	
-有隙可乘	
 有頭有尾	
 有頭無尾	
 有驚無險	
@@ -27442,7 +27061,6 @@
 李克昂	
 李劼人	
 李千娜	
-李卜克內西	
 李嘉欣	
 李嘉誠	
 李大同	
@@ -27644,8 +27262,6 @@
 林蔭大道	
 林覺民	
 林間	
-枚乘	
-枚卜	
 枚金牌	
 果乾	
 果仁	
@@ -28339,7 +27955,6 @@
 樹大根深	
 樹德家商	
 樹德科技大學	
-樹欲息而風不停	
 樹狀	
 樹狀細胞	
 樹碑立傳	
@@ -31301,7 +30916,6 @@
 涇渭不分	
 涇渭分明	
 消了	
-消停	
 消化率	
 消去	
 消失下去	
@@ -31311,7 +30925,6 @@
 消毒水	
 消毒藥水	
 消沈	
-消消停停	
 消磨時間	
 消耗戰	
 消解	
@@ -32062,8 +31675,6 @@
 漱口水	
 漱口藥水	
 漲了	
-漲停	
-漲停板	
 漲回去	
 漲大	
 漲大起來	
@@ -32790,7 +32401,6 @@
 無機	
 無機化合物	
 無機化學	
-無機可乘	
 無機物	
 無機肥料	
 無機酸	
@@ -33125,7 +32735,6 @@
 無限小數	
 無限期	
 無限風光在險峯	
-無隙可乘	
 無際	
 無障礙	
 無雙	
@@ -35245,7 +34854,6 @@
 留級生	
 留美同學會	
 留美學生	
-留職停薪	
 留芳後世	
 留芳百世	
 留連忘返	
@@ -35731,7 +35339,6 @@
 白鵠	
 白鼻子	
 百世	
-百乘	
 百了	
 百了千當	
 百事可樂	
@@ -36078,7 +35685,6 @@
 直言無隱	
 直諫	
 直道而行	
-相乘	
 相互之間	
 相互間	
 相交	
@@ -37007,7 +36613,6 @@
 祭神大典	
 祿勸彝族苗族自治縣	
 禁止令行	
-禁止停車	
 禁止通行	
 禁治產人	
 禁獵	
@@ -37390,7 +36995,6 @@
 空中核爆炸	
 空中飄浮	
 空中飛人	
-空乘	
 空了	
 空個	
 空前未有	
@@ -38976,7 +38580,6 @@
 羅馬教廷	
 羅馬教會	
 羈繫	
-羊卜	
 羊奶	
 羊奶粉	
 羊毛狀	
@@ -39899,7 +39502,6 @@
 胡吹	
 胡吹亂捧	
 胡吹大氣	
-胡夢卜	
 胡子昂	
 胡學東	
 胡拉混扯	
@@ -41684,9 +41286,6 @@
 萬世	
 萬世一時	
 萬世師表	
-萬乘	
-萬乘之國	
-萬乘之尊	
 萬事大吉	
 萬事皆休	
 萬事皆備	
@@ -43170,7 +42769,6 @@
 要加強	
 要加牛奶	
 要務	
-要占卜	
 要去	
 要和	
 要問	
@@ -44229,10 +43827,7 @@
 調任	
 調來調去	
 調個	
-調停	
 調停人	
-調停法	
-調停者	
 調出去	
 調制解調器	
 調去	
@@ -44684,9 +44279,7 @@
 貝爾湖	
 貝爾莫潘	
 貝里拉	
-貞卜文字	
 貞節牌坊	
-負乘致寇	
 負分	
 負利率	
 負增長	
@@ -44756,7 +44349,6 @@
 貧賤	
 貧賤不能移	
 貧賤夫妻百事哀	
-貨卜	
 貨單	
 貨架	
 貨架子	
@@ -45081,7 +44673,6 @@
 賣個破綻	
 賣光了	
 賣出去	
-賣卜	
 賣單	
 賣家	
 賣着	
@@ -45308,7 +44899,6 @@
 走背字	
 走自己的路	
 走讀生	
-走走停停	
 走進去	
 走過去	
 走頭無路	
@@ -45385,7 +44975,6 @@
 越大	
 越戰	
 越活越回去	
-越站不停	
 越長	
 越雷池一步	
 趔趄	
@@ -45438,8 +45027,6 @@
 跌了	
 跌交	
 跌來跌去	
-跌停	
-跌停板	
 跌宕	
 跌宕昭彰	
 跌宕起伏	
@@ -45731,7 +45318,6 @@
 躺着	
 躺進去	
 躺過去	
-車停	
 車到山前自有路	
 車尾	
 車展	
@@ -45914,6 +45500,7 @@
 轉下去	
 轉世	
 轉乘	
+轉趁	
 轉了	
 轉交	
 轉任	
@@ -46427,8 +46014,6 @@
 逢集	
 連上去	
 連下去	
-連乘	
-連乘積	
 連了	
 連人	
 連任	
@@ -46655,7 +46240,6 @@
 過當防衛	
 過目不忘	
 過着	
-過站不停	
 過耳秋風	
 過街老鼠人人喊打	
 過路人	
@@ -47287,7 +46871,6 @@
 都下去	
 都伯林	
 都出去	
-都卜勒	
 都去	
 都受了	
 都回去	
@@ -47456,8 +47039,6 @@
 醫務兵	
 醫務室	
 醫務所	
-醫卜	
-醫卜星相	
 醫大	
 醫學	
 醫學中心	
@@ -47914,7 +47495,6 @@
 錯過去	
 錯雜	
 錯雜在	
-錶停	
 錶行	
 鍊墜	
 鍊甲	
@@ -47943,7 +47523,6 @@
 鏡架	
 鏡花水月	
 鐘不敲不響	
-鐘停	
 鐘太	
 鐘差	
 鐘敲	
@@ -47952,7 +47531,6 @@
 鐘沒	
 鐘行	
 鐘被	
-鐘錶停	
 鐘錶行	
 鐘頂	
 鐘鼎之家	
@@ -48653,8 +48231,6 @@
 關係着	
 關係融洽	
 關個	
-關停	
-關停並轉	
 關回去	
 關島大學	
 關嶺布依族苗族自治縣	
@@ -50644,7 +50220,6 @@
 韻味	
 韻尾	
 響了	
-響卜	
 響尾蛇	
 響應時間	
 響水	
@@ -50803,7 +50378,6 @@
 頎長	
 預備役軍人	
 預分	
-預卜	
 預展	
 預習	
 預習功課	
@@ -51085,7 +50659,6 @@
 飛鳥時代	
 飛鳥盡良弓藏	
 飛鴿傳書	
-飛龍乘雲	
 食不甘味	
 食不知味	
 食之無味	
@@ -51302,7 +50875,6 @@
 香醇美味	
 香魚	
 馬上去	
-馬不停蹄	
 馬乾	
 馬仰人翻	
 馬伯樂	
@@ -51467,7 +51039,6 @@
 騁馳	
 騎上去	
 騎下去	
-騎乘	
 騎了	
 騎來騎去	
 騎出去	
@@ -51510,7 +51081,6 @@
 騷攪	
 騷驢	
 騾馬大車	
-驂乘	
 驅動之家	
 驅馳	
 驅鬼	
@@ -52083,7 +51653,6 @@
 鱷魚眼淚	
 鳥不生蛋	
 鳥人	
-鳥卜	
 鳥卵	
 鳥叫	
 鳥叫聲	
@@ -52616,7 +52185,6 @@
 龔自珍	
 龜兆	
 龜公	
-龜卜	
 龜尾市	
 龜山	
 龜山島	
