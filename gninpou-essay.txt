@@ -248,7 +248,6 @@
 一集	iq jiq
 一霎間	iq saq ci
 一面之交	iq mi tsy ciau
-一頂	iq tin
 一頭撞煞	iq deu dzaon saq
 一頭霧水	iq deu vu syu
 一頭霧水	iq deu Wu syu
@@ -1721,7 +1720,7 @@
 中國文學藝術界聯合會	tson koq ven yuq gni zyuq ka li ghaq wei
 中國日報	tson koq zyuq pau
 中國最大	tson koq tsei da
-中國頂大	tson koq tin da
+中國頂大	tson koq tin dou
 中國未來	tson koq vi le
 中國殘疾人聯合會	tson koq dzae jiq gnin li ghaq wei
 中國法學會	tson koq faq yuq wei
@@ -1880,7 +1879,6 @@
 丹尼爾克雷格	tae gni er khaq lei kaq
 丹尼爾雷德克里夫	tae gni er lei taq khaq li fu
 丹瑞大將	tae zei da cian
-丹頂鶴	tae tin ngoq
 丹魄	tae phaq
 丹麥人	tae maq gnin
 主人	tsyu gnin
@@ -2298,7 +2296,7 @@
 垃圾亂揞	laq saq loe an
 垃圾亂揞	laq saq loe khan
 亂交	loe ciau
-亂來亂去	loe le loe chiu
+亂來亂去	loe le loe chi
 亂倒垃圾	loe tau la shi
 垃圾亂倒	la shi loe tau
 亂倒垃圾	loe tau laq saq
@@ -2356,7 +2354,6 @@
 事假	zy ko
 事務長	zy vu cian
 事務長	zy Wu cian
-事危累卵	zy wei lei loe
 事業家	zy gniq cia
 兩〇	lian lin
 兩〇〇九	lian lin lin cieu
@@ -2868,7 +2865,6 @@
 兩零零	lian lin lin
 兩面角	lian mi koq
 兩頁	lian yiq
-兩頂	lian ten
 二項式	gni ghaon shiq
 二項式係數	gni ghaon shiq shi su
 二項式定理	gni ghaon shiq din li
@@ -2990,8 +2986,6 @@
 五間	ng kae
 五陰世間	ng in syu ci
 五集	ng jiq
-五雷轟頂	ng lei hon tin
-五頂	ng tin
 五顏六色	ng ngae loq saq
 五馬分屍	ng mo fen sy
 五鬼	ng kuei
@@ -4094,8 +4088,6 @@
 以爾	yi ng
 以儂	yi nou
 以假亂真	yi cia loe cin
-以卵投石	yi loe deu zaq
-以卵擊石	yi loe ciq zaq
 以和爲貴	yi ghou wei kuei
 以埃	yi e
 以天下爲己任	yi thi gho wei ci zyun
@@ -5235,8 +5227,8 @@
 修身齊家	shieu shin ji cia
 修道人	shieu dau gnin
 修長	shieu jian
-俯下去	fu gho chiu
-俯落去	fu loq chiu
+俯下去	fu gho chi
+俯落去	fu loq chi
 俯仰之間	fu gnian tsy ci
 俯伏	fu voq
 俯拾皆是	fu zyuq cie zy
@@ -6081,7 +6073,6 @@
 僞學者	wei yuq tse
 僞朝	wei jiau
 僞科學	wei khou yuq
-僞頂	wei ten
 僧人	sen gnin
 僧加羅語	sen cia lou gniu
 僱人	ku gnin
@@ -6936,13 +6927,10 @@
 再進去	tse cin chi
 再過去	tse kou chi
 再降	tse ciaon
-再頂	tse tin
 冑甲	jieu ciaq
 冒上去	mau zaon chi
 冒了	mau lei
 冒了	mau laq
-冒名頂替	mau min tin thi
-冒名頂替者	mau min tin thi tse
 冒大不韙	mau da paq wei
 冒天下之大不韙	mau thi gho tsy da paq wei
 冒牌	mau ba
@@ -6958,7 +6946,6 @@
 冒勒危險	mau laq wei shi
 冒勒生命危險	mau laq sen min wei shi
 冒險家	mau shi cia
-冒頂	mau tin
 冗長	dzon jian
 冗長度	dzon jian du
 冗雜	dzon dzaq
@@ -7026,9 +7013,6 @@
 凍死	ton shi
 凍煞死	ton saq shi
 凍膠	ton ciau
-凍頂	ton tin
-凍頂烏龍	ton tin u lon
-凍頂烏龍茶	ton tin u lon dzo
 凝結水	gnin ciq syu
 凝膠	gnin ciau
 凝膠體	gnin ciau thi
@@ -7163,7 +7147,6 @@
 出資人	tshyuq tsy gnin
 出軌行爲	tshyuq kuei ghan wei
 出錘	tshyuq zei
-出頂	tshyuq tin
 出頭之日	tshyuq deu tsy zyuq
 出頭日子	tshyuq deu gniq tsy
 出頭鳥	tshyuq deu gniau
@@ -7752,8 +7735,8 @@
 初等教育	tshu ten ciau yuq
 初級中學	tshu ciq tson ghoq
 初級小學	tshu ciq shiau ghoq
-判下去	phun gho chiu
-判落去	phun loq chiu
+判下去	phun gho chi
+判落去	phun loq chi
 判分	phun fen
 判死罪	phun shi zei
 判若兩人	phun zhiaq lian gnin
@@ -7905,7 +7888,6 @@
 到職人員	tau ciq zyun yu
 到該	tau kiq
 到達大廳	tau daq da thin
-到頂	tau tin
 制伏	tsyu voq
 制水閥	tsyu syu vaq
 制禮作樂	tsyu li tsoq yuq
@@ -8180,7 +8162,7 @@
 加上去	ko zaon chi
 加下	ko gho
 加下來	ko gho le
-加下去	ko gho chiu
+加下去	ko gho chi
 加落	ko loq
 加落來	ko loq le
 加落去	ko loq chi
@@ -8625,867 +8607,839 @@
 務工人員	Wu kon zyun yu
 務農人家	vu non gnin ko
 務農人家	Wu non gnin ko
-勝了	
-勝仗	
-勝任	
-勝任愉快	
-勝任能力	
-勝利在望	
-勝敗乃兵家常事	
-勝於	
-勝朝	
-勝樂金剛	
-勝殘去殺	
-勝率	
-勝負乃兵家常事	
-勝造七級浮屠	
-勝過一個諸葛亮	
-勞動人民	
-勞動密集型	
-勞動工分	
-勞動教養	
-勞動日	
-勞動時間	
-勞動服務公司	
-勞動爭議	
-勞動生產力	
-勞動生產率	
-勞務	
-勞務出口	
-勞務派遣	
-勞務費	
-勞務輸出	
-勞埃德	
-勞心者治人	
-勞拉	
-勞拉西泮	
-勞教	
-勞教所	
-勞燕分飛	
-勞爾	
-勞而無功	
-募集	
-募集資金	
-勢力並行	
-勢力範圍	
-勢同水火	
-勢在必行	
-勢降	
-勤儉務實	
-勤儉持家	
-勤儉爲服務之本	
-勤儉起家	
-勤儉辦學	
-勤務	
-勤務兵	
-勤務員	
-勤學	
-勤學苦練	
-勤工儉學	
-勤工助學	
-勤於	
-勤謹	
-勤雜	
-勵行	
-勸世歌	
-勸出去	
-勸和	
-勸回去	
-勸學	
-勸學篇	
-勸教	
-勸架	
-勸解	
-勸諫	
-勸阻無效	
-勸降	
-勻溜	
-勾了	
-勾人	
-勾來勾去	
-勾去	
-勾肩搭背	
-勾過去	
-勾魂攝魄	
-勾魂蕩魄	
-勿忘	
-勿忘國恥	
-勿忘我	
-勿忘草	
-勿施於人	
-包上去	
-包下去	
-包乾	
-包乾制	
-包二奶	
-包去	
-包含着	
-包圍	
-包圍住	
-包圍圈	
-包圍着	
-包圍起來	
-包庇	
-包機去	
-包爾	
-包着	
-包紮着	
-包船去	
-包被	
-包裝材料	
-包車去	
-包間	
-匆促之間	
-匆促間	
-匆忙之間	
-匆忙間	
-匈奴人	
-匈牙利人	
-匈牙利大平原	
-匍伏	
-匏繫	
-匐伏	
-化了	
-化妝水	
-化學	
-化學作用	
-化學信息素	
-化學元素	
-化學公司	
-化學分析	
-化學劑	
-化學劑量計	
-化學反應	
-化學反應速度	
-化學合成	
-化學品	
-化學家	
-化學工廠	
-化學工業	
-化學工程	
-化學師	
-化學平衡	
-化學式	
-化學彈藥	
-化學性	
-化學性質	
-化學成分	
-化學戰	
-化學戰劑	
-化學戰爭	
-化學方程	
-化學方程式	
-化學武器	
-化學武器儲備	
-化學武器防護	
-化學比色法	
-化學治療	
-化學激光器	
-化學物	
-化學物質	
-化學當量	
-化學系	
-化學纖維	
-化學肥料	
-化學能	
-化學變化	
-化學鍵	
-化學電池	
-化學需氧量	
-化日	
-化生	
-化痰止咳	
-化糞池	
-化解	
-化隆回族自治縣	
-化驗單	
-北二高	
-北京中醫藥大學	
-北京人	
-北京人民大會堂	
-北京商務中心區	
-北京國家游泳中心	
-北京國家體育場	
-北京大學	
-北京工人體育場	
-北京工業大學	
-北京師範大學	
-北京教育學院	
-北京日報	
-北京時間	
-北京林業大學	
-北京烤鴨	
-北京物資學院	
-北京猿人	
-北京理工大學	
-北京產權交易所	
-北京科技大學	
-北京舞蹈學院	
-北京航空學院	
-北京航空航天大學	
-北京藝術學院	
-北京語言大學	
-北京語言學院	
-北京車展	
-北京銀行	
-北京電影學院	
-北京鴨	
-北人	
-北伐戰爭	
-北大	
-北大荒	
-北大西洋	
-北大西洋公約組織	
-北大青鳥	
-北宋四大部書	
-北川羌族自治縣	
-北市人	
-北師大	
-北平人	
-北從	
-北愛爾蘭	
-北戴河	
-北戴河區	
-北方人	
-北方民族大學	
-北朝	
-北朝鮮	
-北杜味拿河	
-北歐國家	
-北洋大學	
-北洋武備學堂	
-北洋水師	
-北海道人	
-北港人	
-北縣人	
-北藝大	
-北赤道洋流	
-北鎮滿族自治縣	
-北非國家	
-匝加利亞	
-匠人	
-匡時濟世	
-匪人	
-匪懈	
-匯出行	
-匯展	
-匯差	
-匯業財經集團	
-匯業銀行	
-匯款人	
-匯款單	
-匯水	
-匯率	
-匯率制	
-匯率差額	
-匯豐銀行	
-匯集點	
-匹夫懷璧	
-匹茲堡	
-匹馬單槍	
-匿於	
-區分	
-區分出	
-區分大小寫	
-區分法	
-區域發展	
-區域範圍	
-區域間	
-區長	
-區間	
-區間車	
-十一人	
-十一個	
-十一分	
-十一日	
-十一歲	
-十七人	
-十七個	
-十七分	
-十七大	
-十七日	
-十七歲	
-十三人	
-十三個	
-十三分	
-十三太保	
-十三日	
-十三歲	
-十三轍	
-十世	
-十世紀	
-十九世紀	
-十九人	
-十九個	
-十九分	
-十九日	
-十九歲	
-十二	
-十二人	
-十二個	
-十二元	
-十二分	
-十二分之一	
-十二因緣	
-十二地支	
-十二塊	
-十二天	
-十二宮	
-十二平均律	
-十二年	
-十二律	
-十二指腸	
-十二指腸蟲	
-十二支	
-十二日	
-十二星座	
-十二時辰	
-十二月份	
-十二木表法	
-十二條	
-十二樓	
-十二歲	
-十二生肖	
-十二碼	
-十二碼球	
-十二經	
-十二經脈	
-十二萬	
-十二萬分	
-十二處	
-十二號	
-十二角形	
-十二邊形	
-十二面體	
-十二點	
-十五人	
-十五個	
-十五個吊桶打水	
-十五分	
-十五日	
-十五歲	
-十人	
-十人份	
-十任	
-十來個	
-十來分	
-十個人	
-十個指頭有長短	
-十傳百	
-十克拉	
-十全老人	
-十八人	
-十八個	
-十八分	
-十八日	
-十八歲	
-十公分	
-十六人	
-十六個	
-十六分	
-十六分音符	
-十六大	
-十六日	
-十六歲	
-十分	
-十分之一	
-十分乾	
-十分寮	
-十分肯定	
-十分重要	
-十分鐘	
-十加侖	
-十四人	
-十四個	
-十四分	
-十四大	
-十四日	
-十四歲	
-十四行詩	
-十多人	
-十多分	
-十多歲	
-十大	
-十大塊	
-十大建設	
-十大類	
-十妹	
-十姊妹	
-十字架	
-十字架刑	
-十家	
-十幾二十	
-十幾人	
-十幾個	
-十幾個	
-十多兩月	
-十幾分	
-十幾歲	
-十拿九穩	
-十日	
-十日份	
-十日談	
-十月十日	
-十杯水	
-十架	
-十歲	
-十歲時	
-十甲	
-十萬人	
-十萬個	
-十萬分	
-十行	
-十行字	
-十行紙	
-十里長亭	
-十里長亭無客走	
-十間	
-十集	
-十面埋伏	
-十頂	
-千了百當	
-千人	
-千人所指	
-千伏	
-千個	
-千刀萬剮	
-千分	
-千分之	
-千分之一	
-千分之三	
-千分之二	
-千分尺	
-千分數	
-千分號	
-千分表	
-千分點	
-千古傳誦	
-千古未聞	
-千古流傳	
-千古罪人	
-千夫長	
-千家	
-千家姓	
-千家詩	
-千山萬水	
-千差萬別	
-千態萬狀	
-千斤頂	
-千日	
-千日紅	
-千日菊	
-千日酒	
-千歲	
-千歲一時	
-千牛	
-千牛刀	
-千狀萬態	
-千狀萬端	
-千生萬死	
-千畝	
-千秋大業	
-千秋萬世	
-千秋萬歲	
-千萬分之一	
-千變萬狀	
-千赫茲	
-千軍易得	
-千軍易得一將難求	
-千里之堤潰於蟻穴	
-千里之行	
-千里之行始於足下	
-千里搭長棚	
-千金之家	
-千錘百煉	
-千錘百鍊	
-千面人	
-千鳥	
-卅二	
-升上去	
-升了	
-升任	
-升任爲	
-升來升去	
-升回去	
-升學	
-升學主義	
-升學壓力	
-升學率	
-升學班	
-升學考試	
-升水	
-升降	
-升降梯	
-升降機	
-升降舵	
-升降記號	
-午覺	
-午間	
-午飯時間	
-午餐時間	
-半世	
-半世紀	
-半乾	
-半人馬	
-半人馬座	
-半個世紀	
-半個小時	
-半個月	
-半分	
-半分鐘	
-半半拉拉	
-半夜敲門心不驚	
-半大	
-半大不小	
-半家	
-半徑大小	
-半徑範圍	
-半拉	
-半拉子	
-半於	
-半日制	
-半日制學校	
-半日工作	
-半架	
-半歲	
-半死	
-半死不活	
-半無產階級	
-半無限	
-半生	
-半生不熟	
-半甲	
-半真半假	
-半睡眠狀態	
-半自動	
-半自動化	
-半自耕農	
-半路出家	
-半路殺出個程咬金	
-半長軸	
-半間不界	
-半集	
-半面之交	
-卑爾根	
-卑賤	
-卑鄙無恥	
-卒歲	
-卓柏卡布拉	
-卓爾不羣	
-卓著	
-協助人	
-協同作戰	
-協和	
-協和醫院	
-協方差	
-協會會長	
-協洽	
-協調世界時	
-協調人	
-協調發展	
-協辦人	
-協防	
-南丁格爾	
-南二中	
-南京人	
-南京大學	
-南京大屠殺	
-南京大屠殺事件	
-南京師範大學	
-南京理工大學	
-南京農業大學	
-南京郵電大學	
-南人	
-南北戰爭	
-南北朝	
-南北議和	
-南北長	
-南去	
-南和	
-南和縣	
-南喬治亞島和南桑威奇	
-南大	
-南宋人	
-南山人壽	
-南征北戰	
-南投人	
-南斯拉夫	
-南方人	
-南方大港	
-南朝	
-南朝宋	
-南朝梁	
-南朝陳	
-南朝鮮	
-南朝齊	
-南極大陸	
-南極老人星	
-南樂	
-南樂縣	
-南歐國家	
-南水北調	
-南洋國家	
-南洋理工大學	
-南海學園	
-南海縣人	
-南湖大山	
-南澗彝族自治縣	
-南澳大利亞州	
-南無	
-南無阿彌陀佛	
-南美國家	
-南自	
-南臺科技大學	
-南蠻	
-南行	
-南轅北轍	
-南長	
-南長區	
-南門二	
-南開大學	
-南非共和國	
-南非國家	
-南魚座	
-博世	
-博士學位	
-博士生	
-博士買驢	
-博大	
-博大精深	
-博學	
-博學多才	
-博學多聞	
-博帕爾	
-博採衆家之長	
-博採衆長	
-博斯普魯斯海峽	
-博易	
-博樂	
-博樂市	
-博洽	
-博爾塔拉蒙古自治州	
-博爾德	
-博爾赫斯	
-博爾頓	
-博物學家	
-博物洽聞	
-博識洽聞	
-卜人	
-卜學亮	
-卜日	
-卜易	
-占了卜	
-占人	
-占夢	
-占星學	
-占星家	
-卡介苗	
-卡內基梅隆大學	
-卡吧	
-卡啦	
-卡塔爾	
-卡布其諾咖啡	
-卡布瑞拉	
-卡布雷拉	
-卡拉	
-卡拉什尼科夫	
-卡拉奇	
-卡拉姆昌德	
-卡拉季奇	
-卡拉布里亞	
-卡拉揚	
-卡拉膠	
-卡拉馬佐夫兄弟	
-卡昂	
-卡桑德拉	
-卡樂星	
-卡死	
-卡波耶拉	
-卡洛娜	
-卡爾	
-卡爾加里	
-卡爾巴拉	
-卡爾德	
-卡爾德龍	
-卡爾扎伊	
-卡爾文	
-卡爾斯魯厄	
-卡爾頓	
-卡爾馬克思	
-卡片櫃	
-卡特彼勒公司	
-卡特爾	
-卡特里娜	
-卡納維拉爾角	
-卡納維爾角	
-卡美拉	
-卡薩布蘭加	
-卡西米爾效應	
-卡西莫夫	
-卡迪拉克	
-卡通世界	
-卯足了勁	
-印上去	
-印下去	
-印人	
-印來印去	
-印光大師	
-印出去	
-印刷人	
-印加	
-印加帝國	
-印地安人	
-印地安納大學	
-印尼人	
-印度人	
-印度人民黨	
-印度國大黨	
-印度大平原	
-印度教	
-印度教徒	
-印度音樂	
-印度鬼椒	
-印歐人	
-印江土家族苗族自治縣	
-印着	
-印第安人	
-印累綬若	
-印行	
-印過去	
-印鼻	
-危地馬拉	
-危地馬拉人	
-危如朝露	
-危如累卵	
-危崖	
-危於	
-危於累卵	
-危機四伏	
-危而不持	
-危若	
-危若朝露	
-危若累卵	
-危重病人	
-即日	
-即日起	
-即期外匯交易	
-即溶咖啡	
-即若	
-即行	
-卵圓	
-卵圓形	
-卵圓窗	
-卵塊	
-卵巢	
-卵巢囊腫	
-卵巢癌	
-卵巢窩	
-卵形	
-卵核	
-卵模	
-卵殼	
-卵母細胞	
-卵泡	
-卵生	
-卵白	
-卵石	
-卵磷脂	
-卵管	
-卵細胞	
-卵翼	
-卵翼之下	
-卵胎生	
-卵與石鬥	
-卵裂	
-卵黃囊	
-卵黃管	
-卵黃腺	
-卷懷	
-卷甲	
-卷耳	
-卷阿	
-卸下去	
-卸了	
-卸任	
-卸去	
-卸磨殺驢	
-卸進去	
-卸過去	
-卻也	
-卻回去	
-卻沒	
-卻沒有	
-卻沒能	
-卻無	
-卻被	
-卻還	
-卿大夫	
-厄爾尼諾	
-厄爾尼諾現象	
-厄爾布魯士	
-厄瓜多爾	
-厚人薄己	
-厚己薄人	
-厚彼薄此	
-厚望	
-厚此薄彼	
-厚死薄生	
-厚生	
-厚生勞動省	
-厚生相	
-厚生省	
-厚着	
-厚着臉皮	
-厚顏	
-厚顏無恥	
-厚黑學	
-原人	
-原任	
-原南斯拉夫	
-原告人	
-原味	
-原單	
-原單位	
-原因分析	
-原因無他	
-原始人	
-原始佛教	
-原子學	
-原子科學家	
-原從	
-原於	
-原材料	
-原核生物	
-原核生物界	
-原核細胞型微生物	
-原水	
-原汁原味	
-原無	
-原爆	
-原爆點	
-原狀	
-原班人馬	
-原生	
-原生動物	
-原生態	
-原生暈	
-原生生物	
-原生質	
-原發性進行性失語	
-原自	
-原著	
-原著者	
-原被告	
-原鄉人	
-原電池	
-厭世	
-厭學	
-厭戰	
-厭戰心理	
-厲娜	
-厲行	
-厲行節約	
-厲鬼	
+勝仗	shin cian
+勝任	shin zyun
+勝任愉快	shin zyun yu khua
+勝任能力	shin zyun nen liq
+勝利在望	shin li dze vaon
+勝敗乃兵家常事	shin ba nae pin cia dzaon zy
+勝朝	shin jiau
+勝樂金剛	shin loq cin kaon
+勝殘去殺	shin dzae chiu saq
+勝率	shin liq
+勝負乃兵家常事	shin veu nae pin cia dzaon zy
+勝造七級浮屠	shin zau chiq ciq vu du
+勝過一個諸葛亮	shin kou iq goq tsyu kaq lian
+勝過一個諸葛亮	shin kou iq ghoq tsyu kaq lian
+勞動人民	lau don zyun min
+勞動密集型	lau don miq jiq yin
+勞動工分	lau don kon fen
+勞動教養	lau don ciau ian
+勞動日	lau don gniq
+勞動時間	lau don zy ci
+勞動爭議	lau don tsen gni
+勞動生產力	lau don sen tshae liq
+勞動生產率	lau don sen tshae liq
+勞埃德	lau e taq
+勞拉	lau lha
+勞拉西泮	lau lha shi phun
+勞教	lau ciau
+勞教所	lau ciau so
+勞燕分飛	lau i fen fi
+勞爾	lau er
+募集	mou jiq
+募集資金	mou jiq tsy cin
+勢力並行	syu liq bin yin
+勢力範圍	syu liq vae wei
+勢同水火	syu don syu hou
+勢在必行	syu dze piq yin
+勢降	syu ghaon
+勤儉持家	jin ji dzy cia
+勤儉持家	jin ji ji cia
+勤儉起家	jin ji chi cia
+勤儉辦學	jin ji bae yuq
+勤學	jin yuq
+勤學苦練	jin yuq khu li
+勤工儉學	jin kon ji yuq
+勤工助學	jin kon dzu yuq
+勤謹	jin cin
+勤雜	jin dzaq
+勵行	li yin
+勸世歌	chiu syu kou
+勸出去	chiu tshyuq chi
+勸和	chiu ghou
+勸回去	chiu wei chi
+勸學	chiu yuq
+勸學篇	chiu yuq phi
+勸教	chiu ciau
+勸架	chiu ko
+勸解	chiu ka
+勸解	chiu cia
+勸諫	chiu ci
+勸降	chiu ghaon
+勾了	keu laq
+勾人	keu gnin
+勾來勾去	keu le keu chi
+勾去	keu chi
+勾肩搭背	keu ci taq pei
+勾過去	keu kou chi
+勾魂攝魄	keu wen shiq phaq
+勾魂蕩魄	keu wen daon phaq
+勿忘	vaq vaon
+勿忘國恥	vaq vaon koq tshyu
+勿忘我	vaq vaon ngo
+勿忘草	vaq vaon tshau
+包上去	pau zaon chi
+包下去	pau gho chi
+包落去	pau loq chi
+包乾	pau kI
+包乾制	pau kI tsyu
+包二奶	pau er na
+包去	pau chi
+包含着	pau ghEI dzoq
+包含着	pau ghEI zyuq
+包圍	pau wei
+包圍住	pau wei dzyu
+包圍圈	pau wei chiu
+包圍着	pau wei dzoq
+包圍着	pau wei zyuq
+包圍起來	pau wei chi le
+包庇	pau pi
+包機去	pau ci chi
+包爾	pau er
+包着	pau dzoq
+包着	pau zyuq
+包紮着	pau tsaq dzoq
+包紮着	pau tsaq zyuq
+包船去	pau ZOE chi
+包被	pau bi
+包裝材料	pau tsaon dze liau
+包車去	pau tsho chi
+包間	pau kae
+匆促之間	tshon tshoq tsy ci
+匆促間	tshon tshoq ci
+匆忙之間	tshon maon tsy ci
+匆忙間	tshon maon ci
+匈奴人	shion nu gnin
+匈牙利人	shion ngo li gnin
+匈牙利大平原	shion ngo li da bin gniu
+匍伏	bu voq
+匏繫	bau shi
+匐伏	boq voq
+化了	huo laq
+化了	huo lei
+化妝水	huo tsaon syu
+化學	huo yuq
+化學作用	huo yuq tsoq yon
+化學信息素	huo yuq shin shiq su
+化學元素	huo yuq gniu su
+化學公司	huo yuq kon sy
+化學分析	huo yuq fen shiq
+化學劑	huo yuq ci
+化學劑量計	huo yuq ci lian ci
+化學反應	huo yuq fae in
+化學反應速度	huo yuq fae in soq du
+化學合成	huo yuq ghaq jin
+化學品	huo yuq phin
+化學家	huo yuq cia
+化學工廠	huo yuq kon chian
+化學工業	huo yuq kon gniq
+化學工程	huo yuq kon jin
+化學師	huo yuq sy
+化學平衡	huo yuq bin ghen
+化學式	huo yuq shiq
+化學彈藥	huo yuq dae yaq
+化學性	huo yuq shin
+化學性質	huo yuq shin ciq
+化學成分	huo yuq jin ven
+化學戰	huo yuq ci
+化學戰劑	huo yuq ci ci
+化學戰爭	huo yuq ci tsen
+化學戰	huo yuq tsoe
+化學戰劑	huo yuq tsoe ci
+化學戰爭	huo yuq tsoe tsen
+化學方程	huo yuq faon jin
+化學方程式	huo yuq faon jin shiq
+化學武器	huo yuq Wu chi
+化學武器儲備	huo yuq Wu chi zyu bei
+化學武器防護	huo yuq Wu chi vaon wu
+化學比色法	huo yuq pi saq faq
+化學治療	huo yuq dzyu liau
+化學激光器	huo yuq ciq kuaon chi
+化學物	huo yuq vaq
+化學物質	huo yuq vaq ciq
+化學當量	huo yuq taon lian
+化學系	huo yuq shi
+化學纖維	huo yuq shi vi
+化學肥料	huo yuq vi liau
+化學能	huo yuq nen
+化學變化	huo yuq pi huo
+化學鍵	huo yuq ji
+化學電池	huo yuq di ji
+化學需氧量	huo yuq syu yan lian
+化日	huo gniq
+化痰止咳	huo dae tsy khaq
+化解	huo cia
+化隆回族自治縣	huo lon wei dzoq zy dzyu yu
+化驗單	huo nE tae
+北二高	poq gni kau
+北京中醫藥大學	poq cin tson i yaq da ghoq
+北京人	poq cin gnin
+北京人民大會堂	poq cin zyun min da wei daon
+北京國家游泳中心	poq cin koq cia yeu ion tson shin
+北京國家體育場	poq cin koq cia thi yuq jian
+北京大學	poq cin da ghoq
+北京工人體育場	poq cin kon gnin thi yuq jian
+北京工業大學	poq cin kon gniq da ghoq
+北京師範大學	poq cin sy vae da ghoq
+北京教育學院	poq cin ciau yuq yuq yu
+北京教育學院	poq cin ciau yuq ghoq yu
+北京日報	poq cin zyuq pau
+北京時間	poq cin zy ci
+北京林業大學	poq cin lin gniq da ghoq
+北京烤鴨	poq cin khau aq
+北京猿人	poq cin yu gnin
+北京理工大學	poq cin li kon da ghoq
+北京產權交易所	poq cin tshae jiu ciau yiq so
+北京科技大學	poq cin khou ji da ghoq
+北京航空航天大學	poq cin ghaon khon ghaon thi da ghoq
+北京語言大學	poq cin gniu yi da ghoq
+北京車展	poq cin tsho tsoe
+北京銀行	poq cin gnin ghaon
+北京鴨	poq cin ae
+北人	poq gnin
+北伐戰爭	poq vaq ci tsen
+北伐戰爭	poq vaq tsoe tsen
+北大	poq da
+北大荒	poq da huaon
+北大西洋	poq da shi yan
+北大西洋公約組織	poq da shi yan kon iaq tsu ciq
+北大青鳥	poq da chin gniau
+北宋四大部書	poq son sy da bu syu
+北川羌族自治縣	poq tshoe chian dzoq zy dzyu yu
+北市人	poq zy gnin
+北師大	poq sy da
+北平人	poq bin gnin
+北從	poq dzon
+北愛爾蘭	poq e er lae
+北戴河	poq te ghou
+北戴河區	poq te ghou chiu
+北方人	poq faon gnin
+北方民族大學	poq faon min dzoq da ghoq
+北朝	poq jiau
+北朝鮮	poq jiau shi
+北杜味拿河	poq du vi na ghou
+北歐國家	poq eu koq cia
+北洋大學	poq yan da ghoq
+北洋武備學堂	poq yan Wu bei ghoq daon
+北洋水師	poq yan syu sy
+北海道人	poq he dau gnin
+北港人	poq kaon gnin
+北縣人	poq yu gnin
+北藝大	poq gni da
+北赤道洋流	poq chiq dau yan lieu
+北鎮滿族自治縣	poq tsyun mun dzoq zy dzyu yu
+北非國家	poq fi koq cia
+匝加利亞	tsaq cia li ia
+匠人	zhian gnin
+匡時濟世	khuaon zy ci syu
+匪人	fi gnin
+匪懈	fi ye
+匯出行	wei tshyuq ghaon
+匯差	wei tsha
+匯業財經集團	wei gniq dze cin jiq doe
+匯業銀行	wei gniq gnin ghaon
+匯款人	wei khun gnin
+匯款單	wei khun tae
+匯水	wei syu
+匯率	wei liq
+匯率制	wei liq tsyu
+匯率差額	wei liq tsha ngaq
+匯豐銀行	wei fon gnin ghaon
+匯集點	wei jiq ti
+匹夫懷璧	phiq fu wae piq
+匹茲堡	phiq tsy pau
+匿於	gniq yu
+區分	chiu fen
+區分出	chiu fen tshyuq
+區分大小寫	chiu fen dou shiau shia
+區分法	chiu fen faq
+區域範圍	chiu yuq vae wei
+區域間	chiu yuq ci
+區長	chiu cian
+區間	chiu ci
+區間車	chiu ci tsho
+十一人	zyuq iq gnin
+十一個	zyuq iq goq
+十一個	zyuq iq ghoq
+十一個月	zyuq iq kou yuq
+十一分	zyuq iq fen
+十一日	zyuq iq gniq
+十一歲	zyuq iq syu
+十七人	zyuq chiq gnin
+十七個	zyuq chiq goq
+十七個	zyuq chiq ghoq
+十七個月	zyuq chiq kou yuq
+十七分	zyuq chiq fen
+十七大	zyuq chiq da
+十七日	zyuq chiq gniq
+十七歲	zyuq chiq syu
+十三人	zyuq sae gnin
+十三個	zyuq sae goq
+十三個	zyuq sae ghoq
+十三個月	zyuq sae kou yuq
+十三分	zyuq sae fen
+十三太保	zyuq sae tha pau
+十三日	zyuq sae gniq
+十三歲	zyuq sae syu
+十三轍	zyuq sae ciq
+十世	zyuq shi
+十世紀	zyuq syu ci
+十九世紀	zyuq cieu syu ci
+十九人	zyuq cieu gnin
+十九個	zyuq cieu goq
+十九個	zyuq cieu ghoq
+十九個月	zyuq cieu kou yuq
+十九分	zyuq cieu fen
+十九日	zyuq cieu gniq
+十九歲	zyuq cieu syu
+十二	zyuq gni
+十二人	zyuq gni gnin
+十二個	zyuq gni goq
+十二個	zyuq gni ghoq
+十二個	zyuq gni kou
+十二元	zyuq gni gniu
+十二分	zyuq gni fen
+十二分之一	zyuq gni fen tsy iq
+十二因緣	zyuq gni in yu
+十二地支	zyuq gni di tsy
+十二塊	zyuq gni khuei
+十二天	zyuq gni thi
+十二宮	zyuq gni kon
+十二平均律	zyuq gni bin ciun liq
+十二年	zyuq gni gni
+十二律	zyuq gni liq
+十二指腸	zyuq gni tsy jian
+十二指腸蟲	zyuq gni tsy jian dzon
+十二支	zyuq gni tsy
+十二支	zyuq gni tsyu
+十二日	zyuq gni gniq
+十二星座	zyuq gni shin zou
+十二時辰	zyuq gni zy zyun
+十二月份	zyuq gni yuq ven
+十二木表法	zyuq gni moq piau faq
+十二條	zyuq gni diau
+十二樓	zyuq gni leu
+十二歲	zyuq gni syu
+十二生肖	zyuq gni sen shiau
+十二碼	zyuq gni mo
+十二碼球	zyuq gni mo jieu
+十二經	zyuq gni cin
+十二經脈	zyuq gni cin maq
+十二萬	zyuq gni vae
+十二萬分	zyuq gni vae fen
+十二處	zyuq gni tshyu
+十二號	zyuq gni ghau
+十二角形	zyuq gni koq yin
+十二邊形	zyuq gni pi yin
+十二面體	zyuq gni mi thi
+十二點	zyuq gni ti
+十五人	zyuq ng gnin
+十五個	zyuq ng goq
+十五個	zyuq ng ghoq
+十五個月	zyuq ng kou yuq
+十五個吊桶打水	zyuq ng kou tiau don tan syu
+十五分	zyuq ng fen
+十五日	zyuq ng gniq
+十五歲	zyuq ng syu
+十人	zyuq gnin
+十人份	zyuq gnin ven
+十來個	zyuq le goq
+十來個	zyuq le ghoq
+十來分	zyuq le fen
+十個人	zyuq goq zyun
+十個人	zyuq ghoq zyun
+十個指頭有長短	zyuq goq tsy deu yeu jian toe
+十個指頭有長短	zyuq ghoq tsy deu yeu jian toe
+十傳百	zyuq dzOE paq
+十克拉	zyuq khaq lha
+十全老人	zyuq dzoe lau gnin
+十八人	zyuq paq gnin
+十八個	zyuq paq goq
+十八個	zyuq paq ghoq
+十八個月	zyuq paq kou yuq
+十八分	zyuq paq fen
+十八日	zyuq paq gniq
+十八歲	zyuq paq syu
+十公分	zyuq kon fen
+十六人	zyuq loq gnin
+十六個	zyuq loq goq
+十六個	zyuq loq ghoq
+十六個月	zyuq loq kou yuq
+十六分	zyuq loq fen
+十六分音符	zyuq loq fen in vu
+十六大	zyuq loq da
+十六日	zyuq loq gniq
+十六歲	zyuq loq syu
+十分	zyuq fen
+十分之一	zyuq fen tsy iq
+十分乾	zyuq fen kI
+交關燥	ciau kuae sau
+十分寮	zyuq fen liau
+十分肯定	zyuq fen khen din
+十分重要	zyuq fen dzon iau
+十分鐘	zyuq fen tson
+十加侖	zyuq cia len
+十四人	zyuq sy gnin
+十四個	zyuq sy goq
+十四個	zyuq sy ghoq
+十四個月	zyuq sy kou yuq
+十四分	zyuq sy fen
+十四大	zyuq sy da
+十四日	zyuq sy gniq
+十四歲	zyuq sy syu
+十四行詩	zyuq sy ghaon sy
+十多人	zyuq tou gnin
+十多兩人	zyuq tou lian gnin
+十多分	zyuq tou fen
+十多兩分	zyuq tou lian fen
+十多歲	zyuq tou syu
+十多兩歲	zyuq tou lian syu
+十大	zyuq da
+十大塊	zyuq da khuei
+十大建設	zyuq da ci shiq
+十大類	zyuq da lei
+十妹	zyuq mei
+十姊妹	zyuq ci mei
+十字架	zyuq zy cia
+十字架刑	zyuq zy cia yin
+十家	zyuq ko
+十幾二十	zyuq ci er zyuq
+十幾人	zyuq ci gnin
+十幾個	zyuq ci goq
+十幾個	zyuq ci ghoq
+十多兩個	zyuq tou lian goq
+十多兩個	zyuq tou lian ghoq
+十多兩月	zyuq tou lian yuq
+十幾分	zyuq ci fen
+十幾歲	zyuq ci syu
+十拿九穩	zyuq na cieu uen
+十日	zyuq gniq
+十日份	zyuq gniq ven
+十日談	zyuq gniq dae
+十月十日	zyuq yuq zyuq gniq
+十月十號	zyuq yuq zyuq ghau
+十杯水	zyuq pei syu
+十歲	zyuq syu
+十歲時	zyuq syu zy
+十歲辰光	zyuq syu zyun kuaon
+十甲	zyuq ciaq
+十萬人	zyuq vae gnin
+十萬個	zyuq vae goq
+十萬個	zyuq vae ghoq
+十萬分	zyuq vae fen
+十行	zyuq ghaon
+十行字	zyuq ghaon zy
+十行紙	zyuq ghaon tsy
+十里長亭	zyuq li jian din
+十里長亭無客走	zyuq li jian din vu khaq tseu
+十里長亭無客走	zyuq li jian din Wu khaq tseu
+十間	zyuq kae
+十集	zyuq jiq
+十面埋伏	zyuq mi ma voq
+千了百當	chi liau paq taon
+千人	chi gnin
+千人所指	chi gnin so tsy
+千伏	chi voq
+千個	chi goq
+千個	chi ghoq
+千刀萬剮	chi tau vae kua
+千分	chi fen
+千分之	chi fen tsy
+千分之一	chi fen tsy iq
+千分之三	chi fen tsy sae
+千分之二	chi fen tsy gni
+千分尺	chi fen tshaq
+千分數	chi fen su
+千分號	chi fen ghau
+千分表	chi fen piau
+千分點	chi fen ti
+千古傳誦	chi ku dzOE dzon
+千古未聞	chi ku vi ven
+千古流傳	chi ku lieu dzOE
+千古罪人	chi ku zei gnin
+千夫長	chi fu cian
+千家	chi cia
+千家姓	chi cia shin
+千家詩	chi cia sy
+千山萬水	chi sae vae syu
+千態萬狀	chi the vae dzaon
+千日	chi gniq
+千日紅	chi gniq ghon
+千日菊	chi gniq ciuq
+千日酒	chi gniq cieu
+千歲	chi syu
+千歲一時	chi syu iq zy
+千牛	chi ngeu
+千牛刀	chi ngeu tau
+千狀萬態	chi dzaon vae the
+千狀萬端	chi dzaon vae toe
+千生萬死	chi sen vae sy
+千生萬死	chi san vae shi
+千畝	chi meu
+千秋大業	chi chieu da gniq
+千秋萬世	chi chieu vae syu
+千秋萬歲	chi chieu vae syu
+千萬分之一	chi vae fen tsy iq
+千變萬狀	chi pi vae dzaon
+千赫茲	chi haq tsy
+千軍易得	chi ciun yi taq
+千軍易得一將難求	chi ciun yi taq iq cian nae jieu
+千里之行	chi li tsy yin
+千里之行始於足下	chi li tsy yin sy yu tsoq gho
+千里搭長棚	chi li taq jian ban
+千金之家	chi cin tsy cia
+千錘百煉	chi zei paq li
+千錘百鍊	chi zei paq li
+千面人	chi mi gnin
+千鳥	chi gniau
+升上去	shin zaon chi
+升了	shin laq
+升任	shin zyun
+升任爲	shin zyun wei
+升來升去	shin le shin chi
+升回去	shin wei chi
+升學	shin ghoq
+升學主義	shin ghoq tsyu gni
+升學壓力	shin ghoq aq liq
+升學率	shin ghoq liq
+升學班	shin ghoq pae
+升學考試	shin ghoq khau sy
+升水	shin syu
+升降	shin ciaon
+升降梯	shin ciaon thi
+升降機	shin ciaon ci
+升降舵	shin ciaon dou
+升降記號	shin ciaon ci ghau
+午覺	wu ciau
+晝覺	cieu kau
+午間	wu ci
+午飯時間	wu vae zy ci
+午餐時間	wu tshae zy ci
+晝飯辰光	cieu vae zyun kuaon
+半世	pun shi
+半世紀	pun syu ci
+半乾	pun kI
+半個世紀	pun goq syu ci
+半個小時	pun goq shiau zy
+半個世紀	pun ghoq syu ci
+半個小時	pun ghoq shiau zy
+半個月	pun kou yuq
+半分	pun fen
+半分鐘	pun fen tson
+半半拉拉	pun pun lha lha
+半夜敲門心不驚	pun ya khau men shin paq cin
+半大	pun da
+半大不小	pun da paq shiau
+半家	pun cia
+半徑大小	pun cin dou shiau
+半徑範圍	pun cin vae wei
+半拉	pun lha
+半拉子	pun lha tsy
+半於	pun yu
+半日制	pun gniq tsyu
+半日制學校	pun gniq tsyu ghoq yau
+半日工作	pun gniq kon tsoq
+半架	pun ko
+半歲	pun syu
+半死	pun shi
+半死不活	pun shi paq waq
+半無產階級	pun vu tshae ka ciq
+半無產階級	pun Wu tshae ka ciq
+半無產階級	pun vu tshae cie ciq
+半無產階級	pun Wu tshae cie ciq
+半生	pun san
+半生不熟	pun san paq zoq
+半甲	pun ciaq
+半真半假	pun cin pun ko
+半睡眠狀態	pun zei mi dzaon the
+半自動	pun zy don
+半自動化	pun zy don huo
+半自耕農	pun zy kan non
+半路出家	pun lu tshyuq cia
+半路殺出個程咬金	pun lu saq tshyuq goq jin ngau cin
+半路殺出個程咬金	pun lu saq tshyuq ghoq jin ngau cin
+半長軸	pun jian jiuq
+半間不界	pun ci paq ka
+半集	pun jiq
+半面之交	pun mi tsy ciau
+卑爾根	pei er ken
+卒歲	tsaq sei
+卓柏卡布拉	tsoq paq kha pu lha
+卓爾不羣	tsoq er paq jiun
+卓著	tsoq tsyu
+協助人	yaq dzu gnin
+協和	yaq ghou
+協和醫院	yaq ghou i yu
+協方差	yaq faon tsha
+協會會長	yaq wei wei cian
+協洽	yaq chiaq
+協調世界時	yaq diau syu ka zy
+協調人	yaq diau gnin
+協辦人	yaq bae gnin
+協防	yaq vaon
+南丁格爾	nEI tin kaq er
+南二中	nEI gni tson
+南京人	nEI cin gnin
+南京大學	nEI cin da ghoq
+南京大屠殺	nEI cin da du saq
+南京大屠殺事件	nEI cin da du saq zy ji
+南京師範大學	nEI cin sy vae da ghoq
+南京理工大學	nEI cin li kon da ghoq
+南京農業大學	nEI cin non gniq da ghoq
+南京郵電大學	nEI cin yeu di da ghoq
+南人	nEI gnin
+南北戰爭	nEI poq ci tsen
+南北戰爭	nEI poq tsoe tsen
+南北朝	nEI poq jiau
+南北議和	nEI poq gni ghou
+南北長	nEI poq jian
+南去	nEI chi
+南和	nEI ghou
+南和縣	nEI ghou yu
+南喬治亞島和南桑威奇	nEI jiau dzyu ia tau ghou nEI saon uei ji
+南大	nEI da
+南宋人	nEI son gnin
+南山人壽	nEI sae zyun zhieu
+南投人	nEI deu gnin
+南斯拉夫	nEI sy lha fu
+南方人	nEI faon gnin
+南方大港	nEI faon da kaon
+南朝	nEI jiau
+南朝宋	nEI jiau son
+南朝梁	nEI jiau lian
+南朝陳	nEI jiau jin
+南朝鮮	nEI jiau shi
+南朝齊	nEI jiau ji
+南極大陸	nEI jiq da loq
+南樂	nEI loq
+南樂縣	nEI loq yu
+南歐國家	nEI eu koq cia
+南水北調	nEI syu poq diau
+南洋國家	nEI yan koq cia
+南洋理工大學	nEI yan li kon da ghoq
+南海學園	nEI he yuq yu
+南海縣人	nEI he yu gnin
+南湖大山	nEI wu da sae
+南澗彝族自治縣	nEI ci yi dzoq zy dzyu yu
+南澳大利亞州	nEI au da li ia cieu
+南無	na mo
+南無阿彌陀佛	na mo o mi dou vaq
+南美國家	nEI mei koq cia
+南自	nEI zy
+南臺科技大學	nEI de khou ji da ghoq
+南蠻	nEI mae
+南行	nEI yin
+南轅北轍	nEI yu poq ciq
+南長	nEI jian
+南長區	nEI jian chiu
+南門二	nEI men er
+南開大學	nEI khe da ghoq
+南非共和國	nEI fi gon ghou koq
+南非國家	nEI fi koq cia
+南魚座	nEI ng zou
+博世	poq syu
+博士生	poq zy san
+博大	poq da
+博大精深	poq da cin shin
+博學	poq yuq
+博學多才	poq yuq tou dze
+博學多聞	poq yuq tou ven
+博帕爾	poq phaq er
+博採衆家之長	poq tshe tson cia tsy jian
+博採衆長	poq tshe tson jian
+博斯普魯斯海峽	poq sy phu lu sy he yaq
+博樂	poq loq
+博樂市	poq loq zy
+博洽	poq chiaq
+博爾塔拉蒙古自治州	poq er thaq lha mon ku zy dzyu cieu
+博爾德	poq er taq
+博爾赫斯	poq er haq sy
+博爾頓	poq er ten
+博物學家	poq vaq yuq cia
+博物洽聞	poq vaq chiaq ven
+博識洽聞	poq shiq chiaq ven
+卜人	poq gnin
+卜學亮	poq yuq lian
+卜日	poq gniq
+卜易	poq yi
+占人	ci gnin
+占夢	ci mon
+占星學	ci shin yuq
+占星家	ci shin cia
+卡介苗	kha cia miau
+卡內基梅隆大學	kha nei ci mei lon da ghoq
+卡吧	kha pa
+卡啦	kha lha
+卡塔爾	kha thaq er
+卡布其諾咖啡	kha pu ji noq kha fi
+卡布瑞拉	kha pu zei lha
+卡布雷拉	kha pu lei lha
+卡拉	kha lha
+卡拉什尼科夫	kha lha zyuq gni khou fu
+卡拉奇	kha lha ji
+卡拉姆昌德	kha lha m tshaon taq
+卡拉季奇	kha lha ci ji
+卡拉布里亞	kha lha pu li ia
+卡拉揚	kha lha yan
+卡拉膠	kha lha ciau
+卡拉馬佐夫兄弟	kha lha ma tsou fu shion di
+卡昂	kha ngaon
+卡桑德拉	kha saon taq lha
+卡樂星	kha loq shin
+卡死	kha sy
+卡煞	kha saq
+卡煞死	kha saq shi
+卡波耶拉	kha pou ia lha
+卡洛娜	kha loq na
+卡爾	kha er
+卡爾加里	kha er cia li
+卡爾巴拉	kha er pa lha
+卡爾德	kha er taq
+卡爾德龍	kha er taq lon
+卡爾扎伊	kha er tsaq i
+卡爾文	kha er ven
+卡爾斯魯厄	kha er sy lu aq
+卡爾頓	kha er ten
+卡爾馬克思	kha er ma khaq sy
+卡片櫃	kha phi guei
+卡特彼勒公司	kha daq pei laq kon sy
+卡特爾	kha daq er
+卡特里娜	kha daq li na
+卡納維拉爾角	kha naq vi lha er koq
+卡納維爾角	kha naq vi er koq
+卡美拉	kha mei lha
+卡薩布蘭加	kha saq pu lae cia
+卡西米爾效應	kha shi mi er yau in
+卡西莫夫	kha shi moq fu
+卡迪拉克	kha diq lha khaq
+卡通世界	kha thon syu ka
+卯足了勁	mau tsoq liau jin
+印上去	in zaon chi
+印下去	in gho chi
+印落去	in loq chi
+印人	in gnin
+印來印去	in le in chi
+印光大師	in kuaon da sy
+印出去	in tshyuq chi
+印刷人	in syuq gnin
+印加	in cia
+印加帝國	in cia ti koq
+印地安人	in di EI gnin
+印地安納大學	in di EI naq da ghoq
+印尼人	in gni gnin
+印度人	in du gnin
+印度人民黨	in du zyun min taon
+印度國大黨	in du koq da taon
+印度大平原	in du da bin gniu
+印度教	in du ciau
+印度教徒	in du ciau du
+印度音樂	in du in yuq
+印度鬼椒	in du kuei ciau
+印歐人	in eu gnin
+印江土家族苗族自治縣	in kaon thu cia dzoq miau dzoq zy dzyu yu
+印着	in dzoq
+印着	in zyuq
+印勒	in laq
+印第安人	in di EI gnin
+印行	in ghaon
+印過去	in kou chi
+印鼻	in biq
+危地馬拉	wei di ma lha
+危地馬拉人	wei di ma lha zyun
+危如朝露	wei zyu ciau lu
+危機四伏	wei ci sy voq
+危若朝露	wei zhiaq ciau lu
+危若朝露	wei zoq ciau lu
+危重病人	wei dzon bin gnin
+即日	ciq zyuq
+即日起	ciq zyuq chi
+即期外匯交易	ciq ji nga wei ciau yiq
+即溶咖啡	ciq yon kha fi
+即行	ciq yin
+卵泡	loe phau
+卵生	loe san
+卵生	lou san
+卷懷	ciu wae
+卷甲	ciu ciaq
+卷耳	ciu er
+卷阿	ciu ou
+卸下去	shia gho chi
+卸落去	shia loq chi
+卸了	shia laq
+卸任	shia gnin
+卸去	shia chi
+卸磨殺驢	shia mou saq li
+卸進去	shia cin chi
+卸過去	shia kou chi
+卻也	chiaq gha
+卻回去	chiaq wei chi
+卻沒	chiaq maq
+卻沒有	chiaq maq yeu
+卻沒能	chiaq maq nen
+卻嘸沒	chiaq mhiq
+卻被	chiaq bei
+卻還	chiaq wa
+卿大夫	chin da fu
+厄爾尼諾	aq er gni noq
+厄爾尼諾現象	aq er gni noq yi zhian
+厄爾布魯士	aq er pu lu zy
+厄瓜多爾	aq kuo tou er
+厚彼薄此	gheu pei boq tshy
+厚望	gheu vaon
+厚此薄彼	gheu tshy boq pei
+厚死薄生	gheu sy boq sen
+厚生	gheu sen
+厚生勞動省	gheu sen lau don san
+厚生相	gheu sen shian
+厚生省	gheu sen san
+厚着	gheu dzoq
+厚着	gheu zyuq
+厚着臉皮	gheu dzoq li bi
+厚着臉皮	gheu zyuq li bi
+厚顏	gheu yi
+厚顏無恥	gheu yi vu tshyu
+厚顏無恥	gheu yi Wu tshyu
+厚黑學	gheu haq yuq
+原人	gniu gnin
+原南斯拉夫	gniu nEI sy lha fu
+原告人	gniu kau gnin
+原味	gniu vi
+原單	gniu tae
+原單位	gniu tae wei
+原因分析	gniu in fen shiq
+原始人	gniu sy gnin
+原始佛教	gniu sy vaq ciau
+原子學	gniu tsy yuq
+原子科學家	gniu tsy khou yuq cia
+原從	gniu dzon
+原於	gniu yu
+原材料	gniu dze liau
+原核生物	gniu ghaq sen vaq
+原核生物界	gniu ghaq sen vaq ka
+原核細胞型微生物	gniu ghaq shi pau yin vi sen vaq
+原水	gniu syu
+原汁原味	gniu ciq gniu vi
+原狀	gniu dzaon
+原班人馬	gniu pae zyun mo
+原生	gniu sen
+原生動物	gniu sen don vaq
+原生態	gniu sen the
+原生暈	gniu sen yun
+原生生物	gniu sen sen vaq
+原生質	gniu sen ciq
+原發性進行性失語	gniu faq shin cin yin shin syuq gniu
+原自	gniu zy
+原著	gniu tsyu
+原著者	gniu tsyu tse
+原被告	gniu bei kau
+原鄉人	gniu shian gnin
+原電池	gniu di ji
+厭世	i syu
+厲娜	li na
+厲行	li yin
+厲行節約	li yin ciq iaq
+厲鬼	li kuei
 去不了	
 去不得	
 去不成	
@@ -9904,7 +9858,6 @@
 受益人	
 受着	
 受禮人	
-受精卵	
 受聘于	
 受胎率	
 受自	
@@ -10055,6 +10008,7 @@
 只限於	
 叫上去	
 叫下去	
+叫落去	
 叫了	
 叫人	
 叫個	
@@ -10199,6 +10153,7 @@
 吁了	
 吃一塹長一智	
 吃下去	
+吃落去	
 吃不了	
 吃不了兜着走	
 吃乾了	
@@ -10381,6 +10336,7 @@
 吉電子伏	
 吊上去	
 吊下去	
+吊落去	
 吊了	
 吊來吊去	
 吊個	
@@ -10395,7 +10351,6 @@
 吊稍	
 吊衣架	
 吊車尾	
-吊頂	
 同一人	
 同一個	
 同一個世界	
@@ -10416,9 +10371,8 @@
 同分數	
 同分異構物	
 同分異構體	
-同卵	
 同卵雙生	
-同卵雙胞胎	
+同卵雙生	
 同去	
 同參	
 同命鳥	
@@ -10522,6 +10476,7 @@
 名鳥	
 后羿射日	
 吐下去	
+吐落去	
 吐了	
 吐來吐去	
 吐火羅人	
@@ -10548,6 +10503,7 @@
 君子坦蕩蕩小人長慼慼	
 吝嗇鬼	
 吞下去	
+吞落去	
 吞了	
 吞了下去	
 吞口水	
@@ -10611,6 +10567,7 @@
 吶喊助陣	
 吸上去	
 吸下去	
+吸落去	
 吸乾	
 吸了	
 吸來吸去	
@@ -10638,6 +10595,7 @@
 吹下	
 吹下來	
 吹下去	
+吹落去	
 吹乾	
 吹了	
 吹來	
@@ -11384,7 +11342,6 @@
 哪隻	
 哪集	
 哪頁	
-哪頂	
 哪項	
 哪顆	
 哪首	
@@ -11676,6 +11633,7 @@
 喉頭發乾	
 喊上去	
 喊下去	
+喊落去	
 喊了	
 喊來喊去	
 喊出去	
@@ -11712,6 +11670,7 @@
 喜馬拉雅山	
 喜馬拉雅山脈	
 喝下去	
+喝落去	
 喝乾	
 喝了	
 喝交杯	
@@ -12152,6 +12111,7 @@
 噪雜	
 噴上去	
 噴下去	
+噴落去	
 噴出去	
 噴噴水	
 噴射戰鬥機	
@@ -12183,6 +12143,7 @@
 嚐來嚐去	
 嚐個	
 嚥下去	
+嚥落去	
 嚥不了	
 嚥了	
 嚥唾	
@@ -12310,7 +12271,6 @@
 四號電池	
 四行	
 四集	
-四頂	
 四體不勤五穀不分	
 回不了	
 回不去	
@@ -12674,6 +12634,7 @@
 圍下	
 圍下來	
 圍下去	
+圍落去	
 圍了	
 圍事	
 圍住	
@@ -12747,7 +12708,6 @@
 圓了	
 圓周率	
 圓夢	
-圓屋頂	
 圓板狀	
 圓柱狀	
 圓溜溜	
@@ -12756,7 +12716,6 @@
 圓覺經	
 圓錐狀	
 圓面大耳	
-圓頂	
 圖個	
 圖像用戶介面	
 圖利他人	
@@ -12948,6 +12907,7 @@
 坎貝爾侏儒倉鼠	
 坐上去	
 坐下去	
+坐落去	
 坐了	
 坐大	
 坐懷不亂	
@@ -12967,6 +12927,7 @@
 坦白從寬	
 坦胸露背	
 垂下去	
+垂落去	
 垂了	
 垂了下來	
 垂了下去	
@@ -13011,6 +12972,7 @@
 垮下	
 垮下來	
 垮下去	
+垮落去	
 垮了	
 垮向	
 垮在	
@@ -13081,6 +13043,7 @@
 埃里溫	
 埋下	
 埋下去	
+埋落去	
 埋了	
 埋伏	
 埋佈	
@@ -13192,6 +13155,7 @@
 堅守自盜	
 堅持	
 堅持下去	
+堅持落去	
 堅持不下	
 堅持不懈	
 堅持不渝	
@@ -13285,6 +13249,7 @@
 堵門	
 塊狀	
 塌下去	
+塌落去	
 塌架	
 塌鼻	
 塌鼻子	
@@ -13345,7 +13310,6 @@
 塔爾寺	
 塔爾巴哈臺	
 塔瑪爾	
-塔頂	
 塗了	
 塗來塗去	
 塗去	
@@ -13397,6 +13361,7 @@
 塵霧	
 墊上去	
 墊下去	
+墊落去	
 墊了	
 墊個	
 墊出去	
@@ -13406,6 +13371,7 @@
 墜下	
 墜下來	
 墜下去	
+墜落去	
 墜入	
 墜入愛河	
 墜地	
@@ -13465,6 +13431,7 @@
 壁架	
 壁櫃	
 壓下去	
+壓落去	
 壓出去	
 壓力大	
 壓力降	
@@ -13480,7 +13447,6 @@
 壓着	
 壓縮餅乾	
 壓進去	
-壓頂	
 壕溝戰	
 壘上有人	
 壘上無人	
@@ -13593,7 +13559,6 @@
 外來人口	
 外來人員	
 外側裂周圍	
-外傘頂洲	
 外傳	
 外出務工	
 外出訪問	
@@ -15602,7 +15567,6 @@
 天長日久	
 天降	
 天隨人願	
-天頂	
 天馬行空	
 天體力學	
 天體物理學	
@@ -15914,8 +15878,6 @@
 失效日期	
 失於	
 失望	
-失望絕頂	
-失望透頂	
 失業人員	
 失業率	
 失水	
@@ -15934,6 +15896,7 @@
 夸爾	
 夾上去	
 夾下去	
+夾落去	
 夾了	
 夾人	
 夾來夾去	
@@ -15987,6 +15950,7 @@
 奔馳如飛	
 套上去	
 套下去	
+套落去	
 套中人	
 套了	
 套交情	
@@ -16472,7 +16436,6 @@
 婦人之仁	
 婦人病	
 婦女兒童	
-婦女能頂半邊天	
 婦女雜誌	
 婦孺皆知	
 婦幼衛生	
@@ -16646,8 +16609,6 @@
 孰若	
 孳生	
 孵化率	
-孵卵	
-孵卵器	
 學上	
 學不完	
 學乖	
@@ -17031,6 +16992,7 @@
 安閒自得	
 安防	
 安靜下去	
+安靜落去	
 安靜無聲	
 宋人	
 宋代人	
@@ -17049,7 +17011,6 @@
 完全小學	
 完全正確	
 完全沒有	
-完卵	
 完好無損	
 完好無缺	
 完形心理學	
@@ -17101,6 +17062,7 @@
 官癮	
 官長	
 定下去	
+定落去	
 定了	
 定分	
 定單	
@@ -17643,6 +17605,7 @@
 審計長	
 寫上去	
 寫下去	
+寫落去	
 寫了	
 寫作家	
 寫來寫去	
@@ -17697,6 +17660,7 @@
 寸長	
 封上去	
 封下去	
+封落去	
 封了	
 封了火	
 封二	
@@ -17707,10 +17671,9 @@
 封死	
 封豕長蛇	
 封面人物	
-封頂	
-封頂儀式	
 射上去	
 射下去	
+射落去	
 射了	
 射人先射馬	
 射來射去	
@@ -17852,7 +17815,6 @@
 對時間	
 對望	
 對望一眼	
-對流層頂	
 對焦範圍	
 對牛彈琴	
 對生	
@@ -17865,7 +17827,6 @@
 對過去	
 對錯不分	
 對面不見人	
-對頂角	
 對馬海峽	
 導出去	
 導尿	
@@ -18068,7 +18029,6 @@
 尖嘴魚	
 尖溜溜	
 尖端科學	
-尖頂	
 尚書省	
 尚未	
 尚未解決	
@@ -18264,8 +18224,6 @@
 屈服於	
 屈膝投降	
 屋架	
-屋頂花園	
-屋頂違建	
 屍骨未寒	
 屍骨無存	
 屍體解剖	
@@ -18415,7 +18373,6 @@
 山重水複疑無路	
 山間	
 山雀	
-山頂	
 山頂洞人	
 山頹木壞	
 山高水低	
@@ -18443,7 +18400,6 @@
 峨眉鄉	
 峨邊彝族自治縣	
 峯巒起伏	
-峯頂	
 峽口	
 峽江	
 峽江縣	
@@ -18492,7 +18448,6 @@
 巡迴展	
 巡防	
 巡防艦	
-巢毀卵破	
 工交	
 工人區	
 工人文化宮	
@@ -18501,6 +18456,7 @@
 工人階級	
 工人黨	
 工作下去	
+工作落去	
 工作人員	
 工作任務	
 工作單位	
@@ -18927,6 +18883,7 @@
 帳單	
 帶上去	
 帶下去	
+帶落去	
 帶了	
 帶人	
 帶你	
@@ -18983,7 +18940,6 @@
 常見問題	
 常見於	
 常規戰爭	
-帽頂	
 幅員廣大	
 幕後人物	
 幕間	
@@ -18998,7 +18954,6 @@
 幫助學生	
 幫教	
 幫着	
-幫頂	
 干將莫邪	
 平了	
 平交道	
@@ -19065,9 +19020,6 @@
 平面交叉	
 平面幾何學	
 平面波	
-平頂	
-平頂山	
-平頂山市	
 年事已大	
 年代學	
 年休假	
@@ -19111,6 +19063,7 @@
 幸運人	
 幸運兒	
 幹下去	
+幹落去	
 幹不了	
 幹了	
 幹事長	
@@ -19220,7 +19173,6 @@
 幾近於	
 幾間	
 幾集	
-幾頂	
 幾點了	
 庇佑	
 庇佑下	
@@ -19380,6 +19332,7 @@
 延滯	
 延緩執行	
 延續下去	
+延續落去	
 延誤	
 延遲	
 延遲線	
@@ -19447,6 +19400,7 @@
 弔者大悅	
 引上去	
 引下去	
+引落去	
 引人	
 引人入勝	
 引人注意	
@@ -19613,6 +19567,7 @@
 彆着急	
 彈上去	
 彈下去	
+彈落去	
 彈了	
 彈來彈去	
 彈出一個	
@@ -19642,6 +19597,7 @@
 彌足珍貴	
 彎上去	
 彎下去	
+彎落去	
 彎來彎去	
 彎出去	
 彎去	
@@ -19770,6 +19726,7 @@
 律師事務所	
 後上去	
 後下去	
+後落去	
 後世	
 後人	
 後人乘涼	
@@ -19842,6 +19799,7 @@
 徒長枝	
 得上去	
 得下去	
+得落去	
 得不償失	
 得不可開交	
 得了	
@@ -20215,6 +20173,7 @@
 必輸無疑	
 忌日	
 忍下去	
+忍落去	
 忍了	
 忍來忍去	
 忍個	
@@ -20296,6 +20255,7 @@
 忤逆	
 快上去	
 快下去	
+快落去	
 快乾	
 快乾了	
 快乾裂	
@@ -20335,6 +20295,7 @@
 快降	
 快馬加鞭	
 念下去	
+念落去	
 念你	
 念來念去	
 念和	
@@ -20628,6 +20589,7 @@
 惱人	
 想上去	
 想下去	
+想落去	
 想也不想	
 想也別想	
 想了	
@@ -20847,6 +20809,7 @@
 慘絕人寰	
 慚愧	
 慢下去	
+慢落去	
 慢了	
 慢着	
 慢行	
@@ -21201,7 +21164,6 @@
 我還沒	
 我還能	
 我錯了	
-我頂	
 戒行	
 或大或小	
 或於	
@@ -21394,6 +21356,7 @@
 戴下	
 戴下來	
 戴下去	
+戴落去	
 戴了	
 戴來	
 戴來戴去	
@@ -21463,6 +21426,8 @@
 戴震	
 戴頂	
 戴頂帽子	
+戴頂	
+戴頂帽子	
 戴高帽	
 戴高樂	
 戴髮含齒	
@@ -21479,7 +21444,6 @@
 房產中介	
 房貸銀行	
 房間裏	
-房頂	
 所剩無幾	
 所向無前	
 所向無敵	
@@ -21560,6 +21524,7 @@
 才高行潔	
 扎上去	
 扎下去	
+扎落去	
 扎乎	
 扎了	
 扎伊爾	
@@ -21570,6 +21535,7 @@
 扒拉	
 打上去	
 打下去	
+打落去	
 打了一個悶雷	
 打了個	
 打了個落花流水	
@@ -21653,7 +21619,6 @@
 打長途	
 打雜	
 打雪仗	
-打頂	
 打預防針	
 打高爾夫	
 打高爾夫球	
@@ -21665,6 +21630,7 @@
 打鹽水	
 扔上去	
 扔下去	
+扔落去	
 扔了	
 扔來扔去	
 扔出去	
@@ -21692,6 +21658,7 @@
 扛下	
 扛下來	
 扛下去	
+扛落去	
 扛了	
 扛來	
 扛來扛去	
@@ -21718,6 +21685,7 @@
 扛鼎	
 扣上去	
 扣下去	
+扣落去	
 扣了	
 扣人	
 扣人心絃	
@@ -21793,6 +21761,7 @@
 扮鬼臉	
 扯上去	
 扯下去	
+扯落去	
 扯出去	
 扯去	
 扯家常	
@@ -21801,6 +21770,7 @@
 扯篷拉縴	
 扯進去	
 扶下去	
+扶落去	
 扶不起的阿斗	
 扶了	
 扶人	
@@ -21815,6 +21785,7 @@
 扶着	
 批上去	
 批下去	
+批落去	
 批假	
 批出去	
 批哩啪啦	
@@ -21885,6 +21856,7 @@
 技術降落	
 抄上去	
 抄下去	
+抄落去	
 抄來抄去	
 抄家	
 抄沒	
@@ -21917,6 +21889,7 @@
 抓下	
 抓下來	
 抓下去	
+抓落去	
 抓不準	
 抓人	
 抓住	
@@ -21989,6 +21962,7 @@
 抓點	
 投上去	
 投下去	
+投落去	
 投了	
 投井自盡	
 投來投去	
@@ -22027,6 +22001,7 @@
 投降主義	
 投降書	
 抖下去	
+抖落去	
 抖了	
 抖了起來	
 抖出去	
@@ -22062,6 +22037,7 @@
 抗震結構	
 折上去	
 折下去	
+折落去	
 折價率	
 折回去	
 折射式望遠鏡	
@@ -22088,6 +22064,7 @@
 披麻戴孝	
 抱上去	
 抱下去	
+抱落去	
 抱出去	
 抱去	
 抱回家	
@@ -22114,6 +22091,7 @@
 抹一鼻子灰	
 抹上去	
 抹下去	
+抹落去	
 抹乾	
 抹了	
 抹來抹去	
@@ -22149,6 +22127,7 @@
 拂鐘無聲	
 拄着	
 拆下去	
+拆落去	
 拆了	
 拆出去	
 拆分	
@@ -22181,6 +22160,7 @@
 拉下	
 拉下來	
 拉下去	
+拉落去	
 拉下水	
 拉下臉	
 拉下臉來	
@@ -22418,6 +22398,7 @@
 拉麪店	
 拉齊奧	
 拋下去	
+拋落去	
 拋來拋去	
 拋出去	
 拋去	
@@ -22426,6 +22407,7 @@
 拌着	
 拍上去	
 拍下去	
+拍落去	
 拍了拍	
 拍來拍去	
 拍出去	
@@ -22442,6 +22424,7 @@
 拏雲攫石	
 拐上去	
 拐下去	
+拐落去	
 拐了	
 拐人	
 拐來拐去	
@@ -22463,6 +22446,7 @@
 拓撲空間	
 拓樸學	
 拔下去	
+拔落去	
 拔了	
 拔了蘿蔔地皮寬	
 拔個	
@@ -22474,9 +22458,9 @@
 拔苗助長	
 拔進去	
 拔釘錘	
-拔頂	
 拖上去	
 拖下去	
+拖落去	
 拖下水	
 拖乾淨	
 拖了	
@@ -22579,13 +22563,13 @@
 拱狀	
 拱着	
 拱背	
-拱頂	
 拳腳交加	
 拴上去	
 拴着	
 拷問	
 拼上去	
 拼下去	
+拼落去	
 拼了	
 拼了命	
 拼來拼去	
@@ -22610,6 +22594,7 @@
 拿下	
 拿下來	
 拿下去	
+拿落去	
 拿下鐘	
 拿不	
 拿不了	
@@ -22795,6 +22780,7 @@
 指間	
 按上去	
 按下去	
+按落去	
 按下葫蘆浮起瓢	
 按了	
 按出去	
@@ -22817,6 +22803,7 @@
 挑三揀四	
 挑上去	
 挑下去	
+挑落去	
 挑了	
 挑了隻	
 挑出去	
@@ -22837,6 +22824,7 @@
 挑肥揀瘦	
 挖上去	
 挖下去	
+挖落去	
 挖來挖去	
 挖出去	
 挖大	
@@ -22882,6 +22870,7 @@
 挹彼注茲	
 挺上去	
 挺下去	
+挺落去	
 挺了	
 挺伸	
 挺來挺去	
@@ -22906,6 +22895,7 @@
 捆着	
 捉上去	
 捉下去	
+捉落去	
 捉拿	
 捉拿歸案	
 捉拿犯人	
@@ -23031,6 +23021,7 @@
 授任	
 授權範圍	
 掉下去	
+掉落去	
 掉了	
 掉來掉去	
 掉個	
@@ -23057,10 +23048,9 @@
 掐頭去尾	
 排上去	
 排下去	
+排落去	
 排來排去	
 排出去	
-排卵	
-排卵期	
 排去	
 排尾	
 排尿	
@@ -23104,6 +23094,7 @@
 掙飯吃	
 掛上去	
 掛下去	
+掛落去	
 掛了	
 掛來掛去	
 掛個	
@@ -23127,6 +23118,7 @@
 掛頭牌	
 掠人之美	
 採下去	
+採落去	
 採去	
 採取行動	
 採回去	
@@ -23161,6 +23153,7 @@
 探險家	
 接上去	
 接下去	
+接落去	
 接了	
 接二連三	
 接人	
@@ -23200,6 +23193,7 @@
 控辯交易	
 推上去	
 推下去	
+推落去	
 推人	
 推人犯規	
 推介	
@@ -23267,6 +23261,7 @@
 描着	
 提上去	
 提下去	
+提落去	
 提了	
 提交	
 提交日期	
@@ -23317,6 +23312,7 @@
 提高認識	
 插上去	
 插下去	
+插落去	
 插去	
 插回去	
 插戴	
@@ -23340,6 +23336,7 @@
 揚長避短	
 換上去	
 換下去	
+換落去	
 換了	
 換交	
 換人	
@@ -23360,6 +23357,7 @@
 換過去	
 換防	
 握下去	
+握落去	
 握手言和	
 握持	
 握着	
@@ -23448,6 +23446,7 @@
 搧耳光	
 搬上去	
 搬下去	
+搬落去	
 搬了	
 搬來搬去	
 搬出去	
@@ -23471,6 +23470,7 @@
 搭進去	
 搭配着	
 搶下去	
+搶落去	
 搶了	
 搶人	
 搶來搶去	
@@ -23483,6 +23483,7 @@
 搶風航行	
 搽着	
 摔下去	
+摔落去	
 摔了	
 摔了一跤	
 摔交	
@@ -23491,6 +23492,7 @@
 摔斷了腿	
 摔死	
 摘下去	
+摘落去	
 摘來摘去	
 摘出去	
 摘去	
@@ -23527,10 +23529,9 @@
 摩門教	
 摩門教徒	
 摩門教會	
-摩頂	
-摩頂放踵	
 摸上去	
 摸下去	
+摸落去	
 摸不着	
 摸不着邊	
 摸不着邊際	
@@ -23560,13 +23561,16 @@
 撈着	
 撈魚	
 撐下去	
+撐落去	
 撐不下去	
+撐不落去	
 撐了	
 撐持	
 撐死	
 撐着	
 撐過去	
 撒下去	
+撒落去	
 撒來撒去	
 撒克遜人	
 撒切爾	
@@ -23592,6 +23596,7 @@
 撒鴨子	
 撓率	
 撕下去	
+撕落去	
 撕了	
 撕來撕去	
 撕去	
@@ -23604,6 +23609,7 @@
 撞壞	
 撞死	
 撤下去	
+撤落去	
 撤出去	
 撤去	
 撤單	
@@ -23628,6 +23634,7 @@
 撫養成人	
 撬上去	
 撬下去	
+撬落去	
 撬了	
 撬來撬去	
 撬壞	
@@ -23648,6 +23655,7 @@
 撰著	
 撲上去	
 撲下去	
+撲落去	
 撲了	
 撲來撲去	
 撲個滿懷	
@@ -23691,6 +23699,7 @@
 擊鼓作樂	
 擋上去	
 擋下去	
+擋落去	
 擋不了	
 擋了	
 擋人	
@@ -23732,6 +23741,7 @@
 據瞭解	
 擠上去	
 擠下去	
+擠落去	
 擠了	
 擠人	
 擠來擠去	
@@ -23748,6 +23758,7 @@
 擠過去	
 擡上去	
 擡下去	
+擡落去	
 擡來擡去	
 擡出去	
 擡回去	
@@ -23757,6 +23768,7 @@
 擤鼻涕	
 擦上去	
 擦下去	
+擦落去	
 擦乾	
 擦乾淨	
 擦了	
@@ -23803,6 +23815,7 @@
 擴軍備戰	
 擺上去	
 擺下去	
+擺落去	
 擺了	
 擺了一道	
 擺來擺去	
@@ -23855,6 +23868,7 @@
 攢簇	
 攢集	
 攤下去	
+攤落去	
 攤了	
 攤出去	
 攤牌	
@@ -23907,6 +23921,7 @@
 支隊長	
 收上去	
 收下去	
+收落去	
 收了	
 收人	
 收件人	
@@ -23988,6 +24003,7 @@
 改革發展	
 攻上去	
 攻下去	
+攻落去	
 攻了	
 攻人不備	
 攻人之短	
@@ -24003,10 +24019,10 @@
 攻進去	
 攻過去	
 攻防	
-攻頂	
 放一百二十個心	
 放上去	
 放下去	
+放落去	
 放之四海皆準	
 放之四海而皆準	
 放了	
@@ -24113,6 +24129,7 @@
 敏而好學	
 救上去	
 救下去	
+救落去	
 救世	
 救世主	
 救世者	
@@ -24155,6 +24172,7 @@
 敘述着	
 教上	
 教下去	
+教落去	
 教主	
 教了	
 教些	
@@ -24424,6 +24442,7 @@
 敲下	
 敲下來	
 敲下去	
+敲落去	
 敲了	
 敲住	
 敲來敲去	
@@ -24696,6 +24715,7 @@
 斥革	
 斥鹵	
 斬下去	
+斬落去	
 斯世	
 斯人	
 斯圖加特	
@@ -24874,7 +24894,6 @@
 方興未艾	
 方解石	
 方面大耳	
-方頂	
 於一	
 於一役	
 於七	
@@ -25811,6 +25830,7 @@
 暖水壺	
 暖水瓶	
 暗下去	
+暗落去	
 暗中行事	
 暗了	
 暗了下來	
@@ -26238,6 +26258,7 @@
 最高水平	
 會上去	
 會下去	
+會落去	
 會乾杯	
 會乾枯	
 會乾涸	
@@ -26481,6 +26502,7 @@
 朋馳	
 朋黨之爭	
 服下去	
+服落去	
 服了	
 服人	
 服務	
@@ -27054,7 +27076,6 @@
 朱雀	
 朱雀橋	
 朱雀號	
-朱頂	
 朱顏	
 朱顏鶴髮	
 朱鳥	
@@ -27299,6 +27320,7 @@
 架下	
 架下來	
 架下去	
+架落去	
 架不住	
 架了	
 架住	
@@ -27503,6 +27525,7 @@
 格雷氏解剖學	
 格魯吉亞人	
 栽下去	
+栽落去	
 栽進去	
 桁架	
 桂冠詩人	
@@ -27514,8 +27537,8 @@
 桃園人	
 桃太郎	
 桃花人面	
-桅頂	
 框下去	
+框落去	
 框架	
 框架協議	
 框着	
@@ -27646,7 +27669,6 @@
 棟樑之材	
 棧單	
 棧架	
-棧頂	
 森林學	
 森林學系	
 森林更新	
@@ -27745,7 +27767,6 @@
 極目遠望	
 極端分子	
 極間電容	
-極頂	
 概念驅動加工	
 概率	
 概率和數理統計	
@@ -27922,8 +27943,10 @@
 樓宇自動化	
 樓梯間	
 樓頂上	
+樓頂上	
 標上去	
 標下去	
+標落去	
 標出去	
 標單	
 標架	
@@ -27972,7 +27995,6 @@
 樹立正確	
 樹脂塑膠	
 樹膠	
-樹頂上	
 橋本龍太郎	
 橋牌	
 橋牌賽	
@@ -28007,7 +28029,6 @@
 機身寬大	
 機車行	
 機長	
-機頂盒	
 橡膠	
 橡膠園	
 橡膠套	
@@ -28130,7 +28151,6 @@
 歇伏	
 歇洛克福爾摩斯	
 歇着	
-歇頂	
 歉歲	
 歌唱家	
 歌行	
@@ -28645,7 +28665,6 @@
 殺身成仁	
 殺進去	
 殺過去	
-殺雞取卵	
 殺雞焉用牛刀	
 殺雞用牛刀	
 殺鴨	
@@ -28706,6 +28725,7 @@
 毒藥苦口利於病	
 毒魚	
 比下去	
+比落去	
 比不了	
 比了	
 比人	
@@ -29710,6 +29730,7 @@
 沈默不語	
 沈默寡言	
 沉下去	
+沉落去	
 沉了	
 沉冤莫白	
 沉沒	
@@ -29737,6 +29758,7 @@
 沒下	
 沒下來	
 沒下去	
+沒落去	
 沒世	
 沒中	
 沒主意	
@@ -30077,7 +30099,6 @@
 沒面子	
 沒面皮	
 沒面目	
-沒頂	
 沒頭	
 沒頭沒尾	
 沒頭沒腦	
@@ -30140,7 +30161,6 @@
 河南師範大學	
 河南省	
 河南蒙古族自治縣	
-河卵石	
 河口瑤族自治縣	
 河姆渡	
 河水	
@@ -30196,6 +30216,7 @@
 沿習	
 況味	
 泄下去	
+泄落去	
 泄了	
 泄出去	
 泄去	
@@ -30460,8 +30481,6 @@
 泰和	
 泰和縣	
 泰國人	
-泰山壓卵	
-泰山壓頂	
 泰戈爾	
 泰晤士	
 泰晤士報	
@@ -30503,6 +30522,7 @@
 洋鬼子	
 洗上去	
 洗下去	
+洗落去	
 洗乾淨	
 洗了	
 洗來洗去	
@@ -30552,6 +30572,7 @@
 洵陽	
 洵陽縣	
 活下去	
+活落去	
 活不下去	
 活不了	
 活了	
@@ -30589,6 +30610,7 @@
 洽購	
 洽辦	
 派下去	
+派落去	
 派人	
 派任	
 派出去	
@@ -30600,6 +30622,7 @@
 派車去	
 流上去	
 流下去	
+流落去	
 流下淚來	
 流乾	
 流了	
@@ -30608,6 +30631,7 @@
 流個	
 流傳	
 流傳下去	
+流傳落去	
 流傳後世	
 流傳於世	
 流傳開來	
@@ -30927,6 +30951,7 @@
 消化率	
 消去	
 消失下去	
+消失落去	
 消息靈通人士	
 消愁解悶	
 消毒櫃	
@@ -30980,7 +31005,6 @@
 涯際	
 液力傳動	
 液壓傳動	
-液壓千斤頂	
 液態奶	
 液態水	
 液體動力學	
@@ -31104,7 +31128,9 @@
 淳于意	
 混上去	
 混下去	
+混落去	
 混不下去	
+混不落去	
 混世魔王	
 混了	
 混交	
@@ -31265,6 +31291,7 @@
 渴着	
 游上去	
 游下去	
+游落去	
 游來游去	
 游去	
 游回去	
@@ -31363,6 +31390,7 @@
 溜下	
 溜下來	
 溜下去	
+溜落去	
 溜之大吉	
 溜了	
 溜井	
@@ -31488,8 +31516,6 @@
 滅了	
 滅此朝食	
 滅絕人性	
-滅頂	
-滅頂之災	
 滇劇	
 滇東	
 滇池	
@@ -31508,6 +31534,7 @@
 滌綸	
 滑上去	
 滑下去	
+滑落去	
 滑不唧溜	
 滑了	
 滑了一跤	
@@ -31554,6 +31581,7 @@
 滲進去	
 滲過去	
 滴下去	
+滴落去	
 滴乾	
 滴了	
 滴水	
@@ -31573,6 +31601,7 @@
 滷牛肉	
 滾上去	
 滾下去	
+滾落去	
 滾了	
 滾來滾去	
 滾出去	
@@ -31702,6 +31731,7 @@
 漿狀	
 潑上去	
 潑下去	
+潑落去	
 潑冷水	
 潑出去	
 潑剌	
@@ -31728,6 +31758,7 @@
 潘鬢沈腰	
 潛上去	
 潛下去	
+潛落去	
 潛了	
 潛伏	
 潛伏性	
@@ -31882,6 +31913,7 @@
 濾波	
 濾波器	
 瀉下去	
+瀉落去	
 瀉了	
 瀉出去	
 瀋水	
@@ -31913,8 +31945,8 @@
 灌灌水水	
 灌着	
 灌進去	
-灌頂	
 灑下去	
+灑落去	
 灑水	
 灑水掃地	
 灑水機	
@@ -31948,7 +31980,6 @@
 灰溜溜	
 灰獵犬	
 灰霧	
-灰頂	
 炎亞綸	
 炎日	
 炎日當空	
@@ -31957,6 +31988,7 @@
 炎熱夏日	
 炒上去	
 炒下去	
+炒落去	
 炒來炒去	
 炒家	
 炒更	
@@ -32835,6 +32867,7 @@
 煦煦	
 照上去	
 照下去	
+照落去	
 照了	
 照人	
 照來照去	
@@ -33066,13 +33099,13 @@
 爆香	
 爆鳴	
 爐架	
-爐頂	
 爛了嘴	
 爛了舌頭	
 爛尾樓	
 爪哇人	
 爬上去	
 爬下去	
+爬落去	
 爬來爬去	
 爬出去	
 爬山涉水	
@@ -33496,6 +33529,7 @@
 特魯埃爾	
 牽上去	
 牽下去	
+牽落去	
 牽了	
 牽伸	
 牽出去	
@@ -33580,7 +33614,6 @@
 狂牛症	
 狂甩	
 狂轟濫炸	
-狂頂	
 狃於	
 狄仁傑	
 狄拉克	
@@ -33790,7 +33823,6 @@
 玉樹藏族自治州	
 玉池	
 玉皇大帝	
-玉皇頂	
 玉米赤黴烯酮	
 玉釵	
 玉顏	
@@ -34057,6 +34089,7 @@
 生下	
 生下來	
 生下去	
+生落去	
 生不如死	
 生不帶來	
 生不逢時	
@@ -34562,11 +34595,6 @@
 產假	
 產兒	
 產出率	
-產卵	
-產卵器	
-產卵場	
-產卵期	
-產卵洄游	
 產品介紹	
 產品展示	
 產學合作	
@@ -34844,6 +34872,7 @@
 畏罪自殺	
 畏首畏尾	
 留下去	
+留落去	
 留了	
 留人	
 留任	
@@ -34899,6 +34928,7 @@
 番鬼	
 番鴨	
 畫下去	
+畫落去	
 畫了	
 畫人	
 畫來畫去	
@@ -34921,8 +34951,6 @@
 畬鄉	
 異乎尋常	
 異人	
-異卵	
-異卵雙胞胎	
 異味	
 異戊二烯	
 異戊橡膠	
@@ -34942,6 +34970,7 @@
 當上了	
 當上去	
 當下去	
+當落去	
 當不了	
 當世	
 當世之冠	
@@ -35087,6 +35116,7 @@
 瘋牛病	
 瘋長	
 瘦下去	
+瘦落去	
 瘦了	
 瘦小枯乾	
 瘦弱不堪	
@@ -35117,10 +35147,10 @@
 登機牌	
 登陸作戰	
 登陸戰	
-登頂	
 登高望遠	
 發上去	
 發下去	
+發落去	
 發乎情	
 發乎情止乎禮義	
 發乾	
@@ -35152,6 +35182,7 @@
 發富發貴	
 發展	
 發展下去	
+發展落去	
 發展不平均	
 發展不平衡	
 發展中	
@@ -35336,7 +35367,6 @@
 白面書生	
 白面無鬚	
 白面鼯鼠	
-白骨頂	
 白髮人	
 白髮朱顏	
 白髮紅顏	
@@ -35760,6 +35790,7 @@
 省下	
 省下來	
 省下去	
+省落去	
 省中	
 省主席	
 省了	
@@ -35910,7 +35941,9 @@
 看上了	
 看上去	
 看下去	
+看落去	
 看不下去	
+看不落去	
 看不習慣	
 看不過去	
 看中了	
@@ -36098,6 +36131,7 @@
 睡一覺	
 睡上去	
 睡下去	
+睡落去	
 睡不着	
 睡了	
 睡了又睡	
@@ -36304,6 +36338,7 @@
 砂仁	
 砍上去	
 砍下去	
+砍落去	
 砍了	
 砍人	
 砍來砍去	
@@ -36358,13 +36393,13 @@
 硬伸	
 硬戰	
 硬撐下去	
+硬撐落去	
 硬水	
 硬生生	
 硬盤空間	
 硬着	
 硬着陸	
 硬着頭皮	
-硬頂跑車	
 硬骨魚	
 硬骨魚類	
 硯池	
@@ -36449,6 +36484,7 @@
 碼長城	
 碼頭工人	
 碾下去	
+碾落去	
 碾來碾去	
 碾去	
 磁單極子	
@@ -36838,6 +36874,7 @@
 秦朝人	
 移上去	
 移下去	
+移落去	
 移交	
 移出去	
 移動率	
@@ -36995,8 +37032,8 @@
 穴居人	
 穴鳥	
 究問	
-穹頂	
 空下去	
+空落去	
 空中交通管制	
 空中交通管制員	
 空中大學	
@@ -37054,6 +37091,7 @@
 空集合	
 穿上去	
 穿下去	
+穿落去	
 穿了	
 穿來穿去	
 穿出去	
@@ -37145,6 +37183,7 @@
 立魚	
 站上去	
 站下去	
+站落去	
 站了	
 站個	
 站出去	
@@ -37177,6 +37216,7 @@
 竭力支持	
 端上去	
 端下去	
+端落去	
 端了	
 端來端去	
 端出去	
@@ -37355,6 +37395,7 @@
 筆耕	
 筆誤	
 等下去	
+等落去	
 等了	
 等人	
 等你	
@@ -37413,6 +37454,7 @@
 箍緊	
 算上去	
 算下去	
+算落去	
 算不了	
 算不了什麼	
 算了	
@@ -37551,6 +37593,7 @@
 簧樂器	
 簽上去	
 簽下去	
+簽落去	
 簽了	
 簽單	
 簽發日期	
@@ -37847,7 +37890,6 @@
 累加器	
 累加法	
 累加總數	
-累卵	
 累及他人	
 累及無辜	
 累垮	
@@ -37956,8 +37998,6 @@
 絕無此事	
 絕緣材料	
 絕處逢生	
-絕頂	
-絕頂聰明	
 絛綸	
 絞上	
 絞乾	
@@ -38026,6 +38066,7 @@
 絲膠	
 綁上去	
 綁下去	
+綁落去	
 綁回去	
 綁架	
 綁着	
@@ -38120,6 +38161,7 @@
 維拉	
 維持	
 維持下去	
+維持落去	
 維持原判	
 維持在	
 維持現狀	
@@ -38225,6 +38267,7 @@
 緣覺	
 編上去	
 編下去	
+編落去	
 編了	
 編來編去	
 編個	
@@ -38247,6 +38290,7 @@
 緬懷	
 緬甸人	
 練下去	
+練落去	
 練了	
 練來練去	
 練個	
@@ -38271,12 +38315,14 @@
 縣長	
 縫上去	
 縫下去	
+縫落去	
 縫了	
 縫來縫去	
 縫個	
 縫死	
 縫衣工人	
 縮下去	
+縮落去	
 縮回去	
 縮放自如	
 縮水	
@@ -38457,6 +38503,7 @@
 纏鬥	
 纔上去	
 纔下去	
+纔落去	
 纔乾透	
 纔出去	
 纔去	
@@ -38510,7 +38557,6 @@
 置於	
 置物櫃	
 置若罔聞	
-置頂	
 罰了	
 罰來罰去	
 罰個	
@@ -38773,6 +38819,7 @@
 翰林學士	
 翹上去	
 翹下去	
+翹落去	
 翹了	
 翹出去	
 翹去	
@@ -38783,6 +38830,7 @@
 翹首以望	
 翻上去	
 翻下去	
+翻落去	
 翻了	
 翻來翻去	
 翻來覆去	
@@ -38805,6 +38853,7 @@
 老丈人	
 老上去	
 老下去	
+老落去	
 老不死	
 老世交	
 老乾媽	
@@ -38931,6 +38980,7 @@
 者也	
 而上去	
 而下去	
+而落去	
 而你	
 而勝於藍	
 而去	
@@ -39241,7 +39291,6 @@
 聰明一世糊塗一時	
 聰明人	
 聰明反被聰明誤	
-聰明絕頂	
 聲勢浩大	
 聲名大噪	
 聲名大震	
@@ -39294,6 +39343,7 @@
 職責範圍	
 聽上去	
 聽下去	
+聽落去	
 聽不進去	
 聽之任之	
 聽了	
@@ -39370,6 +39420,7 @@
 肩負重任	
 肯上去	
 肯下去	
+肯落去	
 肯出去	
 肯去	
 肯回去	
@@ -39755,6 +39806,7 @@
 臘日	
 臣服於	
 臥下去	
+臥落去	
 臥着	
 臥軌自殺	
 臥龍大熊貓保護區	
@@ -41053,7 +41105,6 @@
 茄子河區	
 茄科	
 茄紅素	
-茅屋頂	
 茅盾文學獎	
 茨岡人	
 茨萬吉拉伊	
@@ -41367,6 +41418,7 @@
 萬點大關	
 萵苣	
 落下去	
+落落去	
 落了	
 落人口實	
 落單	
@@ -41514,7 +41566,6 @@
 蓋率	
 蓋着	
 蓋茲	
-蓋頂	
 蓍龜	
 蓬勃發展	
 蓮池	
@@ -41919,12 +41970,10 @@
 螫針	
 螳螂捕蟬黃雀在後	
 螵蛸	
-螺旋千斤頂	
 螺旋狀	
 螻蟻尚且偷生	
 蟄伏	
 蟠尾絲蟲	
-蟲卵	
 蟲膠	
 蟲豸	
 蟲魚	
@@ -41943,7 +41992,6 @@
 蠢驢	
 蠨蛸	
 蠱惑人心	
-蠶卵	
 蠶絲被	
 蠹啄剖梁柱	
 蠹魚	
@@ -42387,6 +42435,7 @@
 衛生隊	
 衝上去	
 衝下去	
+衝落去	
 衝了	
 衝了上	
 衝了下	
@@ -42411,7 +42460,6 @@
 衝自己	
 衝進去	
 衝過去	
-衝頂	
 衡水	
 衡水地區	
 衡水市	
@@ -42610,6 +42658,7 @@
 裙釵	
 補上去	
 補下去	
+補落去	
 補交	
 補假	
 補償	
@@ -42790,8 +42839,6 @@
 要自制	
 要被	
 覆去翻來	
-覆巢之下無完卵	
-覆巢無完卵	
 覆水	
 覆水難收	
 覆沒	
@@ -42843,7 +42890,6 @@
 見過世面	
 見長	
 見面三分情	
-見頂	
 見鬼	
 規劃人員	
 規劃範圍	
@@ -43247,6 +43293,7 @@
 託管人	
 記上去	
 記下去	
+記落去	
 記不了	
 記了	
 記傳	
@@ -43762,7 +43809,9 @@
 說一不二	
 說上去	
 說下去	
+說落去	
 說不下去	
+說不落去	
 說不了	
 說不過去	
 說了	
@@ -43830,6 +43879,7 @@
 課餘時間	
 調上去	
 調下去	
+調落去	
 調了	
 調人	
 調任	
@@ -43876,6 +43926,7 @@
 談何容易	
 談來談去	
 談判下去	
+談判落去	
 談吐之間	
 談吐風生	
 談和	
@@ -43889,6 +43940,7 @@
 諉過於人	
 請上去	
 請下去	
+請落去	
 請了	
 請人	
 請你	
@@ -43969,6 +44021,7 @@
 謙沖自牧	
 謙虛謹慎	
 講下去	
+講落去	
 講了	
 講交情	
 講來講去	
@@ -44006,7 +44059,6 @@
 謝謝你們	
 謝謝大家	
 謝長廷	
-謝頂	
 謠傳	
 謠言止於	
 謠言止於智者	
@@ -44067,6 +44119,7 @@
 譚震林	
 譜上去	
 譜下去	
+譜落去	
 譜分析	
 譜學	
 譜着	
@@ -44128,6 +44181,7 @@
 讀音錯誤	
 變上去	
 變下去	
+變落去	
 變不了	
 變了	
 變了又變	
@@ -44549,6 +44603,7 @@
 費解	
 貼上去	
 貼下去	
+貼落去	
 貼來貼去	
 貼個	
 貼出去	
@@ -44868,6 +44923,7 @@
 走上了	
 走上去	
 走下去	
+走落去	
 走不了	
 走不過去	
 走了	
@@ -44974,6 +45030,7 @@
 趔趄	
 趕上去	
 趕下去	
+趕落去	
 趕了	
 趕任務	
 趕來趕去	
@@ -45018,6 +45075,7 @@
 趾高氣昂	
 跋山涉水	
 跌下去	
+跌落去	
 跌了	
 跌交	
 跌來跌去	
@@ -45029,6 +45087,7 @@
 跌自	
 跌進去	
 跑下去	
+跑落去	
 跑不了	
 跑不了寺	
 跑不了廟	
@@ -45048,6 +45107,7 @@
 跛行症	
 跟上去	
 跟下去	
+跟落去	
 跟了	
 跟人	
 跟你	
@@ -45069,6 +45129,7 @@
 跨下之辱	
 跨下來	
 跨下去	
+跨落去	
 跨世紀	
 跨了	
 跨來	
@@ -45141,6 +45202,7 @@
 跪下	
 跪下來	
 跪下去	
+跪落去	
 跪了	
 跪伏	
 跪倒	
@@ -45180,6 +45242,7 @@
 路透集團	
 跳上去	
 跳下去	
+跳落去	
 跳了	
 跳井自殺	
 跳井自盡	
@@ -45207,6 +45270,7 @@
 踉蹌而行	
 踏上去	
 踏下去	
+踏落去	
 踏了	
 踏來踏去	
 踏出去	
@@ -45224,6 +45288,7 @@
 踡伏	
 踢上去	
 踢下去	
+踢落去	
 踢了	
 踢人	
 踢來踢去	
@@ -45237,6 +45302,7 @@
 踢進去	
 踢過去	
 踩下去	
+踩落去	
 踩壞	
 踩壞了	
 踩死	
@@ -45251,6 +45317,7 @@
 蹙眉	
 蹣跚而行	
 蹲下去	
+蹲落去	
 蹲了	
 蹲伏	
 蹲着	
@@ -45295,6 +45362,7 @@
 躬行	
 躬逢其盛	
 躲下去	
+躲落去	
 躲不了	
 躲來躲去	
 躲得不知去向	
@@ -45304,6 +45372,7 @@
 躲過去	
 躺上去	
 躺下去	
+躺落去	
 躺來躺去	
 躺個	
 躺出去	
@@ -45332,7 +45401,6 @@
 車間成本	
 車間經費	
 車震	
-車頂	
 軋來軋去	
 軋死	
 軌轍	
@@ -45451,6 +45519,7 @@
 輩行	
 輪上去	
 輪下去	
+輪落去	
 輪任	
 輪來輪去	
 輪式拖拉機	
@@ -45471,8 +45540,6 @@
 輸來輸去	
 輸出功率	
 輸出去	
-輸卵	
-輸卵管	
 輸去	
 輸家	
 輸尿管	
@@ -45492,6 +45559,7 @@
 輿論譁然	
 轉上去	
 轉下去	
+轉落去	
 轉世	
 轉乘	
 轉趁	
@@ -45535,6 +45603,7 @@
 轎椅	
 轟上去	
 轟下去	
+轟落去	
 轟了	
 轟來轟去	
 轟傳	
@@ -45718,6 +45787,7 @@
 迸濺	
 追上去	
 追下去	
+追落去	
 追了	
 追人	
 追來追去	
@@ -45744,6 +45814,7 @@
 追還	
 追隨着	
 退下去	
+退落去	
 退任	
 退伍軍人	
 退伍軍人症	
@@ -45769,6 +45840,7 @@
 送上去	
 送上太空	
 送下去	
+送落去	
 送了	
 送交	
 送交到	
@@ -45797,6 +45869,7 @@
 送還給	
 逃上去	
 逃下去	
+逃落去	
 逃不了	
 逃了	
 逃來逃去	
@@ -45826,6 +45899,7 @@
 逍遙自在	
 逍遙自得	
 透下去	
+透落去	
 透了	
 透出去	
 透味	
@@ -45836,7 +45910,6 @@
 透視學	
 透進去	
 透過去	
-透頂	
 逐個	
 逐月逐日	
 逐水	
@@ -45970,6 +46043,7 @@
 通都大邑	
 逛上去	
 逛下去	
+逛落去	
 逛了	
 逛來逛去	
 逛出去	
@@ -46010,6 +46084,7 @@
 逢集	
 連上去	
 連下去	
+連落去	
 連了	
 連人	
 連任	
@@ -46108,6 +46183,7 @@
 逸趣橫生	
 逼上去	
 逼下去	
+逼落去	
 逼了	
 逼人	
 逼人太甚	
@@ -46161,6 +46237,7 @@
 遊騎無歸	
 運上去	
 運下去	
+運落去	
 運交	
 運出去	
 運動器材	
@@ -46184,6 +46261,7 @@
 運行速度	
 遍於	
 過不下去	
+過不落去	
 過不了	
 過不去	
 過世面	
@@ -46356,6 +46434,7 @@
 遠近皆知	
 遠近馳名	
 遣下去	
+遣落去	
 遣懷	
 適人	
 適任	
@@ -46499,6 +46578,7 @@
 還下來	
 還下到	
 還下去	
+還落去	
 還不	
 還不出	
 還不在	
@@ -46811,7 +46891,6 @@
 那還	
 那間	
 那集	
-那頂	
 那麼大	
 那麼着	
 邦交	
@@ -46864,6 +46943,7 @@
 郵集	
 都上去	
 都下去	
+都落去	
 都伯林	
 都出去	
 都去	
@@ -47003,7 +47083,6 @@
 醉鬼	
 醋大	
 醋海生波	
-醍醐灌頂	
 醒世	
 醒世名言	
 醒世姻緣	
@@ -47197,7 +47276,6 @@
 金冠戴菊	
 金剛不壞之身	
 金剛總持	
-金剛頂經	
 金吾	
 金和	
 金城湯池	
@@ -47272,6 +47350,7 @@
 金龜車	
 釘上去	
 釘下去	
+釘落去	
 釘了	
 釘人	
 釘個	
@@ -47313,6 +47392,7 @@
 鉛錘	
 鉤上去	
 鉤下去	
+鉤落去	
 鉤了	
 鉤來鉤去	
 鉤去	
@@ -47378,6 +47458,7 @@
 鋤鏟	
 鋪上去	
 鋪下去	
+鋪落去	
 鋪了	
 鋪出去	
 鋪家	
@@ -47391,6 +47472,7 @@
 鋸下	
 鋸下來	
 鋸下去	
+鋸落去	
 鋸了	
 鋸了嘴的葫蘆	
 鋸出	
@@ -47443,6 +47525,7 @@
 鋼骨水泥	
 錄上去	
 錄下去	
+錄落去	
 錄了	
 錄個	
 錄取人數	
@@ -47526,7 +47609,6 @@
 鐘行	
 鐘被	
 鐘錶行	
-鐘頂	
 鐘鼎之家	
 鐘鼎人家	
 鐮刀狀	
@@ -47757,6 +47839,7 @@
 長機	
 長歌當哭	
 長此下去	
+長此落去	
 長此以往	
 長武	
 長武縣	
@@ -48022,6 +48105,7 @@
 開一家	
 開上去	
 開下去	
+開落去	
 開不了	
 開了	
 開仗	
@@ -48962,6 +49046,7 @@
 降下	
 降下來	
 降下去	
+降落去	
 降世	
 降了	
 降伏	
@@ -49747,7 +49832,6 @@
 雲霓之望	
 雲霧	
 雲靄	
-雲頂	
 零個	
 零分	
 零功率堆	
@@ -50009,6 +50093,7 @@
 靖康傳信錄	
 靚妹	
 靜下去	
+靜落去	
 靜力學	
 靜坐罷工	
 靜宜大學	
@@ -50221,120 +50306,43 @@
 頁尾	
 頁眉	
 頂一下	
-頂上	
-頂上來	
+頂一記	
 頂上去	
-頂下	
-頂下來	
 頂下去	
-頂不	
-頂不住	
-頂不起	
-頂不起來	
+頂落	
+頂落來	
+頂落去	
+頂勿	
+頂勿住	
+頂勿起	
+頂勿起來	
+頂弗	
+頂弗住	
+頂弗起	
+頂弗起來	
 頂了	
-頂事	
-頂住	
+頂牢	
 頂來頂去	
 頂個	
+頂個	
 頂個諸葛亮	
-頂兇	
-頂冒	
-頂刮刮	
-頂到	
-頂包	
-頂名	
-頂吹	
+頂個諸葛亮	
 頂呱呱	
-頂命	
-頂啊	
-頂嘴	
-頂回	
-頂回來	
 頂回去	
-頂在	
-頂塔	
-頂多	
 頂多在	
-頂多是	
-頂多會	
-頂多有	
-頂多能	
-頂天	
-頂天立地	
-頂夸克	
-頂好市場	
-頂子	
-頂尖	
+頂多來	
+頂多好	
 頂尖人物	
-頂尖級	
-頂尖高手	
-頂層	
-頂層樓	
-頂峯	
-頂崗	
 頂戴	
-頂拜	
-頂撞	
-頂擋	
 頂數	
-頂替	
-頂杆	
-頂板	
 頂架	
-頂核	
-頂格	
 頂梁骨走了真魂	
-頂棒	
-頂棚	
-頂槓	
-頂樑柱	
-頂樓	
-頂標	
-頂燈	
 頂牛	
-頂珠	
-頂班	
-頂球	
 頂瓜瓜	
-頂用	
 頂着	
-頂禮	
-頂禮膜拜	
-頂端	
-頂篷	
-頂級	
-頂級域名	
-頂缸	
-頂罪	
-頂膜禮拜	
-頂芽	
-頂葉	
-頂蓋	
-頂視圖	
-頂角	
-頂謝	
-頂賬	
-頂起	
-頂起來	
-頂輪	
-頂過	
-頂過來	
+頂着	
+頂勒	
 頂過去	
-頂部	
-頂針	
-頂門	
-頂門壯戶	
-頂門針	
-頂閥	
-頂面	
-頂頂頂	
-頂頂頂頂	
-頂頭	
-頂頭上司	
-頂風	
-頂風冒雨	
-頂骨	
-頂點	
 頃刻之間	
 頃刻間	
 項上人頭	
@@ -50443,7 +50451,6 @@
 頭號敵人	
 頭雁	
 頭面人物	
-頭頂上	
 頭髮鬍子一把抓	
 頰白鳥	
 頸長	
@@ -50458,6 +50465,7 @@
 顆粒狀	
 題上去	
 題下去	
+題落去	
 題了	
 題個	
 題材	
@@ -50540,8 +50548,6 @@
 顯赫人物	
 顯赫家世	
 顰眉	
-顱頂葉	
-顱頂骨	
 風乾	
 風乾機	
 風俗人情	
@@ -50597,6 +50603,7 @@
 颳大風	
 颳着	
 飄下去	
+飄落去	
 飄來飄去	
 飄去	
 飄浮	
@@ -50609,6 +50616,7 @@
 飆口水	
 飛上去	
 飛下去	
+飛落去	
 飛也似	
 飛了	
 飛人	
@@ -51031,6 +51039,7 @@
 騁馳	
 騎上去	
 騎下去	
+騎落去	
 騎了	
 騎來騎去	
 騎出去	
@@ -51049,6 +51058,7 @@
 騎驢看唱本	
 騙上去	
 騙下去	
+騙落去	
 騙不了	
 騙了	
 騙人	
@@ -51450,7 +51460,6 @@
 魚乾	
 魚介	
 魚刺	
-魚卵	
 魚叉	
 魚嘴鞋	
 魚場	
@@ -51645,7 +51654,6 @@
 鱷魚眼淚	
 鳥不生蛋	
 鳥人	
-鳥卵	
 鳥叫	
 鳥叫聲	
 鳥嘌呤	
@@ -51758,7 +51766,6 @@
 鴻雁	
 鴻雁傳書	
 鴻雁哀鳴	
-鵝卵	
 鵝毛大雪	
 鵝膏蕈	
 鵝行鴨步	
@@ -51768,7 +51775,6 @@
 鵰心雁爪	
 鶯鳥	
 鶴佬人	
-鶴頂紅	
 鶴髮童顏	
 鷗波	
 鷗鳥	
@@ -51924,6 +51930,7 @@
 黎曼空間	
 黏上去	
 黏下去	
+黏落去	
 黏了	
 黏人	
 黏來黏去	
@@ -51994,6 +52001,7 @@
 黜斥	
 點上去	
 點下去	
+點落去	
 點不着	
 點了	
 點交	
@@ -52123,7 +52131,6 @@
 齋日	
 齎志沒地	
 齒更	
-齒條千斤頂	
 齒狀	
 齒狀物	
 齒輪傳動	
