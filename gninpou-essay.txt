@@ -46,8 +46,8 @@
 一個紅臉一個白臉	iq goq ghon li iq goq baq li
 一個蘿蔔一個坑	iq goq lou boq iq goq khan
 一隻跟斗十萬八千里	iq tsaq ken teu zyuq vae paq chi li
-一隻鑊裏吃飯個	iq tsaq ghoq li chioq vae goq
-一隻鑊裏吃飯個	iq tsaq ghoq li chioq vae ghoq
+一隻鑊裏喫飯個	iq tsaq ghoq li chioq vae goq
+一隻鑊裏喫飯個	iq tsaq ghoq li chioq vae ghoq
 一隻頭兩隻大	iq tsaq deu lian tsaq dou
 一隻鼻孔出氣	iq tsaq biq khon tshyuq chi
 一億人	iq i gnin
@@ -72,7 +72,7 @@
 一千人	iq chi gnin
 一千個	iq chi goq
 一千零兩	iq chi lin lian
-一口吃隻胖子	iq kheu chioq tsaq phaon tsy
+一口喫隻胖子	iq kheu chioq tsaq phaon tsy
 一吹	iq tshyu
 一味	iq vi
 一哄而上	iq ghon er zaon
@@ -291,7 +291,7 @@
 三個人	sae goq gnin
 三個代表	sae goq de piau
 三個和尚嘸沒水喝	sae goq ghou zaon mhiq syu haq
-三個和尚嘸沒水吃	sae goq ghou zaon mhiq syu chioq
+三個和尚嘸沒水喫	sae goq ghou zaon mhiq syu chioq
 三個女人一臺戲	sae goq gniu gnin iq de shi
 三個字	sae goq zy
 三個方面	sae goq faon mi
@@ -670,9 +670,9 @@
 不可言傳	paq khou yi dzOE
 不可言狀	paq khou yi dzaon
 不可開交	paq khou khe ciau
-不吃虧	paq chioq khuei
-勿吃虧	vaq chioq khuei
-弗吃虧	vaq chioq khuei
+不喫虧	paq chioq khuei
+勿喫虧	vaq chioq khuei
+弗喫虧	vaq chioq khuei
 不同人	paq don gnin
 不同國家	paq don koq cia
 不同日月	paq don zyuq yuq
@@ -3330,7 +3330,7 @@
 人口金字塔	zyun kheu cin zy thaq
 人叫	gnin ciau
 人叫聲	gnin ciau shin
-人吃人	gnin chioq gnin
+人喫人	gnin chioq gnin
 人名	zyun min
 人君	zyun ciun
 人呢	gnin gni
@@ -3953,7 +3953,7 @@
 以寡擊衆	yi kua ciq tson
 以寡敵衆	yi kua diq tson
 以小人之心	yi shiau zyun tsy shin
-以小吃大	yi shiau chioq dou
+以小喫大	yi shiau chioq dou
 以小見大	yi shiau ci dou
 以弗所	yi faq so
 以弗所書	yi faq so syu
@@ -7004,7 +7004,7 @@
 分去	fen chiu
 分叉	fen tsho
 分句	fen ciu
-分吃	fen chioq
+分喫	fen chioq
 分合	fen ghaq
 分唱	fen tshaon
 分國	fen koq
@@ -9180,7 +9180,7 @@
 去去就來	chi chi jieu le
 去取	chi tshyu
 去取之間	chi tshyu tsy ci
-去吃	chi chioq
+去喫	chi chioq
 去向	chiu shian
 去向不明	chiu shian paq min
 去吧	chi pa
@@ -9889,74 +9889,74 @@
 叼着	tiau zyuq
 叼勒	tiau laq
 吁了	shiu laq
-吃一塹長一智	chioq iq chi cian iq tsyu
-吃下去	chioq gho chi
-吃落去	chioq loq chi
-吃不了	chioq paq liau
-吃不了兜着走	chioq paq liau teu dzoq tseu
-吃不了兜着走	chioq paq liau teu zyuq tseu
-吃勿了	chioq vaq liau
-吃勿了兜勒走	chioq vaq liau teu laq tseu
-吃弗了	chioq vaq liau
-吃弗了兜勒走	chioq vaq liau teu laq tseu
-吃勿落	chioq vaq loq
-吃勿落兜勒走	chioq vaq loq teu laq tseu
-吃弗落	chioq vaq loq
-吃弗落兜勒走	chioq vaq loq teu laq tseu
-吃乾了	chioq kI liau
-吃乾醋	chioq kI tshu
-吃了	chioq laq
-吃了定心丸	chioq laq din shin wun
-吃了秤砣	chioq laq chin dou
-吃了飯	chioq laq vae
-吃人	chioq gnin
-吃人不吐骨頭	chioq gnin paq thu kuaq deu
-吃人勿吐骨頭	chioq gnin vaq thu kuaq deu
-吃人弗吐骨頭	chioq gnin vaq thu kuaq deu
-吃人蟲	chioq gnin dzon
-吃來吃去	chioq le chioq chi
-吃個	chioq goq
-吃個	chioq ghoq
-吃傷了	chioq saon lei
-吃去	chioq chi
-吃吧	chioq pa
-吃吶	chioq naq
-吃啞巴虧	chioq o po khuei
-吃喝玩樂	chioq haq wae loq
-吃壞	chioq ua
-吃多了	chioq tou lei
-吃大戶	chioq da wu
-吃大虧	chioq dou khuei
-吃大鍋飯	chioq da kou vae
-吃奶	chioq na
-吃奶之力	chioq na tsy liq
-吃奶的力氣	chioq na tiq liq chi
-吃奶的氣力	chioq na tiq chi liq
-吃奶個力氣	chioq na goq liq chi
-吃奶個氣力	chioq na goq chi liq
-吃奶個力氣	chioq na ghoq liq chi
-吃奶個氣力	chioq na ghoq chi liq
-吃幾碗乾飯	chioq ci un kI vae
-吃得了	chioq taq liau
-吃敗仗	chioq ba cian
+喫一塹長一智	chioq iq chi cian iq tsyu
+喫下去	chioq gho chi
+喫落去	chioq loq chi
+喫不了	chioq paq liau
+喫不了兜着走	chioq paq liau teu dzoq tseu
+喫不了兜着走	chioq paq liau teu zyuq tseu
+喫勿了	chioq vaq liau
+喫勿了兜勒走	chioq vaq liau teu laq tseu
+喫弗了	chioq vaq liau
+喫弗了兜勒走	chioq vaq liau teu laq tseu
+喫勿落	chioq vaq loq
+喫勿落兜勒走	chioq vaq loq teu laq tseu
+喫弗落	chioq vaq loq
+喫弗落兜勒走	chioq vaq loq teu laq tseu
+喫乾了	chioq kI liau
+喫乾醋	chioq kI tshu
+喫了	chioq laq
+喫了定心丸	chioq laq din shin wun
+喫了秤砣	chioq laq chin dou
+喫了飯	chioq laq vae
+喫人	chioq gnin
+喫人不吐骨頭	chioq gnin paq thu kuaq deu
+喫人勿吐骨頭	chioq gnin vaq thu kuaq deu
+喫人弗吐骨頭	chioq gnin vaq thu kuaq deu
+喫人蟲	chioq gnin dzon
+喫來喫去	chioq le chioq chi
+喫個	chioq goq
+喫個	chioq ghoq
+喫傷了	chioq saon lei
+喫去	chioq chi
+喫吧	chioq pa
+喫吶	chioq naq
+喫啞巴虧	chioq o po khuei
+喫喝玩樂	chioq haq wae loq
+喫壞	chioq ua
+喫多了	chioq tou lei
+喫大戶	chioq da wu
+喫大虧	chioq dou khuei
+喫大鍋飯	chioq da kou vae
+喫奶	chioq na
+喫奶之力	chioq na tsy liq
+喫奶的力氣	chioq na tiq liq chi
+喫奶的氣力	chioq na tiq chi liq
+喫奶個力氣	chioq na goq liq chi
+喫奶個氣力	chioq na goq chi liq
+喫奶個力氣	chioq na ghoq liq chi
+喫奶個氣力	chioq na ghoq chi liq
+喫幾碗乾飯	chioq ci un kI vae
+喫得了	chioq taq liau
+喫敗仗	chioq ba cian
 君子之交淡如水	ciun tsy tsy ciau dae zyu syu
-吃眼前虧	chioq ngae zhi khuei
-吃虧	chioq khuei
-吃虧上當	chioq khuei zaon taon
-吃虧就是佔便宜	chioq khuei jieu zy ci bi gni
-吃豆乾	chioq deu kI
-吃豆人	chioq deu gnin
-吃長齋	chioq jian tsa
-吃飯時間	chioq vae zy ci
-吃飽了	chioq pau laq
-吃飽了	chioq pau lei
-吃飽了飯撐的	chioq pau laq vae tshan tiq
-吃飽撐着	chioq pau tshan dzoq
-吃飽撐着	chioq pau tshan zyuq
-吃飽撐勒	chioq pau tshan laq
-吃飽沒事幹	chioq pau maq zy kI
-吃魚	chioq ng
-吃鴨蛋	chioq aq dae
+喫眼前虧	chioq ngae zhi khuei
+喫虧	chioq khuei
+喫虧上當	chioq khuei zaon taon
+喫虧就是佔便宜	chioq khuei jieu zy ci bi gni
+喫豆乾	chioq deu kI
+喫豆人	chioq deu gnin
+喫長齋	chioq jian tsa
+喫飯時間	chioq vae zy ci
+喫飽了	chioq pau laq
+喫飽了	chioq pau lei
+喫飽了飯撐的	chioq pau laq vae tshan tiq
+喫飽撐着	chioq pau tshan dzoq
+喫飽撐着	chioq pau tshan zyuq
+喫飽撐勒	chioq pau tshan laq
+喫飽沒事幹	chioq pau maq zy kI
+喫魚	chioq ng
+喫鴨蛋	chioq aq dae
 各人	koq gnin
 各人民團體	koq zyun min doe thi
 各人自掃門前雪	koq gnin zy sau men zhi syuq
@@ -11393,7 +11393,7 @@
 回報率	wei pau liq
 回孃家	wei gnian cia
 回家	wei cia
-回家吃自己	wei cia chioq zy ci
+回家喫自己	wei cia chioq zy ci
 回家樂	wei cia loq
 回家路	wei cia lu
 回家路上	wei cia lu zaon
@@ -13253,7 +13253,7 @@
 大小便	da shiau bi
 大小姐	dou shiau cia
 大小寫	dou shiau shia
-大小通吃	dou shiau thon chioq
+大小通喫	dou shiau thon chioq
 大少爺	dou shiau ya
 大少爺	dou sau ya
 大局	da jiuq
@@ -13618,7 +13618,7 @@
 大洋洲	da yan cieu
 大洞	da don
 大洞受苦	da don zhieu khu
-大洞吃苦	da don chioq khu
+大洞喫苦	da don chioq khu
 大洞難補	da don nae pu
 大洪水	da ghon syu
 大洲	da cieu
@@ -13984,8 +13984,8 @@
 大蝦	dou huo
 大融爐	da yon lu
 大蟲	da dzon
-大蟲不吃伏肉	da dzon paq chioq voq gnioq
-大蟲吃小蟲	dou dzon chioq shiau dzon
+大蟲不喫伏肉	da dzon paq chioq voq gnioq
+大蟲喫小蟲	dou dzon chioq shiau dzon
 大衆	da tson
 大衆傳播	da tson dzOE pou
 大衆化	da tson huo
@@ -14313,7 +14313,7 @@
 大鬧一場	da nau iq jian
 大鬧天宮	da nau thi kon
 大魚	dou ng
-大魚吃小魚	dou ng chioq shiau ng
+大魚喫小魚	dou ng chioq shiau ng
 大魚大肉	dou ng da gnioq
 大鯢	da gni
 大鱷	da ngoq
@@ -14357,7 +14357,7 @@
 天下太平	
 天下本無事	
 天下沒有	
-天下沒有白吃的午餐	
+天下沒有白喫的午餐	
 天下烏鴉一般黑	
 天下無敵	
 天下無賊	
@@ -15072,7 +15072,7 @@
 好死不如賴活	
 好死不如賴活着	
 好沒	
-好漢不吃眼前虧	
+好漢不喫眼前虧	
 好爲人師	
 好牌	
 好生	
@@ -16832,7 +16832,7 @@
 小波	
 小波浪	
 小洞不堵	
-小洞不補大洞吃苦	
+小洞不補大洞喫苦	
 小海龜	
 小澤征爾	
 小烏龜	
@@ -16890,7 +16890,7 @@
 小鬼難纏	
 小鬼頭	
 小魚	
-小魚吃大魚	
+小魚喫大魚	
 小鳥	
 小鳥依人	
 小鳥蛋	
@@ -16938,7 +16938,7 @@
 就任演說	
 就出去	
 就去	
-就吃乾	
+就喫乾	
 就和	
 就問	
 就回去	
@@ -19569,7 +19569,7 @@
 愛兒	
 愛兒心切	
 愛到深處無怨尤	
-愛吃鬼	
+愛喫鬼	
 愛哭鬼	
 愛問	
 愛國主義教育	
@@ -21977,7 +21977,7 @@
 掙起	
 掙錢	
 掙開	
-掙飯吃	
+掙飯喫	
 掛上去	
 掛下去	
 掛落去	
@@ -22943,7 +22943,7 @@
 放爆竹	
 放牛	
 放牛仔	
-放牛吃草	
+放牛喫草	
 放牛班	
 放眼望去	
 放眼看去	
@@ -28699,8 +28699,8 @@
 沒取	
 沒受	
 沒口	
-沒吃	
-沒吃沒穿	
+沒喫	
+沒喫沒穿	
 沒向	
 沒吵	
 沒吸	
@@ -32008,7 +32008,7 @@
 爭取到	
 爭取時間	
 爭口氣	
-爭吃	
+爭喫	
 爭名	
 爭名利	
 爭名奪利	
@@ -32075,7 +32075,7 @@
 爭霸戰	
 爭霸賽	
 爭面子	
-爭風吃醋	
+爭風喫醋	
 爭鬥	
 爭鬥不休	
 爭鳴	
@@ -32999,7 +32999,7 @@
 生化需氧量	
 生卒年	
 生厭	
-生吃	
+生喫	
 生同衾死同穴	
 生吞	
 生吞活剝	
@@ -34004,7 +34004,7 @@
 癡長	
 癢了	
 癩蛤蟆	
-癩蛤蟆想吃天鵝肉	
+癩蛤蟆想喫天鵝肉	
 癩蝦蟆	
 癮君子	
 癮頭	
@@ -34686,8 +34686,8 @@
 省區	
 省卻	
 省去	
-省吃	
-省吃儉用	
+省喫	
+省喫儉用	
 省名	
 省在	
 省垣	
@@ -37785,7 +37785,7 @@
 老煙鬼	
 老牌	
 老牛	
-老牛吃嫩草	
+老牛喫嫩草	
 老牛拖車	
 老牛破車	
 老牛舐犢	
@@ -38994,7 +38994,7 @@
 自戕	
 自打	
 自找	
-自找苦吃	
+自找苦喫	
 自找麻煩	
 自投	
 自投羅網	
@@ -39321,7 +39321,7 @@
 自訂	
 自討	
 自討沒趣	
-自討苦吃	
+自討苦喫	
 自訟	
 自設	
 自許	
@@ -43137,7 +43137,7 @@
 象鼻山	
 象鼻蟲	
 豬下水	
-豬八戒吃人參果	
+豬八戒喫人參果	
 豬尾	
 豬尾巴	
 豬悟能	
@@ -43272,11 +43272,11 @@
 貨櫃車	
 貨櫃輪	
 貨比三家	
-貨比三家不吃虧	
+貨比三家不喫虧	
 貨物櫃	
 貨運行	
 販賣人口	
-貪吃鬼	
+貪喫鬼	
 貪多無厭	
 貪大求全	
 貪小失大	
@@ -49016,7 +49016,7 @@
 靠了	
 靠椅	
 靠水	
-靠水吃水	
+靠水喫水	
 靠水面	
 靠着	
 靠自己	
@@ -49398,7 +49398,7 @@
 風吹雨打	
 風味	
 風味十足	
-風味小吃	
+風味小喫	
 風和	
 風和日暄	
 風和日暖	
