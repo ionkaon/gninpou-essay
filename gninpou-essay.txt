@@ -8111,6 +8111,10 @@
 加沙	ko so
 加沙	cia so
 加沙地帶	cia so di ta
+加油	cia yeu
+加油吧	cia yeu pa
+加油啊	cia yeu gha
+加油啊	cia yeu a
 加油	ko yeu
 加油吧	ko yeu pa
 加油啊	ko yeu gha
