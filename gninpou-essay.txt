@@ -1279,8 +1279,6 @@
 勿飽和脂肪酸	vaq pau ghou tsy faon soe
 弗飽和	vaq pau ghou
 弗飽和脂肪酸	vaq pau ghou tsy faon soe
-不龜手藥	paq kuei shieu yaq
-不龜藥	paq kuei yaq
 丑日	chieu gniq
 且聽下回分解	chie thin gho wei fen ka
 且聽下回分解	chie thin gho wei fen cia
@@ -1865,7 +1863,6 @@
 九大	cieu da
 九大行星	cieu da yin shin
 九官鳥	cieu kun gniau
-九尾龜	cieu vi kuei
 九嶷山	cieu gni sae
 九日	cieu gniq
 九歲	cieu syu
@@ -6556,8 +6553,6 @@
 六萬個	loq vae goq
 六親不認	loq chin paq gnin
 六集	loq jiq
-六龜	loq kuei
-六龜鄉	loq kuei shian
 共分	gon fen
 共去	gon chi
 共同感覺	gon don kI ciuq
@@ -6610,7 +6605,6 @@
 冉冉上昇	zoe zoe zaon shin
 冉有	zoe yeu
 冉有僕	zoe yeu boq
-冊府元龜	tshaq fu gniu kuei
 再上去	tse zaon chi
 再下去	tse gho chi
 再落去	tse loq chi
@@ -6743,6 +6737,7 @@
 冰消瓦解	pin shiau ngo cia
 冰窖	pin ciau
 冶金學	ye cin yuq
+冶金學	yi cin yuq
 冷不防	lan paq vaon
 冷了	lan lei
 冷了	lan laq
@@ -12878,6 +12873,8 @@
 大典	da ti
 大冶	da ye
 大冶市	da ye zy
+大冶	da yi
+大冶市	da yi zy
 大凡	da vae
 大凶	da shion
 大出	dou tshyuq
@@ -15361,7 +15358,6 @@
 嫡傳	
 嫡長子	
 嫩江省	
-嫩苗龜	
 嫺於	
 嫺於辭令	
 嫺習	
@@ -16821,7 +16817,6 @@
 小波浪	
 小洞不堵	
 小洞不補大洞喫苦	
-小海龜	
 小澤征爾	
 小烏龜	
 小熊貓	
@@ -19057,8 +19052,6 @@
 忍無可忍	
 忍痛犧牲	
 忍着	
-忍者神龜	
-忍者龜	
 忍辱偷生	
 忍過去	
 忒惡	
@@ -29712,7 +29705,6 @@
 海魚	
 海鮮大餐	
 海鳥	
-海龜	
 浸於	
 浸水	
 浸沒	
@@ -34927,7 +34919,6 @@
 督察大隊	
 督戰	
 督率	
-督龜	
 睫狀體	
 睹物思人	
 瞄一瞄	
@@ -36466,8 +36457,6 @@
 糞尿	
 糞池	
 糞蛆	
-糞金龜	
-糞金龜子	
 糟了	
 糟溜黃魚	
 糟溜黃魚片	
@@ -40305,7 +40294,6 @@
 蓋率	
 蓋着	
 蓋茲	
-蓍龜	
 蓬勃發展	
 蓮池	
 蓮花池	
@@ -46067,10 +46055,6 @@
 金魚池	
 金魚缸	
 金魚藻	
-金龜	
-金龜婿	
-金龜子	
-金龜車	
 釘上去	
 釘下去	
 釘落去	
@@ -46363,7 +46347,6 @@
 鐵箍	
 鐵路局長	
 鐵錘	
-鐵雲藏龜	
 鐵面無情	
 鐵面無私	
 鑄下大錯	
@@ -47950,7 +47933,6 @@
 陸空大戰	
 陸賈	
 陸軍軍官學校	
-陸龜蒙	
 陽世	
 陽世間	
 陽剛味	
@@ -50880,30 +50862,3 @@
 龐茲	
 龐雜	
 龔自珍	
-龜兆	
-龜公	
-龜尾市	
-龜山	
-龜山島	
-龜山鄉	
-龜文	
-龜殼	
-龜殼花	
-龜毛	
-龜玉	
-龜王	
-龜甲	
-龜筮	
-龜紋	
-龜縮	
-龜肉	
-龜船	
-龜苓膏	
-龜茲	
-龜裂	
-龜速	
-龜鑑	
-龜頭	
-龜鱉	
-龜鶴同春	
-龜龜	
