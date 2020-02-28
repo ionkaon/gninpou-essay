@@ -255,7 +255,6 @@
 七大	chiq da
 七大工業國集團	chiq da kon gniq koq jiq doe
 七大洲	chiq da cieu
-七姊妹星團	chiq ci mei shin doe
 七層架構	chiq zen cia keu
 七帶石斑魚	chiq ta zaq pae ng
 七扭八歪	chiq gnieu paq hua
@@ -286,7 +285,6 @@
 三人行必有我師	sae zyun yin piq yeu ngo sy
 三仁	sae zyun
 三伏天	sae voq thi
-三保太監	sae pau tha kae
 三個世界	sae goq syu ka
 三個人	sae goq gnin
 三個代表	sae goq de piau
@@ -1842,8 +1840,6 @@
 乘間	jin ci
 乙丙橡膠	iq pin zhian ciau
 乙二醇	iq er zyun
-乙太	iq tha
-乙太網路	iq tha maon lu
 乙未	iq vi
 乙狀結腸	iq dzaon ciq jian
 乙種維生素	iq tson vi sen su
@@ -2856,16 +2852,7 @@
 亞利安娜	ia li EI na
 亞力山大帝	ia liq sae da ti
 亞哈斯	ia ha sy
-亞太	ia tha
-亞太區	ia tha chiu
 亞太國家	ia tha koq cia
-亞太地區	ia tha di chiu
-亞太營運中心	ia tha yin yun tson shin
-亞太經合會	ia tha cin ghaq wei
-亞太經合組織	ia tha cin ghaq tsu ciq
-亞太經濟合作會議	ia tha cin ci ghaq tsoq wei gni
-亞太經濟合作組織	ia tha cin ci ghaq tsoq tsu ciq
-亞太金融中心	ia tha cin yon tson shin
 亞拉巴馬	ia lha pa ma
 亞拉巴馬州	ia lha pa ma cieu
 亞歐大陸	ia eu da loq
@@ -2878,11 +2865,8 @@
 亞洲人	ia cieu gnin
 亞洲國家	ia cieu koq cia
 亞洲大學	ia cieu da ghoq
-亞洲太平洋地區	ia cieu tha bin yan di chiu
 亞洲最大	ia cieu tsei da
 亞洲頂大	ia cieu ten da
-亞洲與太平洋	ia cieu yu tha bin yan
-亞洲與太平洋地區	ia cieu yu tha bin yan di chiu
 亞洲開發銀行	ia cieu khe faq gnin ghaon
 亞特蘭大	ia daq lae da
 亞米拿達	ia mi na daq
@@ -2897,7 +2881,6 @@
 亞齊省	ia ji san
 亡了	vaon liau
 亡了	vaon lei
-亡妹	vaon mei
 交上	kau zaon
 交上來	kau zaon le
 交上去	kau zaon chi
@@ -3920,7 +3903,6 @@
 令儂	lin nou
 令出必行	lin tshyuq piq yin
 令出惟行	lin tshyuq vi yin
-令妹	lin mei
 令尊大人	lin tsen da zyun
 令望	lin vaon
 令牌	lin ba
@@ -3938,10 +3920,6 @@
 以和爲貴	yi ghou wei kuei
 以埃	yi e
 以天下爲己任	yi thi gho wei ci zyun
-以太	yi tha
-以太網	yi tha maon
-以太網絡	yi tha maon loq
-以太網絡端口	yi tha maon loq toe kheu
 以寡擊衆	yi kua ciq tson
 以寡敵衆	yi kua diq tson
 以小人之心	yi shiau zyun tsy shin
@@ -4366,7 +4344,6 @@
 作鬼臉	tsoq kuei li
 作鳥獸散	tsoq gniau shieu sae
 佞人	gnin gnin
-你太	gni tha
 你是爲了	gni zy wei liau
 你死	gni sy
 你死我活	gni sy ngo waq
@@ -5955,7 +5932,6 @@
 元代人	gniu de gnin
 元任	gniu zyun
 元嘉	gniu cia
-元太祖	gniu tha tsu
 元旦假期	gniu tae ko ji
 元智大學	gniu tsyu da ghoq
 元曲四大家	gniu chiuq sy da cia
@@ -5968,10 +5944,8 @@
 元長鄉	gniu cian shian
 元雜劇	gniu dzaq jiq
 元魚	gniu ng
-兄妹	shion mei
 兄弟二人	shion di er gnin
 兄弟兩人	shion di lian gnin
-兄弟姐妹	shion di cia mei
 兄弟姊妹	shion di ci mei
 兄長	shion cian
 充分	tshon ven
@@ -5986,7 +5960,6 @@
 充塞着	tshon saq zyuq
 充斥	tshon chiq
 充斥市面	tshon chiq zy mi
-充溢	tshon iq
 充滿希望	tshon mun shi vaon
 充滿着	tshon mun dzoq
 充滿着	tshon mun zyuq
@@ -6195,7 +6168,6 @@
 兔子尾巴長不了	thu tsy mi po jian paq liau
 兔死狐悲	thu sy wu pei
 兔死狗烹	thu sy keu phan
-党太尉	taon tha uei
 兜攬生意	teu lae san i
 兜率天	teu saq thi
 兜率天宮	teu saq thi kon
@@ -6535,7 +6507,6 @@
 六千人	loq chi gnin
 六千個	loq chi goq
 六口之家	loq kheu tsy cia
-六妹	loq mei
 六家	loq cia
 六尾	loq vi
 六度萬行	loq du vae yin
@@ -6841,7 +6812,6 @@
 出外人	tshyuq nga gnin
 出大差	tshyuq dou tsha
 出大恭	tshyuq dou kon
-出太陽	tshyuq tha yan
 出差	tshyuq tsha
 出差費	tshyuq tsha fi
 出差錯	tshyuq tsha tshou
@@ -7517,8 +7487,6 @@
 莫問	mhau men
 莫問	mau men
 別嚇人	biq haq gnin
-別太	biq tha
-別太客氣	biq tha khaq chi
 莫嚇人	mau haq gnin
 莫忒	mau thaq
 莫忒客氣	mau thaq khaq chi
@@ -8617,7 +8585,6 @@
 十三個	zyuq sae goq
 十三個月	zyuq sae kou yuq
 十三分	zyuq sae fen
-十三太保	zyuq sae tha pau
 十三日	zyuq sae gniq
 十三歲	zyuq sae syu
 十三轍	zyuq sae ciq
@@ -8728,8 +8695,6 @@
 十大塊	zyuq da khuei
 十大建設	zyuq da ci shiq
 十大類	zyuq da lei
-十妹	zyuq mei
-十姊妹	zyuq ci mei
 十字架	zyuq zy cia
 十字架刑	zyuq zy cia yin
 十家	zyuq ko
@@ -9495,8 +9460,6 @@
 反托拉斯法案	fae thoq lha sy faq EI
 反日	fae zyuq
 反照率	fae ciau liq
-反猶太	fae yeu tha
-反猶太主義	fae yeu tha tsyu gni
 反生	fae sen
 反生物戰	fae sen vaq ci
 反生物戰	fae sen vaq tsoe
@@ -9877,7 +9840,6 @@
 司法部長	sy faq bu cian
 司法院長	sy faq yu cian
 司長	sy cian
-司馬遼太郎	sy mo liau tha laon
 叼着	tiau dzoq
 叼着	tiau zyuq
 叼勒	tiau laq
@@ -10153,7 +10115,6 @@
 同等學力	don ten ghoq liq
 同等學歷	don ten ghoq liq
 同聲傳譯	don shin dzOE yiq
-同胞兄妹	don pau shion mei
 同胞雙生	don pau saon san
 同舍生	don so sen
 同行	don ghaon
@@ -10367,7 +10328,6 @@
 吾生也有涯	NU sen ye yeu yi
 吾生也有涯	WU sen ye yeu yi
 呂塞爾斯海姆	li saq er sy he m
-呂太后的筵席	li tha gheu tiq yi zhiq
 呆了	nge laq
 呆了	nge lei
 呆了一呆	nge laq iq nge
@@ -10606,7 +10566,6 @@
 哇啦	ua lha
 哈代	ha de
 哈伯	ha paq
-哈伯太空望遠鏡	ha paq tha khon vaon yu cin
 哈伯瑪斯	ha paq mo sy
 哈佛	ha vaq
 哈佛大學	ha vaq da ghoq
@@ -10810,8 +10769,6 @@
 唐古拉山	daon ku lha sae
 唐古拉山脈	daon ku lha sae maq
 唐古拉峯	daon ku lha fon
-唐太宗	daon tha tson
-唐太宗李衛公問對	daon tha tson li wei kon ven tei
 唐宋八大家	daon son paq da cia
 唐家	daon cia
 唐家山	daon cia sae
@@ -11359,7 +11316,6 @@
 四海之內皆兄弟	sy he tsy nei cie shion di
 四海爲家	sy he wei cia
 四海皆準	sy he cie tsyun
-四溢	sy iq
 四濺	sy ci
 四百人	sy paq gnin
 四百個	sy paq goq
@@ -12212,8 +12168,6 @@
 基里巴斯共和國	ci li po sy gon ghou koq
 基隆人	ci lon gnin
 堂伯叔	daon paq soq
-堂妹	daon mei
-堂姐妹	daon cia mei
 堂姊妹	daon ci mei
 堅守自盜	ci shieu zy dau
 堅持下去	ci ji gho chi
@@ -12588,7 +12542,6 @@
 外圍地區	nga wei di chiu
 外圍設備	nga wei shiq bei
 外圍賽	nga wei se
-外太空	nga tha khon
 外奶奶	nga na na
 外學	nga yuq
 外家	nga cia
@@ -12604,7 +12557,6 @@
 外架	nga ko
 外校學生	nga yau ghoq san
 外水	nga syu
-外溢	nga iq
 外生	nga sen
 外生殖器	nga sen jiq chi
 外甥	nga san
@@ -12699,7 +12651,6 @@
 多財善賈	tou dze zoe ku
 多邊貿易	tou pi meu yiq
 多邊貿易談判	tou pi meu yiq dae phun
-多那太羅	tou nha tha lou
 多重人格	tou dzon zyun kaq
 多錢善賈	tou ji zoe ku
 多長	tou jian
@@ -13130,8 +13081,8 @@
 大好時光	da hau zy kuaon
 大好時機	da hau zy ci
 大好機會	da hau ci wei
-大妹	da mei
-大妹夫	da mei fu
+大妹	dou mei
+大妹夫	dou mei fu
 大姆指	da m tsy
 大姆指頭	da m tsy deu
 大姐姐	dou cia cia
@@ -14195,6 +14146,7 @@
 大陸型	da loq yin
 大陸塊	da loq khuei
 大陸妹	da loq mei
+大陸妹	da loq mhei
 大陸委員會	da loq uei yu wei
 大陸性	da loq shin
 大陸性氣候	da loq shin chi gheu
@@ -14338,410 +14290,128 @@
 大龍峒	da lon don
 大龍街	da lon ka
 大龍郵票	da lon yeu phiau
-天上人間	
-天下一家	
-天下人	
-天下人耳目	
-天下大亂	
-天下太平	
-天下本無事	
-天下沒有	
-天下沒有白喫的午餐	
-天下烏鴉一般黑	
-天下無敵	
-天下無賊	
-天下無雙	
-天下無難事	
-天下無難事只怕有心人	
-天下爲家	
-天下雜誌	
-天不從人	
-天不從人願	
-天主教	
-天主教堂	
-天主教徒	
-天主教會	
-天主教派	
-天乾物燥	
-天人	
-天人之分	
-天人之際	
-天人交戰	
-天人合一	
-天人永別	
-天人永隔	
-天人菊	
-天倫之樂	
-天倫樂	
-天冬苯丙二肽酯	
-天分	
-天和	
-天哪	
-天啊	
-天啊	
-天問	
-天地間	
-天堂鳥	
-天大	
-天奪之魄	
-天娛	
-天崖	
-天差地別	
-天差地遠	
-天師教	
-天從人願	
-天怒人怨	
-天才兒童	
-天才出自勤奮	
-天才教育	
-天才橫溢	
-天文單位	
-天文學	
-天文學大成	
-天文學家	
-天文望遠鏡	
-天日之表	
-天時地利人和	
-天朝	
-天樂	
-天水地區	
-天水市	
-天水街	
-天池	
-天津人	
-天津大學	
-天津師範大學	
-天涯	
-天涯地角	
-天涯比鄰	
-天涯海角	
-天涯社區	
-天涯若比鄰	
-天涯路	
-天涯雜談	
-天清日晏	
-天災人禍	
-天無二日	
-天無絕人	
-天無絕人之路	
-天然更新	
-天然橡膠	
-天然雜交	
-天牛	
-天理人情	
-天理教	
-天生	
-天生一對	
-天生一對寶	
-天生地設	
-天生幹	
-天生的一對	
-天生麗質	
-天盛	
-天真無邪	
-天祝藏族自治縣	
-天耳通	
-天與人歸	
-天花亂墜	
-天行	
-天行赤眼	
-天衣無縫	
-天要下雨孃要嫁人	
-天貓座	
-天資過人	
-天賦人權	
-天長	
-天長地久	
-天長市	
-天長日久	
-天降	
-天隨人願	
-天馬行空	
-天體力學	
-天體物理學	
-天體物理學家	
-太上	
-太上皇	
-太上老君	
-太不	
-太不像話	
-太久	
-太乙	
-太乙神針	
-太乾	
-太亂	
-太低	
-太保	
-太保市	
-太倉	
-太倉市	
-太假	
-太傅	
-太傻	
-太僕	
-太僕寺	
-太僕寺卿	
-太僕寺旗	
-太公兵法	
-太公望	
-太公釣魚	
-太公釣魚願者上鉤	
-太冷	
-太初	
-太初曆	
-太半	
-太卜	
-太厚	
-太原	
-太原市	
-太原師範學院	
-太原路	
-太古	
-太古代	
-太古宙	
-太古時代	
-太古洋行	
-太史	
-太史令	
-太史公	
-太后	
-太君	
-太和	
-太和區	
-太和殿	
-太和縣	
-太圓	
-太在意	
-太壞	
-太多	
-太多的	
-太大	
-太大的	
-太夫人	
-太好	
-太好了	
-太妃糖	
-太妹	
-太子	
-太子丹	
-太子十三峯	
-太子妃	
-太子河區	
-太子洗馬	
-太子港	
-太子舍人	
-太子黨	
-太學	
-太守	
-太宗	
-太宰	
-太尉	
-太小	
-太少	
-太少了	
-太尖	
-太差	
-太帥	
-太師	
-太常	
-太平	
-太平區	
-太平國小	
-太平天國	
-太平天國革命	
-太平山	
-太平市	
-太平廣記	
-太平御覽	
-太平梯	
-太平洋	
-太平洋區	
-太平洋區域	
-太平洋戰爭	
-太平洋文化基金會	
-太平洋聯合鐵路	
-太平洋週邊	
-太平盛世	
-太平紳士	
-太平軍	
-太平道	
-太平門	
-太平間	
-太平鼓	
-太座	
-太康	
-太康縣	
-太廟	
-太弱	
-太強	
-太彎	
-太忙	
-太快	
-太急	
-太息	
-太想	
-太愛	
-太慢	
-太懶	
-太扯了	
-太早	
-太晚	
-太會	
-太有	
-太棒了	
-太極	
-太極劍	
-太極圖	
-太極圖說	
-太極拳	
-太極門	
-太武	
-太武山	
-太歲	
-太歲爺	
-太歲爺上動土	
-太歲頭上	
-太歲頭上動土	
-太沒	
-太沖	
-太油	
-太液池	
-太深	
-太淺	
-太湖	
-太湖石	
-太湖縣	
-太溼	
-太熱	
-太爛	
-太爲	
-太爺	
-太牢	
-太狠	
-太猛	
-太甚	
-太甲	
-太瘦	
-太白	
-太白粉	
-太白縣	
-太皇太后	
-太監	
-太直	
-太短	
-太石村	
-太祖	
-太祝	
-太空	
-太空人	
-太空城	
-太空天文臺	
-太空探索	
-太空時代	
-太空服	
-太空梭	
-太空機	
-太空步	
-太空漫步	
-太空站	
-太空舞步	
-太空船	
-太空艙	
-太空藝術	
-太空行走	
-太空衣	
-太空被	
-太空裝	
-太空遊	
-太空飛船	
-太笨	
-太累	
-太緊	
-太美	
-太老	
-太老爺	
-太胖	
-太腫	
-太苦	
-太虛	
-太虛幻境	
-太行	
-太行山	
-太谷	
-太谷燈	
-太谷縣	
-太貴	
-太近	
-太過	
-太過分	
-太遠	
-太遲	
-太郎	
-太醜	
-太醫	
-太醫院	
-太重	
-太鋼	
-太長	
-太閒	
-太阿倒持	
-太陡	
-太陰	
-太陰曆	
-太陽光	
-太陽光柱	
-太陽公司	
-太陽升	
-太陽地	
-太陽報	
-太陽島	
-太陽年	
-太陽微系統公司	
-太陽旗	
-太陽日	
-太陽時	
-太陽曆	
-太陽永不落	
-太陽活動	
-太陽照在桑乾河上	
-太陽熱	
-太陽燈	
-太陽眼鏡	
-太陽神	
-太陽神經叢	
-太陽神計劃	
-太陽窗	
-太陽窩	
-太陽竈	
-太陽系	
-太陽翼	
-太陽能	
-太陽能板	
-太陽能熱水器	
-太陽能電池	
-太陽谷	
-太陽輪	
-太陽輻射	
-太陽鏡	
-太陽隊	
-太陽電池	
-太陽電池板	
-太陽風	
-太陽風暴	
-太陽黑子	
-太陽黑子周	
-太難	
-太飽	
-太高	
-太鬆	
-太魯閣	
-太魯閣族	
-太鹹	
-太麻里	
-太麻里溪	
-太麻里鄉	
-太黑	
-太鼓	
+天上人間	thi zaon zyun ci
+天下一家	thi gho iq cia
+天下大亂	thi gho da loe
+天下沒有	thi gho maq yeu
+天下沒有白喫的午餐	thi gho maq yeu baq chioq tiq wu tshae
+天下烏鴉一般黑	thi gho u ia iq pae haq
+天下無難事只怕有心人	thi gho vu nae zy ciq pho yeu shin gnin
+天下無難事只怕有心人	thi gho Wu nae zy ciq pho yeu shin gnin
+天下爲家	thi gho wei cia
+天下雜誌	thi gho dzaq tsy
+天主教	thi tsyu ciau
+天主教堂	thi tsyu ciau daon
+天主教徒	thi tsyu ciau du
+天主教會	thi tsyu ciau wei
+天主教派	thi tsyu ciau pha
+天乾物燥	thi kI vaq sau
+天人	thi zyun
+天人之分	thi zyun tsy fen
+天人之際	thi zyun tsy ci
+天人交戰	thi zyun ciau ci
+天人交戰	thi zyun ciau tsoe
+天人合一	thi zyun ghaq iq
+天人永別	thi zyun ion biq
+天人永隔	thi zyun ion kaq
+天人菊	thi zyun ciuq
+天倫之樂	thi len tsy loq
+天倫樂	thi len loq
+天冬苯丙二肽酯	thi ton pen pin er tha tsy
+天分	thi fen
+天哪	thi nha
+天啊	thi gha
+天啊	thi a
+天問	thi ven
+天地間	thi di ci
+天堂鳥	thi daon gniau
+天大	thi da
+天奪之魄	thi daq tsy phaq
+天崖	thi ya
+天差地別	thi tsho di biq
+天差地遠	thi tsho di yu
+天師教	thi sy ciau
+天從人願	thi dzon zyun gniu
+天怒人怨	thi nu zyun iu
+天才兒童	thi dze er don
+天才出自勤奮	thi dze tshyuq zy jin fen
+天才教育	thi dze ciau yuq
+天文學	thi ven yuq
+天文學大成	thi ven yuq da jin
+天文學家	thi ven yuq cia
+天文望遠鏡	thi ven vaon yu cin
+天日之表	thi zyuq tsy piau
+天朝	thi jiau
+天水地區	thi syu di chiu
+天水市	thi syu zy
+天水街	thi syu ka
+天津人	thi cin gnin
+天津大學	thi cin da ghoq
+天津師範大學	thi cin sy vae da ghoq
+天涯雜談	thi ya dzaq dae
+天涯雜談	thi yi dzaq dae
+天清日晏	thi chin zyuq ae
+天災人禍	thi tse zyun ghou
+天無二日	thi vu er zyuq
+天無絕人	thi vu dzyuq gnin
+天無絕人之路	thi vu dzyuq gnin tsy lu
+天無二日	thi Wu er zyuq
+天無絕人	thi Wu dzyuq gnin
+天無絕人之路	thi Wu dzyuq gnin tsy lu
+天然更新	thi zoe ken shin
+天然橡膠	thi zoe zhian ciau
+天然雜交	thi zoe dzaq ciau
+天理人情	thi li zyun jin
+天理教	thi li ciau
+天生	thi san
+天生一對	thi san iq tei
+天生一對寶	thi san iq tei pau
+天生幹	thi san kI
+天生的一對	thi san tiq iq tei
+天盛	thi zhin
+天耳通	thi er thon
+天與人歸	thi yu zyun kuei
+天花亂墜	thi huo loe dzei
+天行	thi yin
+天行赤眼	thi yin tshaq ngae
+天要下雨孃要嫁人	thi iau gho yu gnian iau ko gnin
+天貓座	thi mhau zou
+天賦人權	thi fu zyun jiu
+天長	thi jian
+天長地久	thi jian di cieu
+天長市	thi jian zy
+天長日久	thi jian zyuq cieu
+天降	thi ciaon
+天馬行空	thi mo yin khon
+天體力學	thi thi liq yuq
+天體物理學	thi thi vaq li yuq
+天體物理學家	thi thi vaq li yuq cia
+太公釣魚	tha kon tiau ng
+太公釣魚願者上鉤	tha kon tiau ng gniu tse zaon keu
+太原師範學院	tha gniu sy vae yuq yu
+太古洋行	tha ku yan ghaon
+太子舍人	tha tsy so zyun
+太學	tha yuq
+太平盛世	tha bin zhin syu
+太平間	tha bin kae
+太歲	tha sei
+太歲爺	tha sei ya
+太歲爺上動土	tha sei ya zaon don thu
+太歲頭上	tha sei deu zaon
+太歲頭上動土	tha sei deu zaon don thu
+太空人	tha khon gnin
+太空行走	tha khon yin tseu
+太空被	tha khon bi
+太行	tha ghaon
+太行山	tha ghaon sae
+太過分	tha kou ven
+太長	tha jian
+太阿倒持	tha ou tau ji
+太阿倒持	tha ou tau dzy
+太陽照在桑乾河上	tha yan ciau dze saon kI ghou zaon
+太陽能電池	tha yan nen di ji
+太陽電池	tha yan di ji
+太陽電池板	tha yan di ji pae
 夫人	
 夫妻之間	
 夫妻本是同林鳥	
@@ -15178,20 +14848,12 @@
 妳有	
 妳的	
 妳自己	
-妹婿	
-妹子	
 妻兒	
 妻兒老小	
 姆佬	
 姆巴巴納	
 姆拉迪奇	
 姆指	
-姊妹品	
-姊妹市	
-姊妹會	
-姊妹淘	
-姊妹篇	
-姊妹花	
 始建於	
 始料未及	
 始新世	
@@ -15199,9 +14861,6 @@
 始於足下	
 始祖鳥	
 姍姍來遲	
-姐妹	
-姐妹倆	
-姐妹花	
 姑奶奶	
 姑妄聽之	
 姑妄言之	
@@ -15229,7 +14888,6 @@
 姨太	
 姨太太	
 姨奶奶	
-姨妹	
 姻家	
 姿態婀娜	
 威克菲爾	
@@ -16753,11 +16411,8 @@
 小嘍囉	
 小國家	
 小國寡民	
-小堂妹	
 小女人	
 小女生	
-小妹	
-小妹夫	
 小妹妹	
 小娃娃	
 小婦人	
@@ -16778,7 +16433,6 @@
 小工人	
 小巫見大巫	
 小差	
-小師妹	
 小康之家	
 小康家庭	
 小廉曲謹	
@@ -16845,7 +16499,6 @@
 小行星	
 小行星帶	
 小行板	
-小表妹	
 小解	
 小說家	
 小說集	
@@ -17739,7 +17392,6 @@
 師大分部	
 師大路	
 師太	
-師妹	
 師專生	
 師從	
 師心自用	
@@ -17966,7 +17618,6 @@
 幼兒教育	
 幼吾幼	
 幼吾幼以及人之幼	
-幼妹	
 幼學	
 幼學壯行	
 幼學瓊林	
@@ -18344,8 +17995,6 @@
 弘仁	
 弘光科技大學	
 弘大	
-弟妹	
-弟妹們	
 弦長	
 弦鳴樂器	
 弧線長	
@@ -18379,7 +18028,6 @@
 張家界市	
 張家長	
 張志和	
-張惠妹	
 張掛着	
 張揚出去	
 張易之	
@@ -19413,7 +19061,6 @@
 情書大全	
 情死	
 情況分析	
-情溢於表	
 情狀	
 情緒狀態	
 情繫	
@@ -20368,8 +20015,6 @@
 才疏學淺	
 才疏志大	
 才秀人微	
-才華橫溢	
-才華洋溢	
 才華蓋世	
 才行	
 才被	
@@ -20429,7 +20074,6 @@
 打奶	
 打字行	
 打家劫舍	
-打工妹	
 打差	
 打從	
 打戰	
@@ -26062,7 +25706,6 @@
 林分改造	
 林務	
 林務局	
-林妹妹	
 林學	
 林家	
 林家翹	
@@ -26821,7 +26464,6 @@
 橫挑鼻子豎挑眼	
 橫死	
 橫波	
-橫溢	
 橫濱人	
 橫生	
 橫生枝節	
@@ -27008,6 +26650,7 @@
 正大光明	
 正太	
 正太控	
+正妹	
 正妹	
 正學	
 正對着	
@@ -29284,7 +28927,7 @@
 洋洋大篇	
 洋洋大觀	
 洋洋自得	
-洋溢	
+洋溢着	
 洋溢着	
 洋芋	
 洋芋片	
@@ -29406,7 +29049,6 @@
 流傳後世	
 流傳於世	
 流傳開來	
-流光溢彩	
 流出去	
 流動人口	
 流動兒童	
@@ -29438,7 +29080,6 @@
 流涎嚥唾	
 流涎症	
 流淚	
-流溢	
 流眼淚	
 流着	
 流着淚	
@@ -29759,7 +29400,6 @@
 涉足於	
 涌上去	
 涌出去	
-涌溢	
 涌進去	
 涎水	
 涎沫	
@@ -30213,24 +29853,6 @@
 溝池	
 溝渠	
 溟池	
-溢位	
-溢價	
-溢出	
-溢出來	
-溢利	
-溢惡	
-溢收	
-溢於	
-溢於言表	
-溢洪道	
-溢流	
-溢流堰	
-溢流孔	
-溢滿	
-溢目	
-溢美	
-溢美之詞	
-溢血	
 溧水	
 溧水縣	
 溪尾	
@@ -30391,7 +30013,6 @@
 滿於	
 滿朝	
 滿歲	
-滿溢	
 滿盤皆輸	
 滿着	
 滿腹才學	
@@ -30466,7 +30087,6 @@
 漣水	
 漣水縣	
 漫天要價就地還錢	
-漫溢	
 漫漫長夜	
 漫無	
 漫無止境	
@@ -31720,7 +31340,6 @@
 熱導率	
 熱帶魚	
 熱心人	
-熱情洋溢	
 熱愛生活	
 熱戰	
 熱效率	
@@ -34295,7 +33914,6 @@
 皺着	
 皺着眉頭	
 盂方水方	
-盈溢	
 盈盈秋水	
 盈虧	
 盈虧自負	
@@ -37633,8 +37251,6 @@
 老女人	
 老奶奶	
 老好人	
-老妹	
-老妹子	
 老婦人	
 老學究	
 老家	
@@ -38290,7 +37906,6 @@
 胖大海	
 胚胎學	
 胚胎發生	
-胞妹	
 胡三省	
 胡人	
 胡克斯特拉	
@@ -38409,7 +38024,6 @@
 腦死亡	
 腦水腫	
 腦波	
-腦溢血	
 腦震盪	
 腫大	
 腫大症	
@@ -39357,7 +38971,6 @@
 臺大	
 臺大學生	
 臺大醫院	
-臺妹	
 臺師大	
 臺拉維夫	
 臺日	
@@ -39477,7 +39090,6 @@
 舌耕	
 舍人	
 舍利弗	
-舍妹	
 舍弗勒	
 舍間	
 舒伯特	
@@ -40465,7 +40077,6 @@
 蘇家屯	
 蘇家屯區	
 蘇家明	
-蘇小妹	
 蘇州人	
 蘇州大學	
 蘇建和	
@@ -41204,9 +40815,7 @@
 衣食無憂	
 衣魚	
 表單	
-表妹	
 表姊家	
-表姐妹	
 表層水	
 表彰大會	
 表揚大會	
@@ -41658,8 +41267,6 @@
 親和性	
 親善大使	
 親如一家	
-親姊妹	
-親姐妹	
 親家母	
 親家翁	
 親密無間	
@@ -43447,7 +43054,6 @@
 賠本生意	
 賠率	
 賢人	
-賢妹	
 賢淑仁慈	
 賣不出去	
 賣了	
@@ -44348,7 +43954,6 @@
 辟易	
 辣乎乎	
 辣味	
-辣妹	
 辣彼	
 辦事效率	
 辦個	
@@ -45778,7 +45383,6 @@
 酵素	
 酵解	
 酵解作用	
-酷妹	
 酷斃了	
 酷斯拉	
 酸不溜丟	
@@ -48790,7 +48394,6 @@
 青龍滿族自治縣	
 靖州苗族侗族自治縣	
 靖康傳信錄	
-靚妹	
 靜下去	
 靜落去	
 靜力學	
@@ -49306,7 +48909,6 @@
 飄來飄去	
 飄去	
 飄浮	
-飄溢	
 飄灑自如	
 飄然出世	
 飄着	
@@ -50561,7 +50163,6 @@
 麻雀在後	
 麻雀雖小	
 麻雀雖小五臟俱全	
-麼妹	
 黃世傑	
 黃了	
 黃人	
