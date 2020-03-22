@@ -481,7 +481,6 @@
 落去	loq chi
 下崗工人	gho kaon kon gnin
 下得了	gho taq liau
-下懷	gho wae
 下拉	gho lha
 下拉框	gho lha khuaon
 下拉菜單	gho lha tshe tae
@@ -539,7 +538,6 @@
 不人道	paq zyun dau
 勿人道	vaq zyun dau
 弗人道	vaq zyun dau
-不介意	paq ka i
 勿介意	vaq ka i
 弗介意	vaq ka i
 勿低於	vaq ti yu
@@ -783,12 +781,16 @@
 不應該	paq in ke
 勿應該	vaq in ke
 弗應該	vaq in ke
-不懷	paq wae
 不懷好意	paq wae hau i
 勿懷	vaq wae
 勿懷好意	vaq wae hau i
 弗懷	vaq wae
 弗懷好意	vaq wae hau i
+不懷好意	paq wa hau i
+勿懷	vaq wa
+勿懷好意	vaq wa hau i
+弗懷	vaq wa
+弗懷好意	vaq wa hau i
 不成問題	paq jin ven di
 勿成問題	vaq jin ven di
 勿成材	vaq jin dze
@@ -1003,8 +1005,6 @@
 不絕於耳	paq dzyuq yu er
 不經一事不長一智	paq cin iq zy paq cian iq tsyu
 不經意間	paq cin i ci
-不繫	paq ci
-不繫舟	paq ci cieu
 勿習慣	vaq zhiq kuae
 勿習慣	vaq zyuq kuae
 弗習慣	vaq zhiq kuae
@@ -1441,16 +1441,6 @@
 中世	tson syu
 中世紀	tson syu ci
 中亞國家	tson ia koq cia
-中介	tson ka
-中介公司	tson ka kon sy
-中介子	tson ka tsy
-中介所	tson ka so
-中介服務	tson ka voq vu
-中介服務	tson ka voq Wu
-中介機構	tson ka ci keu
-中介社團	tson ka dzo doe
-中介組織	tson ka tsu ciq
-中介費	tson ka fi
 中伏	tson voq
 中信銀行	tson shin gnin ghaon
 中共中央宣傳部	tson gon tson ian soe dzOE bu
@@ -2651,7 +2641,6 @@
 互爭雄長	wu tsan yon cian
 互生	wu sen
 互生葉	wu sen yiq
-互相聯繫	wu shian li shi
 互致問候	wu tsy ven gheu
 五一期間	ng iq ji ci
 五一長假	ng iq cian ko
@@ -3314,6 +3303,7 @@
 人文科學	zyun ven khou yuq
 人文精神	zyun ven cin zyun
 人文關懷	zyun ven kuae wa
+人文關懷	zyun ven kuae wae
 人族	gnin dzoq
 人是	gnin zy
 人是誰	gnin zy zei
@@ -3342,7 +3332,9 @@
 人機一體	zyun ci iq thi
 人機交互	zyun ci ciau wu
 人機介面	zyun ci cia mi
+人機介面	zyun ci ka mi
 人機界面	zyun ci cia mi
+人機界面	zyun ci ka mi
 人武	zyun Wu
 人死	gnin shi
 人死亡	gnin sy vaon
@@ -3591,6 +3583,9 @@
 仁懷	zyun wae
 仁懷市	zyun wae zy
 仁懷縣	zyun wae yu
+仁懷	zyun wa
+仁懷市	zyun wa zy
+仁懷縣	zyun wa yu
 仁者樂山	zyun tse yau sae
 仇人	jieu gnin
 仇人相見分外眼紅	jieu gnin shian ci fen nga ngae ghon
@@ -3605,20 +3600,16 @@
 今朝有酒今朝醉	cin ciau yeu cieu cin ciau tsei
 今歲	cin sei
 介之推	cia tsy thei
+介之推	ka tsy thei
 介乎	cia fu
-介休	cia shieu
-介休市	cia shieu zy
-介懷	ka wae
-介紹	ka zhiau
-介紹一下	ka zhiau iq gho
-介紹一記	ka zhiau iq ci
+介乎	ka fu
 介紹人	ka zhiau gnin
-介紹信	ka zhiau shin
-介紹出來	ka zhiau tshyuq le
-介紹所	ka zhiau so
 介面	cia mi
+介面	ka mi
 介面卡	cia mi kha
+介面卡	ka mi kha
 介面板	cia mi pae
+介面板	ka mi pae
 仍去	jin chiu
 他了	tha lei
 他了	tha laq
@@ -3769,8 +3760,6 @@
 仰看勒	gnian khI laq
 仰賴勒	gnian la laq
 仰面朝天	gnian mi jiau thi
-仲介	dzon ka
-仲介公司	dzon ka kon sy
 仲家	dzon ko
 仲裁人	dzon ze gnin
 任一個	zyun iq goq
@@ -4080,7 +4069,6 @@
 佛教	vaq ciau
 佛教徒	vaq ciau du
 佛教語	vaq ciau gniu
-佛瑞斯特懷特克	vaq zei sy daq wae daq khaq
 作了	tsoq laq
 作交易	tsoq ciau yiq
 作人	tsoq gnin
@@ -4104,8 +4092,8 @@
 作繭自縛	tsoq ci zy bou
 作罷	tsoq ba
 作詞家	tsoq dzy cia
-作賤	tsoq zhi
 作賤自己	tsoq zhi zy ci
+作賤自家	tsoq zhi zhi ko
 作鬥爭	tsoq teu tsen
 作鬼臉	tsoq kuei li
 作鳥獸散	tsoq gniau shieu sae
@@ -4601,6 +4589,7 @@
 使用率	sy yon liq
 使用範圍	sy yon vae wei
 使用者介面	sy yon tse cia mi
+使用者介面	sy yon tse ka mi
 使羞愧	sy shieu khuei
 使耳聾	sy er lon
 使高貴	sy kau kuei
@@ -4725,8 +4714,6 @@
 保持來	pau dzy le
 保持勒	pau ji laq
 保持勒	pau dzy laq
-保持聯繫	pau ji li shi
-保持聯繫	pau dzy li shi
 保教	pau ciau
 保爾	pau er
 保爾森	pau er sen
@@ -5353,6 +5340,7 @@
 傳播出去	dzOE pou tshyuq chi
 傳播四方	dzOE pou sy faon
 傳播媒介	dzOE pou mei cia
+傳播媒介	dzOE pou mei ka
 傳播媒體	dzOE pou mei thi
 傳播學	dzOE pou yuq
 傳播學系	dzOE pou yuq shi
@@ -5521,7 +5509,6 @@
 傷人	saon gnin
 傷弓之鳥	saon kon tsy gniau
 傷心致死	saon shin tsy sy
-傷懷	saon wae
 傷殘人	saon dzae gnin
 傷殘人員	saon dzae zyun yu
 傷生	saon sen
@@ -5550,7 +5537,6 @@
 像個	zhian ghoq
 僑生	jiau sen
 僕人	boq gnin
-僕固懷恩	boq ku wae en
 僞基人	wei ci gnin
 僞學	wei yuq
 僞學者	wei yuq tse
@@ -5860,13 +5846,11 @@
 內分泌腺	nei fen pi shi
 內勤人員	nei jin zyun yu
 內參	nei tshae
-內在聯繫	nei dze li shi
 內地人	nei di gnin
 內外交困	nei nga ciau khuen
 內學	nei yuq
 內家	nei cia
 內容搭形式	nei yon taq yin shiq
-內容簡介	nei yon ci ka
 內寄生	nei ci sen
 內布拉斯加	nei pu lha sy cia
 內布拉斯加州	nei pu lha sy cia cieu
@@ -5894,7 +5878,6 @@
 內行	nei ghaon
 內行話	nei ghaon wo
 內部矛盾	nei bu mau den
-內部聯繫	nei bu li shi
 內部鬥爭	nei bu teu tsen
 內閣大臣	nei koq da jin
 內閣總理大臣	nei koq tson li da jin
@@ -6081,7 +6064,6 @@
 公務人員	kon vu zyun yu
 公務人員	kon Wu zyun yu
 公司生產	kon sy sen tshae
-公司簡介	kon sy ci ka
 公孫大娘	kon sen da gnian
 公安人員	kon EI zyun yu
 公安分局	kon EI fen jiuq
@@ -6678,7 +6660,6 @@
 分支機關	fen tsy ci kuae
 分散	fen sae
 分散主義	fen sae tsyu gni
-分散介質	fen sae ka ciq
 分散劑	fen sae ci
 分散度	fen sae du
 分散式	fen sae shiq
@@ -7334,7 +7315,6 @@
 劃拉	waq lha
 劇中人	jiq tson gnin
 劇作家	jiq tsoq cia
-劇情介紹	jiq jin ka zhiau
 劇評人	jiq bin gnin
 劇集	jiq jiq
 劈哩啪啦	phiq lhi phaq lha
@@ -7788,7 +7768,6 @@
 劫後餘生	ciq gheu yu sen
 劫持人質	ciq dzy zyun tsy
 劫持人質	ciq ji zyun tsy
-劾繫	ghaq shi
 勁吹	jin tshyu
 勁爆	jin pau
 勃列日涅夫	baq liq zyuq gniaq fu
@@ -7913,7 +7892,6 @@
 匈牙利人	shion ngo li gnin
 匈牙利大平原	shion ngo li da bin gniu
 匍伏	bu voq
-匏繫	bau shi
 匐伏	boq voq
 化了	huo laq
 化了	huo lei
@@ -8033,7 +8011,6 @@
 匯率差額	wei liq tsha ngaq
 匯豐銀行	wei fon gnin ghaon
 匯集點	wei jiq ti
-匹夫懷璧	phiq fu wae piq
 匹茲堡	phiq tsy pau
 匿於	gniq yu
 區分	chiu fen
@@ -8406,6 +8383,7 @@
 占星學	ci shin yuq
 占星家	ci shin cia
 卡介苗	kha cia miau
+卡介苗	kha ka miau
 卡內基梅隆大學	kha nei ci mei lon da ghoq
 卡吧	kha pa
 卡啦	kha lha
@@ -8429,6 +8407,7 @@
 卡死	kha sy
 卡煞	kha saq
 卡煞死	kha saq shi
+卡波耶拉	kha pou ya lha
 卡波耶拉	kha pou ia lha
 卡洛娜	kha loq na
 卡爾	kha er
@@ -8495,7 +8474,6 @@
 卵泡	loe phau
 卵生	loe san
 卵生	lou san
-卷懷	ciu wae
 卷耳	ciu er
 卷阿	ciu ou
 卸落去	shia loq chi
@@ -8836,7 +8814,6 @@
 反向而行	fae shian er yin
 反圍剿	fae wei jiau
 反圍攻	fae wei kon
-反射波	fae zhiq pou
 反射率	fae zhiq liq
 反差	fae tsha
 反應時間	fae in zy ci
@@ -8876,7 +8853,6 @@
 取信於人	tshyu shin yu gnin
 取值範圍	tshyu jiq vae wei
 取得大學學位	tshyu taq da ghoq yuq wei
-取得聯繫	tshyu taq li shi
 取捨之間	tshyu so tsy ci
 取材自	tshyu dze zy
 取樂	tshyu loq
@@ -9244,7 +9220,6 @@
 各學科	koq yuq khou
 各家	koq cia
 各家各戶	koq cia koq wu
-各懷鬼胎	koq wae kuei the
 各戴	koq ta
 各拉丹冬峯	koq lha tae ton fon
 各族人民	koq dzoq zyun min
@@ -9559,6 +9534,7 @@
 吹的	tshyu tiq
 吹管樂	tshyu kun yuq
 吹綿介殼蟲	tshyu mi cia khoq dzon
+吹綿介殼蟲	tshyu mi ka khoq dzon
 吹起	tshyu chi
 吹起來	tshyu chi le
 吹進去	tshyu cin chi
@@ -10275,20 +10251,19 @@
 單行線	tae yin shi
 單行道	tae yin dau
 單間	tae kae
+嗅神經	shieu zyun cin
 嗅覺	shieu ciuq
 嗅覺作用	shieu ciuq tsoq yon
+嗅鹽	shieu yi
 嗆了	chian laq
 嗆鼻	chian biq
 嗎哪	ma nha
 嗔斥	tshen chiq
-嗚啦	u la
-嗣歲	dzy sei
-嗤之以鼻	tshy tsy yi biq
-嗤笑	tshy shiau
+嗚啦	u lha
 嗩吶	sou naq
-嗯啊	nk gha
-嗯啊	nk a
 嗯嗯	nk nk
+嗯嗯	an an
+嗯嗯	en en
 嘀咕	tiq ku
 嘀嘀咕咕	tiq tiq ku ku
 嘆了	thae laq
@@ -10381,7 +10356,6 @@
 囉囉唆唆	lhou lhou sou sou
 囉囉嗦嗦	lhou lhou sou sou
 囉囌	lhou su
-囚繫	jieu shi
 四一二	sy iq er
 四一二事變	sy iq er zy pi
 四一二反革命政變	sy iq er fae kaq min cin pi
@@ -10871,6 +10845,7 @@
 圓錐狀	yu tsei dzaon
 圓面大耳	yu mi da er
 圖像用戶介面	du zhian yon wu cia mi
+圖像用戶介面	du zhian yon wu ka mi
 圖利他人	du li tha zyun
 圖拉	du lha
 圖書館學	du syu kun yuq
@@ -11022,7 +10997,6 @@
 坐落去	zou loq chi
 坐了	zou laq
 坐大	zou da
-坐懷不亂	zou wa paq loe
 坐椅	zou i
 坐的	zou tiq
 坐言起行	zou yi chi ghan
@@ -11467,8 +11441,6 @@
 壯大聲勢	tsaon da shin syu
 壯年人	tsaon gni gnin
 壯志未酬身先死	tsaon tsy vi jieu shin shi sy
-壯懷	tsaon wa
-壯懷激烈	tsaon wa ciq liq
 壯烈犧牲	tsaon liq shi sen
 壯盛	tsaon zhin
 壹個人	iq goq gnin
@@ -11677,7 +11649,6 @@
 夢寐難忘	mon mei nae vaon
 夢想家	mon shian cia
 夢有五不占	mon yeu ng paq ci
-夢繫	mon shi
 夢行症	mon yin cin
 夥人	hou gnin
 夥耕	hou kan
@@ -12974,7 +12945,7 @@
 大資產階級	da tsy tshae cie ciq
 大賠	da bei
 大賢	da yi
-大賤賣	dou ji ma
+大賤賣	dou zhi ma
 大賭	da tu
 大賺	da dzae
 大賺一票	da dzae iq phiau
@@ -13736,7 +13707,6 @@
 姿態婀娜	tsy the ou nou
 威克菲爾	uei khaq fi er
 威克菲爾德	uei khaq fi er taq
-威尊命賤	uei tsen min ji
 威尼斯人	uei gni sy gnin
 威尼斯商人	uei gni sy saon gnin
 威廉亞歷山大	uei li ia liq sae da
@@ -13825,11 +13795,8 @@
 婆羅浮屠	bou lou vu du
 婆羅門教	bou lou men ciau
 婉兒	un er
-婚介	huen ka
-婚介所	huen ka so
 婚假	huen ko
 婚前性行爲	huen zhi shin yin wei
-婚姻介紹所	huen in ka zhiau so
 婚姻狀況	huen in dzaon huaon
 婚姻生活	huen in sen waq
 婚姻自由	huen in zy yeu
@@ -13846,9 +13813,6 @@
 婺川仡佬族苗族自治縣	vu tshoe kaq lau dzoq miau dzoq zy dzyu yu
 婺川自治縣	vu tshoe zy dzyu yu
 媒人婆	mei gnin bou
-媒介	mei ka
-媒介物	mei ka vaq
-媒介體	mei ka thi
 媒體自由	mei thi zy yeu
 媒體訪問控制	mei thi faon ven khon tsyu
 媚世	mei syu
@@ -14321,7 +14285,6 @@
 安歇吧	EI shiq pa
 安琪兒	EI ji er
 安瓦爾	EI ngo er
-安納波利斯	EI naq pou li sy
 安貧樂道	EI bin loq dau
 安道爾	EI dau er
 安道爾共和國	EI dau er gon ghou koq
@@ -14404,7 +14367,6 @@
 定量分塊	din lian fen khuei
 定量分析	din lian fen shiq
 定長	din jian
-定風波	din fon pou
 宜室宜家	gni syuq gni cia
 宜家	gni cia
 宜蘭人	gni lae gnin
@@ -14445,7 +14407,6 @@
 室家	syuq cia
 室樂	syuq yuq
 室邇人遐	syuq er zyun ya
-宦海風波	wae he fon pou
 宮人	kon zyun
 宮爆肉丁	kon pau gnioq tin
 宮爆雞丁	kon pau ci tin
@@ -14693,7 +14654,6 @@
 宿分	soq fen
 宿務	soq vu
 宿務	soq Wu
-宿懷	soq wae
 宿願已償	soq gniu yi dzaon
 宿願得償	soq gniu taq dzaon
 寂寞歲月	jiq moq sei yuq
@@ -14718,7 +14678,6 @@
 寄還	ci wae
 寄還給	ci wae ciq
 密不可分	miq paq khou fen
-密切聯繫	miq chiq li shi
 密教	miq ciau
 密歇根大學	miq shiq ken da ghoq
 密爾	miq er
@@ -14833,6 +14792,7 @@
 寧死不降	gnin sy paq ghaon
 寧死不降	gnin shi paq ghaon
 寧波地區	gnin pou di chiu
+寧波地區	gnin poq di chiu
 寧馨兒	gnin shin er
 審判長	shin phun cian
 審問	shin ven
@@ -14861,6 +14821,7 @@
 寬大無邊	khun da vu pi
 寬大無邊	khun da Wu pi
 寬大爲懷	khun da wei wae
+寬大爲懷	khun da wei wa
 寬宏大度	khun ghon da du
 寬宏大量	khun ghon da lian
 寬寬大大	khun khun da da
@@ -14945,7 +14906,6 @@
 專科學校	tsoe khou ghoq yau
 專科生	tsoe khou san
 專職人員	tsoe ciq zyun yu
-專輯介紹	tsoe chiq ka zhiau
 專長	tsoe jian
 專門人員	tsoe men zyun yu
 專門人才	tsoe men zyun dze
@@ -15491,7 +15451,7 @@
 工程學院	kon jin yuq yu
 工程師學	kon jin sy yuq
 工程技術人員	kon jin ji zyuq zyun yu
-工程數學	kon jin su ghoq
+工程數學	kon jin su yuq
 工程浩大	kon jin ghau da
 工藝學	kon gni yuq
 工行	kon ghaon
@@ -15761,7 +15721,6 @@
 布痕瓦爾德	pu ghen ngo er taq
 布穀鳥	pu koq gniau
 布穀鳥鐘	pu koq gniau tson
-布縵	pu mae
 布耳	pu er
 布萊德彼特	pu le taq pi daq
 布萊恩狄帕瑪	pu le en diq phaq ma
@@ -15928,8 +15887,6 @@
 平分秋色	bin fen chieu saq
 平分線	bin fen shi
 平地人	bin di gnin
-平地起風波	bin di chi fon pou
-平地風波	bin di fon pou
 平均分	bin ciun fen
 平均分子	bin ciun fen tsy
 平均分子量	bin ciun fen tsy lian
@@ -15972,7 +15929,6 @@
 平躺勒	bin thaon laq
 平面交叉	bin mi ciau tsho
 平面幾何學	bin mi ci ghou yuq
-平面波	bin mi pou
 年事已大	gni zy yi dou
 年代學	gni de yuq
 年休假	gni shieu ko
@@ -16274,7 +16230,6 @@
 弔客眉	tiau khaq mei
 弔者大悅	tiau tse da yuq
 引落去	yin loq chi
-引介	yin ka
 引咎自責	yin jieu zy tsaq
 引導學生	yin dau ghoq san
 引拉	yin lha
@@ -16432,7 +16387,6 @@
 彩鳳隨鴉	tshe von zei ia
 彪個子	piau kou tsy
 彪形大漢	piau yin da he
-彭德懷	ban taq wae
 彭水苗族土家族自治縣	ban syu miau dzoq thu cia dzoq zy dzyu yu
 彰化人	tsaon huo gnin
 彰化師範大學	tsaon huo sy vae da ghoq
@@ -16472,6 +16426,7 @@
 往世	uaon syu
 往日	uaon zyuq
 往日情懷	uaon zyuq jin wae
+往日情懷	uaon zyuq jin wa
 往歲	uaon sei
 往生	uaon sen
 往還	uaon wae
@@ -16519,7 +16474,6 @@
 後天下之樂而樂	gheu thi gho tsy loq er loq
 後學	gheu yuq
 後尾	gheu vi
-後座繫	gheu zou ci
 後悔莫及	gheu huei moq jiq
 後感覺	gheu kI ciuq
 後望鏡	gheu vaon cin
@@ -16693,7 +16647,6 @@
 心細膽大	shin shi tae dou
 心絞痛	shin ciau thon
 心織筆耕	shin ciq piq kan
-心繫	shin shi
 心耳	shin er
 心肌梗死	shin ci kan sy
 心腸壞	shin jian ua
@@ -16970,7 +16923,6 @@
 情況分析	jin huaon fen shiq
 情狀	jin dzaon
 情緒狀態	jin zyu dzaon the
-情繫	jin shi
 情長紙短	jin jian tsy toe
 惑人耳目	ghoq zyun er moq
 惠更斯	wei ken sy
@@ -17036,7 +16988,6 @@
 意出望外	i tshyuq vaon nga
 意味	i vi
 意味深長	i vi shin jian
-意外風波	i nga fon pou
 意大利	i da li
 意大利人	i da li gnin
 意大利直麪	i da li jiq mi
@@ -17223,6 +17174,7 @@
 應用數學	in yon su yuq
 應用科學	in yon khou yuq
 應用程式介面	in yon jin shiq cia mi
+應用程式介面	in yon jin shiq ka mi
 應考生	in khau san
 應試教育	in sy ciau yuq
 應該	in ke
@@ -17249,58 +17201,17 @@
 懷了	wa laq
 懷了	wae laq
 懷仁	wae zyun
+懷仁	wa zyun
 懷仁堂	wae zyun daon
+懷仁堂	wa zyun daon
 懷仁縣	wae zyun yu
-懷來	wae le
-懷來縣	wae le yu
-懷俄明	wae ngou min
-懷俄明州	wae ngou min cieu
-懷化	wae huo
-懷化市	wae huo zy
+懷仁縣	wa zyun yu
 懷孕期間	wa yun ji ci
 懷孕期間	wae yun ji ci
-懷安	wae EI
-懷安縣	wae EI yu
-懷寧	wae gnin
-懷寧縣	wae gnin yu
-懷帝	wae ti
-懷德	wae taq
-懷德海	wae taq he
-懷念	wae nE
-懷恨	wae ghen
-懷恨在心	wae ghen dze shin
-懷恩	wae en
-懷恩堂	wae en daon
-懷想	wae shian
-懷憂喪志	wae ieu saon tsy
-懷戀	wae li
-懷才不遇	wae dze paq gniu
-懷才抱德	wae dze bau taq
-懷敵意	wae diq i
-懷柔	wae zhieu
-懷柔區	wae zhieu chiu
-懷柔政策	wae zhieu cin tshaq
-懷柔縣	wae zhieu yu
-懷特	wae daq
-懷特海德	wae daq he taq
-懷璧	wae piq
-懷璧其罪	wae piq ji zei
-懷疑	wae gni
-懷疑心	wae gni shin
-懷疑派	wae gni pha
-懷疑者	wae gni tse
-懷疑論	wae gni len
-懷祿	wae loq
-懷素	wae su
-懷舊	wae jieu
-懷舊感	wae jieu kI
-懷遠	wae yu
-懷遠縣	wae yu yu
-懷鄉	wae shian
-懷鄉病	wae shian bin
 懷集	wae jiq
+懷集	wa jiq
 懷集縣	wae jiq yu
-懸乎	yu fu
+懷集縣	wa jiq yu
 懸壺濟世	yu wu ci syu
 懸樑自盡	yu lian zy jin
 懸賞分	yu saon fen
@@ -17515,7 +17426,6 @@
 戒行	ka yin
 或大或小	ghoq dou ghoq shiau
 或然率	ghoq zoe liq
-或繫之牛	ghoq ci tsy ngeu
 或被	ghoq bei
 戚夫人	chiq fu gnin
 戚家軍	chiq cia ciun
@@ -17610,8 +17520,6 @@
 戴高樂	te kau loq
 戶長	wu cian
 房交會	vaon ciau wei
-房屋中介	vaon oq tson ka
-房產中介	vaon tshae tson ka
 房貸銀行	vaon the gnin ghaon
 房間裏	vaon kae li
 所多瑪與蛾摩拉	so tou ma yu ngou mou lha
@@ -17949,7 +17857,6 @@
 把你	po gni
 把你幹	po gni kI
 把個	po goq
-抒懷	syu wae
 抓上	tsa zaon
 抓上來	tsa zaon le
 抓上去	tsa zaon chi
@@ -18031,8 +17938,6 @@
 投保人	deu pau gnin
 投奔自由	deu pen zy yeu
 投影幾何學	deu in ci ghou yuq
-投懷	deu wa
-投懷送抱	deu wa son bau
 投案自首	deu EI zy shieu
 投標人	deu piau gnin
 投機分子	deu ci ven tsy
@@ -18080,7 +17985,6 @@
 折落去	ciq loq chi
 折價率	ciq ko liq
 折射式望遠鏡	ciq zhiq shiq vaon yu cin
-折射波	ciq zhiq pou
 折射率	ciq zhiq liq
 折扣率	ciq kheu liq
 折損率	ciq sen liq
@@ -18474,7 +18378,6 @@
 拖長	thou jian
 拘傳	ciu dzOE
 拘拿	ciu na
-拘繫	ciu shi
 拙行	tsyuq yin
 招了	ciau laq
 招人	ciau gnin
@@ -18701,7 +18604,6 @@
 捐背	ciu pei
 捐血人	ciu shiuq gnin
 捐贈人	ciu dzen gnin
-捕影繫風	bu in shi fon
 捕拿	bu na
 捧腹大笑	phon foq da shiau
 捨下你	so gho gni
@@ -18870,8 +18772,6 @@
 推落去	thei loq chi
 推人	thei gnin
 推人犯規	thei gnin vae kuei
-推介	thei ka
-推介會	thei ka wei
 推卸責任	thei shia tsaq zyun
 推問	thei ven
 推宕	thei dan
@@ -18883,7 +18783,6 @@
 推敲	thei chiau
 推斥	thei chiq
 推斥力	thei chiq liq
-推波助瀾	thei pou dzu lae
 推勒	thei laq
 推背圖	thei pei du
 推行	thei yin
@@ -19244,7 +19143,6 @@
 擔架隊	tae ko dei
 擔勒	tae laq
 擔的	tae tiq
-據介紹	ciu ka zhiau
 據傳	ciu dzOE
 據傳說	ciu dzOE syuq
 擠落去	ci loq chi
@@ -19469,7 +19367,6 @@
 放寒假	faon ghEI ko
 放射學	faon zhiq yuq
 放射狀	faon zhiq dzaon
-放懷	faon wae
 放暑假	faon syu ko
 放爆竹	faon pau tsoq
 放牛娃	faon ngeu uae
@@ -19798,7 +19695,6 @@
 敝帚自珍	bi cieu zy cin
 敞勒	chian laq
 敞的	chian tiq
-敞胸露懷	chian shion lu wae
 敢把皇帝拉下馬	kI po waon ti lha gho mo
 敢死	kI sy
 敢死隊	kI sy dei
@@ -19919,7 +19815,6 @@
 數字命理學	su zy min li yuq
 數字家庭	su zy cia din
 數學家	su yuq cia
-數學物理學	su ghoq vaq li yuq
 數學物理學	su yuq vaq li yuq
 數家	su cia
 數家珍	su cia cin
@@ -20148,7 +20043,6 @@
 新羅王朝	shin lou waon jiau
 新老交替	shin lau ciau thi
 新聞人物	shin ven zyun vaq
-新聞媒介	shin ven mei ka
 新聞學	shin ven yuq
 新聞家	shin ven cia
 新聞專科學校	shin ven tsoe khou ghoq yau
@@ -20196,7 +20090,6 @@
 於二	yu gni
 於人	yu gnin
 於呼哀哉	u fu e tse
-於懷	yu wae
 於樂	yu loq
 於美人	yu mei gnin
 於菟	u du
@@ -20957,9 +20850,6 @@
 暗自竊喜	EI zy chiq shi
 暗藏鬼胎	EI dzaon kuei the
 暗行	EI yin
-暗送秋波	EI son chieu pou
-暢懷	chian wae
-暢懷	tshaon wae
 暢盛	chian zhin
 暢盛	tshaon zhin
 暢茂	chian mau
@@ -20990,7 +20880,6 @@
 暹羅貓	shi lou mau
 曆尾	liq vi
 曉以大義	shiau yi da gni
-曉波	shiau pou
 曉行夜宿	shiau yin ya soq
 曖昧行爲	e mei yin wei
 曝光	bau kuaon
@@ -21490,7 +21379,6 @@
 有緣無分	yeu yu Wu ven
 有耳無嘴	yeu er vu tsyu
 有耳無嘴	yeu er Wu tsyu
-有聯繫	yeu li shi
 有色人種	yeu saq gnin tson
 有血有淚	yeu shiuq yeu lei
 有行無市	yeu ghaon vu zy
@@ -21889,7 +21777,6 @@
 李家同	li cia don
 李家短	li cia toe
 李悝	li khuei
-李懷遠	li wae yu
 李朝威	li jiau uei
 李氏朝鮮	li zy jiau shi
 李爾王	li er waon
@@ -22265,7 +22152,6 @@
 梯度回波	thi du wei pou
 梯架	thi ko
 梯狀	thi dzaon
-械繫	ye shi
 梳了	sy laq
 梳隻	sy tsaq
 梵學	vae yuq
@@ -22361,7 +22247,6 @@
 概率和數理統計	ke liq ghou su li thon ci
 概率論	ke liq len
 概莫能外	ke moq nen nga
-榆莢	yu ciaq
 榕壇問業	yon dae ven gniq
 榛仁	tsen gnin
 榜人	paon gnin
@@ -22590,7 +22475,6 @@
 機械學系	ci ye yuq shi
 機械工人	ci ye kon gnin
 機械效率	ci ye yau liq
-機械波	ci ye pou
 機械率	ci ye liq
 機械行業	ci ye ghaon gniq
 機構學	ci keu yuq
@@ -22611,7 +22495,6 @@
 橫了心	wan laq shin
 橫挑鼻子	wan thiau biq tsy
 橫挑鼻子豎挑眼	wan thiau biq tsy zyu thiau ngae
-橫波	wan pou
 橫濱人	wan pin gnin
 橫生	wan san
 橫生枝節	wan san tsy ciq
@@ -22640,8 +22523,6 @@
 檢察長	ci tshaq cian
 檢查人員	ci dzo zyun yu
 檢查長	ci dzo cian
-檢波	ci pou
-檢波器	ci pou chi
 檢舉人	ci ciu gnin
 檢驗醫學	ci nE i yuq
 櫃上	guei zaon
@@ -22679,7 +22560,6 @@
 次生	tshy sen
 次生林	tshy sen lin
 次生災害	tshy sen tse ghe
-次聲波	tshy shin pou
 次長	tshy jian
 欣弗	shin faq
 欲加之罪	yuq ko tsy zei
@@ -22742,7 +22622,6 @@
 止咳藥	tsy khaq yaq
 止謗莫如自脩	tsy paon moq zyu zy shieu
 正一教	cin iq ciau
-正中下懷	cin tson gho wae
 正中間	cin tson ci
 正交	cin ciau
 正交羣	cin ciau jiun
@@ -22761,7 +22640,6 @@
 正常人	cin dzaon gnin
 正常範圍	cin dzaon vae wei
 正常運行	cin dzaon yun yin
-正弦波	cin yi pou
 正態分佈	cin the fen pu
 正應該	cin in ke
 正教	cin ciau
@@ -22897,7 +22775,6 @@
 歷朝	liq jiau
 歷朝歷代	liq jiau liq de
 歷朝通俗演義	liq jiau thon dzoq yi gni
-歷經波折	liq cin pou ciq
 歸人	kuei zyun
 歸去	kuei chiu
 歸家	kuei cia
@@ -23225,14 +23102,11 @@
 毛狀	mau dzaon
 毛遂自薦	mau zei zy ci
 毛髮皆豎	mau faq cie zyu
-毫不介意	ghau paq ka i
 毫不在乎	ghau paq dze fu
-毫不懷疑	ghau paq wae gni
 毫伏	ghau voq
 毫分	ghau fen
 毫無二致	ghau vu er tsy
 毫無二致	ghau Wu er tsy
-毫米波	ghau mi pou
 毫釐不差	ghau li paq tsha
 毫釐之差	ghau li tsy tsha
 毫髮不差	ghau faq paq tsha
@@ -23887,7 +23761,6 @@
 沒點	mhaq ti
 沖人	tshon gnin
 沖壞	tshon ua
-沖懷	tshon wae
 沖虛真人	tshon shiu cin gnin
 沖鼻	tshon biq
 沙家浜	so cia pan
@@ -23952,7 +23825,6 @@
 況味	huaon vi
 泄落去	shiq loq chi
 泄了	shiq laq
-泄殖肛孔	shiq jiq kaon khon
 泄沓	shiq thaq
 泄泄沓沓	shiq shiq thaq thaq
 泉州師範學院	DZOE cieu sy vae yuq yu
@@ -24292,7 +24164,6 @@
 浮點運算	vu ti yun soe
 浴火重生	yuq hou dzon sen
 海上花列傳	he zaon huo liq dzoe
-海不揚波	he paq yan pou
 海乾	he kI
 海事專科學校	he zy tsoe khou ghoq yau
 海事職業學校	he zy ciq gniq ghoq yau
@@ -24319,7 +24190,6 @@
 海拉爾	he lha er
 海拉爾區	he lha er chiu
 海日	he zyuq
-海波	he pou
 海洋學	he yan yuq
 海洋學院	he yan yuq yu
 海洋溫差發電	he yan uen tsha faq di
@@ -24435,14 +24305,12 @@
 淫娃	yin ua
 淫樂	yin loq
 淫行	yin yin
-淫賤	yin ji
 淫鬼	yin kuei
 淮陰師範學院	wae in sy vae yuq yu
 深交	shin ciau
 深交所	shin ciau so
 深仇大恨	shin jieu da ghen
 深入人心	shin zyuq zyun shin
-深切關懷	shin chiq kuae wae
 深切體認	shin chiq thi zyun
 深刻理解	shin khaq li ka
 深刻認識	shin khaq zyun shiq
@@ -24712,9 +24580,8 @@
 滿剌加	mun la cia
 滿好個	mun hau goq
 滿州人	mun cieu gnin
-滿懷	mun wae
-滿懷信心	mun wae shin shin
 滿懷希望	mun wae shi vaon
+滿懷希望	mun wa shi vaon
 滿朝	mun jiau
 滿盤皆輸	mun bun cie syu
 滿腹才學	mun foq dze yuq
@@ -24784,7 +24651,6 @@
 漿狀	cian dzaon
 潑落去	phaq loq chi
 潑濺	phaq ci
-潑賤	phaq ji
 潔身自好	ciq shin zy hau
 潔身自愛	ciq shin zy e
 潘塔納爾	phun thaq naq er
@@ -24801,7 +24667,6 @@
 潛伏期	ji voq ji
 潛伏着	ji voq dzoq
 潛伏着	ji voq zyuq
-潛在媒介	ji dze mei ka
 潛望鏡	ji vaon cin
 潛水人	ji syu gnin
 潛沒	ji maq
@@ -24831,7 +24696,6 @@
 澹泊寡欲	dae boq kuo yuq
 激光二極管	ciq kuaon er jiq kun
 激動人心	ciq don zyun shin
-激波	ciq pou
 激發學生	ciq faq ghoq san
 激進分子	ciq cin ven tsy
 激進武裝分子	ciq cin Wu tsaon ven tsy
@@ -25271,7 +25135,6 @@
 煙霏霧集	i fi Wu jiq
 煙鬼	i kuei
 煞尾	saq vi
-煞有介事	saq yeu ka zy
 煤炭行業	mei thae ghaon gniq
 煤礦工人	mei khuaon kon gnin
 煦日	shiu zyuq
@@ -25693,7 +25556,6 @@
 物腐蟲生	vaq vu dzon san
 物色人才	vaq saq zyun dze
 物色人選	vaq saq zyun soe
-物質波	vaq ciq pou
 物質生活	vaq ciq sen waq
 物質生產	vaq ciq sen tshae
 物質生產部門	vaq ciq sen tshae bu men
@@ -25749,7 +25611,6 @@
 牽着鼻子走	chi dzoq biq tsy tseu
 牽着鼻子走	chi zyuq biq tsy tseu
 牽線人	chi shi gnin
-牽繫	chi shi
 牽馬到河易	chi mo tau ghou yi
 犀鳥	shi gniau
 犁鋤	li zy
@@ -25847,7 +25708,6 @@
 猝死	tshaq sy
 猝爾	tshaq er
 猥褻行爲	uei shiq yin wei
-猥賤	uei ji
 猴囡仔	gheu noe tsy
 猶大	yeu da
 猶大書	yeu da syu
@@ -25969,7 +25829,6 @@
 王家	waon ko
 王家瑞	waon cia zei
 王家衛	waon cia wei
-王小波	waon shiau pou
 王朝	waon jiau
 王爾德	waon er taq
 王牌	waon ba
@@ -26071,7 +25930,6 @@
 理論學習	li len ghoq zhiq
 理論家	li len cia
 理論科學	li len khou yuq
-理論聯繫實際	li len li shi zyuq ci
 理財學	li dze yuq
 理財專家	li dze tsoe cia
 理過去	li kou chi
@@ -26088,7 +25946,6 @@
 瑞典人	zei ti gnin
 瑞士人	zei zy gnin
 瑞澄	zei jin
-瑞秋懷茲	zei chieu wae tsy
 瑣羅亞斯德教	sou lou ia sy taq ciau
 瑪家鄉	mo cia shian
 瑪拉基亞	ma lha ci ia
@@ -26652,7 +26509,6 @@
 產假	tshae ko
 產兒	tshae er
 產出率	tshae tshyuq liq
-產品介紹	tshae phin ka zhiau
 產學合作	tshae yuq ghaq tsoq
 產學研	tshae yuq GNi
 產業工人	tshae gniq kon gnin
@@ -27232,7 +27088,6 @@
 的確是	tiq chiuq zy
 的確會	tiq chiuq wei
 的確良	tiq chiuq lian
-的黎波里	tiq li pou li
 皆大歡喜	cie da hun shi
 皇冠假日酒店	waon kun cia zyuq cieu ti
 皇冠出版集團	waon kun tshyuq pae jiq doe
@@ -27261,6 +27116,7 @@
 皮爾遜	bi er sen
 皮特拉克	bi daq lha khaq
 皮肉生涯	bi gnioq sen ya
+皮肉生涯	bi gnioq sen yi
 皮膚乾燥	bi fu kI sau
 皺勒	tseu laq
 皺勒仔	tseu laq tsy
@@ -27303,6 +27159,7 @@
 盛妝	zhin tsaon
 盛季	zhin ci
 盛宣懷	zhin soe wae
+盛宣懷	zhin soe wa
 盛宴	zhin i
 盛年	zhin gni
 盛得	jin taq
@@ -27383,7 +27240,6 @@
 監督人	kae toq gnin
 監票人	kae phiau gnin
 監管範圍	kae kun vae wei
-監繫	kae shi
 監考人	kae khau gnin
 監護人	kae wu gnin
 盧卡申科	lu kha shin khou
@@ -27479,7 +27335,6 @@
 相生相剋	shian sen shian khaq
 相空間	shian khon ci
 相習	shian zhiq
-相聯繫	shian li shi
 相背	shian pei
 相認	shian gnin
 相輔而行	shian fu er yin
@@ -27618,7 +27473,7 @@
 真才實學	cin dze zyuq yuq
 真抓實幹	cin tsa zyuq kI
 真服了	cin voq laq
-真沒	cin mhaq
+真沒	cin maq
 真率	cin saq
 真相大白	cin shian da baq
 真真假假	cin cin ko ko
@@ -27630,14 +27485,12 @@
 真讓人	cin gnian gnin
 真貴	cin ciu
 眩人	yu gnin
-眷懷	ciu wae
 眼中人	ngae tson gnin
 眼乾	ngae kI
 眼乾症	ngae kI cin
 眼圈紅了	ngae chiu ghon lei
 眼尾	ngae vi
 眼明人	ngae min gnin
-眼波	ngae pou
 眼淚往肚子裏流	ngae li uaon du tsy li lieu
 眼淚橫流	ngae li wan lieu
 眼淚汪汪	ngae li uaon uaon
@@ -27809,7 +27662,6 @@
 短日照植物	toe zyuq ciau jiq vaq
 短時間	toe zy ci
 短時間內	toe zy ci nei
-短波	toe pou
 短波長	toe pou jian
 短線交易	toe shi ciau yiq
 短耳	toe er
@@ -28016,7 +27868,6 @@
 社會行動	dzo wei yin don
 社會語言學	dzo wei gniu yi yuq
 社會責任	dzo wei tsaq zyun
-社會關懷	dzo wei kuae wa
 社運人士	dzo yun zyun zy
 社長	dzo cian
 祈望	ji vaon
@@ -28177,6 +28028,7 @@
 秋耕	chieu kan
 秋草人情	chieu tshau zyun jin
 秋葵莢	chieu guei ciaq
+秋葵莢	chieu guei ci
 秋風過耳	chieu fon kou er
 科任	khou zyun
 科任老師	khou zyun lau sy
@@ -28271,4308 +28123,3899 @@
 移樽就教	yi tsen jieu ciau
 移行	yi yin
 移風易俗	yi fon yiq dzoq
-稀世	
-稀世之寶	
-稀溜溜	
-稀稀拉拉	
-稀里嘩啦	
-稅率	
-程序運行	
-程控交換機	
-稍乾的	
-稍事	
-稍作	
-稍來	
-稍侯	
-稍候	
-稍候一下	
-稍候片刻	
-稍出	
-稍加	
-稍勝一籌	
-稍占上風	
-稍可	
-稍大	
-稍嫌	
-稍安勿燥	
-稍安勿躁	
-稍待	
-稍後	
-稍微	
-稍息	
-稍感	
-稍感不便	
-稍感不適	
-稍懈	
-稍早	
-稍早時	
-稍有	
-稍有不準	
-稍減	
-稍熱	
-稍異	
-稍稍	
-稍等	
-稍等一下	
-稍等片刻	
-稍緩	
-稍縱即逝	
-稍見	
-稍覺	
-稍許	
-稍遜一籌	
-稍遠	
-稍顯	
-稍高	
-稍高於	
-稍點	
-稗史	
-稗子	
-稗官	
-稗官野史	
-稚女	
-稚嫩	
-稚子	
-稚小	
-稚年	
-稚弱	
-稚拙	
-稚暉	
-稚氣	
-稚蟲	
-稚齒	
-稚齡	
-稠人廣衆	
-種人	
-種仁	
-種差	
-種族問題	
-種生	
-種田人家	
-種近乎幻想	
-種過去	
-種間雜交	
-種顏色	
-稱孤道寡	
-稱霸世界	
-稻草人	
-稽查人員	
-穀人	
-穀保家商	
-穀日	
-穀梁傳	
-穀貴餓農	
-穀賤傷農	
-穆加貝	
-穆巴拉克	
-穆沙拉夫	
-穆爾	
-穆索爾斯基	
-穆罕默德六世	
-積分	
-積分制	
-積分器	
-積分學	
-積分常數	
-積分方程	
-積分榜	
-積分法	
-積分變換	
-積分電路	
-積化和差	
-積於忽微	
-積極分子	
-積極參加	
-積極參與	
-積着	
-積習	
-積習已久	
-積習成俗	
-積習難改	
-積習難返	
-穎悟	
-穎慧過人	
-穗狀	
-穗狀花序	
-穡人	
-穢行	
-穩拿	
-穩拿到	
-穴居人	
-穴鳥	
-究問	
-空落去	
-空中交通管制	
-空中交通管制員	
-空中大學	
-空中核爆炸	
-空中飄浮	
-空中飛人	
-空了	
-空個	
-空勤人員	
-空大	
-空巢家庭	
-空懷	
-空房間	
-空日	
-空架子	
-空櫃子	
-空氣動力學	
-空氣錘	
-空無一人	
-空無一人	
-空着	
-空着手	
-空空如也	
-空行	
-空行母	
-空行法	
-空谷傳聲	
-空谷傳響	
-空軍機械學校	
-空軍航空技術學院	
-空軍軍官學校	
-空間	
-空間局	
-空間感	
-空間探測	
-空間曲線	
-空間站	
-空間結構	
-空間藝術	
-空間通信	
-空間電荷	
-空降	
-空降兵	
-空降師	
-空降部隊	
-空集	
-空集合	
-穿上去	
-穿落去	
-穿了	
-穿出去	
-穿去	
-穿壞	
-穿山甲	
-穿戴	
-穿戴整齊	
-穿插着	
-穿梭外交	
-穿梭轟炸	
-穿甲彈	
-穿着打扮	
-穿着講究	
-穿紅戴綠	
-穿紅着綠	
-穿耳	
-穿耳洞	
-穿行	
-穿過去	
-穿金戴銀	
-穿雲破霧	
-穿靴戴帽	
-穿鼻	
-突出去	
-突出問題	
-突出重圍	
-突厥人	
-突圍	
-突圍而出	
-突然之間	
-突然覺得	
-突然間	
-突發狀況	
-突破現狀	
-突降	
-窒息而死	
-窒礙難行	
-窖子	
-窖藏	
-窟窖	
-窩着	
-窮二代	
-窮人	
-窮人家	
-窮困人家	
-窮困潦倒	
-窮學生	
-窮家富路	
-窮寇莫追	
-窮富極貴	
-窮愁潦倒	
-窮於	
-窮於應付	
-窮日	
-窮日子	
-窮書生	
-窮歡樂	
-窮苦人家	
-窮途潦倒	
-窮鬼	
-窺望	
-竇窖	
-立了	
-立交	
-立交橋	
-立人	
-立刻去	
-立大功	
-立方公分	
-立於	
-立於不敗	
-立於不敗之地	
-立櫃	
-立狀	
-立生	
-立着	
-立談之間	
-立足於	
-立身處世	
-立陶宛人	
-立霧溪	
-立體交叉	
-站上去	
-站落去	
-站了	
-站個	
-站出去	
-站櫃檯	
-站牌	
-站着	
-站着不動	
-站進去	
-站過去	
-站長	
-竟也	
-竟於	
-竟日	
-竟自	
-竟被	
-章學誠	
-章邯	
-童生	
-童稚	
-童顏	
-童顏鶴髮	
-端上去	
-端落去	
-端了	
-端出去	
-端去	
-端架子	
-端着	
-端過去	
-競爭	
-競爭優勢	
-競爭力	
-競爭對手	
-競爭心	
-競爭性	
-競爭格局	
-競爭模式	
-競爭機制	
-競爭激烈	
-競爭環境	
-競爭產品	
-競爭者	
-競爭能力	
-競選人	
-竹圍	
-竹架	
-竹椅	
-竹筍乾	
-竹芋	
-竹苞松茂	
-竺乾	
-竺學	
-竺教	
-笑了	
-笑了笑	
-笑了起來	
-笑個	
-笑個痛快	
-笑出眼淚	
-笑哈哈	
-笑掉大牙	
-笑死	
-笑死人	
-笑着	
-笑着說	
-笑臉迎人	
-笑逐顏開	
-笑過去	
-笑顏	
-笛卡兒	
-笛卡爾	
-笞背	
-符合國家	
-符尾	
-符拉迪沃斯託克	
-符牌	
-符號學	
-笨人	
-笨死	
-笨鳥先飛	
-第一世界	
-第一人	
-第一人稱	
-第一任	
-第一個	
-第一個層次	
-第一個月	
-第一品牌	
-第一型糖尿病	
-第一大	
-第一夫人	
-第一學期	
-第一家	
-第一時間	
-第一次世界大戰	
-第一次世界大戰	
-第一波	
-第一行	
-第一部分	
-第一集	
-第七個	
-第三世界	
-第三人	
-第三人稱	
-第三個	
-第三大	
-第三狀態	
-第三部分	
-第三集	
-第九個	
-第二	
-第二世界	
-第二人	
-第二人稱	
-第二代	
-第二位	
-第二信號	
-第二信號系統	
-第二個	
-第二冊	
-第二十	
-第二十七	
-第二十九	
-第二十五	
-第二十四	
-第二十條	
-第二名	
-第二回	
-第二國際	
-第二型糖尿病	
-第二場	
-第二大	
-第二天	
-第二套	
-第二季	
-第二季度	
-第二宇宙	
-第二宇宙速度	
-第二審	
-第二屆	
-第二層	
-第二性	
-第二性徵	
-第二手	
-第二批	
-第二捲	
-第二期	
-第二條	
-第二次	
-第二次世界大戰	
-第二次世界大戰	
-第二款	
-第二步	
-第二版	
-第二產業	
-第二種	
-第二章	
-第二節	
-第二級	
-第二聲	
-第二職業	
-第二課	
-第二課堂	
-第二輪	
-第二部	
-第二部分	
-第二階段	
-第二頁	
-第二項	
-第二點	
-第五個	
-第五個現代化	
-第八個	
-第六個	
-第六感覺	
-第十二	
-第十二屆	
-第十二條	
-第十個	
-第四個	
-第四大	
-第幾個	
-第納爾	
-筆下生花	
-筆參造化	
-筆墨生涯	
-筆底生花	
-筆耕	
-筆誤	
-等落去	
-等了	
-等人	
-等你	
-等個	
-等價交換	
-等分	
-等分線	
-等加速度	
-等同於	
-等差	
-等差數列	
-等差級數	
-等待着	
-等於	
-等於在	
-等於是	
-等於有	
-等於零	
-等日	
-等死	
-等着	
-等着你	
-等着瞧	
-等閒人物	
-筑波	
-筒狀	
-答問	
-答疑解惑	
-答記者問	
-答非所問	
-策劃人	
-策問	
-箇中	
-箇中三昧	
-箇中人	
-箇中原因	
-箇中奧妙	
-箇中奧祕	
-箇中好手	
-箇中強手	
-箇中消息	
-箇中滋味	
-箇中玄機	
-箇中理由	
-箇中道理	
-箇中高手	
-箇舊	
-箇舊市	
-箇舊縣	
-箍嘴	
-箍子	
-箍帶	
-箍桶匠	
-箍桶店	
-箍緊	
-算上去	
-算落去	
-算不了	
-算不了什麼	
-算了	
-算了又算	
-算你	
-算個	
-算出去	
-算命家	
-算啦	
-算學	
-算得了	
-算得了什麼	
-算術家	
-算進去	
-管不了	
-管不了那麼多	
-管不着	
-管了	
-管人	
-管個	
-管家	
-管家娘子	
-管家婆	
-管家職務	
-管家職務	
-管教	
-管教無方	
-管教無方	
-管樂	
-管樂器	
-管樂團	
-管樂隊	
-管渠	
-管狀	
-管理人	
-管理人員	
-管理人才	
-管理學	
-管理學院	
-管理水平	
-管理水平	
-管絃樂	
-管絃樂團	
-管絃樂隊	
-管自	
-管轄範圍	
-箬帽	
-箬竹	
-箬笠	
-箭垛子	
-箭尾	
-箴諫	
-節上生枝	
-節假日	
-節外生枝	
-節日	
-節日快樂	
-節日期間	
-節目主持人	
-節省	
-節省下	
-節省下來	
-節省時間	
-節省能源	
-節能降耗	
-節自	
-節行	
-節錄自	
-節間	
-範圍	
-範圍之內	
-範圍之外	
-範圍之廣	
-範圍內	
-範圍屬性	
-範圍很大	
-範圍是	
-範圍查詢	
-範圍調整	
-築人牆	
-築室反耕	
-篤信好學	
-篤學	
-篤志好學	
-篤行	
-篩分	
-篩狀	
-簇合	
-簇射	
-簇擁	
-簇擁着	
-簇擁而上	
-簇新	
-簇生	
-簇簇	
-簡介	
-簡介性	
-簡任	
-簡分數	
-簡單再生	
-簡單再生產	
-簡單商品生產	
-簡單生產	
-簡截了當	
-簡易	
-簡易師範	
-簡易法	
-簡朝崙	
-簡省	
-簡短介紹	
-簡要介紹	
-簡諧波	
-簧樂器	
-簽落去	
-簽了	
-簽發日期	
-簽着	
-簽約人	
-簽署人	
-簾波	
-籃架	
-籃狀	
-籃球架	
-籌集	
-籌集資金	
-籍沒	
-籐椅	
-籠中之鳥	
-籠中鳥	
-籠絡人心	
-籠罩着	
-籠鳥	
-籠鳥檻猿	
-米凱拉	
-米德爾伯里	
-米拉	
-米易	
-米易縣	
-米歇爾	
-米爾	
-米爾斯	
-米爾頓	
-米納爾迪	
-米芾	
-米該亞	
-粉末狀	
-粉狀	
-粉絲狀	
-粒子加速器	
-粒子學說	
-粒子物理學	
-粒狀	
-粒粒皆辛苦	
-粗人	
-粗加工	
-粗大	
-粗心大意	
-粗枝大葉	
-粗率	
-粗眉大眼	
-粗知一二	
-粘上去	
-粘涎	
-粘滯	
-粘滯性	
-粘着	
-粘着力	
-粘着性	
-粘膠	
-粘膠液	
-粟粒狀	
-粵省	
-精力旺盛	
-精力過人	
-精彩生動	
-精彩瞬間	
-精彩逼人	
-精於	
-精於此道	
-精梳	
-精確	
-精確到	
-精確度	
-精確性	
-精神世界	
-精神分析	
-精神分裂	
-精神分裂症	
-精神學	
-精神學家	
-精神教育	
-精神狀態	
-精神生活	
-精神病人	
-精神病學	
-精神病學家	
-精簡人事	
-精耕	
-精耕細作	
-精誠所加	
-精通於	
-精選集	
-精靈鬼怪	
-糊狀	
-糊着	
-糕乾	
-糖人	
-糖分	
-糖尿	
-糖尿病	
-糖酵解	
-糗大	
-糞尿	
-糞池	
-糞蛆	
-糟了	
-糟溜黃魚	
-糟溜黃魚片	
-糟糕了	
-糟透了	
-糧草先行	
-糧行	
-糧食生產	
-糯米糍	
-系主任	
-系列放大器	
-系學會	
-系統分析	
-系統分類	
-系統還原	
-系統集成	
-糾察人員	
-糾集	
-紀傳	
-紀傳體	
-紀律處分	
-紀念大會	
-紀念日	
-紀行	
-約人	
-約分	
-約分法	
-約拿書	
-約旦人	
-約櫃	
-約瑟夫斯大林	
-約等於	
-約翰二書	
-約翰拉貝	
-約翰貳書	
-約莫	
-約集	
-紅了	
-紅人	
-紅參	
-紅學	
-紅教	
-紅日	
-紅日當午	
-紅河哈尼族彝族自治州	
-紅淚	
-紅熊貓	
-紅牌	
-紅牛	
-紅牛	
-紅白分明	
-紅着	
-紅着眼睛	
-紅着臉	
-紅種人	
-紅粉佳人	
-紅繩繫足	
-紅背蜘蛛	
-紅血球生成素	
-紅衣主教	
-紅面番鴨	
-紅頂商人	
-紅顏	
-紅顏知己	
-紅顏薄命	
-紅馬甲	
-紅魔鬼	
-紅鼻子	
-紆尊降貴	
-紆朱懷金	
-紋理分明	
-紋眉	
-納塔乃耳	
-納尼亞傳奇	
-納扎爾巴耶夫	
-納撒尼爾霍桑	
-納波里塔諾	
-納爾	
-納爾遜	
-納瓦特爾語	
-納稅人	
-納稅申報	
-納米科學	
-納粹分子	
-納諫	
-納賽爾	
-納達爾	
-納降	
-紐卡斯爾	
-紐約人	
-紐約大學	
-紐約帝國大廈	
-紐約證券交易所	
-紐芬蘭與拉布拉多	
-紐西蘭人	
-紓解	
-純文學	
-純益率	
-純粹數學	
-紙人	
-紙人紙馬	
-紙尿布	
-紙尿片	
-紙尿褲	
-紙捻	
-紙牌	
-紙牌戲	
-紙狀	
-紙短情長	
-紙背	
-紙貴洛陽	
-級任	
-級任制	
-級任導師	
-級任老師	
-級差	
-級差地租	
-級進雜交	
-級長	
-紛沓	
-紛爭	
-紛至沓來	
-紛雜	
-素交	
-素日	
-素昧平生	
-素藉	
-素行	
-素質差	
-素質教育	
-素面朝天	
-素顏	
-紡錘	
-紡錘形	
-紡錘蟲	
-索償	
-索然無味	
-索然無味	
-索爾	
-索爾仁尼琴	
-索爾茲伯	
-索爾茲伯里	
-索爾茲伯里平原	
-索爾茲伯里石環	
-索緒爾	
-索還	
-索邦大學	
-紫云苗族布依族自治縣	
-紫坪鋪大壩	
-紫芝眉宇	
-紮上去	
-紮了	
-累世	
-累了	
-累人	
-累加	
-累加器	
-累加法	
-累加總數	
-累及他人	
-累垮	
-累墜	
-累壞	
-累教不改	
-累日	
-累歲	
-累死	
-累死累活	
-細分	
-細分市場	
-細問	
-細大不捐	
-細水長流	
-細細品味	
-細細長長	
-細胞分裂	
-細胞學	
-細胞學說	
-細胞狀	
-細胞生物學	
-細胞骨架	
-細菌學	
-細行	
-細部分解	
-細長	
-紹介	
-紹莫吉州	
-終了	
-終伏	
-終其一生	
-終戰日	
-終戰日	
-終於	
-終於找到	
-終於明白	
-終日	
-終歲	
-終歸於	
-終生	
-終生伴侶	
-終身不忘	
-終身大事	
-終身教育	
-絃樂	
-絃樂器	
-絃樂四重奏	
-絃樂團	
-絃樂隊	
-組分	
-組合數學	
-組成部分	
-組組長	
-組織學	
-組織家	
-組織架構	
-組織生活	
-組織部長	
-組長	
-結了	
-結了婚	
-結交	
-結交到	
-結伴同行	
-結伴而行	
-結婚紀念日	
-結尾	
-結晶學	
-結晶狀	
-結構學	
-結社自由	
-結集	
-結集在	
-結髮人	
-絕世	
-絕世佳人	
-絕世出塵	
-絕世超倫	
-絕交	
-絕代佳人	
-絕地重生	
-絕大	
-絕大多數	
-絕大多數人	
-絕大部份	
-絕大部分	
-絕學	
-絕對參照	
-絕對大多數	
-絕對誤差	
-絕於	
-絕望	
-絕望已極	
-絕望的境地	
-絕處逢生	
-絛綸	
-絞上	
-絞乾	
-絞亂	
-絞刑	
-絞刑架	
-絞刑臺	
-絞動	
-絞包針	
-絞扭	
-絞斷	
-絞架	
-絞死	
-絞殺	
-絞決	
-絞痛	
-絞盡	
-絞盡腦汁	
-絞盤	
-絞碎	
-絞索	
-絞縊	
-絞肉	
-絞肉機	
-絞臉	
-絞車	
-絞首	
-絡繹於途	
-絢爛歸於平淡	
-給了	
-給了他	
-給了你	
-給了我	
-給人	
-給人以	
-給你	
-給你的	
-給你看	
-給個	
-給假	
-給於	
-絮狀物	
-統一戰線	
-統一戰線工作部	
-統一招生	
-統一教	
-統假設	
-統率	
-統計分析	
-統計學	
-絲帕	
-絲毫不差	
-絲毫沒有	
-絲狀	
-絲狀物	
-絲膠	
-綁上去	
-綁落去	
-綁回去	
-綁架	
-綁着	
-綏遠省	
-經世	
-經世之才	
-經世濟民	
-經世致用	
-經傳	
-經典作家	
-經史子集	
-經學	
-經手人	
-經氣聚集	
-經濟人	
-經濟分析	
-經濟問題	
-經濟地理學	
-經濟增加值	
-經濟增長	
-經濟增長率	
-經濟大國	
-經濟學	
-經濟學家	
-經濟學者	
-經濟學院	
-經濟專科學校	
-經濟成分	
-經濟日報	
-經濟活動分析	
-經濟狀況	
-經濟生活	
-經濟補償	
-經濟貿易	
-經濟運行	
-經濟部長	
-經營狀況	
-經營範圍	
-經營行爲	
-經理人	
-經省	
-經穴學	
-經管人	
-經紀人	
-經絡學	
-經綸	
-經解	
-經辦人	
-經院哲學	
-經驗交流	
-經驗交流會	
-經驗教訓	
-綜合分析	
-綜合大學	
-綜合擴大機	
-綜合銀行	
-綜合雜誌	
-綠煙紅霧	
-綠苔	
-綠衣人	
-綠鬢朱顏	
-維也納	
-維也納盆地	
-維京人	
-維修人員	
-維吉爾	
-維吾爾	
-維吾爾	
-維吾爾人	
-維吾爾人	
-維吾爾文	
-維吾爾文	
-維吾爾族	
-維吾爾族	
-維吾爾語	
-維吾爾語	
-維埃拉	
-維基人	
-維基百科人	
-維恩圖解	
-維拉	
-維持落去	
-維持現狀	
-維持着	
-維斯杜拉	
-維斯杜拉河	
-維權人士	
-維爾	
-維爾容	
-維爾布魯根	
-維爾斯特拉斯	
-維爾紐斯	
-維生	
-維生素	
-維生素缺乏症	
-維綸	
-維繫	
-維繫人心	
-網上交易	
-網上銀行	
-網上雜誌	
-網友上傳	
-網吧	
-網咖	
-網易	
-網杓	
-網架	
-網狀	
-網狀系統	
-網狀結構	
-網狀脈	
-網癮	
-網眼狀	
-網絡世界	
-網絡傳播	
-網絡成癮	
-網絡日記	
-網絡空間	
-網絡規劃人員	
-網羅人才	
-網羅人材	
-網路咖啡	
-網路架構	
-網路雜誌	
-綵牌樓	
-綵筆生花	
-綵衣娛親	
-綸巾	
-綺歲	
-綿長	
-緊了	
-緊密聯繫	
-緊張狀態	
-緊急任務	
-緊急任務	
-緊急狀態	
-緊急狀況	
-緊急處分	
-緊急集合	
-緊接着	
-緊握着	
-緊着	
-緊箍咒	
-緊緊圍繞	
-緊緊抓住	
-緊縮着	
-緊繃着	
-緊繫	
-緊貼着	
-緊迫盯人	
-緊迫逼人	
-緊迫釘人	
-緊逼着	
-緊鄰着	
-緊集	
-緊靠着	
-線人	
-線性波	
-線狀	
-線鋸	
-線長	
-線間	
-緝拿	
-締交	
-緣分	
-緣分已盡	
-緣於	
-緣覺	
-編上去	
-編落去	
-編了	
-編個	
-編碼字符集	
-編纂家	
-編譯人員	
-編譯家	
-編輯家	
-編餘人員	
-緩了	
-緩步而行	
-緩行	
-緩解	
-緩解壓力	
-緩降	
-緩降器	
-緬懷	
-緬甸人	
-練落去	
-練了	
-練個	
-練習	
-練習冊	
-練習場	
-練習手冊	
-練習曲	
-練習本	
-練習簿	
-練習題	
-練過去	
-縈懷	
-縈繫	
-縊死	
-縝密	
-縝密性	
-縝潤	
-縣學	
-縣差	
-縣長	
-縫上去	
-縫落去	
-縫了	
-縫個	
-縫死	
-縫衣工人	
-縮落去	
-縮回去	
-縮放自如	
-縮頭烏龜	
-縮頭縮尾	
-縱橫交佈	
-縱橫交錯	
-縱橫家	
-縱橫自如	
-縱橫馳騁	
-縱波	
-縱目四望	
-縱目遠望	
-縱行	
-縵胡	
-縻繫	
-總主教	
-總也	
-總人口	
-總人數	
-總任務	
-總任務	
-總分	
-總分類帳	
-總分類帳戶	
-總分類覈算	
-總務主任	
-總務主任	
-總務人員	
-總務人員	
-總務組長	
-總務組長	
-總參	
-總參謀部	
-總參謀長	
-總應該	
-總懸浮顆粒物	
-總攬大權	
-總教官	
-總教練	
-總教習	
-總會會長	
-總理大臣	
-總統任期	
-總統大選	
-總罷工	
-總行	
-總覺	
-總角之交	
-總該	
-總該在	
-總該是	
-總該會	
-總該有	
-總該能	
-總長	
-總集	
-績分	
-績學	
-繁分數	
-繁峙	
-繁峙縣	
-繁榮昌盛	
-繁殖率	
-繁盛	
-繁茂	
-繁華世界	
-繁雜	
-繁雜性	
-繃着	
-繃着臉	
-繆誤	
-織田信長	
-繞樑三日	
-繞着	
-繞行	
-繞道而行	
-繡學號	
-繩鋸木斷	
-繪架座	
-繫一線	
-繫上	
-繫世	
-繫了	
-繫住	
-繫個	
-繫到	
-繫命	
-繫囚	
-繫好	
-繫帶	
-繫心	
-繫念	
-繫懷	
-繫戀	
-繫於	
-繫於一髮	
-繫有	
-繫條	
-繫泊	
-繫爪	
-繫牢	
-繫獄	
-繫留	
-繫着	
-繫系	
-繫累	
-繫結	
-繫絲帶	
-繫緊	
-繫縛	
-繫繩	
-繫纜	
-繫而不食	
-繫腰	
-繫船樁	
-繫裹	
-繫褲子	
-繫辭	
-繫鈴人	
-繫鈴解鈴	
-繫鞋帶	
-繫頭巾	
-繫頸	
-繫風捕影	
-繫風捕景	
-繫馬	
-繫髮帶	
-繳交	
-繳出去	
-繳械投降	
-繼任	
-繼任者	
-繼往聖之絕學	
-繼承人	
-繼續教育	
-續任	
-續假	
-續傳	
-續集	
-纏牢	
-纏勒	
-纏夾二先生	
-纔落去	
-纔乾透	
-纔出去	
-纔去	
-纔可容顏十五餘	
-纔回去	
-纔夠去	
-纔拿	
-纔拿出	
-纔拿到	
-纔沒	
-纔沒有	
-纔沒能	
-纔派人	
-纔過去	
-纖人	
-纖介	
-纖維光學	
-纖維狀	
-纖維膠	
-纖維長度	
-纖長	
-纖阿	
-缺人	
-缺席率	
-缺德鬼	
-缺省	
-罈女兒紅	
-罔顧人道	
-罩着	
-罪上加罪	
-罪人	
-罪大惡極	
-罪惡行徑	
-罪狀	
-罪當萬死	
-罪莫大焉	
-罪行	
-罪行累累	
-罪該萬死	
-罪該處死	
-罪證確鑿	
-置之不問	
-置之死地	
-置之死地而後快	
-置之死地而後生	
-置信區間	
-置入性行銷	
-置於	
-置物櫃	
-置若罔聞	
-罰了	
-罰個	
-罰出去	
-罰去	
-罰沒	
-罰跪	
-署長	
-罵不還口	
-罵了	
-罵人	
-罵個	
-罵大街	
-罵架	
-罵死	
-罷了	
-罷休	
-罷免	
-罷免權	
-罷免法	
-罷兵	
-罷官	
-罷工	
-罷工抗議	
-罷市	
-罷弊	
-罷手	
-罷教	
-罷斥	
-罷於	
-罷朝	
-罷止	
-罷演	
-罷筆	
-罷職	
-罷課	
-罷論	
-罷賽	
-罷退	
-罷黜	
-罷黜百家	
-罷黜百家獨尊儒術	
-羅世昌	
-羅伯斯庇爾	
-羅大佑	
-羅姆人	
-羅姆人	
-羅家英	
-羅德里奎茲	
-羅德里格茲	
-羅德里蓋茲	
-羅拉	
-羅拉巴克	
-羅櫃	
-羅浮宮	
-羅浮山	
-羅潔愛爾之	
-羅爾定理	
-羅生門	
-羅盛教	
-羅納爾多	
-羅馬人	
-羅馬公教	
-羅馬教廷	
-羅馬教會	
-羈繫	
-羊毛狀	
-美人	
-美人尖	
-美人計	
-美人遲暮	
-美人魚	
-美分	
-美加	
-美加地區	
-美味	
-美味可口	
-美國人	
-美國人民	
-美國加州	
-美國參議院	
-美國國家偵察局	
-美國國家航天航空局	
-美國國家航空航天局	
-美國國際集團	
-美國獨立戰爭	
-美國獨立戰爭	
-美國證券交易委員會	
-美好生活	
-美學	
-美容覺	
-美尼爾病	
-美屬維爾京羣島	
-美差	
-美差事	
-美於	
-美日	
-美日關係	
-美朝	
-美東時間	
-美林集團	
-美洲人	
-美洲國家組織	
-美洲大陸	
-美甲	
-美眉	
-美籍華人	
-美術大師	
-美術學院	
-美術家	
-美觀大方	
-美語教學	
-美顏	
-美食家	
-美麗動人	
-美麗大方	
-美麗新世界	
-羞人	
-羞愧	
-羞愧難當	
-羞憤自殺	
-羞於	
-羞於啓齒	
-羞死	
-羞面見人	
-羣架	
-羣治學社	
-羣生	
-羣芳爭豔	
-羣英畢集	
-羣衆大會	
-羣集	
-羥自由基	
-羧甲司坦	
-義不生財	
-義人	
-義兒	
-義分	
-義勇軍進行曲	
-義同生死	
-義大利	
-義大利人	
-義大利半島	
-義大利式	
-義大利文	
-義大利王國	
-義大利麪	
-義妖傳	
-義學	
-義守大學	
-義形於色	
-義渠	
-義甲	
-義行	
-義行可風	
-羲皇上人	
-羶味	
-羼雜	
-羽扇綸巾	
-羽毛狀	
-羽狀	
-羽狀脈	
-羽狀複葉	
-翁牛特	
-翁牛特	
-翁牛特旗	
-翁牛特旗	
-翅膀	
-翌日	
-習以成俗	
-習以成性	
-習以爲常	
-習作	
-習作簿	
-習俗	
-習俗移性	
-習好	
-習字	
-習字帖	
-習字課	
-習定	
-習尚	
-習得性	
-習得性無助感	
-習得性無助感	
-習性	
-習慣	
-習慣性	
-習慣成自然	
-習慣於	
-習慣法	
-習慣用法	
-習慣用語	
-習慣自然	
-習慣若自然	
-習於	
-習染	
-習武	
-習氣	
-習水	
-習水縣	
-習焉不察	
-習用	
-習習	
-習而不察	
-習藝	
-習藝所	
-習見	
-習近平	
-習非	
-習非勝是	
-習非成是	
-習題	
-習題集	
-翔集	
-翠生生	
-翠鳥	
-翩若驚鴻	
-翰林學士	
-翹落去	
-翹了	
-翹尾巴	
-翹拇指	
-翹望	
-翹着	
-翹首以望	
-翻落去	
-翻了	
-翻來翻去	
-翻來覆去	
-翻個	
-翻出去	
-翻揀	
-翻攪	
-翻然悔悟	
-翻着	
-翻箱倒櫃	
-翻耕	
-翻臉不認	
-翻臉不認人	
-翻自	
-翻譯家	
-翻過去	
-老丈人	
-老落去	
-老不死	
-老世交	
-老乾媽	
-老了	
-老二	
-老交情	
-老人失智症	
-老人家	
-老人斑	
-老人節	
-老人與海	
-老個	
-老傢伙	
-老兒子	
-老兵不死	
-老去	
-老同學	
-老吾老	
-老吾老	
-老吾老以及人之老	
-老吾老以及人之老	
-老大不小	
-老大哥	
-老大姐	
-老大娘	
-老大媽	
-老大徒傷悲	
-老大爺	
-老大難	
-老女人	
-老好人	
-老婦人	
-老學究	
-老家	
-老實人	
-老實巴交	
-老少皆宜	
-老山自行車館	
-老師教	
-老年人	
-老教授	
-老於	
-老於世故	
-老有所學	
-老有所樂	
-老本行	
-老死	
-老死不相往來	
-老死他鄉	
-老淚	
-老淚橫流	
-老淚縱橫	
-老煙鬼	
-老牌	
-老王賣瓜自賣自誇	
-老生常談	
-老男人	
-老白乾	
-老着臉	
-老而不死	
-老背少	
-老莊學會	
-老虎伍茲	
-老蚌生珠	
-老行家	
-老被	
-老貓	
-老闆人	
-老闆家	
-老顏	
-老驥伏櫪	
-老驥伏櫪志在千里	
-老鳥	
-老鼠尾巴	
-老鼻子	
-考上大學	
-考了	
-考個	
-考分	
-考前大猜題	
-考古學	
-考古學家	
-考古家	
-考問	
-考壞	
-考大學	
-考學	
-考拉	
-考拉熊	
-考據學	
-考波什堡	
-考生	
-考着	
-考試大綱	
-考試時間	
-考試範圍	
-考試院長	
-考證學	
-考證學家	
-考過去	
-考題大全	
-者也	
-而落去	
-而你	
-而勝於藍	
-而去	
-而在於	
-而戴	
-而於	
-而死	
-而生	
-而知也無涯	
-而知也無涯	
-而知也無涯	
-而知也無涯	
-而行	
-而被	
-耍人	
-耐人尋味	
-耐震	
-耕作	
-耕作制度	
-耕作層	
-耕傭	
-耕出	
-耕地面積	
-耕奴	
-耕牛	
-耕牧	
-耕犁	
-耕田	
-耕畜	
-耕當問奴	
-耕種	
-耕稼	
-耕穫	
-耕織	
-耕翻	
-耕者	
-耕者有其田	
-耕耘	
-耕耘機	
-耕耨	
-耕莘	
-耕莘醫院	
-耕讀	
-耕農	
-耕食	
-耕馬	
-耗去	
-耗損率	
-耗時間	
-耗油率	
-耗電率	
-耘鋤	
-耳下腺	
-耳下腺炎	
-耳光	
-耳刀	
-耳刮子	
-耳力	
-耳卜	
-耳垂	
-耳垢	
-耳塞	
-耳墜	
-耳墜子	
-耳套	
-耳子	
-耳孔	
-耳尖	
-耳屎	
-耳廓	
-耳廓狐	
-耳後	
-耳性	
-耳房	
-耳挖	
-耳挖勺	
-耳挖子	
-耳提面命	
-耳旁風	
-耳朵痛	
-耳朵眼	
-耳朵裏	
-耳朵裏響	
-耳朵軟	
-耳栓	
-耳根	
-耳根清靜	
-耳機	
-耳殼	
-耳毛	
-耳沉	
-耳洞	
-耳源性	
-耳濡目染	
-耳炎	
-耳熟	
-耳熟能詳	
-耳熱	
-耳片	
-耳環	
-耳環孔	
-耳生	
-耳畔	
-耳疾	
-耳痛	
-耳目	
-耳目一新	
-耳目之欲	
-耳石	
-耳福	
-耳科	
-耳科醫生	
-耳穴	
-耳紅面赤	
-耳罩	
-耳翼	
-耳聞	
-耳聞不如目見	
-耳聞爲虛	
-耳聞目睹	
-耳聞目見	
-耳聰目明	
-耳聽八方	
-耳聽爲虛	
-耳聾	
-耳背	
-耳膜	
-耳蝸	
-耳蠟	
-耳語	
-耳識	
-耳輪	
-耳邊	
-耳邊風	
-耳釘	
-耳針	
-耳門	
-耳際	
-耳音	
-耳順	
-耳風	
-耳食	
-耳飾	
-耳餘	
-耳鬢	
-耳鬢廝磨	
-耳鳴	
-耳鳴現象	
-耳麥	
-耳鼓	
-耳鼻咽喉	
-耳鼻喉	
-耳鼻喉科	
-耳鼻科	
-耶和華	
-耶和華見證人	
-耶弗他	
-耶律大石	
-耶教	
-耶穌基督後期聖徒教會	
-耶穌基督末世聖徒教會	
-耶穌教	
-耶穌降臨節	
-耶魯大學	
-耷拉	
-耽於	
-耽樂	
-耽誤	
-耽誤到	
-耿介	
-耿於	
-耿直	
-耿精忠	
-耿耿	
-耿耿於心	
-耿耿於懷	
-耿餅	
-耿馬縣	
-聆教	
-聊以維生	
-聊以自慰	
-聊以解嘲	
-聊以解悶	
-聊個	
-聊個天	
-聊個痛快	
-聊吧	
-聊復爾爾	
-聊復爾爾	
-聊復爾耳	
-聊復爾耳	
-聊生	
-聊着	
-聒耳	
-聖人	
-聖伯多祿大殿	
-聖哈辛托	
-聖塔蒙尼加	
-聖大非	
-聖弗蘭西斯科	
-聖彼得	
-聖彼得堡	
-聖彼得大教堂	
-聖拉蒙	
-聖教	
-聖教序	
-聖朝	
-聖母教堂	
-聖皮埃爾和密克隆	
-聖神降臨	
-聖神降臨週	
-聖約翰學院	
-聖索非亞大教堂	
-聖經外傳	
-聖經賢傳	
-聖莫里茨	
-聖薩爾瓦多	
-聖誕快樂	
-聖誕老人	
-聖赫勒拿	
-聖赫勒拿島	
-聖路易	
-聖路易斯	
-聖靈降臨	
-聘任	
-聘任制	
-聘問	
-聚了	
-聚晤	
-聚會時間	
-聚殲	
-聚生	
-聚着	
-聚集	
-聚集地	
-聞上去	
-聞了	
-聞人	
-聞名世界	
-聞名於世	
-聞問	
-聯合參謀	
-聯合古大陸	
-聯合國兒童基金會	
-聯合國大會	
-聯合國教科文組織	
-聯合國日	
-聯合大學	
-聯合文學	
-聯合演習	
-聯合自強	
-聯合行	
-聯合行動	
-聯大	
-聯想學習	
-聯想學習	
-聯想集團	
-聯播時間	
-聯於	
-聯機分析處理	
-聯產承包責任制	
-聯絡時間	
-聯繫	
-聯繫人	
-聯繫匯率	
-聯繫國	
-聯繫實際	
-聯繫方式	
-聯繫業務	
-聯繫業務	
-聯繫羣衆	
-聯繫起來	
-聯繫電話	
-聯繫點	
-聯邦大樓	
-聯集	
-聰了	
-聰悟	
-聰明一世	
-聰明一世糊塗一時	
-聰明人	
-聰明反被聰明誤	
-聲勢浩大	
-聲名大噪	
-聲名大震	
-聲名狼藉	
-聲吶	
-聲威大震	
-聲學	
-聲情並茂	
-聲望	
-聲樂	
-聲樂家	
-聲波	
-聲波定位	
-聲淚俱下	
-聲覺	
-聲韻學	
-聳了	
-聳了聳	
-聳了聳肩	
-聳人聽聞	
-聳峙	
-聳立着	
-聶拉木	
-聶拉木縣	
-聶耳	
-職任	
-職分	
-職大	
-職教	
-職棒大賽	
-職業中學	
-職業介紹	
-職業介紹所	
-職業學校	
-職業學院	
-職業技術教育	
-職業教育	
-職業水準	
-職業水準	
-職業生涯	
-職業高爾夫球協會	
-職權範圍	
-職涯	
-職能範圍	
-職責範圍	
-聽落去	
-聽不進去	
-聽之任之	
-聽了	
-聽了風就是雨	
-聽人	
-聽任	
-聽你	
-聽其自然	
-聽其言而觀其行	
-聽其言觀其行	
-聽力理解	
-聽差	
-聽於	
-聽着	
-聽膩了	
-聽見了	
-聽覺	
-聽覺範圍	
-聽過去	
-聽音樂	
-聾人	
-聾啞人	
-聾啞學校	
-肅北蒙古族自治縣	
-肅南裕固族自治縣	
-肅清反革命分子	
-肆意妄爲	
-肆行	
-肇因於	
-肇慶大學	
-肉乾	
-肉脯	
-肋間	
-肋間肌	
-肛交	
-肛瘻	
-肛裂	
-肛門口	
-肛門直腸	
-肝腫大	
-肝膽照人	
-肝膽過人	
-股二頭肌	
-股分	
-股市行情	
-股本金比率	
-股東大會	
-股東特別大會	
-股權分置	
-股票交易	
-股票交易所	
-股長	
-股集資	
-肢解	
-肥了	
-肥分	
-肥大	
-肥水不流外人田	
-肥水不落外人田	
-肥皂水	
-肥貓	
-肥頭大耳	
-肩膀	
-肩負着	
-肩負重任	
-肯落去	
-肯出去	
-肯去	
-肯回去	
-肯幹啊	
-肯幹啊	
-肯德基炸雞	
-肯德拉	
-肯進去	
-肯過去	
-肱二頭肌	
-育人	
-育成雜交	
-育樂	
-育樂中心	
-育樂臺	
-胃脯	
-背上	
-背上來	
-背上去	
-背不動	
-背了時	
-背井離鄉	
-背人	
-背信	
-背信棄義	
-背側	
-背債	
-背傷	
-背光	
-背光性	
-背出	
-背出來	
-背出去	
-背到	
-背前背後	
-背包	
-背包客	
-背包袱	
-背包遊	
-背叛	
-背叛者	
-背向	
-背向着	
-背囊	
-背回家去	
-背在	
-背地	
-背地裏	
-背城借一	
-背子	
-背字	
-背對	
-背對着	
-背對背	
-背山	
-背山臨水	
-背山面水	
-背帶	
-背影	
-背得	
-背得起	
-背成	
-背斜	
-背日	
-背時	
-背景	
-背景色	
-背景音樂	
-背暗投明	
-背會	
-背板	
-背梁骨	
-背棄	
-背椅	
-背榜	
-背氣	
-背水	
-背水一戰	
-背水一戰	
-背水陣	
-背痛	
-背痠	
-背的	
-背盟	
-背眼	
-背着	
-背着手	
-背筐	
-背篼	
-背簍	
-背約	
-背背	
-背興	
-背袋	
-背誦	
-背誦着	
-背謬	
-背負	
-背負着	
-背起	
-背起來	
-背逆	
-背運	
-背道而馳	
-背部	
-背闊肌	
-背離	
-背靠	
-背靠背	
-背面	
-背頭	
-背風	
-背風處	
-背風面	
-背骨	
-背鰭	
-背黑鍋	
-胎兒	
-胎教	
-胎死腹中	
-胎生	
-胎生動物	
-胎生學	
-胎甲球	
-胎裏壞	
-胖人	
-胖大海	
-胚胎學	
-胚胎發生	
-胡三省	
-胡人	
-胡克斯特拉	
-胡兒	
-胡吹	
-胡吹亂捧	
-胡吹大氣	
-胡學東	
-胡拉混扯	
-胡攪	
-胡攪蠻纏	
-胡敲	
-胡樂	
-胡牌	
-胡自強	
-胡行	
-胡行亂作	
-胡越一家	
-胭脂魚	
-胳膀	
-胳膊肘朝外拐	
-胸圍	
-胸大肌	
-胸懷	
-胸懷坦蕩	
-胸懷大志	
-胸懷磊落	
-胸無大志	
-胸無大志	
-胸甲	
-能乾巴巴	
-能乾杯	
-能乾着急	
-能乾耗	
-能乾脆	
-能人	
-能人所不能	
-能力差	
-能力範圍	
-能去	
-能拿到	
-能樂	
-能自制	
-能被	
-能解	
-能降	
-脆穀樂	
-脈波	
-脈輪學說	
-脊樑背	
-脊背	
-脣乾	
-脣燥舌乾	
-脣舌之爭	
-脩脯	
-脫不了	
-脫不了身	
-脫了	
-脫光了	
-脫出重圍	
-脫去	
-脫咖啡因	
-脫着	
-脫肛	
-脫膠	
-脫誤	
-脫離不了	
-脯子	
-脯氨酸	
-脯醢	
-脹大	
-脾氣壞	
-腆顏	
-腈綸	
-腋生	
-腐乾	
-腐壞	
-腐敗分子	
-腐生	
-腐生蘭	
-腐臭味	
-腓力二世	
-腓尼基人	
-腥味	
-腥臭味	
-腦子生鏽	
-腦學	
-腦杓	
-腦梗死	
-腦死亡	
-腦波	
-腦震盪	
-腫大	
-腫大症	
-腫瘤學	
-腰圍	
-腰椎間盤	
-腰椎間盤突出	
-腰椎間盤突出症	
-腰痠背疼	
-腰痠背痛	
-腰繫	
-腰背	
-腰間	
-腰間繫	
-腳划船	
-腳手架	
-腳架	
-腳狀	
-腳背	
-腳行	
-腳誤	
-腳趾甲	
-腸繫膜	
-腸間膜	
-腹背	
-腹背受敵	
-腹部絞痛	
-腿長	
-膀大腰圓	
-膀子	
-膀胱	
-膀胱氣化	
-膀胱炎	
-膀胱癌	
-膀臂	
-膂力過人	
-膏狀	
-膜狀	
-膝行	
-膠乳	
-膠南	
-膠南市	
-膠印	
-膠印機	
-膠原	
-膠原纖維	
-膠原蛋白	
-膠原質	
-膠合	
-膠合板	
-膠囊	
-膠固	
-膠圈	
-膠塊	
-膠子	
-膠州	
-膠州市	
-膠州灣	
-膠布	
-膠布膏	
-膠帶	
-膠底鞋	
-膠彩畫	
-膠捲	
-膠接	
-膠木	
-膠東	
-膠柱鼓瑟	
-膠水	
-膠泥	
-膠漆	
-膠濟鐵路	
-膠片	
-膠版	
-膠版印刷	
-膠版紙	
-膠狀	
-膠皮	
-膠着	
-膠着狀態	
-膠管	
-膠粒	
-膠粘	
-膠粘劑	
-膠紙	
-膠結	
-膠結劑	
-膠膜	
-膠質	
-膠輪	
-膠靴	
-膠鞋	
-膠體	
-膠體溶液	
-膨大	
-膩了	
-膩人	
-膩味	
-膩着	
-膳雜費	
-膺任	
-膽大	
-膽大包天	
-膽大如斗	
-膽大妄爲	
-膽大心細	
-膽大於天	
-膽小鬼	
-膽略過人	
-膽石絞痛	
-膽識過人	
-膽魄	
-膾炙人口	
-臀位分娩	
-臀圍	
-臂膀	
-臉大	
-臉盆架	
-臉都綠了	
-臘味	
-臘日	
-臣服於	
-臥落去	
-臥着	
-臥軌自殺	
-臥龍大熊貓保護區	
-臥龍自然保護區	
-臨了	
-臨去	
-臨去秋波	
-臨問	
-臨夏回族自治州	
-臨朝	
-臨死	
-臨死前	
-臨死時	
-臨池	
-臨沂師範學院	
-臨沂師範學院	
-臨牀症狀	
-臨牀醫學	
-臨界狀態	
-臨終關懷	
-臨行	
-自上到下	
-自上而下	
-自上而下的加工	
-自下到上	
-自下而上	
-自下而上的加工	
-自不待言	
-自不必說	
-自不量力	
-自主	
-自主創新	
-自主創業	
-自主品牌	
-自主國	
-自主學習	
-自主學習	
-自主性	
-自主招生	
-自主旅遊	
-自主權	
-自主研發	
-自主神經	
-自主系統	
-自主遊	
-自主開發	
-自乘	
-自了	
-自交系	
-自介	
-自付	
-自以	
-自以爲	
-自以爲是	
-自任	
-自伐	
-自住	
-自住型	
-自作	
-自作主張	
-自作多情	
-自作孽	
-自作聰明	
-自作自受	
-自來	
-自供	
-自供狀	
-自侮	
-自便	
-自保	
-自信	
-自信心	
-自修	
-自修室	
-自修法	
-自修課	
-自個	
-自備	
-自備午餐	
-自備晚餐	
-自傲	
-自傳	
-自傳體	
-自傷	
-自內	
-自內心	
-自內而外	
-自出	
-自出一家	
-自出機杼	
-自分	
-自刎	
-自利	
-自到	
-自制	
-自制一下	
-自制之力	
-自制力	
-自制的能	
-自制能力	
-自剄	
-自創	
-自力	
-自力救濟	
-自力更生	
-自助	
-自助助人	
-自助式	
-自助旅遊	
-自助洗衣店	
-自助遊	
-自助餐	
-自助餐廳	
-自勉	
-自動	
-自動付款機	
-自動免疫	
-自動化	
-自動化技術	
-自動取款機	
-自動售貨機	
-自動地工作	
-自動增益	
-自動增益控制	
-自動對焦	
-自動式	
-自動性	
-自動恢復	
-自動扶梯	
-自動控制	
-自動控制系統	
-自動提款	
-自動提款機	
-自動播放	
-自動擋	
-自動更新	
-自動樓梯	
-自動機	
-自動檔	
-自動檢測	
-自動櫃員機	
-自動步槍	
-自動步道	
-自動武器	
-自動生成	
-自動生產	
-自動生產線	
-自動線	
-自動自發	
-自動裝置	
-自動詞	
-自動識別	
-自動警報	
-自動車	
-自動運行	
-自動鉛筆	
-自動錶	
-自動門	
-自動關機	
-自動關閉	
-自動離合	
-自動電話	
-自動駕駛	
-自動駕駛儀	
-自勵	
-自卑	
-自卑心理	
-自卑情緒	
-自卑感	
-自即日起	
-自卸車	
-自反	
-自取	
-自取其咎	
-自取其辱	
-自取滅亡	
-自古	
-自古以來	
-自右而左	
-自各	
-自同寒蟬	
-自吹	
-自吹自擂	
-自告奮勇	
-自命	
-自命不凡	
-自命清高	
-自命爲	
-自咎	
-自問	
-自問自答	
-自喻	
-自嘆	
-自嘆不如	
-自嘆弗如	
-自嘲	
-自噴	
-自噴井	
-自噴式	
-自圓其說	
-自在	
-自地自建	
-自報	
-自報公議	
-自報家門	
-自壓	
-自壓式	
-自外	
-自外而內	
-自多	
-自大	
-自大狂	
-自奉	
-自奉儉約	
-自奉甚儉	
-自好	
-自如	
-自始	
-自始至終	
-自娛	
-自娛娛人	
-自娛自樂	
-自學	
-自學成才	
-自學法	
-自學考試	
-自守	
-自定	
-自定義	
-自宮	
-自封	
-自專	
-自尊	
-自尊心	
-自尋	
-自尋死路	
-自尋煩惱	
-自導	
-自導自演	
-自小	
-自居	
-自左	
-自左而右	
-自己	
-自己人	
-自己做	
-自己動手	
-自己喜歡	
-自己寫	
-自己方便	
-自已	
-自帶	
-自幼	
-自序	
-自度曲	
-自建	
-自強	
-自強不息	
-自強自立	
-自強號	
-自強運動	
-自彈	
-自彈自唱	
-自律	
-自律性	
-自律性組織	
-自後	
-自得	
-自得其樂	
-自必	
-自忖	
-自性	
-自怨	
-自怨自艾	
-自恃	
-自悔	
-自愛	
-自愛自重	
-自感	
-自愧不如	
-自愧弗如	
-自慊	
-自慚形穢	
-自慰	
-自慰器	
-自憐	
-自憐自艾	
-自應	
-自戀	
-自成	
-自成一家	
-自成一格	
-自成一體	
-自我	
-自我中心	
-自我介紹	
-自我作古	
-自我催眠	
-自我嘲解	
-自我安慰	
-自我完善	
-自我實現	
-自我批評	
-自我教育	
-自我檢討	
-自我犧牲	
-自我的人	
-自我表現	
-自我解嘲	
-自我評價	
-自我防衛	
-自我陶醉	
-自戒	
-自戕	
-自打	
-自找	
-自找苦喫	
-自找麻煩	
-自投	
-自投羅網	
-自拉自唱	
-自拍	
-自拍器	
-自拍模式	
-自拔	
-自掃門前雪	
-自掏腰包	
-自排	
-自掘墳墓	
-自採	
-自控	
-自提	
-自摸	
-自擔	
-自擺烏龍	
-自救	
-自敘	
-自斃	
-自新	
-自於	
-自明	
-自是	
-自暴自棄	
-自曝	
-自會	
-自會在	
-自會直	
-自有	
-自有主張	
-自有公論	
-自有品牌	
-自有妙計	
-自有打算	
-自有資金	
-自有辦法	
-自查	
-自核	
-自棄	
-自檢	
-自欺	
-自欺欺人	
-自此	
-自此以後	
-自此刻起	
-自此時起	
-自此而後	
-自殘	
-自殺	
-自殺式	
-自殺式炸彈	
-自殺式爆炸	
-自殺炸彈殺手	
-自殺者	
-自毀	
-自毀前程	
-自毀長城	
-自民黨	
-自求	
-自求多福	
-自決	
-自決權	
-自沉	
-自治	
-自治制	
-自治區	
-自治州	
-自治市	
-自治市長	
-自治旗	
-自治機關	
-自治權	
-自治法	
-自治省	
-自治縣	
-自治領	
-自治體	
-自況	
-自注	
-自派	
-自流	
-自流井	
-自流井區	
-自流灌溉	
-自淨	
-自淨作用	
-自淫	
-自測	
-自溺	
-自滿	
-自演	
-自瀆	
-自焚	
-自然	
-自然主義	
-自然之友	
-自然人	
-自然保護	
-自然保護區	
-自然光	
-自然力	
-自然化	
-自然史	
-自然哲學	
-自然對數	
-自然律	
-自然捲	
-自然接種	
-自然數	
-自然數集	
-自然是	
-自然景觀	
-自然會	
-自然村	
-自然條件	
-自然歷	
-自然法	
-自然法學	
-自然法學派	
-自然災害	
-自然物	
-自然現象	
-自然環境	
-自然生態	
-自然界	
-自然療法	
-自然碼	
-自然礦	
-自然神論	
-自然科	
-自然科學	
-自然科學基金會	
-自然經濟	
-自然美	
-自然而然	
-自然規律	
-自然觀	
-自然語言	
-自然課	
-自然資源	
-自然通風	
-自然選擇	
-自然醒	
-自然金	
-自然銅	
-自然風光	
-自燃	
-自燃式	
-自燃性	
-自營	
-自營商	
-自爆	
-自爲	
-自理	
-自甘	
-自甘墮落	
-自甘暴棄	
-自生	
-自生自滅	
-自產	
-自用	
-自用品	
-自用車	
-自由	
-自由中國	
-自由主義	
-自由亞洲電臺	
-自由人	
-自由企業	
-自由化	
-自由古巴	
-自由地區	
-自由基	
-自由基清除劑	
-自由女神	
-自由女神像	
-自由市	
-自由市場	
-自由度	
-自由式	
-自由心證	
-自由思想	
-自由性	
-自由意志	
-自由意志主義	
-自由態	
-自由戀愛	
-自由放任	
-自由日	
-自由日報	
-自由業	
-自由權	
-自由民	
-自由民主黨	
-自由泳	
-自由活動	
-自由派	
-自由港	
-自由焓	
-自由王國	
-自由祖國	
-自由神像	
-自由競爭	
-自由素食主義	
-自由組合	
-自由組合規律	
-自由職業	
-自由自在	
-自由落體	
-自由落體運動	
-自由行	
-自由詩	
-自由貿易	
-自由貿易區	
-自由車	
-自由軟件基金會	
-自由選擇	
-自由選擇權	
-自由鍛	
-自由降落	
-自由電子	
-自由面	
-自由體操	
-自由鬥士	
-自由黨	
-自留	
-自留地	
-自畫像	
-自當	
-自疚	
-自發	
-自發對稱破缺	
-自發性	
-自發運動	
-自發電位	
-自白	
-自白書	
-自盡	
-自相	
-自相殘殺	
-自相矛盾	
-自相魚肉	
-自省	
-自矜	
-自知	
-自知之明	
-自知理屈	
-自禁	
-自私	
-自私心	
-自私自利	
-自種	
-自稱	
-自稱是	
-自稱爲	
-自立	
-自立早報	
-自立晚報	
-自立自強	
-自立門戶	
-自籌	
-自約	
-自組	
-自絕	
-自給	
-自給有餘	
-自給自足	
-自經	
-自編	
-自縊	
-自縛	
-自縛手腳	
-自罪	
-自習	
-自習室	
-自習時間	
-自習課	
-自考	
-自耕	
-自耕農	
-自肥	
-自能	
-自能在	
-自花傳粉	
-自花受粉	
-自若	
-自苦	
-自薦	
-自虐	
-自處	
-自行	
-自行其是	
-自行決定	
-自行火炮	
-自行解決	
-自行車	
-自行車架	
-自行車賽	
-自行車館	
-自衛	
-自衛隊	
-自裁	
-自裝	
-自製	
-自製炸彈	
-自要	
-自視	
-自視清高	
-自視甚高	
-自覺	
-自覺性	
-自覺自願	
-自覺運動	
-自覺遵守	
-自解	
-自解壓	
-自言自語	
-自訂	
-自討	
-自討沒趣	
-自討苦喫	
-自訟	
-自設	
-自許	
-自訴	
-自訴人	
-自詒伊戚	
-自評	
-自詡	
-自誇	
-自認	
-自認是	
-自認會	
-自認爲	
-自語	
-自誤	
-自誤誤人	
-自調	
-自調式	
-自謀職業	
-自謙	
-自變數	
-自變量	
-自豪	
-自豪感	
-自負	
-自貢	
-自貢市	
-自責	
-自費	
-自費旅行	
-自費生	
-自貽伊戚	
-自賊	
-自賣	
-自賣自誇	
-自贊	
-自贖	
-自足	
-自足自給	
-自身	
-自身利益	
-自身建設	
-自身難保	
-自載	
-自輕自賤	
-自轉	
-自轉式	
-自轉軸	
-自辦	
-自辦式	
-自述	
-自遣	
-自適	
-自適應	
-自選	
-自選動作	
-自選商場	
-自選曲	
-自酌	
-自重	
-自量	
-自銷	
-自閉	
-自閉性	
-自閉症	
-自需	
-自須	
-自願	
-自願性	
-自願書	
-自願者	
-自顧	
-自顧不暇	
-自顧自	
-自食其力	
-自食其果	
-自食其言	
-自食惡果	
-自養	
-自餒	
-自首	
-自首變節	
-自駕	
-自駕汽車出租	
-自駕租賃	
-自駕車	
-自駕遊	
-自體	
-自體免疫疾病	
-自體受精	
-自高	
-自高自大	
-自鳴得意	
-自鳴鐘	
-自點	
-臭人	
-臭味	
-臭味相投	
-臭架子	
-臭死	
-臭銅味	
-至交	
-至人	
-至大	
-至大至剛	
-至於	
-至日	
-至死	
-至死不屈	
-至死不悟	
-至死不渝	
-至死不變	
-至死不降	
-至若	
-至行	
-至遲	
-致力於	
-致勝率	
-致於	
-致死	
-致死劑量	
-致死性	
-致死性毒劑	
-致死案	
-致死率	
-致死量	
-致理技術學院	
-致遠任重	
-臺中人	
-臺中市人	
-臺中師範學院	
-臺中教育大學	
-臺兒莊	
-臺兒莊區	
-臺北人	
-臺北大學	
-臺北工業專科學校	
-臺北市立教育大學	
-臺北市立體育學院	
-臺北市長	
-臺北師範學院	
-臺北科技大學	
-臺北縣長	
-臺北醫學大學	
-臺北醫學院	
-臺南人	
-臺南大學	
-臺南女子技術學院	
-臺南師範學院	
-臺南科技大學	
-臺大	
-臺大學生	
-臺大醫院	
-臺師大	
-臺拉維夫	
-臺日	
-臺東人	
-臺東大學	
-臺東師範學院	
-臺東縣長	
-臺灣世界展望會	
-臺灣世界展望會	
-臺灣人	
-臺灣味	
-臺灣問題	
-臺灣大學	
-臺灣學術網路	
-臺灣工業技術學院	
-臺灣師範大學	
-臺灣日	
-臺灣日日新報	
-臺灣民主自治同盟	
-臺灣海洋大學	
-臺灣海洋學院	
-臺灣省	
-臺灣省政府	
-臺灣省政府教育廳	
-臺灣省立	
-臺灣省議會	
-臺灣神學院	
-臺灣科技大學	
-臺灣藝術專科學校	
-臺灣行	
-臺灣警察專科學校	
-臺灣銀行	
-臺省	
-臺科大	
-臺藝大	
-臺長	
-臺閣生風	
-臻於	
-臻於完善	
-臻於郅治	
-舂穀	
-舅大人	
-與世俯仰	
-與世推移	
-與世浮沉	
-與世無爭	
-與世無爭	
-與世長辭	
-與世隔絕	
-與人	
-與人方便	
-與人爲善	
-與你	
-與全世界爲敵	
-與日	
-與日俱增	
-與日俱進	
-與日同輝	
-與時間賽跑	
-與會人士	
-與民同樂	
-與民爭利	
-與生俱來	
-與該	
-興味	
-興味索然	
-興學	
-興安省	
-興師問罪	
-興業銀行	
-興盛	
-興趣不大	
-興雲作霧	
-興雲吐霧	
-興頭很大	
-舉世	
-舉世公認	
-舉世無匹	
-舉世無匹	
-舉世無敵	
-舉世無敵	
-舉世無雙	
-舉世無雙	
-舉世矚目	
-舉世聞名	
-舉了	
-舉人	
-舉個	
-舉報人	
-舉家	
-舉尾蟲	
-舉案齊眉	
-舉止大方	
-舉止行爲	
-舉着	
-舉行	
-舉行婚禮	
-舉行會談	
-舉過去	
-舊交	
-舊人	
-舊大陸	
-舊學	
-舊家	
-舊教	
-舊教徒	
-舊日	
-舊生	
-舊的不去	
-舊習	
-舌狀	
-舌耕	
-舍人	
-舍利弗	
-舍弗勒	
-舍間	
-舒懷	
-舒捲自如	
-舒眉	
-舔乾淨	
-舔着	
-舛誤	
-舛雜	
-舜日堯天	
-舜日堯年	
-舞動着	
-舞弄着	
-舞池	
-舞臺音樂	
-舞蹈家	
-航海家	
-航海日誌	
-航空學	
-航空自衛隊	
-航行	
-航行權	
-航行燈	
-般樂	
-般若	
-般若波羅密	
-般若波羅密多心經	
-般若波羅蜜多	
-般若波羅蜜多心經	
-般若經	
-般雀比拉多	
-舶來	
-舶來品	
-舶來貨	
-船上交貨	
-船到橋頭自然直	
-船家	
-船尾	
-船尾座	
-船政大臣	
-船政學堂	
-船舶	
-船舶學	
-船邊交貨價	
-船長	
-船長室	
-艇甲板	
-艇長	
-艦尾	
-艦日	
-艦長	
-良人	
-良价	
-良家	
-良家女子	
-良家婦女	
-良家子	
-良日	
-良率	
-良藥苦口利於病	
-良藥苦口忠言逆耳	
-良賤	
-良辰吉日	
-艱難度日	
-色不迷人	
-色不迷人人自迷	
-色差	
-色彩學	
-色情行業	
-色情雜誌	
-色拉	
-色拉寺	
-色拉油	
-色拉醬	
-色目人	
-色覺	
-色長	
-色鬼	
-艾克爾	
-艾哈邁德	
-艾哈邁迪內賈德	
-艾哈邁達巴德	
-艾弗森	
-艾彌爾	
-艾斯托利爾	
-艾森豪威爾	
-艾澤拉斯	
-艾炷	
-艾爾	
-艾爾伯塔	
-艾爾米塔什	
-艾爾米塔奇	
-艾瑪紐埃爾	
-艾茲病	
-艾菲爾鐵塔	
-艾薇兒	
-艾薩克牛頓	
-艾迪卡拉	
-艾迪生	
-芋圓	
-芋泥	
-芋螺毒素	
-芋頭	
-芋頭冰	
-芋香	
-芒刺在背	
-芒果乾	
-芒狀	
-芝加哥	
-芝加哥大學	
-芝麻莢	
-芬蘭人	
-芭樂	
-芭樂汁	
-芭樂票	
-芭比娃娃	
-花了	
-花個	
-花剌子模	
-花去	
-花團錦簇	
-花大姐	
-花式溜冰	
-花旗參	
-花旗銀行	
-花時間	
-花朝月夕	
-花朝節	
-花架	
-花架子	
-花池子	
-花生殼	
-花生油	
-花生漿	
-花生秀	
-花生粉	
-花生豆	
-花生餅	
-花甲	
-花甲之年	
-花稍	
-花簇	
-花花世界	
-花芽分化	
-花蓮人	
-花蓮師範學院	
-花蓮教育大學	
-花貓	
-花車遊行	
-花邊人物	
-花間	
-花顏	
-花香鳥語	
-花鳥	
-花鳥畫	
-芷江侗族自治縣	
-芷若	
-芸芸衆生	
-苓耳	
-苔原	
-苔癬	
-苔綠	
-苔草	
-苔草屬	
-苔蘚	
-苔蘚植物	
-苔類	
-苗人	
-苗族人	
-苗栗人	
-苛捐雜稅	
-苛政猛於虎	
-苛雜	
-苟且偷生	
-若不	
-若不是	
-若不然	
-若且唯若	
-若何	
-若使	
-若個	
-若像	
-若出一轍	
-若即若離	
-若合符節	
-若向	
-若因	
-若夫	
-若干	
-若干人	
-若干個	
-若干問題	
-若干年	
-若干意見	
-若想	
-若於	
-若明若暗	
-若是	
-若會	
-若有	
-若有所失	
-若有所思	
-若有若無	
-若有若無	
-若有若無	
-若有若無	
-若望	
-若望福音	
-若果	
-若沒有	
-若然	
-若爲	
-若爾蓋	
-若爾蓋縣	
-若羌	
-若羌縣	
-若翰	
-若能	
-若與	
-若蟲	
-若要	
-若要人不知	
-若輩	
-若開山脈	
-若隱若現	
-若非	
-苦上加苦	
-苦中作樂	
-苦了	
-苦人	
-苦去甘來	
-苦味	
-苦味道	
-苦味酸	
-苦哈哈	
-苦大仇深	
-苦學	
-苦學多年	
-苦學成名	
-苦學有成	
-苦差	
-苦差事	
-苦於	
-苦日子	
-苦杏仁苷	
-苦樂	
-苦樂不均	
-苦瓜乾	
-苦行	
-苦行僧	
-苦行者	
-苦行贖罪	
-苦集滅道	
-苯甲酰氯	
-苯甲酸	
-苯甲醛	
-苯甲醯氯	
-苯酮尿症	
-英人	
-英代爾	
-英俊小生	
-英勇犧牲	
-英哩	
-英國人	
-英國文學	
-英國皇家學會	
-英屬維爾京羣島	
-英日	
-英日同盟	
-英格蘭銀行	
-英特爾	
-英畝	
-英語學習	
-英語學習	
-英語教學	
-英雄交響曲	
-英雄人物	
-英雄美人	
-英雄難過美人關	
-茁壯成長	
-茁長	
-茂南	
-茂南區	
-茂名	
-茂名市	
-茂密	
-茂年	
-茂才	
-茂才異等	
-茂松	
-茂林	
-茂林鄉	
-茂汶縣	
-茂港	
-茂港區	
-茂物	
-茂發	
-茂盛	
-茂竹	
-茂縣	
-茂興	
-茂親	
-范家謙	
-范德格拉夫	
-范德格拉夫起電機	
-范德瓦耳斯	
-范德瓦耳斯力	
-范成大	
-范縝	
-茄二十八星瓢蟲	
-茄克	
-茄克衫	
-茄冬	
-茄子河區	
-茄科	
-茄紅素	
-茅盾文學獎	
-茨岡人	
-茨萬吉拉伊	
-茫崖	
-茫崖行政區	
-茫崖行政委員會	
-茫然若失	
-茫茫人海	
-茫茫大海	
-茲事體大	
-茲沃勒	
-茵藉	
-茶點時間	
-草人	
-草垛	
-草大青	
-草木皆兵	
-草木鳥獸	
-草根大使	
-草滿囹圄	
-草率	
-草率從事	
-草率收兵	
-草草了事	
-草草率率	
-草菅人命	
-草葉集	
-草行	
-草長馬肥	
-荊棘叢生	
-荊蠻	
-荊釵	
-荊釵布裙	
-荊釵裙布	
-荊釵記	
-荒了	
-荒無人煙	
-荒無人煙	
-荔波	
-荔波縣	
-荷人	
-荷爾蒙	
-荷着	
-荷花池	
-荷蘭人	
-荷蘭皇家航空	
-荼毒生靈	
-莊敬自強	
-莊稼人	
-莎拉	
-莎拉佩林	
-莎拉布萊曼	
-莎拉波娃	
-莒光日	
-莘莘學子	
-莞爾	
-莢果	
-莢膜	
-莢膜組織胞漿菌	
-莫三比克	
-莫三鼻給	
-莫不	
-莫不是	
-莫不然	
-莫不聞	
-莫不逾侈	
-莫伊謝耶夫	
-莫伯日	
-莫余毒也	
-莫傑斯特	
-莫克姆灣	
-莫克姆灣	
-莫利森	
-莫可名狀	
-莫可奈何	
-莫可言狀	
-莫吉托	
-莫名	
-莫名其妙	
-莫哈韋沙漠	
-莫報萬一	
-莫塔馬灣	
-莫奈	
-莫如	
-莫屬	
-莫布里	
-莫干山	
-莫往	
-莫怪	
-莫愁	
-莫愁湖	
-莫扎特	
-莫扎里拉	
-莫折大提	
-莫拉萊斯	
-莫文蔚	
-莫斯特	
-莫斯科	
-莫斯科市	
-莫明其妙	
-莫曼斯克	
-莫札特	
-莫桑比克	
-莫此爲甚	
-莫泊桑	
-莫涅	
-莫測	
-莫測高深	
-莫爾	
-莫爾斯	
-莫爾斯電碼	
-莫爾茲比港	
-莫當	
-莫管	
-莫管閒事	
-莫索里尼	
-莫罕達斯	
-莫羅尼	
-莫耳	
-莫臥兒王朝	
-莫若	
-莫莉克	
-莫衷一是	
-莫言	
-莫說	
-莫講	
-莫逆	
-莫逆之交	
-莫過	
-莫過於	
-莫道	
-莫那魯道	
-莫邪	
-莫邪鈍	
-莫里	
-莫里哀	
-莫里尼奧	
-莫里希	
-莫里斯	
-莫里森	
-莫里納	
-莫里葉	
-莫霍洛維奇	
-莫霍洛維奇不連續面	
-莫霍面	
-莫非	
-莫非是	
-莫須	
-莫須有	
-莫高窟	
-菅直人	
-菊芋	
-菌狀	
-菌膠團	
-菜乾	
-菜鳥	
-菜鴨	
-菟絲子	
-菠蘿乾	
-菩薩低眉	
-菩薩蠻	
-華中師範大學	
-華人	
-華佗再世	
-華僑中學	
-華僑大學	
-華僑華人	
-華僑銀行	
-華南師範大學	
-華南理工大學	
-華南銀行	
-華夏銀行	
-華威大學	
-華岡藝術學校	
-華師大	
-華東師範大學	
-華東理工大學	
-華梵大學	
-華池縣	
-華潤萬家	
-華爾滋	
-華爾滋舞曲	
-華爾茲	
-華爾茲舞	
-華爾街	
-華爾街日報	
-華生	
-華盛頓	
-華盛頓州	
-華盛頓時報	
-華盛頓特區	
-華盛頓郵報	
-華納音樂集團	
-華茲華斯	
-華語學校	
-華貴	
-華陀在世	
-菲兒	
-菲律賓人	
-菲律賓大學	
-菲德爾	
-菲捨爾	
-菲爾	
-菲爾普斯	
-菲爾特	
-菲爾茲	
-菲爾茲獎	
-菲茨傑拉德	
-菸草味	
-萊伊爾	
-萊布尼茲	
-萊斯大學	
-萊頓大學	
-萊齊耶三世	
-萌生	
-萬世	
-萬世一時	
-萬世師表	
-萬事大吉	
-萬事皆休	
-萬事皆備	
-萬人	
-萬人之敵	
-萬人坑	
-萬人敵	
-萬人次	
-萬人空巷	
-萬人迷	
-萬個	
-萬分	
-萬分之一	
-萬分感激	
-萬分痛苦	
-萬別千差	
-萬剮千刀	
-萬博省	
-萬古長新	
-萬古長春	
-萬古長青	
-萬壑爭流	
-萬夫莫敵	
-萬夫莫當	
-萬夫莫開	
-萬家	
-萬家樂	
-萬家燈火	
-萬家生佛	
-萬家香	
-萬智牌	
-萬望	
-萬歲	
-萬歲千秋	
-萬歲爺	
-萬死	
-萬死一生	
-萬死不辭	
-萬狀	
-萬畝	
-萬盛	
-萬盛區	
-萬籤插架	
-萬米長跑	
-萬能膠	
-萬般皆下	
-萬般皆下品	
-萬般皆下品惟有讀書高	
-萬般皆是命半點不由人	
-萬花爭豔	
-萬萬歲	
-萬萬沒有想到	
-萬象更新	
-萬貫家產	
-萬貫家私	
-萬貫家財	
-萬里長城	
-萬里長征	
-萬里長江	
-萬里長空	
-萬頃碧波	
-萬餘人	
-萬鴉老	
-萬點大關	
-萵苣	
-落了	
-落人口實	
-落地生根	
-落埋怨	
-落差	
-落後國家	
-落於	
-落於下風	
-落日	
-落日餘暉	
-落架	
-落淚	
-落着	
-落花生	
-落落大方	
-落落寡合	
-落落寡歡	
-落葉歸根家	
-落藉	
-落錘	
-落雁	
-落魄	
-葉傑生	
-葉兩傳	
-葉卡捷琳娜	
-葉問	
-葉文貴	
-葉爾羌	
-葉爾羌河	
-葉爾辛	
-葉片狀	
-葉狀	
-葉狀植物	
-葉狀體	
-葉盛蘭	
-葉耳	
-葉苔	
-葉長龍	
-葉鼻蝠	
-著作人	
-著作權人	
-著名人物	
-著名作家	
-著名品牌	
-著稱於世	
-葛瑞格爾	
-葡萄乾	
-葡萄牙人	
-董事長	
-董事長兼	
-葦眉子	
-葬埋	
-葬玉埋香	
-蒐藏家	
-蒐集	
-蒐集到	
-蒙了	
-蒙人	
-蒙代爾	
-蒙兀兒	
-蒙兀兒帝國	
-蒙古人	
-蒙古人民共和國	
-蒙古人種	
-蒙古大夫	
-蒙哄	
-蒙大拿	
-蒙大拿州	
-蒙娜麗莎	
-蒙學	
-蒙彼利埃	
-蒙日	
-蒙特利爾	
-蒙特塞拉特	
-蒙着	
-蒙稚	
-蒙自	
-蒙自縣	
-蒙菲爾斯	
-蒙面人	
-蒜味	
-蒞任	
-蒟蒻	
-蒲圻	
-蒲圻市	
-蒲式耳	
-蒲甘王朝	
-蒸乾	
-蒸了	
-蒸去	
-蒸汽狀	
-蒸汽錘	
-蒸蒸日上	
-蒼梧	
-蒼梧縣	
-蒼生	
-蒼生塗炭	
-蒼耳	
-蒼顏	
-蓄長髮	
-蓄電池	
-蓋世	
-蓋世之才	
-蓋世太保	
-蓋世無匹	
-蓋世無匹	
-蓋世無雙	
-蓋世無雙	
-蓋世英雄	
-蓋了	
-蓋了又蓋	
-蓋於	
-蓋爾	
-蓋爾語	
-蓋率	
-蓋着	
-蓋茲	
-蓮池	
-蓮花池	
-蓮花生	
-蓮霧	
-蓼花	
-蓼蓼	
-蓼藍	
-蔓生	
-蔓生植物	
-蔚爲大觀	
-蔞葉	
-蔞蒿	
-蔣介石	
-蔣桂戰爭	
-蔣桂戰爭	
-蔭庇	
-蔽日	
-蕃人	
-蕃茂	
-蕃茄	
-蕃茄汁	
-蕃茄片	
-蕃茄醬	
-蕈狀雲	
-蕈狀雲	
-蕩產傾家	
-蕩着	
-蕪雜	
-蕭乾	
-蕭伯納	
-蕭萬長	
-薄一波	
-薄倖人	
-薄分	
-薄眉	
-薄膜狀	
-薄行	
-薄賤	
-薄霧	
-薊訓歷家	
-薏仁	
-薏苡仁	
-薑母鴨	
-薑還是老	
-薑還是老的辣	
-薛寶釵	
-薦任	
-薩克遜人	
-薩哈洛夫	
-薩哈羅夫	
-薩哈羅夫人權獎	
-薩哈羅夫獎	
-薩哈諾夫	
-薩德爾	
-薩德爾市	
-薩拉	
-薩拉丁	
-薩拉戈薩	
-薩拉曼卡	
-薩拉森帝國	
-薩拉熱窩	
-薩桑王朝	
-薩滿教	
-薩爾	
-薩爾圖	
-薩爾圖區	
-薩爾州	
-薩爾布呂肯	
-薩爾溫江	
-薩爾滸之戰	
-薩爾滸之戰	
-薩爾瓦多	
-薩爾科奇	
-薩爾科齊	
-薩爾茨堡	
-薩珊王朝	
-薩米人	
-薩非王朝	
-薪傳	
-薪水階級	
-薪水階級	
-薪火相傳	
-薪盡火傳	
-藉代	
-藉以	
-藉助	
-藉助於	
-藉口	
-藉喻	
-藉寇兵	
-藉手	
-藉故	
-藉故推辭	
-藉條	
-藉機	
-藉此	
-藉此機會	
-藉甚	
-藉由	
-藉着	
-藉端	
-藉端生事	
-藉箸代籌	
-藉藉	
-藉藉無名	
-藉藉無名	
-藉詞	
-藉資	
-藉酒澆愁	
-藍儂	
-藍屏死機	
-藍牙耳機	
-藍田猿人	
-藍耳病	
-藍顏知己	
-藏人	
-藏傳佛教	
-藏匿於	
-藏於	
-藏族人	
-藏着	
-藏貓貓	
-藏進去	
-藏鏡人	
-藏頭露尾	
-藝人	
-藝壓當行	
-藝術學院	
-藝術家	
-藝術專科學校	
-藝高人膽大	
-藝高膽大	
-藤架	
-藤野先生	
-藥價差	
-藥劑學	
-藥味	
-藥學	
-藥學專科學校	
-藥學系	
-藥捻子	
-藥死	
-藥物學	
-藥物學家	
-藥物成癮	
-藥理學	
-藥癮	
-藹藹	
-藹藹	
+稀世	shi syu
+稀世之寶	shi syu tsy pau
+稀溜溜	shi lhieu lhieu
+稀稀拉拉	shi shi lha lha
+稀里嘩啦	shi li hua lha
+稅率	sei liq
+程序運行	jin zyu yun yin
+程控交換機	jin khon ciau wun ci
+稍乾的	sau kI tiq
+稍加	sau cia
+稍大	sau da
+稍懈	sau ya
+稍懈	sau ye
+稍覺	sau ciuq
+種人	tson gnin
+種仁	tson gnin
+種差	tson tsha
+種族問題	tson dzoq ven di
+種生	tson sen
+種田人家	tson di gnin ko
+種間雜交	tson ci dzaq ciau
+種顏色	tson ngae saq
+稱霸世界	chin po syu ka
+稻草人	dau tshau gnin
+稽查人員	ci dzo zyun yu
+穀人	koq gnin
+穀保家商	koq pau cia saon
+穀梁傳	koq lian dzoe
+穀貴餓農	koq ciu ngou non
+穆加貝	moq cia pei
+穆巴拉克	moq pa lha khaq
+穆沙拉夫	moq so lha fu
+穆爾	moq er
+穆索爾斯基	moq soq er sy ci
+穆罕默德六世	moq he maq taq loq syu
+積分	ciq fen
+積分制	ciq fen tsyu
+積分器	ciq fen chi
+積分學	ciq fen yuq
+積分常數	ciq fen dzaon su
+積分方程	ciq fen faon jin
+積分榜	ciq fen paon
+積分法	ciq fen faq
+積分變換	ciq fen pi wun
+積分電路	ciq fen di lu
+積化和差	ciq huo ghou tsha
+積於忽微	ciq yu huaq vi
+積極分子	ciq jiq ven tsy
+積極參加	ciq jiq tshae ko
+積極參與	ciq jiq tshae yu
+積的	ciq tiq
+穎慧過人	yin wei kou gnin
+穗狀	zei dzaon
+穗狀花序	zei dzaon huo zyu
+穢行	huei yin
+穩拿	uen no
+穩拿到	uen no tau
+穴居人	yuq ciu gnin
+穴鳥	yuq gniau
+究問	cieu ven
+空落去	khon loq chi
+空中交通管制	khon tson ciau thon kun tsyu
+空中交通管制員	khon tson ciau thon kun tsyu yu
+空中大學	khon tson da ghoq
+空中核爆炸	khon tson ghaq bau tso
+空中飛人	khon tson fi gnin
+空了	khon laq
+空個	khon goq
+空個	khon ghoq
+空勤人員	khon jin zyun yu
+空大	khon da
+空巢家庭	khon dzau cia din
+空房間	khon vaon kae
+空日	khon zyuq
+空架子	khon ko tsy
+空櫃子	khon guei tsy
+空氣動力學	khon chi don liq yuq
+空氣錘	khon chi zei
+空的	khon tiq
+空勒	khon laq
+空勒仔	khon laq tsy
+空仔	khon tsy
+空空如也	khon khon zyu ye
+空行	khon ghaon
+空行母	khon ghaon meu
+空行法	khon yin faq
+空谷傳聲	khon koq dzOE shin
+空谷傳響	khon koq dzOE shian
+空軍機械學校	khon ciun ci ye ghoq yau
+空軍航空技術學院	khon ciun ghaon khon ji zyuq yuq yu
+空軍軍官學校	khon ciun ciun kun ghoq yau
+空間	khon ci
+空間局	khon ci jiuq
+空間感	khon ci kI
+空間探測	khon ci thei tshaq
+空間曲線	khon ci chiuq shi
+空間站	khon ci dzae
+空間結構	khon ci ciq keu
+空間藝術	khon ci gni zyuq
+空間通信	khon ci thon shin
+空間電荷	khon ci di ghou
+空降	khon ciaon
+空降兵	khon ciaon pin
+空降師	khon ciaon sy
+空降部隊	khon ciaon bu dei
+空集	khon jiq
+空集合	khon jiq ghaq
+穿落去	tshOE loq chi
+穿了	tshOE laq
+穿壞	tshOE ua
+穿山甲	tshOE sae ciaq
+穿戴	tshOE ta
+穿戴整齊	tshOE ta cin ji
+穿梭外交	tshOE sou nga ciau
+穿梭轟炸	tshOE sou hon tso
+穿甲彈	tshOE ciaq dae
+穿着打扮	tshOE ciaq tan pae
+穿着講究	tshOE ciaq kaon cieu
+穿紅戴綠	tshOE ghon ta loq
+穿紅着綠	tshOE ghon ciaq loq
+穿耳	tshOE gni
+穿耳洞	tshOE gni don
+穿行	tshOE yin
+穿金戴銀	tshOE cin ta gnin
+穿靴戴帽	tshOE shiu ta mau
+穿鼻	tshOE biq
+突出問題	daq tshyuq ven di
+突出重圍	daq tshyuq dzon wei
+突厥人	daq ciuq gnin
+突圍	daq wei
+突圍而出	daq wei er tshyuq
+突然之間	daq zoe tsy ci
+突然覺得	daq zoe koq taq
+突然間	daq zoe ci
+突發狀況	daq faq dzaon huaon
+突破現狀	daq phou yi dzaon
+突降	daq ciaon
+窒息而死	tsy shiq er sy
+窒礙難行	tsy nge nae yin
+窮二代	jion er de
+窮人	jion gnin
+窮人家	jion gnin ko
+窮困人家	jion khuen gnin ko
+窮困潦倒	jion khuen liau tau
+窮學生	jion ghoq san
+窮家富路	jion ko fu lu
+窮寇莫追	jion kheu moq tsei
+窮富極貴	jion fu jiq kuei
+窮愁潦倒	jion zeu liau tau
+窮日	jion gniq
+窮日子	jion gniq tsy
+窮書生	jion syu san
+窮歡樂	jion hun loq
+窮苦人家	jion khu gnin ko
+窮途潦倒	jion du liau tau
+窮鬼	jion kuei
+窺望	khuei vaon
+立交	liq ciau
+立交橋	liq ciau jiau
+立大功	liq da kon
+立方公分	liq faon kon fen
+立櫃	liq guei
+立狀	liq dzaon
+立談之間	liq dae tsy ci
+立身處世	liq shin tshyu syu
+立陶宛人	liq dau un gnin
+立體交叉	liq thi ciau tsho
+站落去	dzae loq chi
+站了	dzae laq
+站個	dzae goq
+站櫃檯	dzae guei de
+站牌	dzae ba
+站長	dzae cian
+竟日	cin zyuq
+竟自	cin zy
+竟被	cin bei
+章學誠	tsaon yuq jin
+童生	don san
+童顏	don yi
+童顏鶴髮	don yi ngoq faq
+端落去	toe loq chi
+端了	toe laq
+端架子	toe ko tsy
+端勒	toe laq
+端勒仔	toe laq tsy
+競爭	jin tsen
+競爭優勢	jin tsen ieu syu
+競爭力	jin tsen liq
+競爭對手	jin tsen tei shieu
+競爭心	jin tsen shin
+競爭性	jin tsen shin
+競爭格局	jin tsen kaq jiuq
+競爭模式	jin tsen mou shiq
+競爭機制	jin tsen ci tsyu
+競爭激烈	jin tsen ciq liq
+競爭環境	jin tsen wae cin
+競爭產品	jin tsen tshae phin
+競爭者	jin tsen tse
+競爭能力	jin tsen nen liq
+競選人	jin soe gnin
+竹圍	tsoq wei
+竹架	tsoq ko
+竹筍乾	tsoq syun kI
+竹芋	tsoq yu
+竺乾	tsoq kI
+竺學	tsoq yuq
+竺教	tsoq ciau
+笑了	shiau lei
+笑了笑	shiau laq shiau
+笑了起來	shiau laq chi le
+笑個	shiau goq
+笑個	shiau ghoq
+笑個痛快	shiau goq thon khua
+笑個痛快	shiau ghoq thon khua
+笑出眼淚	shiau tshyuq ngae li
+笑哈哈	shiau ha ha
+笑掉大牙	shiau diau dou ngo
+笑死	shiau sy
+笑煞	shiau saq
+笑死人	shiau sy gnin
+笑煞人	shiau saq gnin
+笑勒	shiau laq
+笑臉迎人	shiau li gnin zyun
+笑逐顏開	shiau dzoq yi khe
+笑顏	shiau yi
+笛卡兒	diq kha er
+笛卡爾	diq kha er
+笞背	tshyu pei
+符合國家	vu ghaq koq cia
+符拉迪沃斯託克	vu lha diq oq sy thoq khaq
+符牌	vu ba
+符號學	vu ghau yuq
+笨人	ben gnin
+笨死	ben sy
+笨煞	ben saq
+笨鳥先飛	ben gniau shi fi
+第一世界	di iq syu ka
+第一人	di iq gnin
+第一人稱	di iq zyun chin
+第一任	di iq zyun
+第一個	di iq goq
+第一個層次	di iq goq zen tshy
+第一個月	di iq goq yuq
+第一個月	di iq kou yuq
+第一品牌	di iq phin ba
+第一型糖尿病	di iq yin daon gniau bin
+第一大	di iq da
+第一夫人	di iq fu gnin
+第一學期	di iq ghoq ji
+第一家	di iq cia
+第一時間	di iq zy ci
+第一次世界大戰	di iq tshy syu ka da ci
+第一次世界大戰	di iq tshy syu ka da tsoe
+第一行	di iq ghaon
+第一部分	di iq bu ven
+第一集	di iq jiq
+第七個	di chiq goq
+第三世界	di sae syu ka
+第三人	di sae gnin
+第三人稱	di sae zyun chin
+第三個	di sae goq
+第三大	di sae da
+第三狀態	di sae dzaon the
+第三部分	di sae bu fen
+第三集	di sae jiq
+第九個	di cieu goq
+第二	di gni
+第二世界	di gni syu ka
+第二人	di gni gnin
+第二人稱	di gni zyun chin
+第二代	di gni de
+第二位	di gni wei
+第二信號	di gni shin ghau
+第二信號系統	di gni shin ghau shi thon
+第二個	di gni goq
+第二冊	di gni tshaq
+第二十	di er zyuq
+第二十七	di er zyuq chiq
+第二十九	di er zyuq cieu
+第二十五	di er zyuq ng
+第二十四	di er zyuq sy
+第二十條	di er zyuq diau
+第廿	di nE
+第廿七	di nE chiq
+第廿九	di nE cieu
+第廿五	di nE ng
+第廿四	di nE sy
+第廿條	di nE diau
+第二名	di gni min
+第二回	di gni wei
+第二國際	di gni koq ci
+第二型糖尿病	di gni yin daon gniau bin
+第二場	di gni jian
+第二大	di gni da
+第二天	di gni thi
+第二日	di gni gniq
+第二套	di gni thau
+第二季	di gni ci
+第二季度	di gni ci du
+第二宇宙	di gni yu jieu
+第二宇宙速度	di gni yu jieu soq du
+第二審	di gni shin
+第二屆	di gni ka
+第二層	di gni zen
+第二性	di gni shin
+第二性徵	di gni shin cin
+第二手	di gni shieu
+第二批	di gni phi
+第二捲	di gni ciu
+第二期	di gni ji
+第二條	di gni diau
+第二次	di gni tshy
+第二次世界大戰	di gni tshy syu ka da ci
+第二次世界大戰	di gni tshy syu ka da tsoe
+第二款	di gni khun
+第二步	di gni bu
+第二版	di gni pae
+第二產業	di gni tshae gniq
+第二種	di gni tson
+第二章	di gni tsaon
+第二節	di gni ciq
+第二級	di gni ciq
+第二聲	di gni shin
+第二職業	di gni ciq gniq
+第二課	di gni khou
+第二課堂	di gni khou daon
+第二輪	di gni len
+第二部	di gni bu
+第二部分	di gni bu ven
+第二階段	di gni ka doe
+第二頁	di gni yiq
+第二項	di gni ghaon
+第二點	di gni ti
+第五個	di ng goq
+第五個現代化	di ng goq yi de huo
+第八個	di paq goq
+第六個	di loq goq
+第六感覺	di loq kI ciuq
+第十二	di zyuq gni
+第十二屆	di zyuq gni ka
+第十二條	di zyuq gni diau
+第十個	di zyuq goq
+第四個	di sy goq
+第四大	di sy da
+第幾個	di ci goq
+第納爾	di naq er
+筆下生花	piq gho sen huo
+筆參造化	piq tshae zau huo
+筆墨生涯	piq moq sen ya
+筆墨生涯	piq moq sen yi
+筆底生花	piq ti sen huo
+筆耕	piq kan
+等落去	ten loq chi
+等了	ten laq
+等人	ten gnin
+等你	ten gni
+等你	ten ng
+等俉	ten ng
+等爾	ten ng
+等儂	ten nou
+等個	ten goq
+等價交換	ten ko ciau wun
+等分	ten fen
+等分線	ten fen shi
+等加速度	ten ko soq du
+等差	ten tsha
+等差數列	ten tsha su liq
+等差級數	ten tsha ciq su
+等日	ten zyuq
+等死	ten shi
+等勒	ten laq
+等的	ten tiq
+等着你	ten dzoq gni
+等着你	ten zyuq gni
+等你的	ten ng tiq
+等俉的	ten ng tiq
+等爾的	ten ng tiq
+等儂的	ten nou tiq
+等閒人物	ten ghae zyun vaq
+筒狀	don dzaon
+答問	taq ven
+答記者問	taq ci tse ven
+答非所問	taq fi so ven
+策劃人	tshaq waq gnin
+策問	tshaq ven
+箇中	kou tson
+箇中三昧	kou tson sae mei
+箇中人	kou tson gnin
+箇中原因	kou tson gniu in
+箇中奧妙	kou tson au miau
+箇中奧祕	kou tson au pi
+箇中好手	kou tson hau shieu
+箇中強手	kou tson jian shieu
+箇中消息	kou tson shiau shiq
+箇中滋味	kou tson tsy vi
+箇中玄機	kou tson yu ci
+箇中理由	kou tson li yeu
+箇中道理	kou tson dau li
+箇中高手	kou tson kau shieu
+箇舊	kou jieu
+箇舊市	kou jieu zy
+箇舊縣	kou jieu yu
+箍嘴	ku tsyu
+箍子	ku tsy
+箍帶	ku ta
+箍桶匠	khu don zhian
+箍桶匠	khou don zhian
+箍桶店	khu don ti
+箍桶店	khou don ti
+算落去	soe loq chi
+算不了	soe paq liau
+算不了什麼	soe paq liau zyuq mou
+算了	soe laq
+算了	soe lei
+算了又算	soe laq yeu soe
+算你	soe gni
+算你	soe ng
+算俉	soe ng
+算爾	soe ng
+算儂	soe nou
+算個	soe goq
+算出去	soe tshyuq chi
+算命家	soe min cia
+算啦	soe lha
+算學	soe yuq
+算得了	soe taq liau
+算得了什麼	soe taq liau zyuq mou
+算術家	soe zyuq cia
+管不了	kun paq liau
+管不了那麼多	kun paq liau nha mou tou
+管弗着	kun vaq dzoq
+管弗着	kun vaq zyuq
+管勿着	kun vaq dzoq
+管勿着	kun vaq zyuq
+管了	kun laq
+管人	kun gnin
+管個	kun goq
+管家	kun cia
+管家娘子	kun cia gnian tsy
+管家婆	kun cia bou
+管家職務	kun cia ciq vu
+管家職務	kun cia ciq Wu
+管教	kun ciau
+管教無方	kun ciau vu faon
+管教無方	kun ciau Wu faon
+管樂	kun yuq
+管樂器	kun yuq chi
+管樂團	kun yuq doe
+管樂隊	kun yuq dei
+管渠	kun jiu
+管渠	kun ji
+管狀	kun dzaon
+管理人	kun li gnin
+管理人員	kun li zyun yu
+管理人才	kun li zyun dze
+管理學	kun li yuq
+管理學院	kun li yuq yu
+管理水平	kun li sei bin
+管理水平	kun li syu bin
+管絃樂	kun yi yuq
+管絃樂團	kun yi yuq doe
+管絃樂隊	kun yi yuq dei
+管自	kun zy
+管轄範圍	kun ghaq vae wei
+箭尾	ci vi
+箴諫	tsen ci
+節上生枝	ciq zaon sen tsy
+節假日	ciq cia zyuq
+節外生枝	ciq nga sen tsy
+節日	ciq zyuq
+節日快樂	ciq zyuq khua loq
+節日期間	ciq zyuq ji ci
+節目主持人	ciq moq tsyu dzy gnin
+節目主持人	ciq moq tsyu ji gnin
+節省	ciq san
+節省下	ciq san gho
+節省下來	ciq san gho le
+節省時間	ciq san zy ci
+節省能源	ciq san nen gniu
+節能降耗	ciq nen ciaon hau
+節自	ciq zy
+節行	ciq yin
+節錄自	ciq loq zy
+節間	ciq ci
+範圍	vae wei
+範圍之內	vae wei tsy nei
+範圍之外	vae wei tsy nga
+範圍之廣	vae wei tsy kuaon
+範圍內	vae wei nei
+範圍屬性	vae wei dzoq shin
+範圍很大	vae wei hen da
+範圍是	vae wei zy
+範圍查詢	vae wei dzo syun
+範圍調整	vae wei diau cin
+築人牆	tsoq gnin zhian
+築室反耕	tsoq syuq fae kan
+篤信好學	toq shin hau yuq
+篤學	toq yuq
+篤志好學	toq tsy hau yuq
+篤行	toq yin
+篩分	sy fen
+篩狀	sy dzaon
+簇合	tshoq ghaq
+簇射	tshoq zhiq
+簇擁	tshoq ion
+簇擁着	tshoq ion dzoq
+簇擁着	tshoq ion zyuq
+簇擁而上	tshoq ion er zaon
+簇新	tshaq shin
+簇生	tshoq sen
+簇簇	tshaq tshaq
+簇簇	tshoq tshoq
+簡任	ci zyun
+簡分數	ci fen su
+簡單再生	ci tae tse sen
+簡單再生產	ci tae tse sen tshae
+簡單商品生產	ci tae saon phin sen tshae
+簡單生產	ci tae sen tshae
+簡截了當	ci jiq liau taon
+簡易	ci yi
+簡易師範	ci yi sy vae
+簡易法	ci yi faq
+簡朝崙	ci jiau len
+簡省	ci san
+簧樂器	waon yuq chi
+簽落去	chi loq chi
+簽了	chi lei
+簽了	chi laq
+簽發日期	chi faq zyuq ji
+簽的	chi tiq
+簽約人	chi iaq gnin
+簽署人	chi zyu gnin
+籃架	lae ko
+籃狀	lae dzaon
+籃球架	lae jieu ko
+籌集	jieu jiq
+籌集資金	jieu jiq tsy cin
+籍沒	zhiq maq
+籠中之鳥	lon tson tsy gniau
+籠中鳥	lon tson gniau
+籠絡人心	lon loq zyun shin
+籠鳥	lon gniau
+籠鳥檻猿	lon gniau khae yu
+米凱拉	mi khe lha
+米德爾伯里	mi taq er paq li
+米拉	mi lha
+米易	mi yi
+米易縣	mi yi yu
+米歇爾	mi shiq er
+米爾	mi er
+米爾斯	mi er sy
+米爾頓	mi er ten
+米納爾迪	mi naq er diq
+米芾	mi faq
+米該亞	mi ke ia
+粉末狀	fen maq dzaon
+粉狀	fen dzaon
+粉絲狀	fen sy dzaon
+粒子加速器	liq tsy ko soq chi
+粒子學說	liq tsy yuq syuq
+粒子物理學	liq tsy vaq li yuq
+粒狀	liq dzaon
+粒粒皆辛苦	liq liq cie shin khu
+粗人	tshu gnin
+粗加工	tshu cia kon
+粗大	tshu da
+粗心大意	tshu shin da i
+粗枝大葉	tshu tsy da yiq
+粗率	tshu saq
+粗知一二	tshu tsyu iq gni
+粘涎	kni yi
+粘的	kni tiq
+粘膠	kni kau
+粘膠液	kni kau yiq
+粵省	yuq san
+精力旺盛	cin liq waon zhin
+精力過人	cin liq kou gnin
+精彩生動	cin tshe sen don
+精彩瞬間	cin tshe syun ci
+精彩逼人	cin tshe piq gnin
+精梳	cin sy
+精確	cin chiuq
+精確到	cin chiuq tau
+精確度	cin chiuq du
+精確性	cin chiuq shin
+精神世界	cin zyun syu ka
+精神分析	cin zyun fen shiq
+精神分裂	cin zyun fen liq
+精神分裂症	cin zyun fen liq cin
+精神學	cin zyun yuq
+精神學家	cin zyun yuq cia
+精神教育	cin zyun ciau yuq
+精神狀態	cin zyun dzaon the
+精神生活	cin zyun sen waq
+精神病人	cin zyun bin gnin
+精神病學	cin zyun bin yuq
+精神病學家	cin zyun bin yuq cia
+精簡人事	cin ci zyun zy
+精耕	cin kan
+精耕細作	cin kan shi tsoq
+精選集	cin soe jiq
+精靈鬼怪	cin lin kuei kua
+糊狀	wu dzaon
+糕乾	kau kI
+糖分	daon ven
+糖尿	daon gniau
+糖尿病	daon gniau bin
+糖酵解	daon ciau ka
+糖酵解	daon shiau ka
+糖酵解	daon ciau cia
+糖酵解	daon shiau cia
+糗大	shieu da
+糞尿	fen gniau
+糟了	tsau lei
+糟溜黃魚	tsau lhieu waon ng
+糟溜黃魚片	tsau lhieu waon ng phi
+糟糕了	tsau kau lei
+糟透了	tsau theu lei
+糧草先行	lian tshau shi yin
+糧行	lian yin
+糧食生產	lian zhiq sen tshae
+系主任	shi tsyu zyun
+系列放大器	shi liq faon da chi
+系學會	shi yuq wei
+系統分析	shi thon fen shiq
+系統分類	shi thon fen lei
+系統還原	shi thon wae gniu
+系統集成	shi thon jiq jin
+糾察人員	cieu tshaq zyun yu
+糾集	cieu jiq
+紀傳	ci dzoe
+紀傳體	ci dzoe thi
+紀律處分	ci liq tshyu ven
+紀念大會	ci nE da wei
+紀念日	ci nE zyuq
+紀行	ci yin
+約人	iaq gnin
+約分	iaq fen
+約分法	iaq fen faq
+約拿書	iaq na syu
+約旦人	iaq tae gnin
+約櫃	iaq guei
+約瑟夫斯大林	iaq saq fu sy da lin
+約等於	iaq ten yu
+約翰二書	iaq ghEI gni syu
+約翰拉貝	iaq ghEI lha pei
+約翰貳書	iaq ghEI gni syu
+約莫	iaq moq
+約集	iaq jiq
+紅了	ghon lei
+紅人	ghon gnin
+紅參	ghon sen
+紅學	ghon yuq
+紅教	ghon ciau
+紅日	ghon zyuq
+紅日當午	ghon zyuq taon wu
+紅河哈尼族彝族自治州	ghon ghou ha gni dzoq yi dzoq zy dzyu cieu
+紅淚	ghon lei
+紅熊貓	ghon yon mau
+紅牌	ghon ba
+紅牛	ghon gnieu
+紅牛	ghon ngeu
+紅白分明	ghon baq fen min
+紅勒	ghon laq
+紅勒仔	ghon laq tsy
+紅種人	ghon tson gnin
+紅粉佳人	ghon fen cia zyun
+紅背蜘蛛	ghon pei tsyu tsyu
+紅血球生成素	ghon shiuq jieu sen jin su
+紅衣主教	ghon i tsyu ciau
+紅面番鴨	ghon mi fae aq
+紅頂商人	ghon tin saon gnin
+紅顏	ghon yi
+紅顏知己	ghon yi tsyu ci
+紅顏薄命	ghon yi boq min
+紅馬甲	ghon mo kaq
+紅魔鬼	ghon mou kuei
+紅鼻子	ghon biq tsy
+紅鼻頭	ghon baq deu
+紆尊降貴	iu tsen ciaon kuei
+紋理分明	ven li fen min
+紋眉	ven mei
+納塔乃耳	naq thaq nae er
+納尼亞傳奇	naq gni ia dzOE ji
+納扎爾巴耶夫	naq tsaq er pa ya fu
+納撒尼爾霍桑	naq saq gni er hoq saon
+納爾	naq er
+納爾遜	naq er sen
+納瓦特爾語	naq ngo daq er gniu
+納稅人	naq sei gnin
+納稅申報	naq sei syun pau
+納米科學	naq mi khou yuq
+納粹分子	naq zei ven tsy
+納諫	naq ci
+納賽爾	naq se er
+納達爾	naq daq er
+納降	naq ghaon
+紐卡斯爾	gnieu kha sy er
+紐約人	gnieu iaq gnin
+紐約大學	gnieu iaq da ghoq
+紐約帝國大廈	gnieu iaq ti koq da gho
+紐約證券交易所	gnieu iaq cin chiu ciau yiq so
+紐芬蘭與拉布拉多	gnieu fen lae yu lha pu lha tou
+紐西蘭人	gnieu shi lae gnin
+純文學	zyun ven yuq
+純益率	zyun iq liq
+純粹數學	zyun zei su yuq
+紙人	tsy gnin
+紙人紙馬	tsy gnin tsy mo
+紙尿布	tsy gniau pu
+紙尿片	tsy gniau phi
+紙尿褲	tsy gniau khu
+紙捻	tsy gni
+紙牌	tsy ba
+紙牌戲	tsy ba shi
+紙狀	tsy dzaon
+紙短情長	tsy toe jin jian
+紙背	tsy pei
+紙貴洛陽	tsy kuei loq yan
+級任	ciq zyun
+級任制	ciq zyun tsyu
+級任導師	ciq zyun dau sy
+級任老師	ciq zyun lau sy
+級差	ciq tsha
+級差地租	ciq tsha di tsu
+級進雜交	ciq cin dzaq ciau
+級長	ciq cian
+紛沓	fen thaq
+紛爭	fen tsen
+紛至沓來	fen tsy thaq le
+紛雜	fen dzaq
+素交	su ciau
+素日	su zyuq
+素昧平生	su mei bin sen
+素藉	su zhiq
+素行	su yin
+素質差	su ciq tsha
+素質教育	su ciq ciau yuq
+素面朝天	su mi ciau thi
+素顏	su yi
+紡錘	faon zei
+紡錘形	faon zei yin
+紡錘蟲	faon zei dzon
+索償	soq dzaon
+索爾	soq er
+索爾仁尼琴	soq er zyun gni jin
+索爾茲伯	soq er tsy paq
+索爾茲伯里	soq er tsy paq li
+索爾茲伯里平原	soq er tsy paq li bin gniu
+索爾茲伯里石環	soq er tsy paq li zaq wae
+索緒爾	soq zyu er
+索還	soq wae
+索邦大學	soq paon da ghoq
+紫云苗族布依族自治縣	tsy yun miau dzoq pu i dzoq zy dzyu yu
+紫坪鋪大壩	tsy bin phu da po
+紫芝眉宇	tsy tsy mei yu
+紮了	tsaq laq
+累世	lei syu
+累了	lei laq
+累人	lei gnin
+累加	lei cia
+累加器	lei cia chi
+累加法	lei cia faq
+累加總數	lei cia tson su
+累及他人	lei jiq tha gnin
+累墜	lei dzei
+累壞	lei ua
+累教不改	lei ciau paq ke
+累日	lei zyuq
+累死	lei sy
+累死累活	lei sy lei waq
+細分	shi fen
+細分市場	shi fen zy jian
+細問	shi ven
+細大不捐	shi da paq ciu
+細水長流	shi syu jian lieu
+細細品味	shi shi phin vi
+細細長長	shi shi jian jian
+細胞分裂	shi pau fen liq
+細胞學	shi pau yuq
+細胞學說	shi pau yuq syuq
+細胞狀	shi pau dzaon
+細胞生物學	shi pau sen vaq yuq
+細胞骨架	shi pau kuaq ko
+細菌學	shi chiun yuq
+細行	shi yin
+細部分解	shi bu fen ka
+細部分解	shi bu fen cia
+細長	shi jian
+紹莫吉州	zhiau moq ciq cieu
+終了	tson liau
+終伏	tson voq
+終其一生	tson ji iq sen
+終戰日	tson ci zyuq
+終戰日	tson tsoe zyuq
+終日	tson zyuq
+終歲	tson sei
+終生	tson sen
+終生伴侶	tson sen bun li
+終身不忘	tson shin paq vaon
+終身大事	tson shin da zy
+終身教育	tson shin ciau yuq
+絃樂	yi yuq
+絃樂器	yi yuq chi
+絃樂四重奏	yi yuq sy dzon tseu
+絃樂團	yi yuq doe
+絃樂隊	yi yuq dei
+組分	tsu ven
+組合數學	tsu ghaq su yuq
+組成部分	tsu jin bu ven
+組組長	tsu tsu cian
+組織學	tsu ciq yuq
+組織家	tsu ciq cia
+組織架構	tsu ciq cia keu
+組織生活	tsu ciq sen waq
+組織部長	tsu ciq bu cian
+組長	tsu cian
+結了	ciq laq
+結了婚	ciq laq huen
+結交	ciq ciau
+結交到	ciq ciau tau
+結伴同行	ciq bun don yin
+結伴而行	ciq bun er yin
+結婚紀念日	ciq huen ci nE zyuq
+結尾	ciq vi
+結晶學	ciq cin yuq
+結晶狀	ciq cin dzaon
+結構學	ciq keu yuq
+結社自由	ciq dzo zy yeu
+結集	ciq jiq
+結集在	ciq jiq dze
+結髮人	ciq faq gnin
+絕世	dzyuq syu
+絕世佳人	dzyuq syu cia zyun
+絕世出塵	dzyuq syu tshyuq jin
+絕世超倫	dzyuq syu chiau len
+絕交	dzyuq ciau
+絕代佳人	dzyuq de cia zyun
+絕地重生	dzyuq di dzon sen
+絕大	dzyuq da
+絕大多數	dzyuq da tou su
+絕大多數人	dzyuq da tou su gnin
+絕大部份	dzyuq da bu ven
+絕大部分	dzyuq da bu ven
+絕學	dzyuq yuq
+絕對參照	dzyuq tei tshae ciau
+絕對大多數	dzyuq tei da tou su
+絕對誤差	dzyuq tei nu tsha
+絕對誤差	dzyuq tei wu tsha
+絕望	dzyuq vaon
+絕望已極	dzyuq vaon yi jiq
+絕望的境地	dzyuq vaon tiq cin di
+絕處逢生	dzyuq tshyu von sen
+絛綸	thau len
+絞上	ciau zaon
+絞上	kau zaon
+絞乾	gau kI
+絞燥	gau sau
+絞亂	ciau loe
+絞刑	ciau yin
+絞刑架	ciau yin ko
+絞刑臺	ciau yin de
+絞動	ciau don
+絞包針	ciau pau cin
+絞扭	ciau gnieu
+絞斷	ciau doe
+絞架	ciau cia
+絞死	ciau sy
+絞煞	ciau saq
+絞殺	ciau saq
+絞決	ciau ciuq
+絞痛	ciau thon
+絞盡	ciau jin
+絞盡腦汁	ciau jin nau ciq
+絞盤	ciau bun
+絞碎	ciau sei
+絞索	ciau soq
+絞縊	ciau iq
+絞肉	ciau gnioq
+絞肉機	ciau gnioq ci
+絞臉	ciau li
+絞車	ciau tsho
+絞首	ciau shieu
+給了	ciq laq
+給了他	ciq laq tha
+給了你	ciq laq gni
+給了我	ciq laq ngo
+給人	ciq gnin
+給人以	ciq gnin yi
+給你	ciq gni
+給你的	ciq gni tiq
+給你看	ciq gni khI
+給個	ciq goq
+給假	ciq ko
+絮狀物	syu dzaon vaq
+統一招生	thon iq ciau san
+統一教	thon iq ciau
+統假設	thon ko shiq
+統率	thon liq
+統計分析	thon ci fen shiq
+統計學	thon ci yuq
+絲帕	sy phaq
+絲毫不差	sy ghau paq tsho
+絲毫沒有	sy ghau mhaq yeu
+絲狀	sy dzaon
+絲狀物	sy dzaon vaq
+綁落去	paon loq chi
+綁架	paon cia
+綏遠省	sei yu san
+經世	cin syu
+經世之才	cin syu tsy dze
+經世濟民	cin syu ci min
+經世致用	cin syu tsy yon
+經傳	cin dzoe
+經典作家	cin ti tsoq cia
+經史子集	cin sy tsy jiq
+經學	cin yuq
+經手人	cin shieu gnin
+經氣聚集	cin chi zyu jiq
+經濟人	cin ci gnin
+經濟分析	cin ci fen shiq
+經濟問題	cin ci ven di
+經濟地理學	cin ci di li yuq
+經濟增加值	cin ci tsen ko jiq
+經濟增長	cin ci tsen cian
+經濟增長率	cin ci tsen cian liq
+經濟大國	cin ci da koq
+經濟學	cin ci yuq
+經濟學家	cin ci yuq cia
+經濟學者	cin ci yuq tse
+經濟學院	cin ci yuq yu
+經濟專科學校	cin ci tsoe khou ghoq yau
+經濟成分	cin ci jin ven
+經濟日報	cin ci zyuq pau
+經濟活動分析	cin ci waq don fen shiq
+經濟狀況	cin ci dzaon huaon
+經濟生活	cin ci sen waq
+經濟補償	cin ci pu dzaon
+經濟貿易	cin ci meu yiq
+經濟運行	cin ci yun yin
+經濟部長	cin ci bu cian
+經營狀況	cin yin dzaon huaon
+經營範圍	cin yin vae wei
+經營行爲	cin yin yin wei
+經理人	cin li gnin
+經省	cin san
+經穴學	cin yuq yuq
+經管人	cin kun gnin
+經紀人	cin ci gnin
+經絡學	cin loq yuq
+經綸	cin len
+經辦人	cin bae gnin
+經院哲學	cin yu ciq yuq
+經驗交流	cin nE ciau lieu
+經驗交流會	cin nE ciau lieu wei
+經驗教訓	cin nE ciau shiun
+綜合分析	tson ghaq fen shiq
+綜合大學	tson ghaq da ghoq
+綜合擴大機	tson ghaq khoq da ci
+綜合銀行	tson ghaq gnin ghaon
+綜合雜誌	tson ghaq dzaq tsy
+綠苔	loq the
+綠衣人	loq i gnin
+綠鬢朱顏	loq pin tsyu yi
+維也納	vi ye naq
+維也納盆地	vi ye naq ben di
+維京人	vi cin gnin
+維修人員	vi shieu zyun yu
+維吉爾	vi ciq er
+維吾爾	vi NU er
+維吾爾	vi WU er
+維吾爾人	vi NU er gnin
+維吾爾人	vi WU er gnin
+維吾爾文	vi NU er ven
+維吾爾文	vi WU er ven
+維吾爾族	vi NU er dzoq
+維吾爾族	vi WU er dzoq
+維吾爾語	vi NU er gniu
+維吾爾語	vi WU er gniu
+維埃拉	vi e lha
+維基人	vi ci gnin
+維基百科人	vi ci paq khou gnin
+維拉	vi lha
+維持落去	vi dzy loq chi
+維持落去	vi ji loq chi
+維持現狀	vi dzy yi dzaon
+維持現狀	vi ji yi dzaon
+維斯杜拉	vi sy du lha
+維斯杜拉河	vi sy du lha ghou
+維權人士	vi jiu zyun zy
+維爾	vi er
+維爾容	vi er yon
+維爾布魯根	vi er pu lu ken
+維爾斯特拉斯	vi er sy daq lha sy
+維爾紐斯	vi er gnieu sy
+維生	vi sen
+維生素	vi sen su
+維生素缺乏症	vi sen su chiuq vaq cin
+維綸	vi len
+維繫人心	vi shi zyun shin
+網上交易	maon zaon ciau yiq
+網上銀行	maon zaon gnin ghaon
+網上雜誌	maon zaon dzaq tsy
+網友上傳	maon yeu zaon dzOE
+網吧	maon pa
+網咖	maon kha
+網易	maon yi
+網杓	maon piau
+網架	maon ko
+網狀	maon dzaon
+網狀系統	maon dzaon shi thon
+網狀結構	maon dzaon ciq keu
+網狀脈	maon dzaon maq
+網癮	maon in
+網眼狀	maon ngae dzaon
+網絡世界	maon loq syu ka
+網絡傳播	maon loq dzOE pou
+網絡成癮	maon loq jin in
+網絡日記	maon loq zyuq ci
+網絡空間	maon loq khon ci
+網絡規劃人員	maon loq kuei waq zyun yu
+網羅人才	maon lou zyun dze
+網羅人材	maon lou zyun dze
+網路咖啡	maon lu kha fi
+網路架構	maon lu cia keu
+網路雜誌	maon lu dzaq tsy
+綵牌樓	tshe ba leu
+綵筆生花	tshe piq sen huo
+綸巾	kuae cin
+綿長	mi jian
+緊了	cin laq
+緊張狀態	cin cian dzaon the
+緊急任務	cin ciq zyun vu
+緊急任務	cin ciq zyun Wu
+緊急狀態	cin ciq dzaon the
+緊急狀況	cin ciq dzaon huaon
+緊急處分	cin ciq tshyu ven
+緊急集合	cin ciq jiq ghaq
+緊接勒	cin ciq laq
+緊箍咒	cin ku cieu
+緊緊圍繞	cin cin wei gniau
+緊緊抓住	cin cin tsa dzyu
+緊迫盯人	cin paq tin gnin
+緊迫逼人	cin paq piq gnin
+緊迫釘人	cin paq tin gnin
+緊集	cin jiq
+線人	shi gnin
+線狀	shi dzaon
+線鋸	shi ciu
+線長	shi jian
+線間	shi ci
+緝拿	chiq na
+締交	ti ciau
+緣分	yu ven
+緣分已盡	yu ven yi jin
+緣覺	yu ciuq
+編落去	pi loq chi
+編了	pi laq
+編個	pi goq
+編碼字符集	pi mo zy vu jiq
+編纂家	pi tsoe cia
+編譯人員	pi yiq zyun yu
+編譯家	pi yiq cia
+編輯家	pi chiq cia
+編餘人員	pi yu zyun yu
+緩了	wun laq
+緩步而行	wun bu er yin
+緩行	wun yin
+緩降	wun ciaon
+緩降器	wun ciaon chi
+緬甸人	mi di gnin
+練落去	li loq chi
+練了	li laq
+練個	li goq
+練個	li ghoq
+縊死	iq sy
+縊煞	iq saq
+縣差	yu tsha
+縣長	yu cian
+縫落去	von loq chi
+縫了	von laq
+縫個	von goq
+縫死	von sy
+縫煞	von saq
+縫衣工人	von i kon gnin
+縮落去	soq loq chi
+縮放自如	soq faon zy zyu
+縮頭烏龜	soq deu u ciu
+縮頭縮尾	soq deu soq mi
+縱橫交佈	tson wan ciau pu
+縱橫交錯	tson wan ciau tshou
+縱橫家	tson wan cia
+縱橫自如	tson wan zy zyu
+縱目四望	tson moq sy vaon
+縱目遠望	tson moq yu vaon
+縱行	tson ghaon
+總主教	tson tsyu ciau
+總也	tson gha
+總人口	tson gnin kheu
+總人數	tson gnin su
+總任務	tson zyun vu
+總任務	tson zyun Wu
+總分	tson fen
+總分類帳	tson fen lei cian
+總分類帳戶	tson fen lei cian wu
+總分類覈算	tson fen lei ghaq soe
+總務主任	tson vu tsyu zyun
+總務主任	tson Wu tsyu zyun
+總務人員	tson vu zyun yu
+總務人員	tson Wu zyun yu
+總務組長	tson vu tsu cian
+總務組長	tson Wu tsu cian
+總參	tson tshae
+總參謀部	tson tshae meu bu
+總參謀長	tson tshae meu cian
+總應該	tson in ke
+總攬大權	tson lae da jiu
+總教官	tson ciau kun
+總教練	tson ciau li
+總教習	tson ciau zhiq
+總會會長	tson wei wei cian
+總理大臣	tson li da jin
+總統任期	tson thon zyun ji
+總統大選	tson thon da soe
+總罷工	tson ba kon
+總行	tson yin
+總行	tson ghaon
+總覺	tson ciuq
+總角之交	tson koq tsy ciau
+總該	tson ke
+總該在	tson ke dze
+總該是	tson ke zy
+總該會	tson ke wei
+總該有	tson ke yeu
+總該能	tson ke nen
+總長	tson cian
+總集	tson jiq
+績分	ciq fen
+績學	ciq yuq
+繁分數	vae fen su
+繁榮昌盛	vae yon tshaon zhin
+繁殖率	vae jiq liq
+繁盛	vae zhin
+繁華世界	vae wo syu ka
+繁雜	vae dzaq
+繁雜性	vae dzaq shin
+織田信長	ciq di shin jian
+繞樑三日	gniau lian sae zyuq
+繞勒	gniau laq
+繞行	gniau yin
+繞道而行	gniau dau er yin
+繡學號	shieu yuq ghau
+繩鋸木斷	zhin ciu moq doe
+繪架座	wei ko zou
+繫上	shi zaon
+繫上	ci zaon
+繫了	shi laq
+繫個	shi goq
+繫到	ci tau
+繫好	ci hau
+繫泊	shi boq
+繫牢	ci lau
+繫緊	ci cin
+繫褲子	ci khu tsy
+繫鈴人	shi lin gnin
+繫鈴解鈴	shi lin ka lin
+繫鞋帶	ci gha ta
+繫頭巾	ci deu cin
+繫髮帶	ci faq ta
+繳交	ciau kau
+繳出去	ciau tshyuq chiu
+繳械投降	ciau ye deu ghaon
+繼任	ci zyun
+繼任者	ci zyun tse
+繼往聖之絕學	ci uaon shin tsy dzyuq yuq
+繼承人	ci jin gnin
+繼續教育	ci dzoq ciau yuq
+續任	dzoq zyun
+續假	dzoq ko
+續傳	dzoq dzoe
+續集	dzoq jiq
+纏牢	ji lau
+纏勒	ji laq
+纏夾二先生	ji kaq gni shi san
+纔落去	dze loq chi
+纔乾透	dze kI theu
+纔可容顏十五餘	dze khou yon yi zyuq ng yu
+纔拿	dze no
+纔拿出	dze no tshyuq
+纔拿到	dze no tau
+纔沒	dze mhaq
+纔沒有	dze maq yeu
+纔沒能	dze mhaq nen
+纔派人	dze pha gnin
+纖人	shi gnin
+纖維光學	shi vi kuaon yuq
+纖維狀	shi vi dzaon
+纖維膠	shi vi kau
+纖維長度	shi vi jian du
+纖長	shi jian
+纖阿	shi ou
+缺人	chiuq gnin
+缺席率	chiuq zhiq liq
+缺德鬼	chiuq taq kuei
+缺省	chiuq san
+罈女兒紅	dae gniu er ghon
+罔顧人道	vaon ku zyun dau
+罩的	tsau tiq
+罪上加罪	zei zaon ko zei
+罪人	zei gnin
+罪大惡極	zei da oq jiq
+罪惡行徑	zei oq yin cin
+罪狀	zei dzaon
+罪莫大焉	zei moq da i
+罪行	zei yin
+罪行累累	zei yin lei lei
+罪該萬死	zei ke vae sy
+罪該萬死	zei ke vae shi
+罪該處死	zei ke tshyu sy
+罪證確鑿	zei cin chiuq zoq
+置之不問	tsyu tsy paq ven
+置之死地	tsyu tsy sy di
+置之死地而後快	tsyu tsy sy di er gheu khua
+置之死地而後生	tsyu tsy sy di er gheu sen
+置信區間	tsyu shin chiu ci
+置入性行銷	tsyu zyuq shin yin shiau
+置物櫃	tsyu vaq guei
+罰了	vaq laq
+罰個	vaq goq
+罰個	vaq ghoq
+罰沒	vaq maq
+罰跪	vaq guei
+署長	zyu cian
+罵不還口	mo paq wae kheu
+罵了	mo laq
+罵人	mo gnin
+罵個	mo goq
+罵大街	mo da ka
+罵架	mo cia
+罵死	mo sy
+罷了	ba lei
+罷休	ba shieu
+罷免	ba mi
+罷免權	ba mi jiu
+罷免法	ba mi faq
+罷兵	ba pin
+罷官	ba kun
+罷工	ba kon
+罷工抗議	ba kon khaon gni
+罷市	ba zy
+罷弊	ba bi
+罷手	ba shieu
+罷教	ba ciau
+罷斥	ba chiq
+罷於	ba yu
+罷朝	ba jiau
+罷止	ba tsy
+罷演	ba yi
+罷筆	ba piq
+罷職	ba ciq
+罷課	ba khou
+罷論	ba len
+罷賽	ba se
+罷退	ba thei
+罷黜	ba tshyuq
+罷黜百家	ba tshyuq paq cia
+罷黜百家獨尊儒術	ba tshyuq paq cia doq tsen zyu zyuq
+羅世昌	lou syu tshaon
+羅伯斯庇爾	lou paq sy pi er
+羅大佑	lou da yeu
+羅姆人	lou m gnin
+羅姆人	lou meu gnin
+羅家英	lou cia in
+羅拉	lou lha
+羅拉巴克	lou lha pa khaq
+羅櫃	lou guei
+羅潔愛爾之	lou ciq e er tsy
+羅爾定理	lou er din li
+羅生門	lou sen men
+羅盛教	lou jin ciau
+羅納爾多	lou naq er tou
+羅馬人	lou mo gnin
+羅馬公教	lou mo kon ciau
+羅馬教廷	lou mo ciau din
+羅馬教會	lou mo ciau wei
+羊毛狀	yan mau dzaon
+美人	mei gnin
+美人	mei zyun
+美人尖	mei zyun ci
+美人計	mei zyun ci
+美人遲暮	mei zyun dzy mou
+美人遲暮	mei zyun ji mou
+美分	mei fen
+美加	mei cia
+美加地區	mei cia di chiu
+美味	mei vi
+美味可口	mei vi khou kheu
+美國人	mei koq gnin
+美國人民	mei koq zyun min
+美國加州	mei koq cia cieu
+美國參議院	mei koq tshae gni yu
+美國國家偵察局	mei koq koq cia cin tshaq jiuq
+美國國家航天航空局	mei koq koq cia ghaon thi ghaon khon jiuq
+美國國家航空航天局	mei koq koq cia ghaon khon ghaon thi jiuq
+美國國際集團	mei koq koq ci jiq doe
+美國獨立戰爭	mei koq doq liq ci tsen
+美國獨立戰爭	mei koq doq liq tsoe tsen
+美國證券交易委員會	mei koq cin chiu ciau yiq uei yu wei
+美好生活	mei hau sen waq
+美學	mei yuq
+美容覺	mei yon kau
+美尼爾病	mei gni er bin
+美屬維爾京羣島	mei dzoq vi er cin jiun tau
+美差	mei tsha
+美差事	mei tsha zy
+美日	mei zyuq
+美日關係	mei zyuq kuae shi
+美朝	mei jiau
+美東時間	mei ton zy ci
+美林集團	mei lin jiq doe
+美洲人	mei cieu gnin
+美洲國家組織	mei cieu koq cia tsu ciq
+美洲大陸	mei cieu da loq
+美甲	mei ciaq
+美眉	mei mei
+美籍華人	mei zhiq wo gnin
+美術大師	mei zyuq da sy
+美術學院	mei zyuq yuq yu
+美術家	mei zyuq cia
+美觀大方	mei kun da faon
+美語教學	mei gniu ciau yuq
+美顏	mei yi
+美食家	mei zhiq cia
+美麗動人	mei li don zyun
+美麗大方	mei li da faon
+美麗新世界	mei li shin syu ka
+羞人	shieu gnin
+羞憤自殺	shieu ven zy saq
+羞死	shieu sy
+羞煞	shieu saq
+羞面見人	shieu mi ci gnin
+羣架	jiun cia
+羣治學社	jiun dzyu yuq dzo
+羣生	jiun san
+羣芳爭豔	jiun faon tsen yi
+羣衆大會	jiun tson da wei
+羣集	jiun jiq
+羥自由基	chian zy yeu ci
+羧甲司坦	sou ciaq sy thae
+義不生財	gni paq sen dze
+義兒	gni er
+義分	gni fen
+義勇軍進行曲	gni ion ciun cin yin chiuq
+義同生死	gni don sen sy
+義妖傳	gni iau dzoe
+義學	gni yuq
+義守大學	gni shieu da ghoq
+義渠	gni jiu
+義甲	gni ciaq
+義行	gni yin
+義行可風	gni yin khou fon
+羼雜	tshae dzaq
+羽扇綸巾	yu shi kuae cin
+羽毛狀	yu mau dzaon
+羽狀	yu dzaon
+羽狀脈	yu dzaon maq
+羽狀複葉	yu dzaon foq yiq
+翅膀	tshy paon
+翌日	yiq zyuq
+習以成俗	zhiq yi jin dzoq
+習以成性	zhiq yi jin shin
+習以爲常	zhiq yi wei dzaon
+習作	zhiq tsoq
+習作簿	zhiq tsoq bu
+習俗	zhiq dzoq
+習俗移性	zhiq dzoq yi shin
+習好	zhiq hau
+習字	zhiq zy
+習字帖	zhiq zy thiaq
+習字課	zhiq zy khou
+習定	zhiq din
+習尚	zhiq zaon
+習得性	zhiq taq shin
+習得性無助感	zhiq taq shin vu dzu kI
+習得性無助感	zhiq taq shin Wu dzu kI
+習性	zhiq shin
+習慣成自然	zhiq kuae jin zy zoe
+習慣成自然	zyuq kuae jin zy zoe
+習慣自然	zhiq kuae zy zoe
+習慣自然	zyuq kuae zy zoe
+習慣若自然	zhiq kuae zhiaq zy zoe
+習慣若自然	zyuq kuae zhiaq zy zoe
+習慣若自然	zhiq kuae zoq zy zoe
+習慣若自然	zyuq kuae zoq zy zoe
+習於	zhiq yu
+習染	zhiq gni
+習武	zhiq Wu
+習氣	zhiq chi
+習水	zhiq syu
+習水縣	zhiq syu yu
+習焉不察	zhiq i paq tshaq
+習用	zhiq yon
+習習	zhiq zhiq
+習而不察	zhiq er paq tshaq
+習藝	zhiq gni
+習藝所	zhiq gni so
+習見	zhiq ci
+習近平	zhiq jin bin
+習非	zhiq fi
+習非勝是	zhiq fi shin zy
+習非成是	zhiq fi jin zy
+習題	zhiq di
+習題集	zhiq di jiq
+翔集	jian jiq
+翠生生	tshei sen sen
+翠鳥	tshei gniau
+翰林學士	ghEI lin yuq zy
+翹落去	chiau loq chi
+翹了	chiau laq
+翹尾巴	chiau mi po
+翹拇指	chiau meu tsy
+翹望	chiau vaon
+翹的	chiau tiq
+翹首以望	chiau shieu yi vaon
+翻落去	fae loq chi
+翻了	fae laq
+翻個	fae goq
+翻揀	fae ci
+翻的	fae tiq
+翻箱倒櫃	fae shian tau guei
+翻耕	fae kan
+翻臉不認	fae li paq gnin
+翻臉不認人	fae li paq gnin gnin
+翻自	fae zy
+翻譯家	fae yiq cia
+老丈人	lau jian gnin
+老落去	lau loq chi
+老不死	lau paq sy
+老弗死	lau vaq shi
+老勿死	lau vaq shi
+老世交	lau syu ciau
+老乾媽	lau kI mha
+老了	lau lei
+老二	lau gni
+老交情	lau ciau jin
+老人失智症	lau gnin syuq tsyu cin
+老人家	lau gnin ko
+老人斑	lau gnin pae
+老人節	lau gnin ciq
+老人與海	lau gnin yu he
+老個	lau goq
+老個	lau ghoq
+老傢伙	lau cia hou
+老兒子	lau ng tsy
+老兵不死	lau pin paq sy
+老去	lau chiu
+老同學	lau don ghoq
+老吾老以及人之老	lau NU lau yi jiq zyun tsy lau
+老吾老以及人之老	lau WU lau yi jiq zyun tsy lau
+老大不小	lau da paq shiau
+老大哥	lau da kou
+老大姐	lau da cia
+老大娘	lau da gnian
+老大媽	lau da mha
+老大徒傷悲	lau da du saon pei
+老大爺	lau da ya
+老大難	lau da nae
+老女人	lau gniu gnin
+老好人	lau hau gnin
+老婦人	lau vu gnin
+老學究	lau yuq cieu
+老家	lau cia
+老實人	lau zyuq gnin
+老實巴交	lau zyuq pa ciau
+老少皆宜	lau shiau cie gni
+老山自行車館	lau sae zy yin tsho kun
+老師教	lau sy kau
+老年人	lau gni gnin
+老教授	lau ciau zhieu
+老於世故	lau yu syu ku
+老有所學	lau yeu so yuq
+老有所樂	lau yeu so loq
+老本行	lau pen ghaon
+老死	lau sy
+老死不相往來	lau sy paq shian uaon le
+老死他鄉	lau sy tha shian
+老淚	lau lei
+老淚橫流	lau lei wan lieu
+老淚縱橫	lau lei tson wan
+老煙鬼	lau i kuei
+老牌	lau ba
+老王賣瓜自賣自誇	lau waon ma kuo zy ma zy khuo
+老生常談	lau sen dzaon dae
+老男人	lau nEI gnin
+老白乾	lau baq kI
+老而不死	lau er paq sy
+老背少	lau pei shiau
+老莊學會	lau tsaon yuq wei
+老虎伍茲	lau fu wu tsy
+老蚌生珠	lau ban san tsyu
+老行家	lau ghaon cia
+老被	lau bei
+老貓	lau mae
+老闆人	lau pae gnin
+老闆家	lau pae cia
+老顏	lau yi
+老驥伏櫪	lau ci voq liq
+老驥伏櫪志在千里	lau ci voq liq tsy dze chi li
+老鳥	lau gniau
+老鼠尾巴	lau tsy vi po
+老鼻子	lau biq tsy
+考上大學	khau zaon da ghoq
+考了	khau laq
+考個	khau goq
+考分	khau fen
+考前大猜題	khau zhi da tshe di
+考古學	khau ku yuq
+考古學家	khau ku yuq cia
+考古家	khau ku cia
+考問	khau ven
+考壞	khau ua
+考大學	khau da ghoq
+考學	khau yuq
+考拉	khau lha
+考拉熊	khau lha yon
+考據學	khau ciu yuq
+考生	khau san
+考試大綱	khau sy da kaon
+考試時間	khau sy zy ci
+考試範圍	khau sy vae wei
+考試院長	khau sy yu cian
+考證學	khau cin yuq
+考證學家	khau cin yuq cia
+考題大全	khau di da dzoe
+者也	tse ye
+者也	tse ya
+而落去	er loq chi
+而你	er gni
+而你	er ng
+而俉	er ng
+而爾	er ng
+而儂	er nou
+而知也無涯	er tsyu ye vu ya
+而知也無涯	er tsyu ye Wu ya
+而知也無涯	er tsyu ya vu ya
+而知也無涯	er tsyu ya Wu ya
+而知也無涯	er tsyu ye vu yi
+而知也無涯	er tsyu ye Wu yi
+而知也無涯	er tsyu ya vu yi
+而知也無涯	er tsyu ya Wu yi
+而行	er yin
+而被	er bei
+耍人	sa gnin
+耐人尋味	ne zyun zhin vi
+耕作制度	kan tsoq tsyu du
+耕作層	kan tsoq zen
+耕傭	kan yon
+耕出	kan tshyuq
+耕地面積	kan di mi ciq
+耕奴	kan nu
+耕牛	kan ngeu
+耕牧	kan moq
+耕犁	kan li
+耕田	kan di
+耕畜	kan tshoq
+耕當問奴	kan taon ven nu
+耕種	kan tson
+耕種	ken tson
+耕稼	kan cia
+耕穫	kan ghoq
+耕織	kan ciq
+耕翻	kan fae
+耕者	kan tse
+耕者有其田	kan tse yeu ji di
+耕耘	kan yun
+耕耘	ken yun
+耕耘機	kan yun ci
+耕耘機	ken yun ci
+耕耨	kan neu
+耕莘	kan shin
+耕莘醫院	kan shin i yu
+耕讀	kan doq
+耕農	kan non
+耕食	kan zhiq
+耕馬	kan mo
+耗去	hau chiu
+耗損率	hau sen liq
+耗時間	hau zy ci
+耗油率	hau yeu liq
+耗電率	hau di liq
+耘鋤	yun dzu
+耳下腺	er gho shi
+耳下腺炎	er gho shi yi
+耳光	gni kuaon
+耳力	er liq
+耳卜	er poq
+耳垂	er zei
+耳垢	er keu
+耳塞	er saq
+耳墜	er dzei
+耳墜子	er dzei tsy
+耳套	er thau
+耳子	er tsy
+耳孔	er khon
+耳尖	er ci
+耳屎	er sy
+耳廓	er khoq
+耳廓狐	er khoq wu
+耳後	er gheu
+耳性	er shin
+耳房	er vaon
+耳提面命	er di mi min
+耳旁風	er baon fon
+耳朵痛	gni to thon
+耳朵痛	ng to thon
+耳朵眼	gni to ngae
+耳朵眼	ng to ngae
+耳朵裏	gni to li
+耳朵裏	ng to li
+耳朵裏響	gni to li shian
+耳朵裏響	ng to li shian
+耳朵軟	gni to gniu
+耳朵軟	ng to gniu
+耳栓	er soe
+耳根	er ken
+耳根清靜	er ken chin zhin
+耳機	er ci
+耳殼	er khoq
+耳毛	er mau
+耳沉	er jin
+耳洞	er don
+耳源性	er gniu shin
+耳濡目染	er syu moq gni
+耳炎	er yi
+耳熟	er zoq
+耳熟能詳	er zoq nen jian
+耳熱	er gniq
+耳片	er phi
+耳環	er wae
+耳環孔	er wae khon
+耳生	er sen
+耳畔	er bun
+耳疾	er jiq
+耳痛	er thon
+耳目	er moq
+耳目一新	er moq iq shin
+耳目之欲	er moq tsy yuq
+耳石	er zaq
+耳福	er foq
+耳科	er khou
+耳科醫生	er khou i sen
+耳穴	er yuq
+耳紅面赤	er ghon mi chiq
+耳罩	er tsau
+耳翼	er yiq
+耳聞	er ven
+耳聞不如目見	er ven paq zyu moq ci
+耳聞爲虛	er ven wei shiu
+耳聞目睹	er ven moq tu
+耳聞目見	er ven moq ci
+耳聰目明	er tshon moq min
+耳聽八方	er thin paq faon
+耳聽爲虛	er thin wei shiu
+耳聾	er lon
+耳背	er pei
+耳膜	er mou
+耳蝸	er uo
+耳蠟	er laq
+耳語	er gniu
+耳識	er shiq
+耳輪	er len
+耳邊	er pi
+耳邊風	er pi fon
+耳釘	er tin
+耳針	er cin
+耳門	er men
+耳際	er ci
+耳音	er in
+耳順	er zyun
+耳風	er fon
+耳食	er zhiq
+耳飾	er shiq
+耳餘	er yu
+耳鬢	er pin
+耳鬢廝磨	er pin sy mou
+耳鳴	er min
+耳鳴現象	er min yi zhian
+耳麥	er maq
+耳鼓	er ku
+耳鼻咽喉	er biq i gheu
+耳鼻喉	er biq gheu
+耳鼻喉科	er biq gheu khou
+耳鼻科	er biq khou
+耶和華	ya ghou wo
+耶和華見證人	ya ghou wo ci cin gnin
+耶弗他	ya faq tha
+耶律大石	ya liq da zaq
+耶教	ya ciau
+耶穌基督後期聖徒教會	ya su ci toq gheu ji shin du ciau wei
+耶穌基督末世聖徒教會	ya su ci toq maq syu shin du ciau wei
+耶穌教	ya su ciau
+耶穌降臨節	ya su ciaon lin ciq
+耶魯大學	ya lu da ghoq
+耷拉	taq lha
+耽樂	tae loq
+耿介	ken ka
+耿於	ken yu
+耿直	ken jiq
+耿精忠	ken cin tson
+耿耿	ken ken
+耿耿於心	ken ken yu shin
+耿耿於懷	ken ken yu wae
+耿耿於懷	ken ken yu wa
+耿餅	ken pin
+耿馬縣	ken mo yu
+聆教	lin ciau
+聊以維生	liau yi vi sen
+聊以自慰	liau yi zy wei
+聊以解嘲	liau yi ka jiau
+聊以解悶	liau yi ka mhen
+聊個	liau goq
+聊個天	liau goq thi
+聊個痛快	liau goq thon khua
+聊吧	liau pa
+聊復爾爾	liau voq er er
+聊復爾爾	liau foq er er
+聊復爾耳	liau voq er er
+聊復爾耳	liau foq er er
+聊生	liau sen
+聒耳	kuaq er
+聖人	shin gnin
+聖伯多祿大殿	shin paq tou loq da di
+聖哈辛托	shin ha shin thoq
+聖塔蒙尼加	shin thaq mon gni cia
+聖大非	shin da fi
+聖弗蘭西斯科	shin faq lae shi sy khou
+聖彼得	shin pi taq
+聖彼得堡	shin pi taq pau
+聖彼得大教堂	shin pi taq da ciau daon
+聖拉蒙	shin lha mon
+聖教	shin ciau
+聖教序	shin ciau zyu
+聖朝	shin jiau
+聖母教堂	shin meu ciau daon
+聖皮埃爾和密克隆	shin bi e er ghou miq khaq lon
+聖神降臨	shin zyun ciaon lin
+聖神降臨週	shin zyun ciaon lin cieu
+聖約翰學院	shin iaq ghEI yuq yu
+聖索非亞大教堂	shin soq fi ia da ciau daon
+聖經外傳	shin cin nga dzoe
+聖經賢傳	shin cin yi dzoe
+聖莫里茨	shin moq li dzy
+聖薩爾瓦多	shin saq er ngo tou
+聖誕快樂	shin dae khua loq
+聖誕老人	shin dae lau gnin
+聖赫勒拿	shin haq laq na
+聖赫勒拿島	shin haq laq na tau
+聖路易	shin lu yi
+聖路易斯	shin lu yi sy
+聖靈降臨	shin lin ciaon lin
+聘任	phin zyun
+聘任制	phin zyun tsyu
+聘問	phin ven
+聚了	zyu laq
+聚會時間	zyu wei zy ci
+聚生	zyu sen
+聚勒	zyu laq
+聚集	zyu jiq
+聚集地	zyu jiq di
+聞上去	ven zaon chi
+聞了	ven laq
+聞名世界	ven min syu ka
+聯合參謀	li ghaq tshae meu
+聯合古大陸	li ghaq ku da loq
+聯合國兒童基金會	li ghaq koq er don ci cin wei
+聯合國大會	li ghaq koq da wei
+聯合國教科文組織	li ghaq koq ciau khou ven tsu ciq
+聯合大學	li ghaq da ghoq
+聯合文學	li ghaq ven yuq
+聯合演習	li ghaq yi zhiq
+聯合自強	li ghaq zy jian
+聯合行	li ghaq yin
+聯合行動	li ghaq yin don
+聯大	li da
+聯想學習	li shian ghoq zyuq
+聯想學習	li shian ghoq zhiq
+聯想集團	li shian jiq doe
+聯播時間	li pou zy ci
+聯機分析處理	li ci fen shiq tshyu li
+聯產承包責任制	li tshae jin pau tsaq zyun tsyu
+聯絡時間	li loq zy ci
+聯繫人	li shi gnin
+聯繫匯率	li shi wei liq
+聯邦大樓	li paon da leu
+聯集	li jiq
+聰了	tshon liau
+聰明一世	tshon min iq syu
+聰明一世糊塗一時	tshon min iq syu wu du iq zy
+聰明人	tshon min gnin
+聰明反被聰明誤	tshon min fae bei tshon min nu
+聰明反被聰明誤	tshon min fae bei tshon min wu
+聲勢浩大	shin syu ghau da
+聲名大噪	shin min da tshau
+聲名大震	shin min da cin
+聲名大震	shin min da tsyun
+聲名狼藉	shin min laon zhiq
+聲吶	shin naq
+聲威大震	shin uei da cin
+聲威大震	shin uei da tsyun
+聲學	shin yuq
+聲望	shin vaon
+聲樂	shin yuq
+聲樂家	shin yuq cia
+聲淚俱下	shin lei jiu gho
+聲覺	shin ciuq
+聲韻學	shin yun yuq
+聳了	son laq
+聳了聳	son laq son
+聳了聳肩	son laq son ci
+聳人聽聞	son zyun thin ven
+聶拉木	gniq lha moq
+聶拉木縣	gniq lha moq yu
+聶耳	gniq er
+職任	ciq zyun
+職分	ciq ven
+職大	ciq da
+職教	ciq ciau
+職棒大賽	ciq baon da se
+職業中學	ciq gniq tson ghoq
+職業學校	ciq gniq ghoq yau
+職業學院	ciq gniq yuq yu
+職業技術教育	ciq gniq ji zyuq ciau yuq
+職業教育	ciq gniq ciau yuq
+職業水準	ciq gniq sei tsyun
+職業水準	ciq gniq syu tsyun
+職業生涯	ciq gniq sen ya
+職業生涯	ciq gniq sen yi
+職業高爾夫球協會	ciq gniq kau er fu jieu yaq wei
+職權範圍	ciq jiu vae wei
+職能範圍	ciq nen vae wei
+職責範圍	ciq tsaq vae wei
+聽落去	thin loq chi
+聽弗進	thin vaq cin
+聽弗進去	thin vaq cin chi
+聽勿進	thin vaq cin
+聽勿進去	thin vaq cin chi
+聽之任之	thin tsy zyun tsy
+聽了	thin laq
+聽了風就是雨	thin laq fon jieu zy yu
+聽人	thin gnin
+聽任	thin zyun
+聽你	thin gni
+聽你	thin ng
+聽俉	thin ng
+聽爾	thin ng
+聽儂	thin nou
+聽其自然	thin ji zy zoe
+聽其言而觀其行	thin ji yi er kun ji yin
+聽其言觀其行	thin ji yi kun ji yin
+聽力理解	thin liq li ka
+聽差	thin tsha
+聽勒	thin laq
+聽的	thin tiq
+聽膩了	thin gni lei
+聽見了	thin ci lei
+聽張了	thin cian lei
+聽明了	thin min lei
+聽覺	thin ciuq
+聽覺範圍	thin ciuq vae wei
+聽音樂	thin in yuq
+聾人	lon gnin
+聾啞人	lon o gnin
+聾啞學校	lon o ghoq yau
+肅北蒙古族自治縣	soq poq mon ku dzoq zy dzyu yu
+肅南裕固族自治縣	soq nEI yu ku dzoq zy dzyu yu
+肅清反革命分子	soq chin fae kaq min ven tsy
+肆意妄爲	sy i vaon wei
+肆行	sy yin
+肇慶大學	zhiau chin da ghoq
+肉乾	gnioq kI
+肉脯	gnioq phu
+肋間	laq ci
+肋間肌	laq ci ci
+肛交	kaon ciau
+肛瘻	kaon leu
+肝腫大	kI tson da
+股分	ku ven
+股市行情	ku zy ghaon jin
+股本金比率	ku pen cin pi liq
+股東大會	ku ton da wei
+股東特別大會	ku ton daq biq da wei
+股權分置	ku jiu fen tsyu
+股票交易	ku phiau ciau yiq
+股票交易所	ku phiau ciau yiq so
+股長	ku cian
+股集資	ku jiq tsy
+肥了	vi laq
+肥了	vi lei
+肥分	vi ven
+肥大	vi da
+肥水不流外人田	vi syu paq lieu nga gnin di
+肥水不落外人田	vi syu paq loq nga gnin di
+肥皂水	bi zau syu
+肥貓	vi mau
+肥貓	vi mae
+肥頭大耳	vi deu da er
+肩膀	ci paon
+肩負重任	ci veu dzon zyun
+肯落去	khen loq chi
+肯幹啊	khen kI gha
+肯幹啊	khen kI a
+肯德基炸雞	khen taq ci zaq ci
+肯德拉	khen taq lha
+育成雜交	yuq jin dzaq ciau
+育樂	yuq loq
+育樂中心	yuq loq tson shin
+育樂臺	yuq loq de
+胃脯	wei phu
+背上	pei zaon
+背上來	pei zaon le
+背上去	pei zaon chi
+背不動	pei paq don
+背弗動	pei vaq don
+背勿動	pei vaq don
+背了時	pei laq zy
+背井離鄉	pei cin li shian
+背人	pei gnin
+背信	pei shin
+背信棄義	pei shin chi gni
+背側	pei tshaq
+背債	pei tsa
+背傷	pei saon
+背光	pei kuaon
+背光性	pei kuaon shin
+背出	pei tshyuq
+背出來	pei tshyuq le
+背出去	pei tshyuq chi
+背到	pei tau
+背前背後	pei zhi pei gheu
+背包	pei pau
+背包客	pei pau khaq
+背包袱	pei pau voq
+背包遊	pei pau yeu
+背叛	pei bun
+背叛者	pei bun tse
+背向	pei shian
+背向着	pei shian dzoq
+背囊	pei naon
+背回家去	pei wei cia chiu
+背在	pei dze
+背地	pei di
+背地裏	pei di li
+背城借一	pei jin cia iq
+背子	pei tsy
+背字	pei zy
+背對	pei tei
+背對着	pei tei dzoq
+背對着	pei tei zyuq
+背對背	pei tei pei
+背山	pei sae
+背山臨水	pei sae lin syu
+背山面水	pei sae mi syu
+背帶	pei ta
+背影	pei in
+背得	pei taq
+背得起	pei taq chi
+背成	pei jin
+背斜	pei zhia
+背日	pei zyuq
+背時	pei zy
+背景	pei cin
+背景色	pei cin saq
+背景音樂	pei cin in yuq
+背暗投明	pei EI deu min
+背會	bei wei
+背板	bei pae
+背梁骨	pei lian kuaq
+背棄	pei chi
+背椅	pei i
+背榜	pei paon
+背氣	pei chi
+背水	pei syu
+背水一戰	pei syu iq ci
+背水一戰	pei syu iq tsoe
+背水陣	pei syu jin
+背痛	pei thon
+背痠	pei soe
+背的	pei tiq
+背盟	pei men
+背眼	pei ngae
+背眼	bei ngae
+背着	pei dzoq
+背着	pei zyuq
+背着手	pei dzoq shieu
+背着手	pei zyuq shieu
+背筐	pei khuaon
+背篼	pei teu
+背簍	pei leu
+背約	pei iaq
+背背	pei pei
+背背	bei bei
+背興	pei shin
+背袋	pei de
+背誦	bei dzon
+背誦着	bei dzon dzoq
+背謬	pei miau
+背負	pei veu
+背負着	pei veu dzoq
+背負着	pei veu zyuq
+背起	pei chi
+背起來	pei chi le
+背逆	pei gniq
+背運	pei yun
+背道而馳	pei dau er dzy
+背部	pei bu
+背闊肌	pei khuaq ci
+背離	pei li
+背靠	pei khau
+背靠背	pei khau pei
+背面	pei mi
+背頭	pei deu
+背風	pei fon
+背風處	pei fon tshyu
+背風面	pei fon mi
+背骨	pei kuaq
+背鰭	pei ji
+背黑鍋	pei haq kou
+胎兒	the er
+胎教	the ciau
+胎生	the sen
+胎生動物	the sen don vaq
+胎生學	the sen yuq
+胎甲球	the ciaq jieu
+胎裏壞	the li ua
+胖人	phaon gnin
+胖大海	phaon da he
+胚胎學	phei the yuq
+胚胎發生	phei the faq sen
+胡三省	wu sae shin
+胡人	wu gnin
+胡克斯特拉	wu khaq sy daq lha
+胡兒	wu er
+胡吹	wu tshei
+胡吹	wu tshyu
+胡吹亂捧	wu tshei loe phon
+胡吹亂捧	wu tshyu loe phon
+胡吹大氣	wu tshei da chi
+胡吹大氣	wu tshyu da chi
+胡學東	wu yuq ton
+胡拉混扯	wu lha wen tsho
+胡攪蠻纏	wu ciau mae ji
+胡敲	wu khau
+胡樂	wu yuq
+胡牌	wu ba
+胡自強	wu zy jian
+胡行	wu yin
+胡行亂作	wu yin loe tsoq
+胡越一家	wu yuq iq cia
+胭脂魚	i ci ng
+胳膀	kaq paon
+胳膊肘朝外拐	kaq poq cieu jiau nga kua
+胸圍	shion wei
+胸大肌	shion da ci
+胸懷大志	shion wa da tsy
+胸懷大志	shion wae da tsy
+胸無大志	shion vu da tsy
+胸無大志	shion Wu da tsy
+胸甲	shion ciaq
+能乾巴巴	nen kI po po
+能乾杯	nen kI pei
+能乾着急	nen kI dzoq ciq
+能乾耗	nen kI hau
+能乾脆	nen kI tshei
+能人	nen zyun
+能人所不能	nen zyun so paq nen
+能力範圍	nen liq vae wei
+能拿到	nen no tau
+能樂	nen yuq
+能自制	nen zy tsyu
+能被	nen bei
+脆穀樂	tshei koq loq
+脈輪學說	maq len yuq syuq
+脊樑背	ciq lian pei
+脊背	ciq pei
+脣乾	zyun kI
+脣燥舌乾	zyun sau zhiq kI
+脣舌之爭	zyun zhiq tsy tsen
+脩脯	shieu phu
+脫不了	thaq paq liau
+脫弗了	thaq vaq liau
+脫勿了	thaq vaq liau
+脫不了身	thaq paq liau shin
+脫了	thaq laq
+脫光了	thaq kuaon lei
+脫出重圍	thaq tshyuq dzon wei
+脫去	thaq chiu
+脫咖啡因	thaq kha fi in
+脫離不了	thaq li paq liau
+脯子	phu tsy
+脯氨酸	phu EI soe
+脯醢	phu he
+脾氣壞	bi chi ua
+腆顏	thi yi
+腈綸	cin len
+腋生	yiq san
+腐乾	vu kI
+腐壞	vu ua
+腐敗分子	vu ba ven tsy
+腐臭味	vu chieu mi
+腓力二世	fi liq er syu
+腓力二世	fi liq gni syu
+腓尼基人	fi gni ci gnin
+腥味	shin mi
+腥臭味	shin chieu mi
+腦子生鏽	nau tsy san shieu
+腦學	nau yuq
+腦杓	nau zoq
+腦梗死	nau kan sy
+腦死亡	nau sy vaon
+腫大	tson da
+腫大症	tson da cin
+腫瘤學	tson lieu yuq
+腰圍	iau wei
+腰椎間盤	iau tsei ci bun
+腰椎間盤突出	iau tsei ci bun daq tshyuq
+腰椎間盤突出症	iau tsei ci bun daq tshyuq cin
+腰痠背疼	iau soe pei den
+腰痠背痛	iau soe pei thon
+腰背	iau pei
+腰間	iau ci
+腰間繫	iau ci shi
+腳划船	ciaq uo ZOE
+腳手架	ciaq shieu ko
+腳架	ciaq ko
+腳狀	ciaq dzaon
+腳背	ciaq pei
+腳行	ciaq yin
+腳趾甲	ciaq tsy khaq
+腸間膜	jian ci mou
+腹背	foq pei
+腹背受敵	foq pei zhieu diq
+腹部絞痛	foq bu ciau thon
+腿長	thei jian
+膀大腰圓	paon da iau yu
+膀子	paon tsy
+膀胱	baon kuaon
+膀胱氣化	baon kuaon chi huo
+膀胱炎	baon kuaon yi
+膀胱癌	baon kuaon ngae
+膀臂	paon pi
+膂力過人	li liq kou gnin
+膏狀	kau dzaon
+膜狀	mou dzaon
+膝行	shiq ghaon
+膠乳	ciau zyu
+膠南	ciau nEI
+膠南市	ciau nEI zy
+膠印	ciau in
+膠印機	ciau in ci
+膠原	ciau gniu
+膠原纖維	ciau gniu shi vi
+膠原蛋白	ciau gniu dae baq
+膠原質	ciau gniu ciq
+膠囊	ciau naon
+膠圈	ciau chiu
+膠子	ciau tsy
+膠州	ciau cieu
+膠州市	ciau cieu zy
+膠州灣	ciau cieu uae
+膠布	ciau pu
+膠布膏	ciau pu kau
+膠底鞋	ciau ti gha
+膠彩畫	ciau tshe wo
+膠捲	ciau ciu
+膠木	ciau moq
+膠東	ciau ton
+膠柱鼓瑟	ciau dzyu ku saq
+膠水	kau syu
+膠泥	ciau gni
+膠漆	ciau chiq
+膠濟鐵路	ciau ci thiq lu
+膠片	ciau phi
+膠版	ciau pae
+膠版印刷	ciau pae in syuq
+膠版紙	ciau pae tsy
+膠狀	ciau dzaon
+膠皮	ciau bi
+膠着	ciau dzoq
+膠着	ciau zyuq
+膠着狀態	ciau dzoq dzaon the
+膠着狀態	ciau zyuq dzaon the
+膠粒	ciau liq
+膠膜	ciau mou
+膠質	ciau ciq
+膠輪	ciau len
+膠靴	ciau shiu
+膠鞋	ciau gha
+膠體	ciau thi
+膠體溶液	ciau thi yon yiq
+膨大	ban da
+膩了	gni laq
+膩味	gni vi
+膳雜費	zoe dzaq fi
+膺任	in zyun
+膽大	tae da
+膽大包天	tae da pau thi
+膽大如斗	tae da zyu teu
+膽大妄爲	tae da vaon wei
+膽大心細	tae da shin shi
+膽大於天	tae da yu thi
+膽小鬼	tae shiau kuei
+小膽鬼	shiau tae kuei
+膽略過人	tae liaq kou gnin
+膽石絞痛	tae zaq gau thon
+膽識過人	tae shiq kou gnin
+膽魄	tae phaq
+膾炙人口	kuei ciq zyun kheu
+臀位分娩	den wei fen mi
+臀圍	den wei
+臂膀	pi paon
+臉大	li da
+臉盆架	li ben ko
+臘味	laq vi
+臘日	laq zyuq
+臥落去	ngou loq chi
+臥軌自殺	ngou kuei zy saq
+臥龍大熊貓保護區	ngou lon da yon mau pau wu chiu
+臥龍自然保護區	ngou lon zy zoe pau wu chiu
+臨了	lin liau
+臨去	lin chiu
+臨問	lin ven
+臨夏回族自治州	lin gho wei dzoq zy dzyu cieu
+臨朝	lin jiau
+臨沂師範學院	lin gni sy vae yuq yu
+臨沂師範學院	lin yi sy vae yuq yu
+臨牀症狀	lin zaon cin dzaon
+臨牀醫學	lin zaon i yuq
+臨界狀態	lin ka dzaon the
+臨行	lin yin
+自上到下	zy zaon tau gho
+自上而下	zy zaon er gho
+自上而下的加工	zy zaon er gho tiq cia kon
+自下到上	zy gho tau zaon
+自下而上	zy gho er zaon
+自下而上的加工	zy gho er zaon tiq cia kon
+自不待言	zy paq de yi
+自不必說	zy paq piq syuq
+自不量力	zy paq lian liq
+自主	zy tsyu
+自主創新	zy tsyu tshaon shin
+自主創業	zy tsyu tshaon gniq
+自主品牌	zy tsyu phin ba
+自主國	zy tsyu koq
+自主學習	zy tsyu ghoq zyuq
+自主學習	zy tsyu ghoq zhiq
+自主性	zy tsyu shin
+自主招生	zy tsyu ciau san
+自主旅遊	zy tsyu li yeu
+自主權	zy tsyu jiu
+自主研發	zy tsyu GNi faq
+自主神經	zy tsyu zyun cin
+自主系統	zy tsyu shi thon
+自主遊	zy tsyu yeu
+自主開發	zy tsyu khe faq
+自乘	zy jin
+自了	zy liau
+自交系	zy ciau shi
+自介	zy ka
+自付	zy fu
+自以	zy yi
+自以爲	zy yi wei
+自以爲是	zy yi wei zy
+自任	zy zyun
+自伐	zy vaq
+自住	zy dzyu
+自住型	zy dzyu yin
+自作	zy tsoq
+自作主張	zy tsoq tsyu cian
+自作多情	zy tsoq tou jin
+自作孽	zy tsoq gniq
+自作聰明	zy tsoq tshon min
+自作自受	zy tsoq zy zhieu
+自來	zy le
+自供	zy kon
+自供狀	zy kon dzaon
+自侮	zy vu
+自便	zy bi
+自保	zy pau
+自信	zy shin
+自信心	zy shin shin
+自修	zy shieu
+自修室	zy shieu syuq
+自修法	zy shieu faq
+自修課	zy shieu khou
+自個	zy kou
+自備	zy bei
+自備午餐	zy bei wu tshae
+自備晚餐	zy bei vae tshae
+自傲	zy ngau
+自傳	zy dzoe
+自傳體	zy dzoe thi
+自傷	zy saon
+自內	zy nei
+自內心	zy nei shin
+自內而外	zy nei er nga
+自出	zy tshyuq
+自出一家	zy tshyuq iq cia
+自出機杼	zy tshyuq ci dzyu
+自分	zy fen
+自刎	zy ven
+自利	zy li
+自到	zy tau
+自制	zy tsyu
+自制一下	zy tsyu iq gho
+自制之力	zy tsyu tsy liq
+自制力	zy tsyu liq
+自制的能	zy tsyu tiq nen
+自制能力	zy tsyu nen liq
+自剄	zy cin
+自創	zy tshaon
+自力	zy liq
+自力救濟	zy liq cieu ci
+自力更生	zy liq ken sen
+自助	zy dzu
+自助助人	zy dzu dzu gnin
+自助式	zy dzu shiq
+自助旅遊	zy dzu li yeu
+自助洗衣店	zy dzu shi i ti
+自助遊	zy dzu yeu
+自助餐	zy dzu tshae
+自助餐廳	zy dzu tshae thin
+自勉	zy mi
+自動	zy don
+自動付款機	zy don fu khun ci
+自動免疫	zy don mi yuq
+自動化	zy don huo
+自動化技術	zy don huo ji zyuq
+自動取款機	zy don tshyu khun ci
+自動售貨機	zy don jieu hou ci
+自動地工作	zy don di kon tsoq
+自動增益	zy don tsen iq
+自動增益控制	zy don tsen iq khon tsyu
+自動對焦	zy don tei ciau
+自動式	zy don shiq
+自動性	zy don shin
+自動恢復	zy don huei foq
+自動扶梯	zy don vu thi
+自動控制	zy don khon tsyu
+自動控制系統	zy don khon tsyu shi thon
+自動提款	zy don di khun
+自動提款機	zy don di khun ci
+自動播放	zy don pou faon
+自動擋	zy don taon
+自動更新	zy don ken shin
+自動樓梯	zy don leu thi
+自動路梯	zy don lu the
+自動機	zy don ci
+自動檔	zy don taon
+自動檢測	zy don ci tshaq
+自動櫃員機	zy don guei yu ci
+自動步槍	zy don bu chian
+自動步道	zy don bu dau
+自動武器	zy don Wu chi
+自動生成	zy don sen jin
+自動生產	zy don sen tshae
+自動生產線	zy don sen tshae shi
+自動線	zy don shi
+自動自發	zy don zy faq
+自動裝置	zy don tsaon tsyu
+自動詞	zy don dzy
+自動識別	zy don shiq biq
+自動警報	zy don cin pau
+自動車	zy don tsho
+自動運行	zy don yun yin
+自動鉛筆	zy don khae piq
+自動錶	zy don piau
+自動門	zy don men
+自動關機	zy don kuae ci
+自動關閉	zy don kuae pi
+自動離合	zy don li ghaq
+自動電話	zy don di wo
+自動駕駛	zy don cia sy
+自動駕駛儀	zy don cia sy gni
+自勵	zy li
+自卑	zy pei
+自卑心理	zy pei shin li
+自卑情緒	zy pei jin zyu
+自卑感	zy pei kI
+自即日起	zy ciq zyuq chi
+自卸車	zy shia tsho
+自反	zy fae
+自取	zy tshyu
+自取其咎	zy tshyu ji jieu
+自取其辱	zy tshyu ji zoq
+自取滅亡	zy tshyu miq vaon
+自古	zy ku
+自古以來	zy ku yi le
+自右而左	zy yeu er tsou
+自各	zy koq
+自同寒蟬	zy don ghEI zoe
+自吹	zy tshei
+自吹自擂	zy tshei zy lei
+自告奮勇	zy kau fen ion
+自命	zy min
+自命不凡	zy min paq vae
+自命清高	zy min chin kau
+自命爲	zy min wei
+自咎	zy jieu
+自問	zy ven
+自問自答	zy ven zy taq
+自喻	zy yu
+自嘆	zy thae
+自嘆不如	zy thae paq zyu
+自嘆弗如	zy thae vaq zyu
+自嘆勿如	zy thae vaq zyu
+自嘲	zy jiau
+自噴	zy phen
+自噴井	zy phen cin
+自噴式	zy phen shiq
+自圓其說	zy yu ji syuq
+自在	zy dze
+自地自建	zy di zy ci
+自報	zy pau
+自報公議	zy pau kon gni
+自報家門	zy pau cia men
+自壓	zy aq
+自壓式	zy aq shiq
+自外	zy nga
+自外而內	zy nga er nei
+自多	zy tou
+自大	zy da
+自大狂	zy da guaon
+自奉	zy von
+自奉儉約	zy von ji iaq
+自奉甚儉	zy von zhin ji
+自好	zy hau
+自如	zy zyu
+自始	zy sy
+自始至終	zy sy tsy tson
+自娛	zy nu
+自娛	zy wu
+自娛	zy gniu
+自娛娛人	zy nu nu zyun
+自娛娛人	zy wu wu zyun
+自娛娛人	zy gniu gniu zyun
+自娛自樂	zy nu zy loq
+自娛自樂	zy wu zy loq
+自娛自樂	zy gniu zy loq
+自學	zy yuq
+自學	zy ghoq
+自學成才	zy yuq jin dze
+自學成才	zy ghoq jin dze
+自學法	zy yuq faq
+自學法	zy ghoq faq
+自學考試	zy yuq khau sy
+自學考試	zy ghoq khau sy
+自守	zy shieu
+自定	zy din
+自定義	zy din gni
+自宮	zy kon
+自封	zy fon
+自專	zy tsoe
+自尊	zy tsen
+自尊心	zy tsen shin
+自尋	zy zhin
+自尋死路	zy zhin sy lu
+自尋煩惱	zy zhin vae nau
+自導	zy dau
+自導自演	zy dau zy yi
+自小	zy shiau
+自居	zy ciu
+自左	zy tsou
+自左而右	zy tsou er yeu
+自己	zy ci
+自己人	zy ci gnin
+自己做	zy ci tsou
+自己動手	zy ci don shieu
+自己喜歡	zy ci shi hun
+自己寫	zy ci shia
+自己方便	zy ci faon bi
+自已	zy yi
+自帶	zy ta
+自幼	zy ieu
+自序	zy zyu
+自度曲	zy du chiuq
+自建	zy ci
+自強	zy jian
+自強不息	zy jian paq shiq
+自強自立	zy jian zy liq
+自強號	zy jian ghau
+自強運動	zy jian yun don
+自彈	zy dae
+自彈自唱	zy dae zy tshaon
+自律	zy liq
+自律性	zy liq shin
+自律性組織	zy liq shin tsu ciq
+自後	zy gheu
+自得	zy taq
+自得其樂	zy taq ji loq
+自必	zy piq
+自忖	zy tshen
+自性	zy shin
+自怨	zy iu
+自恃	zy dzy
+自悔	zy huei
+自愛	zy e
+自愛自重	zy e zy dzon
+自感	zy kI
+自愧不如	zy khuei paq zyu
+自愧不如	zy guei paq zyu
+自愧弗如	zy khuei vaq zyu
+自愧弗如	zy guei vaq zyu
+自愧勿如	zy khuei vaq zyu
+自愧勿如	zy guei vaq zyu
+自慊	zy chi
+自慚形穢	zy dzae yin huei
+自慰	zy wei
+自慰器	zy wei chi
+自憐	zy li
+自憐自艾	zy li zy gni
+自應	zy in
+自戀	zy li
+自成	zy jin
+自成一家	zy jin iq cia
+自成一格	zy jin iq kaq
+自成一體	zy jin iq thi
+自我	zy ngo
+自我中心	zy ngo tson shin
+自我介紹	zy ngo ka zhiau
+自我作古	zy ngo tsoq ku
+自我催眠	zy ngo tshei mi
+自我嘲解	zy ngo jiau ka
+自我嘲解	zy ngo jiau cia
+自我安慰	zy ngo EI wei
+自我完善	zy ngo wun zoe
+自我實現	zy ngo zyuq yi
+自我批評	zy ngo phi bin
+自我教育	zy ngo ciau yuq
+自我檢討	zy ngo ci thau
+自我犧牲	zy ngo shi san
+自我的人	zy ngo tiq gnin
+自我表現	zy ngo piau yi
+自我解嘲	zy ngo ka jiau
+自我評價	zy ngo bin ko
+自我防衛	zy ngo vaon wei
+自我陶醉	zy ngo dau tsei
+自戒	zy ka
+自戕	zy jian
+自打	zy tan
+自找	zy tsau
+自找苦喫	zy tsau khu chioq
+自找麻煩	zy tsau mo vae
+自投	zy deu
+自投羅網	zy deu lou maon
+自拉自唱	zy lha zy tshaon
+自拍	zy phaq
+自拍器	zy phaq chi
+自拍模式	zy phaq mou shiq
+自拔	zy baq
+自掃門前雪	zy sau men zhi syuq
+自掏腰包	zy dau iau pau
+自排	zy ba
+自掘墳墓	zy jiuq ven mou
+自採	zy tshe
+自控	zy khon
+自提	zy di
+自摸	zy moq
+自擔	zy tae
+自擺烏龍	zy pa u lon
+自救	zy cieu
+自敘	zy zyu
+自斃	zy bi
+自新	zy shin
+自於	zy yu
+自明	zy min
+自是	zy zy
+自暴自棄	zy bau zy chi
+自曝	zy bau
+自會	zy wei
+自會在	zy wei dze
+自會直	zy wei jiq
+自有	zy yeu
+自有主張	zy yeu tsyu cian
+自有公論	zy yeu kon len
+自有品牌	zy yeu phin ba
+自有妙計	zy yeu miau ci
+自有打算	zy yeu tan soe
+自有資金	zy yeu tsy cin
+自有辦法	zy yeu bae faq
+自查	zy dzo
+自核	zy ghaq
+自棄	zy chi
+自檢	zy ci
+自欺	zy chi
+自欺欺人	zy chi chi zyun
+自此	zy tshy
+自此以後	zy tshy yi gheu
+自此刻起	zy tshy khaq chi
+自此時起	zy tshy zy chi
+自此而後	zy tshy er gheu
+自殘	zy dzae
+自殺	zy saq
+自殺式	zy saq shiq
+自殺式炸彈	zy saq shiq tso dae
+自殺式爆炸	zy saq shiq bau tso
+自殺炸彈殺手	zy saq tso dae saq shieu
+自殺者	zy saq tse
+自毀	zy huei
+自毀前程	zy huei zhi jin
+自毀長城	zy huei jian jin
+自民黨	zy min taon
+自求	zy jieu
+自求多福	zy jieu tou foq
+自決	zy ciuq
+自決權	zy ciuq jiu
+自沉	zy jin
+自治	zy dzyu
+自治制	zy dzyu tsyu
+自治區	zy dzyu chiu
+自治州	zy dzyu cieu
+自治市	zy dzyu zy
+自治市長	zy dzyu zy cian
+自治旗	zy dzyu ji
+自治機關	zy dzyu ci kuae
+自治權	zy dzyu jiu
+自治法	zy dzyu faq
+自治省	zy dzyu san
+自治縣	zy dzyu yu
+自治領	zy dzyu lin
+自治體	zy dzyu thi
+自況	zy huaon
+自注	zy tsyu
+自派	zy pha
+自流	zy lieu
+自流井	zy lieu cin
+自流井區	zy lieu cin chiu
+自流灌溉	zy lieu kun ke
+自淨	zy zhin
+自淨作用	zy zhin tsoq yon
+自淫	zy yin
+自測	zy tshaq
+自溺	zy gniq
+自滿	zy mun
+自演	zy yi
+自瀆	zy doq
+自焚	zy ven
+自然	zy zoe
+自然主義	zy zoe tsyu gni
+自然之友	zy zoe tsy yeu
+自然人	zy zoe zyun
+自然保護	zy zoe pau wu
+自然保護區	zy zoe pau wu chiu
+自然光	zy zoe kuaon
+自然力	zy zoe liq
+自然化	zy zoe huo
+自然史	zy zoe sy
+自然哲學	zy zoe ciq yuq
+自然對數	zy zoe tei su
+自然律	zy zoe liq
+自然捲	zy zoe ciu
+自然接種	zy zoe ciq tson
+自然數	zy zoe su
+自然數集	zy zoe su jiq
+自然是	zy zoe zy
+自然景觀	zy zoe cin kun
+自然會	zy zoe wei
+自然村	zy zoe tshen
+自然條件	zy zoe diau ji
+自然歷	zy zoe liq
+自然法	zy zoe faq
+自然法學	zy zoe faq yuq
+自然法學派	zy zoe faq yuq pha
+自然災害	zy zoe tse ghe
+自然物	zy zoe vaq
+自然現象	zy zoe yi zhian
+自然環境	zy zoe wae cin
+自然生態	zy zoe sen the
+自然界	zy zoe ka
+自然療法	zy zoe liau faq
+自然碼	zy zoe mo
+自然礦	zy zoe khuaon
+自然神論	zy zoe zyun len
+自然科	zy zoe khou
+自然科學	zy zoe khou yuq
+自然科學基金會	zy zoe khou yuq ci cin wei
+自然經濟	zy zoe cin ci
+自然美	zy zoe mei
+自然而然	zy zoe er zoe
+自然規律	zy zoe kuei liq
+自然觀	zy zoe kun
+自然語言	zy zoe gniu yi
+自然課	zy zoe khou
+自然資源	zy zoe tsy gniu
+自然通風	zy zoe thon fon
+自然選擇	zy zoe soe dzaq
+自然醒	zy zoe shin
+自然金	zy zoe cin
+自然銅	zy zoe don
+自然風光	zy zoe fon kuaon
+自燃	zy zoe
+自燃式	zy zoe shiq
+自燃性	zy zoe shin
+自營	zy yin
+自營商	zy yin saon
+自爆	zy bau
+自爲	zy wei
+自理	zy li
+自甘	zy kI
+自甘墮落	zy kI dou loq
+自甘暴棄	zy kI bau chi
+自生	zy sen
+自生自滅	zy sen zy miq
+自產	zy tshae
+自用	zy yon
+自用品	zy yon phin
+自用車	zy yon tsho
+自由	zy yeu
+自由中國	zy yeu tson koq
+自由主義	zy yeu tsyu gni
+自由亞洲電臺	zy yeu ia cieu di de
+自由人	zy yeu gnin
+自由企業	zy yeu chi gniq
+自由化	zy yeu huo
+自由古巴	zy yeu ku pa
+自由地區	zy yeu di chiu
+自由基	zy yeu ci
+自由基清除劑	zy yeu ci chin dzyu ci
+自由女神	zy yeu gniu zyun
+自由女神像	zy yeu gniu zyun zhian
+自由市	zy yeu zy
+自由市場	zy yeu zy jian
+自由度	zy yeu du
+自由式	zy yeu shiq
+自由心證	zy yeu shin cin
+自由思想	zy yeu sy shian
+自由性	zy yeu shin
+自由意志	zy yeu i tsy
+自由意志主義	zy yeu i tsy tsyu gni
+自由態	zy yeu the
+自由戀愛	zy yeu li e
+自由放任	zy yeu faon zyun
+自由日	zy yeu zyuq
+自由日報	zy yeu zyuq pau
+自由業	zy yeu gniq
+自由權	zy yeu jiu
+自由民	zy yeu min
+自由民主黨	zy yeu min tsyu taon
+自由泳	zy yeu ion
+自由活動	zy yeu waq don
+自由派	zy yeu pha
+自由港	zy yeu kaon
+自由焓	zy yeu ghEI
+自由王國	zy yeu waon koq
+自由祖國	zy yeu tsu koq
+自由神像	zy yeu zyun zhian
+自由競爭	zy yeu jin tsen
+自由素食主義	zy yeu su zhiq tsyu gni
+自由組合	zy yeu tsu ghaq
+自由組合規律	zy yeu tsu ghaq kuei liq
+自由職業	zy yeu ciq gniq
+自由自在	zy yeu zy dze
+自由落體	zy yeu loq thi
+自由落體運動	zy yeu loq thi yun don
+自由行	zy yeu yin
+自由詩	zy yeu sy
+自由貿易	zy yeu meu yiq
+自由貿易區	zy yeu meu yiq chiu
+自由車	zy yeu tsho
+自由軟件基金會	zy yeu gniu ji ci cin wei
+自由選擇	zy yeu soe dzaq
+自由選擇權	zy yeu soe dzaq jiu
+自由鍛	zy yeu toe
+自由降落	zy yeu ciaon loq
+自由電子	zy yeu di tsy
+自由面	zy yeu mi
+自由體操	zy yeu thi tshau
+自由鬥士	zy yeu teu zy
+自由黨	zy yeu taon
+自留	zy lieu
+自留地	zy lieu di
+自畫像	zy wo zhian
+自當	zy taon
+自疚	zy cieu
+自發	zy faq
+自發對稱破缺	zy faq tei chin phou chiuq
+自發性	zy faq shin
+自發運動	zy faq yun don
+自發電位	zy faq di wei
+自白	zy baq
+自白書	zy baq syu
+自盡	zy jin
+自相	zy shian
+自相殘殺	zy shian dzae saq
+自相矛盾	zy shian mau den
+自相魚肉	zy shian ng gnioq
+自省	zy shin
+自矜	zy cin
+自知	zy tsyu
+自知之明	zy tsyu tsy min
+自知理屈	zy tsyu li chiuq
+自禁	zy cin
+自私	zy sy
+自私心	zy sy shin
+自私自利	zy sy zy li
+自種	zy tson
+自稱	zy chin
+自稱是	zy chin zy
+自稱爲	zy chin wei
+自立	zy liq
+自立早報	zy liq tsau pau
+自立晚報	zy liq vae pau
+自立自強	zy liq zy jian
+自立門戶	zy liq men wu
+自籌	zy jieu
+自約	zy iaq
+自組	zy tsu
+自絕	zy dzyuq
+自給	zy ciq
+自給有餘	zy ciq yeu yu
+自給自足	zy ciq zy tsoq
+自經	zy cin
+自編	zy pi
+自縊	zy iq
+自縛	zy bou
+自縛手腳	zy bou shieu ciaq
+自罪	zy zei
+自習	zy zhiq
+自習	zy zyuq
+自習室	zy zhiq syuq
+自習室	zy zyuq syuq
+自習時間	zy zhiq zy ci
+自習時間	zy zyuq zy ci
+自習課	zy zhiq khou
+自習課	zy zyuq khou
+自考	zy khau
+自耕	zy kan
+自耕農	zy kan non
+自肥	zy vi
+自能	zy nen
+自能在	zy nen dze
+自花傳粉	zy huo dzOE fen
+自花受粉	zy huo zhieu fen
+自若	zy zhiaq
+自若	zy zoq
+自苦	zy khu
+自薦	zy ci
+自虐	zy gniaq
+自處	zy tshyu
+自行	zy yin
+自行其是	zy yin ji zy
+自行決定	zy yin ciuq din
+自行火炮	zy yin hou phau
+自行解決	zy yin ka ciuq
+自行車	zy yin tsho
+自行車架	zy yin tsho cia
+自行車賽	zy yin tsho se
+自行車館	zy yin tsho kun
+自衛	zy wei
+自衛隊	zy wei dei
+自裁	zy ze
+自裝	zy tsaon
+自製	zy tsyu
+自製炸彈	zy tsyu tso dae
+自要	zy iau
+自視	zy zy
+自視清高	zy zy chin kau
+自視甚高	zy zy zhin kau
+自覺	zy ciuq
+自覺性	zy ciuq shin
+自覺自願	zy ciuq zy gniu
+自覺運動	zy ciuq yun don
+自覺遵守	zy ciuq tsen shieu
+自解	zy ka
+自解	zy cia
+自解壓	zy ka aq
+自解壓	zy cia aq
+自言自語	zy yi zy gniu
+自訂	zy tin
+自討	zy thau
+自討沒趣	zy thau mhaq tshyu
+自討苦喫	zy thau khu chioq
+自訟	zy dzon
+自設	zy shiq
+自許	zy shiu
+自訴	zy su
+自訴人	zy su gnin
+自詒伊戚	zy yi i chiq
+自評	zy bin
+自詡	zy shiu
+自誇	zy khua
+自認	zy zyun
+自認是	zy zyun zy
+自認會	zy zyun wei
+自認爲	zy zyun wei
+自語	zy gniu
+自誤	zy nu
+自誤	zy wu
+自誤誤人	zy nu nu gnin
+自誤誤人	zy wu wu gnin
+自調	zy diau
+自調式	zy diau shiq
+自謀職業	zy meu ciq gniq
+自謙	zy chi
+自變數	zy pi su
+自變量	zy pi lian
+自豪	zy ghau
+自豪感	zy ghau kI
+自負	zy veu
+自貢	zy kon
+自貢市	zy kon zy
+自責	zy tsaq
+自費	zy fi
+自費旅行	zy fi li ghan
+自費生	zy fi sen
+自貽伊戚	zy yi i chiq
+自賊	zy zaq
+自賣	zy ma
+自賣自誇	zy ma zy khua
+自賣自誇	zy ma zy khuo
+自贊	zy tsae
+自贖	zy dzoq
+自足	zy tsoq
+自足自給	zy tsoq zy ciq
+自身	zy shin
+自身利益	zy shin li iq
+自身建設	zy shin ci shiq
+自身難保	zy shin nae pau
+自載	zy tse
+自輕自賤	zy chin zy zhi
+自轉	zy tsoe
+自轉式	zy tsoe shiq
+自轉軸	zy tsoe jiuq
+自辦	zy bae
+自辦式	zy bae shiq
+自述	zy zyuq
+自遣	zy chi
+自適	zy shiq
+自適應	zy shiq in
+自選	zy soe
+自選動作	zy soe don tsoq
+自選商場	zy soe saon jian
+自選曲	zy soe chiuq
+自酌	zy ciaq
+自重	zy dzon
+自量	zy lian
+自銷	zy shiau
+自閉	zy pi
+自閉性	zy pi shin
+自閉症	zy pi cin
+自需	zy syu
+自須	zy syu
+自願	zy gniu
+自願性	zy gniu shin
+自願書	zy gniu syu
+自願者	zy gniu tse
+自顧	zy ku
+自顧不暇	zy ku paq ya
+自顧自	zy ku zy
+自食其力	zy zhiq ji liq
+自食其果	zy zhiq ji kou
+自食其言	zy zhiq ji yi
+自食惡果	zy zhiq oq kou
+自養	zy ian
+自餒	zy nei
+自首	zy shieu
+自首變節	zy shieu pi ciq
+自駕	zy cia
+自駕汽車出租	zy cia chi tsho tshyuq tsu
+自駕租賃	zy cia tsu gnin
+自駕車	zy cia tsho
+自駕遊	zy cia yeu
+自體	zy thi
+自體免疫疾病	zy thi mi yuq jiq bin
+自體受精	zy thi zhieu cin
+自高	zy kau
+自高自大	zy kau zy da
+自鳴得意	zy min taq i
+自鳴鐘	zy min tson
+自點	zy ti
+臭人	chieu gnin
+臭味	chieu vi
+臭味相投	chieu vi shian deu
+臭架子	chieu ko tsy
+臭死	chieu sy
+臭煞	chieu saq
+臭銅味	chieu don mi
+至交	tsy ciau
+至大	tsy da
+至大至剛	tsy da tsy kaon
+至日	tsy zyuq
+至死	tsy sy
+至死不屈	tsy sy paq chiuq
+至死不悟	tsy sy paq nu
+至死不悟	tsy sy paq wu
+至死不渝	tsy sy paq yu
+至死不變	tsy sy paq pi
+至死不降	tsy sy paq ghaon
+至行	tsy yin
+致勝率	tsy shin liq
+致死	tsy sy
+致死劑量	tsy sy ci lian
+致死性	tsy sy shin
+致死性毒劑	tsy sy shin doq ci
+致死案	tsy sy EI
+致死率	tsy sy liq
+致死量	tsy sy lian
+致理技術學院	tsy li ji zyuq yuq yu
+致遠任重	tsy yu zyun dzon
+臺中人	de tson gnin
+臺中市人	de tson zy gnin
+臺中師範學院	de tson sy vae yuq yu
+臺中教育大學	de tson ciau yuq da ghoq
+臺兒莊	de er tsaon
+臺兒莊區	de er tsaon chiu
+臺北人	de poq gnin
+臺北大學	de poq da ghoq
+臺北工業專科學校	de poq kon gniq tsoe khou ghoq yau
+臺北市立教育大學	de poq zy liq ciau yuq da ghoq
+臺北市立體育學院	de poq zy liq thi yuq yuq yu
+臺北市長	de poq zy cian
+臺北師範學院	de poq sy vae yuq yu
+臺北科技大學	de poq khou ji da ghoq
+臺北縣長	de poq yu cian
+臺北醫學大學	de poq i yuq da ghoq
+臺北醫學院	de poq i yuq yu
+臺南人	de nEI gnin
+臺南大學	de nEI da ghoq
+臺南女子技術學院	de nEI gniu tsy ji zyuq yuq yu
+臺南師範學院	de nEI sy vae yuq yu
+臺南科技大學	de nEI khou ji da ghoq
+臺大	de da
+臺大學生	de da ghoq san
+臺大醫院	de da i yu
+臺師大	de sy da
+臺拉維夫	de lha vi fu
+臺日	de zyuq
+臺東人	de ton gnin
+臺東大學	de ton da ghoq
+臺東師範學院	de ton sy vae yuq yu
+臺東縣長	de ton yu cian
+臺灣世界展望會	de uae syu ka ci vaon wei
+臺灣世界展望會	de uae syu ka tsoe vaon wei
+臺灣人	de uae gnin
+臺灣味	de uae mi
+臺灣問題	de uae ven di
+臺灣大學	de uae da ghoq
+臺灣學術網路	de uae yuq zyuq maon lu
+臺灣工業技術學院	de uae kon gniq ji zyuq yuq yu
+臺灣師範大學	de uae sy vae da ghoq
+臺灣日	de uae zyuq
+臺灣日日新報	de uae zyuq zyuq shin pau
+臺灣民主自治同盟	de uae min tsyu zy dzyu don men
+臺灣海洋大學	de uae he yan da ghoq
+臺灣海洋學院	de uae he yan yuq yu
+臺灣省	de uae san
+臺灣省政府	de uae san cin fu
+臺灣省政府教育廳	de uae san cin fu ciau yuq thin
+臺灣省立	de uae san liq
+臺灣省議會	de uae san gni wei
+臺灣神學院	de uae zyun yuq yu
+臺灣科技大學	de uae khou ji da ghoq
+臺灣藝術專科學校	de uae gni zyuq tsoe khou ghoq yau
+臺灣行	de uae yin
+臺灣警察專科學校	de uae cin tshaq tsoe khou ghoq yau
+臺灣銀行	de uae gnin ghaon
+臺省	de san
+臺科大	de khou da
+臺藝大	de gni da
+臺長	de cian
+臺閣生風	de koq sen fon
+舅大人	jieu da gnin
+與世俯仰	yu syu fu gnian
+與世推移	yu syu thei yi
+與世浮沉	yu syu vu jin
+與世無爭	yu syu vu tsen
+與世無爭	yu syu Wu tsen
+與世長辭	yu syu jian dzy
+與世隔絕	yu syu kaq dzyuq
+與人	yu gnin
+與人方便	yu gnin faon bi
+與人爲善	yu gnin wei zoe
+與你	yu gni
+與全世界爲敵	yu dzoe syu ka wei diq
+與日	yu zyuq
+與日俱增	yu zyuq jiu tsen
+與日俱進	yu zyuq jiu cin
+與日同輝	yu zyuq don huei
+與時間賽跑	yu zy ci se bau
+與會人士	yu wei zyun zy
+與民同樂	yu min don loq
+與民爭利	yu min tsen li
+與生俱來	yu sen jiu le
+與該	yu ke
+興味	shin vi
+興味索然	shin vi soq zoe
+興學	shin yuq
+興安省	shin EI san
+興師問罪	shin sy ven zei
+興業銀行	shin gniq gnin ghaon
+興盛	shin zhin
+興趣不大	shin tshyu paq da
+興頭很大	shin deu hen da
+舉世	ciu syu
+舉世公認	ciu syu kon zyun
+舉世無匹	ciu syu vu phiq
+舉世無匹	ciu syu Wu phiq
+舉世無敵	ciu syu vu diq
+舉世無敵	ciu syu Wu diq
+舉世無雙	ciu syu vu saon
+舉世無雙	ciu syu Wu saon
+舉世矚目	ciu syu tsoq moq
+舉世聞名	ciu syu ven min
+舉了	ciu laq
+舉個	ciu goq
+舉個	ciu ghoq
+舉報人	ciu pau gnin
+舉家	ciu cia
+舉尾蟲	ciu vi dzon
+舉案齊眉	ciu EI ji mei
+舉止大方	ciu tsy da faon
+舉止行爲	ciu tsy yin wei
+舉勒	ciu laq
+舉勒仔	ciu laq tsy
+舉的	ciu tiq
+舉行	ciu yin
+舉行婚禮	ciu yin huen li
+舉行會談	ciu yin wei dae
+舊交	jieu ciau
+舊大陸	jieu da loq
+舊學	jieu yuq
+舊家	jieu cia
+舊教	jieu ciau
+舊教徒	jieu ciau du
+舊日	jieu zyuq
+舌狀	zhiq dzaon
+舌耕	zhiq kan
+舍利弗	so li faq
+舍弗勒	so faq laq
+舍間	so ci
+舒捲自如	syu ciu zy zyu
+舒眉	syu mei
+舔乾淨	thi kI zhin
+舛雜	tshoe dzaq
+舜日堯天	syun zyuq gniau thi
+舜日堯年	syun zyuq gniau gni
+舞臺音樂	Wu de in yuq
+舞蹈家	Wu dau cia
+航海家	ghaon he cia
+航海日誌	ghaon he zyuq tsy
+航空學	ghaon khon yuq
+航空自衛隊	ghaon khon zy wei dei
+航行	ghaon yin
+航行權	ghaon yin jiu
+航行燈	ghaon yin ten
+般雀比拉多	pae chiaq pi lha tou
+船上交貨	ZOE zaon ciau hou
+船到橋頭自然直	ZOE tau jiau deu zy zoe jiq
+船家	ZOE ko
+船尾	ZOE vi
+船尾座	ZOE vi zou
+船政大臣	ZOE cin da jin
+船政學堂	ZOE cin ghoq daon
+船邊交貨價	ZOE pi ciau hou ko
+船長	ZOE cian
+船長室	ZOE cian syuq
+艇甲板	thin ciaq pae
+艇長	thin cian
+艦尾	khae vi
+艦日	khae zyuq
+艦長	khae cian
+良家	lian cia
+良家女子	lian cia gniu tsy
+良家婦女	lian cia vu gniu
+良家子	lian cia tsy
+良日	lian zyuq
+良率	lian liq
+良藥苦口利於病	lian yaq khu kheu li yu bin
+良藥苦口忠言逆耳	lian yaq khu kheu tson yi gniq er
+良辰吉日	lian zyun ciq zyuq
+艱難度日	ci nae du zyuq
+色不迷人人自迷	saq paq mi zyun zyun zy mi
+色不迷人人自迷	saq paq mi gnin gnin zy mi
+色差	saq tsha
+色彩學	saq tshe yuq
+色情行業	saq jin ghaon gniq
+色情雜誌	saq jin dzaq tsy
+色拉	saq lha
+色拉寺	saq lha zy
+色拉油	saq lha yeu
+色拉醬	saq lha cian
+色目人	saq moq gnin
+色覺	saq ciuq
+色長	saq cian
+色鬼	saq kuei
+艾克爾	nge khaq er
+艾哈邁德	nge ha mae taq
+艾哈邁迪內賈德	nge ha mae diq nei cia taq
+艾哈邁達巴德	nge ha mae daq po taq
+艾弗森	nge faq sen
+艾彌爾	nge mi er
+艾斯托利爾	nge sy thoq li er
+艾森豪威爾	nge sen ghau uei er
+艾澤拉斯	nge dzaq lha sy
+艾炷	nge tsyu
+艾爾	nge er
+艾爾伯塔	nge er paq thaq
+艾爾米塔什	nge er mi thaq zyuq
+艾爾米塔奇	nge er mi thaq ji
+艾瑪紐埃爾	nge mo gnieu a er
+艾茲病	nge tsy bin
+艾菲爾鐵塔	nge fi er thiq thaq
+艾薇兒	nge vi er
+艾薩克牛頓	nge saq khaq gnieu ten
+艾迪卡拉	nge diq kha lha
+艾迪生	nge diq sen
+芋圓	yu yu
+芋泥	yu gni
+芋螺毒素	yu lou doq su
+芋頭	yu deu
+芋頭冰	yu deu pin
+芋香	yu shian
+芒刺在背	maon tshy dze pei
+芒果乾	maon kou kI
+芒狀	maon dzaon
+芝加哥	tsy cia kou
+芝加哥大學	tsy cia kou da ghoq
+芬蘭人	fen lae gnin
+芭樂	po loq
+芭樂	pa loq
+芭樂汁	po loq ciq
+芭樂汁	pa loq ciq
+芭樂票	po loq phiau
+芭樂票	pa loq phiau
+芭比娃娃	po pi ua ua
+芭比娃娃	pa pi ua ua
+花了	huo laq
+花個	huo goq
+花剌子模	huo la tsy mou
+花團錦簇	huo doe cin tshoq
+花大姐	huo da cia
+花式溜冰	huo shiq lieu pin
+花旗參	huo ji sen
+花旗銀行	huo ji gnin ghaon
+花時間	huo zy ci
+花辰光	huo zyun kuaon
+花朝月夕	huo ciau yuq zhiq
+花朝節	huo ciau ciq
+花生殼	huo sen khoq
+花生油	huo sen yeu
+花生漿	huo sen cian
+花生秀	huo sen shieu
+花生粉	huo sen fen
+花生豆	huo sen deu
+花生餅	huo sen pin
+花甲	huo ciaq
+花甲之年	huo ciaq tsy gni
+花簇	huo tshoq
+花花世界	huo huo syu ka
+花芽分化	huo ngo fen huo
+花蓮人	huo li gnin
+花蓮師範學院	huo li sy vae yuq yu
+花蓮教育大學	huo li ciau yuq da ghoq
+花車遊行	huo tsho yeu yin
+花邊人物	huo pi zyun vaq
+花間	huo ci
+花香鳥語	huo shian gniau gniu
+花鳥	huo gniau
+花鳥畫	huo gniau wo
+芷江侗族自治縣	tsy kaon don dzoq zy dzyu yu
+芸芸衆生	yun yun tson san
+芸芸衆生	yun yun tson sen
+苓耳	lin er
+苔原	the gniu
+苔癬	the shi
+苔綠	the loq
+苔草	the tshau
+苔草屬	the tshau dzoq
+苔蘚	the shi
+苔蘚植物	the shi jiq vaq
+苔類	the lei
+苗人	miau gnin
+苗族人	miau dzoq gnin
+苗栗人	miau liq gnin
+苛捐雜稅	khou ciu dzaq sei
+苛雜	khou dzaq
+苟且偷生	keu chie theu sen
+若且唯若	zhiaq chie vi zhiaq
+若且唯若	zoq chie vi zoq
+若即若離	zhiaq ciq zhiaq li
+若即若離	zoq ciq zoq li
+若干人	zhiaq kI gnin
+若干人	zoq kI gnin
+若干個	zhiaq kI goq
+若干個	zoq kI goq
+若干問題	zhiaq kI ven di
+若干問題	zoq kI ven di
+若明若暗	zhiaq min zhiaq EI
+若明若暗	zoq min zoq EI
+若有若無	zhiaq yeu zhiaq vu
+若有若無	zoq yeu zoq vu
+若有若無	zhiaq yeu zhiaq Wu
+若有若無	zoq yeu zoq Wu
+若望	zhiaq vaon
+若望	zoq vaon
+若望福音	zhiaq vaon foq in
+若望福音	zoq vaon foq in
+若沒有	zhiaq maq yeu
+若沒有	zoq maq yeu
+若爾蓋	zhiaq er ke
+若爾蓋	zoq er ke
+若爾蓋縣	zhiaq er ke yu
+若爾蓋縣	zoq er ke yu
+若隱若現	zhiaq in zhiaq yi
+若隱若現	zoq in zoq yi
+苦上加苦	khu zaon cia khu
+苦中作樂	khu tson tsoq loq
+苦了	khu laq
+苦了	khu lei
+苦去甘來	khu chiu kI le
+苦味道	khu mi dau
+苦哈哈	khu ha ha
+苦大仇深	khu da jieu shin
+苦差	khu tsha
+苦差事	khu tsha zy
+苦日子	khu gniq tsy
+苦杏仁苷	khu ghan gnin kI
+苦樂	khu loq
+苦樂不均	khu loq paq ciun
+苦瓜乾	khu kuo kI
+苦行	khu yin
+苦行僧	khu yin sen
+苦行者	khu yin tse
+苦行贖罪	khu yin dzoq zei
+苦集滅道	khu jiq miq dau
+苯甲酰氯	pen ciaq shi loq
+苯甲酸	pen ciaq soe
+苯甲醛	pen ciaq tshoe
+苯甲醯氯	pen ciaq shi loq
+苯酮尿症	pen don gniau cin
+英人	in gnin
+英代爾	in de er
+英俊小生	in tsyun shiau san
+英勇犧牲	in ion shi san
+英哩	in li
+英國人	in koq gnin
+英國文學	in koq ven yuq
+英國皇家學會	in koq waon cia yuq wei
+英屬維爾京羣島	in dzoq vi er cin jiun tau
+英日	in zyuq
+英日同盟	in zyuq don men
+英格蘭銀行	in kaq lae gnin ghaon
+英特爾	in daq er
+英語學習	in gniu ghoq zyuq
+英語學習	in gniu ghoq zhiq
+英語教學	in gniu ciau yuq
+英雄交響曲	in yon ciau shian chiuq
+英雄人物	in yon zyun vaq
+英雄美人	in yon mei zyun
+英雄難過美人關	in yon nae kou mei zyun kuae
+茁壯成長	tsaq tsaon jin cian
+茁長	tsaq cian
+茂盛	mau zhin
+茂盛	meu zhin
+范家謙	vae cia chi
+范德格拉夫	vae taq kaq lha fu
+范德格拉夫起電機	vae taq kaq lha fu chi di ci
+范德瓦耳斯	vae taq ngo er sy
+范德瓦耳斯力	vae taq ngo er sy liq
+范成大	vae jin da
+茄二十八星瓢蟲	jie er zyuq paq shin biau dzon
+茄克	jia khaq
+茄克衫	jia khaq sae
+茄冬	jie ton
+茄冬	jia ton
+茄子河區	jia tsy ghou chiu
+茄科	jie khou
+茄科	jia khou
+茄紅素	jie ghon su
+茄紅素	jia ghon su
+茅盾文學獎	mau den ven yuq cian
+茨岡人	dzy kaon gnin
+茨萬吉拉伊	dzy vae ciq lha i
+茫崖行政區	maon ya yin cin chiu
+茫崖行政區	maon yi yin cin chiu
+茫崖行政委員會	maon ya yin cin uei yu wei
+茫崖行政委員會	maon yi yin cin uei yu wei
+茫茫人海	maon maon zyun he
+茫茫大海	maon maon da he
+茲事體大	tsy zy thi da
+茲沃勒	tsy oq laq
+茶點時間	dzo ti zy ci
+茶點時間	dzo te zy ci
+茶點辰光	dzo ti zyun kuaon
+茶點辰光	dzo te zyun kuaon
+草人	tshau gnin
+草大青	tshau da chin
+草木皆兵	tshau moq cie pin
+草木鳥獸	tshau moq gniau shieu
+草根大使	tshau ken da sy
+草率	tshau saq
+草率從事	tshau saq dzon zy
+草率收兵	tshau saq shieu pin
+草草了事	tshau tshau liau zy
+草草率率	tshau tshau saq saq
+草菅人命	tshau ci zyun min
+草葉集	tshau yiq jiq
+草行	tshau yin
+草長馬肥	tshau jian mo vi
+荊棘叢生	cin ciq dzon sen
+荊蠻	cin mae
+荊釵	cin tsha
+荊釵布裙	cin tsha pu jiun
+荊釵裙布	cin tsha jiun pu
+荊釵記	cin tsha ci
+荒了	huaon laq
+荒了	huaon lei
+荒無人煙	huaon vu zyun i
+荒無人煙	huaon Wu zyun i
+荷人	ghou gnin
+荷爾蒙	ghou er mon
+荷蘭人	ghou lae gnin
+荷蘭皇家航空	ghou lae waon cia ghaon khon
+荼毒生靈	du doq sen lin
+莊敬自強	tsaon cin zy jian
+莊稼人	tsaon cia gnin
+莎拉	so lha
+莎拉佩林	so lha bei lin
+莎拉布萊曼	so lha pu le mae
+莎拉波娃	so lha pou ua
+莘莘學子	shin shin yuq tsy
+莞爾	un er
+莫三比克	moq sae pi khaq
+莫三鼻給	moq sae biq ciq
+莫不	moq paq
+莫不是	moq paq zy
+莫不然	moq paq zoe
+莫不聞	moq paq ven
+莫不逾侈	moq paq yu tshy
+莫伊謝耶夫	moq i zhia ya fu
+莫伯日	moq paq gniq
+莫余毒也	moq yu doq ye
+莫傑斯特	moq jiq sy daq
+莫克姆灣	moq khaq m uae
+莫克姆灣	moq khaq meu uae
+莫利森	moq li sen
+莫可名狀	moq khou min dzaon
+莫可奈何	moq khou nae ghou
+莫可言狀	moq khou yi dzaon
+莫吉托	moq ciq thoq
+莫名	moq min
+莫名其妙	moq min ji miau
+莫哈韋沙漠	moq ha wei so moq
+莫報萬一	moq pau vae iq
+莫塔馬灣	moq thaq mo uae
+莫塔馬灣	moq thaq ma uae
+莫奈	moq nae
+莫如	moq zyu
+莫屬	moq dzoq
+莫布里	moq pu li
+莫干山	moq kI sae
+莫往	moq uaon
+莫怪	moq kua
+莫怪	mhau kua
+莫怪	mau kua
+莫愁	moq zeu
+莫愁	mhau zeu
+莫愁	mau zeu
+莫愁湖	moq zeu wu
+莫扎特	moq tsaq daq
+莫扎里拉	moq tsaq li lha
+莫折大提	moq ciq da di
+莫拉萊斯	moq lha le sy
+莫文蔚	moq ven uei
+莫斯特	moq sy daq
+莫斯科	moq sy khou
+莫斯科市	moq sy khou zy
+莫明其妙	moq min ji miau
+莫曼斯克	moq mae sy khaq
+莫札特	moq tsaq daq
+莫桑比克	moq saon pi khaq
+莫此爲甚	moq tshy wei zhin
+莫泊桑	moq phaq saon
+莫泊桑	moq boq saon
+莫涅	moq gniaq
+莫測	moq tshaq
+莫測高深	moq tshaq kau shin
+莫爾	moq er
+莫爾斯	moq er sy
+莫爾斯電碼	moq er sy di mo
+莫爾茲比港	moq er tsy pi kaon
+莫當	moq taon
+莫管	moq kun
+莫管閒事	moq kun ghae zy
+莫索里尼	moq soq li gni
+莫罕達斯	moq he daq sy
+莫羅尼	moq lou gni
+莫耳	moq er
+莫臥兒王朝	moq ngou er waon jiau
+莫若	moq zhiaq
+莫若	moq zoq
+莫莉克	moq li khaq
+莫衷一是	moq tson iq zy
+莫言	moq yi
+莫說	moq syuq
+莫講	moq kaon
+莫講	mhau kaon
+莫講	mau kaon
+莫逆	moq gniq
+莫逆之交	moq gniq tsy ciau
+莫過	moq kou
+莫過於	moq kou yu
+莫道	moq dau
+莫那魯道	moq nha lu dau
+莫邪	moq ya
+莫邪鈍	moq ya den
+莫里	moq li
+莫里哀	moq li e
+莫里尼奧	moq li gni au
+莫里希	moq li shi
+莫里斯	moq li sy
+莫里森	moq li sen
+莫里納	moq li naq
+莫里葉	moq li yiq
+莫霍洛維奇	moq hoq loq vi ji
+莫霍洛維奇不連續面	moq hoq loq vi ji paq li dzoq mi
+莫霍面	moq hoq mi
+莫非	moq fi
+莫非是	moq fi zy
+莫須	moq syu
+莫須有	moq syu yeu
+莫高窟	moq kau khoq
+菅直人	ci jiq zyun
+菊芋	ciuq yu
+菌狀	chiun dzaon
+菌膠團	chiun ciau doe
+菜乾	tshe kI
+菜鳥	tshe gniau
+菜鴨	tshe aq
+菜鴨	tshe ae
+菟絲子	thu sy tsy
+菠蘿乾	pou lou kI
+菩薩低眉	bu saq ti mei
+菩薩蠻	bu saq mae
+華中師範大學	wo tson sy vae da ghoq
+華人	wo gnin
+華佗再世	wo dou tse syu
+華僑中學	wo jiau tson ghoq
+華僑大學	wo jiau da ghoq
+華僑華人	wo jiau wo gnin
+華僑銀行	wo jiau gnin ghaon
+華南師範大學	wo nEI sy vae da ghoq
+華南理工大學	wo nEI li kon da ghoq
+華南銀行	wo nEI gnin ghaon
+華夏銀行	wo gho gnin ghaon
+華威大學	wo uei da ghoq
+華岡藝術學校	wo kaon gni zyuq ghoq yau
+華師大	wo sy da
+華東師範大學	wo ton sy vae da ghoq
+華東理工大學	wo ton li kon da ghoq
+華梵大學	wo vae da ghoq
+華潤萬家	wo zyun vae cia
+華爾茲	wo er tsy
+華爾茲舞	wo er tsy Wu
+華爾街	wo er ka
+華爾街日報	wo er ka zyuq pau
+華生	wo sen
+華盛頓	wo zhin ten
+華盛頓州	wo zhin ten cieu
+華盛頓時報	wo zhin ten zy pau
+華盛頓特區	wo zhin ten daq chiu
+華盛頓郵報	wo zhin ten yeu pau
+華納音樂集團	wo naq in yuq jiq doe
+華茲華斯	wo tsy wo sy
+華語學校	wo gniu ghoq yau
+華貴	wo kuei
+華陀在世	wo dou dze syu
+菲兒	fi er
+菲律賓人	fi liq pin gnin
+菲律賓大學	fi liq pin da ghoq
+菲德爾	fi taq er
+菲捨爾	fi so er
+菲爾	fi er
+菲爾普斯	fi er phu sy
+菲爾特	fi er daq
+菲爾茲	fi er tsy
+菲爾茲獎	fi er tsy cian
+菲茨傑拉德	fi dzy jiq lha taq
+菸草味	i tshau mi
+萊伊爾	le i er
+萊布尼茲	le pu gni tsy
+萊斯大學	le sy da ghoq
+萊頓大學	le ten da ghoq
+萊齊耶三世	le ji ya sae syu
+萌生	men sen
+萬世	vae syu
+萬世一時	vae syu iq zy
+萬世師表	vae syu sy piau
+萬事大吉	vae zy da ciq
+萬事皆休	vae zy cie shieu
+萬事皆備	vae zy cie bei
+萬人	vae gnin
+萬人之敵	vae gnin tsy diq
+萬人坑	vae gnin khan
+萬人敵	vae gnin diq
+萬人次	vae gnin tshy
+萬人空巷	vae gnin khon ghaon
+萬人迷	vae gnin mi
+萬個	vae goq
+萬分	vae fen
+萬分之一	vae fen tsy iq
+萬分感激	vae fen kI ciq
+萬分痛苦	vae fen thon khu
+萬別千差	vae biq chi tsho
+萬剮千刀	vae kua chi tau
+萬博省	vae poq san
+萬古長新	vae ku jian shin
+萬古長春	vae ku jian tshyun
+萬古長青	vae ku jian chin
+萬壑爭流	vae hoq tsen lieu
+萬夫莫敵	vae fu moq diq
+萬夫莫當	vae fu moq taon
+萬夫莫開	vae fu moq khe
+萬家	vae cia
+萬家樂	vae cia loq
+萬家燈火	vae cia ten hou
+萬家生佛	vae cia sen vaq
+萬家香	vae cia shian
+萬智牌	vae tsyu ba
+萬望	vae vaon
+萬歲	vae sei
+萬歲千秋	vae sei chi chieu
+萬歲爺	vae sei ya
+萬死	vae sy
+萬死一生	vae sy iq sen
+萬死不辭	vae sy paq dzy
+萬狀	vae dzaon
+萬盛	vae zhin
+萬盛區	vae zhin chiu
+萬米長跑	vae mi jian bau
+萬能膠	vae nen kau
+萬般皆下	vae pae cie gho
+萬般皆下品	vae pae cie gho phin
+萬般皆下品惟有讀書高	vae pae cie gho phin vi yeu doq syu kau
+萬般皆是命半點不由人	vae pae cie zy min pun ti paq yeu gnin
+萬花爭豔	vae huo tsen yi
+萬萬歲	vae vae sei
+萬萬沒有想到	vae vae maq yeu shian tau
+萬象更新	vae zhian ken shin
+萬貫家產	vae kun cia tshae
+萬貫家私	vae kun cia sy
+萬貫家財	vae kun cia dze
+萬里長城	vae li jian jin
+萬里長征	vae li jian cin
+萬里長江	vae li jian kaon
+萬里長空	vae li jian khon
+萬餘人	vae yu gnin
+萬點大關	vae ti da kuae
+萵苣	u jiu
+萵苣	u ciu
+落了	loq laq
+落人口實	loq gnin kheu zyuq
+落地生根	loq di sen ken
+落埋怨	loq ma iu
+落差	loq tsha
+落後國家	loq gheu koq cia
+落日	loq zyuq
+落日餘暉	loq zyuq yu huei
+落淚	loq lei
+落花生	loq huo sen
+落落大方	loq loq da faon
+落葉歸根家	loq yiq kuei ken cia
+落錘	loq zei
+落雁	loq yi
+落魄	loq phaq
+葉傑生	yiq jiq sen
+葉兩傳	yiq lian dzoe
+葉卡捷琳娜	yiq kha jiq lin na
+葉問	yiq ven
+葉文貴	yiq ven kuei
+葉爾羌	yiq er chian
+葉爾羌河	yiq er chian ghou
+葉爾辛	yiq er shin
+葉片狀	yiq phi dzaon
+葉狀	yiq dzaon
+葉狀植物	yiq dzaon jiq vaq
+葉狀體	yiq dzaon thi
+葉盛蘭	yiq zhin lae
+葉耳	yiq er
+葉苔	yiq de
+葉長龍	yiq jian lon
+葉鼻蝠	yiq biq foq
+著作人	tsyu tsoq gnin
+著作權人	tsyu tsoq jiu gnin
+著名人物	tsyu min zyun vaq
+著名作家	tsyu min tsoq cia
+著名品牌	tsyu min phin ba
+著稱於世	tsyu chin yu syu
+葛瑞格爾	kaq zei kaq er
+葡萄乾	bu dau kI
+葡萄牙人	bu dau ngo gnin
+董事長	ton zy cian
+董事長兼	ton zy cian ci
+葦眉子	wei mei tsy
+葬埋	tsaon ma
+葬玉埋香	tsaon gnioq ma shian
+蒐藏家	seu dzaon cia
+蒐集	seu jiq
+蒐集到	seu jiq tau
+蒙了	mon laq
+蒙人	mon gnin
+蒙代爾	mon de er
+蒙兀兒	mon waq er
+蒙兀兒帝國	mon waq er ti koq
+蒙古人	mon ku gnin
+蒙古人民共和國	mon ku zyun min gon ghou koq
+蒙古人種	mon ku gnin tson
+蒙古大夫	mon ku da fu
+蒙哄	mon hon
+蒙大拿	mon da na
+蒙大拿州	mon da na cieu
+蒙娜麗莎	mon na li so
+蒙學	mon yuq
+蒙彼利埃	mon pi li e
+蒙日	mon zyuq
+蒙特利爾	mon daq li er
+蒙特塞拉特	mon daq se lha daq
+蒙自	mon zy
+蒙自縣	mon zy yu
+蒙菲爾斯	mon fi er sy
+蒙面人	mon mi gnin
+蒜味	soe mi
+蒞任	li zyun
+蒲圻	bu ji
+蒲圻市	bu ji zy
+蒲式耳	bu shiq er
+蒲甘王朝	bu kI waon jiau
+蒸乾	cin kI
+蒸了	cin laq
+蒸汽狀	cin chi dzaon
+蒸汽錘	cin chi zei
+蒸蒸日上	cin cin zyuq zaon
+蒼生	tshaon sen
+蒼生塗炭	tshaon sen du thae
+蒼耳	tshaon er
+蒼顏	tshaon yi
+蓄長髮	shiuq jian faq
+蓄電池	shiuq di ji
+蓋世	ke syu
+蓋世之才	ke syu tsy dze
+蓋世太保	ke syu tha pau
+蓋世無匹	ke syu vu phiq
+蓋世無匹	ke syu Wu phiq
+蓋世無雙	ke syu vu saon
+蓋世無雙	ke syu Wu saon
+蓋世英雄	ke syu in yon
+蓋了	ke laq
+蓋了又蓋	ke laq yeu ke
+蓋爾	ke er
+蓋爾語	ke er gniu
+蓋率	ke liq
+蓋的	ke tiq
+蓋茲	ke dzy
+蓮花生	li huo sen
+蓼花	liau huo
+蓼蓼	liau liau
+蓼藍	liau lae
+蔓生	mae sen
+蔓生植物	mae sen jiq vaq
+蔚爲大觀	uei wei da kun
+蔣桂戰爭	cian kuei ci tsen
+蔣桂戰爭	cian kuei tsoe tsen
+蔽日	bi zyuq
+蕃人	vae gnin
+蕃茄	vae ga
+蕃茄汁	vae ga ciq
+蕃茄片	vae ga phi
+蕃茄醬	vae ga cian
+蕈狀雲	jin dzaon yun
+蕈狀雲	zyun dzaon yun
+蕩產傾家	daon tshae chin cia
+蕪雜	vu dzaq
+蕭乾	shiau ji
+蕭伯納	shiau paq naq
+蕭萬長	shiau vae jian
+薄倖人	boq yin gnin
+薄分	boq ven
+薄眉	boq mei
+薄膜狀	boq mou dzaon
+薄行	boq yin
+薊訓歷家	ci shiun liq cia
+薏仁	i zyun
+薏苡仁	i yi zyun
+薑母鴨	cian meu ae
+薑還是老	cian wa zy lau
+薑還是老的辣	cian wa zy lau tiq laq
+薛寶釵	shiq pau tsha
+薦任	ci zyun
+薩克遜人	saq khaq sen gnin
+薩哈洛夫	saq ha loq fu
+薩哈羅夫	saq ha lou fu
+薩哈羅夫人權獎	saq ha lou fu gnin jiu cian
+薩哈羅夫獎	saq ha lou fu cian
+薩哈諾夫	saq ha noq fu
+薩德爾	saq taq er
+薩德爾市	saq taq er zy
+薩拉	saq lha
+薩拉丁	saq lha tin
+薩拉戈薩	saq lha kou saq
+薩拉曼卡	saq lha mae kha
+薩拉森帝國	saq lha sen ti koq
+薩拉熱窩	saq lha gniq ou
+薩桑王朝	saq saon waon jiau
+薩滿教	saq mun ciau
+薩爾	saq er
+薩爾圖	saq er du
+薩爾圖區	saq er du chiu
+薩爾州	saq er cieu
+薩爾布呂肯	saq er pu li khen
+薩爾溫江	saq er uen kaon
+薩爾滸之戰	saq er fu tsy ci
+薩爾滸之戰	saq er fu tsy tsoe
+薩爾瓦多	saq er ngo tou
+薩爾科奇	saq er khou ji
+薩爾科齊	saq er khou ji
+薩爾茨堡	saq er dzy pau
+薩珊王朝	saq sae waon jiau
+薩米人	saq mi gnin
+薩非王朝	saq fi waon jiau
+薪傳	shin dzOE
+薪水階級	shin syu ka ciq
+薪水階級	shin syu cie ciq
+薪火相傳	shin hou shian dzOE
+薪盡火傳	shin jin hou dzOE
+藉代	cia de
+藉以	cia yi
+藉助	cia dzu
+藉助於	cia dzu yu
+藉口	cia kheu
+藉喻	cia yu
+藉寇兵	cia kheu pin
+藉手	cia shieu
+藉故	cia ku
+藉故推辭	cia ku thei dzy
+藉條	cia diau
+藉機	cia ci
+藉此	cia tshy
+藉此機會	cia tshy ci wei
+藉甚	cia zhin
+藉由	cia yeu
+藉着	cia dzoq
+藉着	cia zyuq
+藉端	cia toe
+藉端生事	cia toe sen zy
+藉箸代籌	cia ji de jieu
+藉藉	zhiq zhiq
+藉藉無名	zhiq zhiq vu min
+藉藉無名	zhiq zhiq Wu min
+藉詞	cia dzy
+藉資	cia tsy
+藉酒澆愁	cia cieu ciau zeu
+藍儂	lae non
+藍屏死機	lae bin sy ci
+藍牙耳機	lae ngo er ci
+藍田猿人	lae di yu gnin
+藍耳病	lae er bin
+藍顏知己	lae yi tsyu ci
+藏人	dzaon gnin
+藏傳佛教	dzaon dzOE vaq ciau
+藏族人	dzaon dzoq gnin
+藏貓貓	dzaon mau mau
+藏鏡人	dzaon cin gnin
+藝壓當行	gni aq taon ghaon
+藝術學院	gni zyuq yuq yu
+藝術家	gni zyuq cia
+藝術專科學校	gni zyuq tsoe khou ghoq yau
+藝高人膽大	gni kau gnin tae da
+藝高膽大	gni kau tae da
+藤架	den ko
+藤野先生	den ya shi san
+藥劑學	yaq ci yuq
+藥學	yaq yuq
+藥學專科學校	yaq yuq tsoe khou ghoq yau
+藥學系	yaq yuq shi
+藥捻子	yaq gni tsy
+藥死	yaq shi
+藥煞	yaq saq
+藥物學	yaq vaq yuq
+藥物學家	yaq vaq yuq cia
+藥物成癮	yaq vaq jin in
+藥理學	yaq li yuq
+藥癮	yaq in
+藹藹	e e
+藹藹	aq aq
 藻類學	
 蘇丹人	
 蘇哈托	
@@ -32675,8 +32118,6 @@
 虛心學習	
 虛心學習	
 虛情假意	
-虛懷	
-虛懷若谷	
 虛擬世界	
 虛擬空間	
 虛文浮禮	
@@ -33222,10 +32663,6 @@
 衝去	
 衝回去	
 衝垮	
-衝擊波	
-衝波	
-衝波激浪	
-衝波逆折	
 衝盹	
 衝着	
 衝自己	
@@ -33493,9 +32930,6 @@
 褫奪	
 褫奪公權	
 褶子了	
-襟懷	
-襟懷坦白	
-襟懷夷曠	
 襲人	
 西人	
 西北工業大學	
@@ -33669,7 +33103,6 @@
 親率	
 親生子女	
 親生父母	
-親疏貴賤	
 親着	
 親耳	
 親耳所聞	
@@ -34054,7 +33487,6 @@
 詐降	
 評上去	
 評了	
-評介	
 評個	
 評個分數	
 評傳	
@@ -34073,7 +33505,6 @@
 詞彙學	
 詞牌	
 詞長效應	
-詠懷	
 詢問	
 詢問處	
 詢於	
@@ -34235,7 +33666,6 @@
 詳加	
 詳加說明	
 詳確	
-詳細介紹	
 詳解	
 誅死	
 誅鋤	
@@ -34566,7 +33996,6 @@
 調皮鬼	
 調着	
 調研人員	
-調製波	
 調解	
 調解法	
 調詞架訟	
@@ -34608,7 +34037,6 @@
 請洽	
 請確認	
 請稍候	
-請聯繫	
 請自行	
 請訪問	
 請降	
@@ -34622,7 +34050,6 @@
 論理學	
 論長道短	
 諜報人員	
-諧波	
 諫大夫	
 諫官	
 諫征	
@@ -34872,6 +34299,7 @@
 豆狀	
 豆腐乾	
 豌豆莢	
+豌豆莢	
 豎眉瞪眼	
 豎着	
 豎起耳朵	
@@ -34995,9 +34423,6 @@
 貧窮人家	
 貧窮潦倒	
 貧苦人家	
-貧賤	
-貧賤不能移	
-貧賤夫妻百事哀	
 貨架	
 貨架子	
 貨櫃	
@@ -35236,6 +34661,7 @@
 資優兒童	
 資優生	
 資料介面	
+資料介面	
 資料傳輸	
 資方人員	
 資望	
@@ -35285,26 +34711,8 @@
 賣家	
 賣着	
 賣藥人	
-賤事	
 賤人	
-賤價	
-賤價出售	
-賤內	
-賤妾	
-賤恙	
-賤才	
 賤斂貴出	
-賤業	
-賤民	
-賤物	
-賤稱	
-賤胚	
-賤號	
-賤貨	
-賤買賤賣	
-賤賣	
-賤賤	
-賤軀	
 賦閒在家	
 賦間	
 質問	
@@ -35358,7 +34766,6 @@
 赤眉	
 赤練蛇	
 赤練蛇	
-赤繩繫足	
 赤背	
 赤腳大仙	
 赤腳醫生	
@@ -35451,17 +34858,13 @@
 超文本傳輸協定	
 超文本傳送協議	
 超生	
-超短波	
 超範圍	
 超級大國	
 超級女生	
 超維空間	
-超聲波	
-超聲波檢查	
 超自然	
 超速行駛	
 超長	
-超音波	
 超音速飛行	
 超額認	
 超額認購	
@@ -35743,8 +35146,6 @@
 身家清白	
 身心交病	
 身心交瘁	
-身懷六甲	
-身懷絕技	
 身擔重任	
 身教	
 身教勝於言教	
@@ -35757,7 +35158,6 @@
 身無長物	
 身着	
 身穿着	
-身繫囹圄	
 身負重任	
 身長	
 身陷囹圄	
@@ -35830,7 +35230,6 @@
 軍訓教官	
 軍醫大學	
 軍長	
-軒然大波	
 軒轅教	
 軟交換	
 軟件學院	
@@ -35851,8 +35250,6 @@
 載人航天	
 載客率	
 載於	
-載波	
-載波通信	
 載浮載沈	
 載滿了	
 載着	
@@ -35878,7 +35275,6 @@
 輕脆悅耳	
 輕舉妄動	
 輕諾寡信	
-輕賤	
 輕音樂	
 輕鬆自在	
 輕鬆自如	
@@ -35914,12 +35310,12 @@
 輸尿管	
 輸着	
 輸送媒介	
+輸送媒介	
 輸送架	
 輸進去	
 輸過去	
 輻射分解	
 輻射劑量率	
-輻射波	
 輻射狀	
 輾轉流傳	
 輿論譁然	
@@ -36092,7 +35488,6 @@
 迫於形勢	
 迫於眉睫	
 迫降	
-述懷	
 迴旋加速器	
 迴避學習	
 迴避學習	
@@ -36127,7 +35522,6 @@
 追尋着	
 追尾	
 追悔莫及	
-追懷	
 追查責任	
 追根問底	
 追殲	
@@ -36178,7 +35572,6 @@
 送歲	
 送死	
 送禮大方	
-送秋波	
 送行	
 送行人	
 送貨到家	
@@ -36225,7 +35618,6 @@
 透過去	
 逐個	
 逐月逐日	
-逐波而去	
 逐漸增加	
 逐行	
 逐行掃描	
@@ -36401,10 +35793,6 @@
 連架	
 連生	
 連着	
-連繫	
-連繫詞	
-連繫起來	
-連續介質力學	
 連續生產	
 連續統假設	
 連續集	
@@ -36413,7 +35801,6 @@
 連長	
 連集	
 連頭也不回	
-逮繫	
 週二	
 週休二日	
 週六日	
@@ -36501,7 +35888,6 @@
 遊樂園	
 遊樂場	
 遊獵	
-遊目騁懷	
 遊耕	
 遊行	
 遊行到	
@@ -36557,7 +35943,6 @@
 過失殺人	
 過失致死	
 過屠門而大嚼	
-過度關懷	
 過往人	
 過得了	
 過得去	
@@ -36684,7 +36069,6 @@
 遠近皆知	
 遠近馳名	
 遣落去	
-遣懷	
 適人	
 適任	
 適合於	
@@ -37153,7 +36537,6 @@
 部長級會議	
 部隊長	
 郭子乾	
-郭永懷	
 郭沫若	
 郭茂倩	
 郵傳部	
@@ -37205,7 +36588,6 @@
 鄉音無改鬢毛衰	
 鄉音無改鬢毛衰	
 鄙人	
-鄙賤	
 鄧世昌	
 鄧加	
 鄧茂七	
@@ -37335,7 +36717,6 @@
 醬鴨	
 釀造學	
 釋去重負	
-釋懷	
 釋教	
 里人	
 里克爾梅	
@@ -37458,8 +36839,6 @@
 金朝	
 金櫃	
 金正日	
-金波	
-金波玉液	
 金烏西墜	
 金無足赤	
 金無足赤	
@@ -37487,7 +36866,6 @@
 金融行業	
 金融衍生工具	
 金融衍生產品	
-金融風波	
 金貴	
 金針度人	
 金釵	
@@ -38215,9 +37593,8 @@
 開張大吉	
 開心顏	
 開悟	
-開懷	
 開懷大笑	
-開懷暢飲	
+開懷大笑	
 開戶行	
 開房間	
 開支範圍	
@@ -38376,9 +37753,6 @@
 關回去	
 關島大學	
 關嶺布依族苗族自治縣	
-關懷	
-關懷備至	
-關懷面	
 關於	
 關於中國	
 關於做好	
@@ -38727,7 +38101,6 @@
 阿比讓	
 阿毛	
 阿法爾	
-阿波	
 阿波羅	
 阿波羅計劃	
 阿滋海默症	
@@ -39074,7 +38447,6 @@
 陰山背後	
 陰差	
 陰差陽錯	
-陰極射線示波器	
 陰沈	
 陰沈沈	
 陰盛陽衰	
@@ -39169,8 +38541,6 @@
 隨從人員	
 隨於	
 隨機時間	
-隨波	
-隨波逐流	
 隨着	
 隨行	
 隨行人員	
@@ -39227,8 +38597,6 @@
 雅加達	
 雅加達人	
 雅各伯	
-雅懷	
-雅戈爾	
 雅拉神山	
 雅拉雪山	
 雅拉香波神山	
@@ -39594,6 +38962,7 @@
 難了	
 難人	
 難以忘懷	
+難以忘懷	
 難以抹去	
 難以理解	
 難以解決	
@@ -39649,7 +39018,6 @@
 雲科大	
 雲窗霧檻	
 雲行雨施	
-雲譎波詭	
 雲貴	
 雲貴川	
 雲貴高原	
@@ -39671,8 +39039,6 @@
 雷厲風行	
 雷大雨小	
 雷池	
-雷波	
-雷波縣	
 雷聲大	
 雷聲大作	
 雷聲大雨點小	
@@ -39683,7 +39049,6 @@
 雷震	
 雷鬼	
 雷鳥	
-電介質	
 電位差	
 電信行業	
 電傳	
@@ -39725,11 +39090,9 @@
 電池廠	
 電池板	
 電池組	
-電波	
 電洽	
 電燈架	
 電磁學	
-電磁波	
 電纜調制解調器	
 電腦教室	
 電視大學	
@@ -39745,7 +39108,6 @@
 電解電容	
 電解電容器	
 電話交換機	
-電話聯繫	
 電鋸	
 電震	
 電驢	
@@ -40073,7 +39435,6 @@
 音樂院	
 音樂電視	
 音樂風格	
-音波	
 音爆	
 音長	
 音韻學	
@@ -40139,7 +39500,6 @@
 順道去	
 順風耳	
 順馳	
-頌繫	
 頎長	
 預備役軍人	
 預分	
@@ -40272,7 +39632,6 @@
 顧顏面	
 顯學	
 顯微學	
-顯懷	
 顯生代	
 顯生宙	
 顯而易見	
@@ -40301,8 +39660,6 @@
 風土人情	
 風塵中人	
 風大	
-風波	
-風波不斷	
 風流人物	
 風華正茂	
 風行	
@@ -40389,7 +39746,6 @@
 飢渴交迫	
 飢者易爲食	
 飲彈自盡	
-飲流懷源	
 飲淚	
 飲酒作樂	
 飲醇自醉	
@@ -40463,9 +39819,6 @@
 餘情未了	
 餘日	
 餘歲	
-餘波	
-餘波未平	
-餘波盪漾	
 餘生	
 餘畝	
 餘糧收集	
@@ -40530,7 +39883,6 @@
 香格里拉縣	
 香榭里大道	
 香榭麗舍大街	
-香波	
 香港中文大學	
 香港交易所	
 香港人	
@@ -40667,7 +40019,6 @@
 駁斥	
 駁雜	
 駐大陸	
-駐波	
 駐留時間	
 駐華大使	
 駐華盛頓	
@@ -40691,7 +40042,6 @@
 駭人	
 駭人聽聞	
 駿豪集團	
-騁懷	
 騁望	
 騁馳	
 騎落去	
@@ -40829,7 +40179,6 @@
 高加索區	
 高加索山	
 高參	
-高周波	
 高城深池	
 高增長	
 高大	
@@ -41048,7 +40397,6 @@
 魁人黨	
 魁北克省	
 魁梧	
-魂牽夢繫	
 魂銷魄散	
 魂飛魄散	
 魂魄	
@@ -41130,15 +40478,12 @@
 鯁論	
 鯧魚	
 鯧魚	
-鯨波	
 鰥寡	
 鰥寡孤獨	
 鰭狀肢	
 鰹鳥	
 鰾膠	
 鱉甲	
-鱗介	
-鱗波	
 鱗片狀	
 鱗狀	
 鱗狀細胞癌	
@@ -41262,7 +40607,6 @@
 鶯鳥	
 鶴佬人	
 鶴髮童顏	
-鷗波	
 鷗鳥	
 鷗鳥忘機	
 鷗鴉	
