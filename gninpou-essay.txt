@@ -488,12 +488,11 @@
 不問好歹	paq men hau te
 不問是非曲直	paq men zy fi chiuq jiq
 不問青紅皁白	paq men chin ghon zau baq
-不在乎	paq dze fu
+不在乎	paq dze wu
 不在家	paq dze cia
 不堪入耳	paq khae zyuq er
 不墜	paq dzei
 不壞	paq ua
-不外乎	paq nga fu
 不大不小	paq dou paq shiau
 不大合時	paq da ghaq zy
 不大好	paq da hau
@@ -909,7 +908,7 @@
 丙二醇	pin er zyun
 丙綸	pin len
 丟出去	tieu tshyuq chi
-並不在乎	bin paq dze fu
+並不在乎	bin paq dze wu
 並世	bin syu
 並世無雙	bin syu vu saon
 並世無雙	bin syu Wu saon
@@ -9143,8 +9142,8 @@
 在世	dze syu
 在世界上	dze syu ka zaon
 在世界範圍內	dze syu ka vae wei nei
-在乎	dze fu
-在乎你	dze fu gni
+在乎	dze wu
+在乎你	dze wu gni
 在你身邊	dze gni shin pi
 在你面前	dze gni mi zhi
 在傳輸過程中	dze dzOE syu kou jin tson
@@ -20614,7 +20613,7 @@
 毛狀	mau dzaon
 毛遂自薦	mau zei zy ci
 毛髮皆豎	mau faq cie zyu
-毫不在乎	ghau paq dze fu
+毫不在乎	ghau paq dze wu
 毫伏	ghau voq
 毫分	ghau fen
 毫無二致	ghau vu er tsy
@@ -22024,7 +22023,7 @@
 滴狀	tiq dzaon
 滴里搭拉	tiq li taq lha
 滾了	kuen laq
-滿不在乎	mun paq dze fu
+滿不在乎	mun paq dze wu
 滿世界	mun syu ka
 滿了	mun laq
 滿人	mun gnin
