@@ -12578,8 +12578,6 @@
 家嚴	cia gni
 家園	cia yu
 家培	cia bei
-家塾	cia dzoq
-家塾本	cia dzoq pen
 家境	cia cin
 家境清寒	cia cin chin ghEI
 家天下	cia thi gho
@@ -12590,7 +12588,6 @@
 家學	cia yuq
 家學淵源	cia yuq iu gniu
 家宅	cia dzaq
-家室	cia syuq
 家宴	cia i
 家家	cia cia
 家家戶戶	cia cia wu wu
@@ -12678,14 +12675,12 @@
 家用電器	cia yon di chi
 家用電腦	cia yon di nau
 家畜	cia tshoq
-家當	cia taon
+家當	ko taon
 家的	cia tiq
 家眷	cia ciu
 家破人亡	cia phou zyun vaon
 家破人亡	cia phou gnin vaon
 家祖	cia tsu
-家祠	cia dzy
-家祠	cia zy
 家祭	cia ci
 家禽	cia jin
 家禽家畜	cia jin cia tshoq
@@ -12716,16 +12711,12 @@
 家訪	cia faon
 家譜	cia pu
 家貓	cia mau
-家財	cia dze
-家財萬貫	cia dze vae kun
 家貧如洗	cia bin zyu shi
 家資	cia tsy
 家賊	cia zaq
 家賊難防	cia zaq nae baon
 家賊難防	cia zaq nae vaon
 家轎	cia jiau
-家道	cia dau
-家道中落	cia dau tson loq
 家鄉	cia shian
 家鄉肉	cia shian gnioq
 家鄉話	cia shian wo
