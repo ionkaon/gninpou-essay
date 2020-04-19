@@ -8663,6 +8663,7 @@
 四大皆空	sy da cie khon
 四大盆地	sy da ben di
 四大石窟	sy da zaq khoq
+四大石窟	sy da zaq khuaq
 四大美女	sy da mei gniu
 四大菩薩	sy da bu saq
 四大金剛	sy da cin kaon
@@ -28781,6 +28782,7 @@
 莫須	moq syu
 莫須有	moq syu yeu
 莫高窟	moq kau khoq
+莫高窟	moq kau khuaq
 菅直人	ci jiq zyun
 菊芋	ciuq yu
 菌狀	chiun dzaon
