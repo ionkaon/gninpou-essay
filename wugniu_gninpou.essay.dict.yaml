@@ -1,4 +1,23 @@
-詞語	吳拼
+# Rime dictionary
+# encoding: utf-8
+#
+# wugniu_gninpou.essay - 寧波話【八股文】 (LGPLv3)
+#
+# Author:
+#
+# - Electric Sheep <shinzoqchiuq@outlook.com>
+#
+# 爲寧波話中含多音字的詞語標註讀音
+#
+# https://github.com/ionkaon/gninpou-essay
+
+---
+name: wugniu_gninpou.essay
+version: "2020.05.13"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
 〇二	lin gni
 一世	iq shi
 一世紀	iq syu ci
@@ -279,7 +298,6 @@
 三家村	sae cia tshen
 三度空間	sae du khon ci
 三座大山	sae zou da sae
-三心兩意	sae shin lian i
 三思而後行	sae sy er gheu yin
 三思而行	sae sy er yin
 三教	sae ciau
@@ -304,7 +322,6 @@
 三申五令	sae syun ng lin
 三百人	sae paq gnin
 三百個	sae paq goq
-三百六十行	sae paq loq zyuq ghaon
 三百六十行行行出狀元	sae paq loq zyuq ghaon ghaon ghaon tshyuq dzaon gniu
 三省	sae san
 三省	sae shin
@@ -1545,7 +1562,6 @@
 二七區	er chiq chiu
 二七大罷工	er chiq da ba kon
 二三	er sae
-二中	gni tson
 二乙胺基	er iq EI ci
 二二得四	gni gni taq sy
 二二拍子	gni gni phaq tsy
@@ -1682,7 +1698,6 @@
 二甲基胂酸	er ciaq ci shin soe
 二甲胺基	er ciaq EI ci
 二甲苯	er ciaq pen
-二百	gni paq
 二皇帝	gni waon ti
 二硫化物	er lieu huo vaq
 二硫化碳	er lieu huo thae
@@ -2482,7 +2497,6 @@
 人民解放軍	zyun min ka faon ciun
 人民警察	zyun min cin tshaq
 人民起義	zyun min chi gni
-人民路	zyun min lu
 人民軍隊	zyun min ciun dei
 人民醫院	zyun min i yu
 人民銀行	zyun min gnin ghaon
@@ -2906,7 +2920,6 @@
 伏下來	boq gho le
 伏下去	boq gho chi
 伏侍	voq zy
-伏倒	boq tau
 伏兵	voq pin
 伏几	voq ci
 伏到	boq tau
@@ -4415,7 +4428,6 @@
 兩人同心	lian gnin don shin
 兩份	lian ven
 兩位	lian wei
-兩個	lian goq
 兩個中國	lian goq tson koq
 兩個人	lian goq gnin
 兩個女人	lian goq gniu gnin
@@ -4497,7 +4509,6 @@
 兩架	lian ko
 兩桶	lian don
 兩極分化	lian jiq fen huo
-兩樣	lian yan
 兩權分立	lian jiu fen liq
 兩次	lian tshy
 兩步	lian bu
@@ -4618,7 +4629,6 @@
 八歲	paq syu
 八歲時	paq syu zy
 八萬大藏經	paq vae da dzaon cin
-八號	paq ghau
 八號分機	paq ghau fen ci
 八行書	paq ghaon syu
 八集	paq jiq
@@ -8688,7 +8698,6 @@
 回朝	wei jiau
 回潮率	wei jiau liq
 回狀	wei dzaon
-回生	wei sen
 回生乏術	wei sen vaq zyuq
 回生起死	wei sen chi sy
 回答問題	wei taq ven di
@@ -9388,7 +9397,6 @@
 基里巴斯共和國	ci li po sy gon ghou koq
 基隆人	ci lon gnin
 堂伯叔	daon paq soq
-堂姊妹	daon ci mei
 堅守自盜	ci shieu zy dau
 堆了	tei laq
 堤圍	di wei
@@ -12966,7 +12974,6 @@
 少年人	shiau gni gnin
 少年兒童	shiau gni er don
 少掌櫃	shiau tsaon guei
-少數人	shiau su gnin
 少東家	shiau ton cia
 少突膠質	shiau daq ciau ciq
 少背	shiau pei
@@ -13087,7 +13094,6 @@
 尿壺	gniau wu
 尿失禁	gniau syuq cin
 尿尿	gniau gniau
-尿尿	syu syu
 尿崩	gniau pon
 尿崩症	gniau pon cin
 尿布疹	gniau pu cin
@@ -13993,16 +13999,7 @@
 建行	ci ghaon
 建設廳長	ci shiq thin cian
 建設銀行	ci shiq gnin ghaon
-廿一	nE iq
-廿七	nE chiq
-廿三	nE sae
-廿九	nE cieu
-廿二	nE gni
-廿五	nE ng
 廿五萬	nE ng vae
-廿八	nE paq
-廿六	nE loq
-廿四	nE sy
 弄乾	lon kI
 弄個	lon goq
 弄壞	lon ua
@@ -14686,7 +14683,6 @@
 惡人	oq gnin
 惡人先告狀	oq gnin shi kau zaon
 惡人有惡報	oq gnin yeu oq pau
-惡人自有惡人磨	oq gnin zy yeu oq gnin mou
 惡仗	oq cian
 惡名昭著	oq min ciau tsyu
 惡女阿楚	oq gniu aq tshu
@@ -15165,7 +15161,6 @@
 戴安娜	te EI na
 戴安娜王妃	te EI na waon fi
 戴帽	ta mau
-戴帽子	ta mau tsy
 戴有色眼鏡	ta yeu saq ngae cin
 戴漪	te i
 戴爾	te er
@@ -16862,8 +16857,8 @@
 教到	kau tau
 教務	ciau Wu
 教務	ciau vu
-教務主任	ciau Wu tsyu zyun
-教務主任	ciau vu tsyu zyun
+教務主任	ciau Wu tsyu gnin
+教務主任	ciau vu tsyu gnin
 教務室	ciau Wu syuq
 教務室	ciau vu syuq
 教務會議	ciau Wu wei gni
@@ -17144,7 +17139,6 @@
 敲鐘	khau tson
 敲鑼	khau lou
 敲鑼打鼓	khau lou tan ku
-敲門	khau men
 敲門磚	khau men tsoe
 敲門聲	khau men shin
 敲開	khau khe
@@ -20475,7 +20469,6 @@
 氣死人	chi sy gnin
 氣溶膠	chi yon ciau
 氣炸	chi tso
-氣煞	chi saq
 氣狀	chi dzaon
 氣盛	chi zhin
 氣衝斗牛	chi tshon teu gnieu
@@ -21941,7 +21934,6 @@
 火鳥	hou gniau
 灰不溜丟	huei paq lhieu tieu
 灰分	huei ven
-灰指甲	huei tsy khaq
 灰溜溜	huei lhieu lhieu
 炎亞綸	yi ia len
 炎日	yi zyuq
@@ -23008,7 +23000,6 @@
 珠寶行	tsyu pau ghaon
 珠淚	tsyu lei
 珠還合浦	tsyu wae ghaq phu
-班主任	pae tsyu zyun
 班加羅爾	pae cia lou er
 班師回朝	pae sy wei jiau
 班珠爾	pae tsyu er
@@ -24004,7 +23995,6 @@
 發歲	faq sei
 發泡膠	faq phau ciau
 發片日	faq phi zyuq
-發牌	faq ba
 發現問題	faq yi ven di
 發現學習	faq yi ghoq zhiq
 發現學習	faq yi ghoq zyuq
@@ -27551,7 +27541,6 @@
 自慰	zy wei
 自慰器	zy wei chi
 自憐	zy li
-自憐自艾	zy li zy gni
 自應	zy in
 自戀	zy li
 自成	zy jin
@@ -28288,7 +28277,6 @@
 花邊人物	huo pi zyun vaq
 花間	huo ci
 花香鳥語	huo shian gniau gniu
-花鳥	huo gniau
 花鳥畫	huo gniau wo
 芷江侗族自治縣	tsy kaon don dzoq zy dzyu yu
 芸芸衆生	yun yun tson san
@@ -28679,7 +28667,6 @@
 萵苣	u jiu
 落了	loq laq
 落人口實	loq gnin kheu zyuq
-落去	loq chi
 落地生根	loq di sen ken
 落埋怨	loq ma iu
 落差	loq tsha
@@ -29722,7 +29709,6 @@
 補償金	pu dzaon cin
 補差	pu tsha
 補教	pu kau
-補牌	pu ba
 補習學校	pu zhiq ghoq yau
 補習學校	pu zyuq ghoq yau
 補習教育	pu zhiq ciau yuq
@@ -30294,7 +30280,6 @@
 該事	ke zy
 該亞	ke ia
 該以	ke yi
-該位	kiq wei
 該來	ke le
 該來則來	ke le tsaq le
 該做	ke tsou
@@ -30315,16 +30300,12 @@
 該員	kiq yu
 該唱	ke tshaon
 該在	ke dze
-該場	kiq jian
 該填	ke di
 該如何	ke zyu ghou
-該季	kiq ci
 該守	ke shieu
 該島	kiq tau
 該巷	kiq ghaon
 該帳	kiq cian
-該幫	kiq paon
-該年	kiq gni
 該店	kiq ti
 該廠	kiq chian
 該建	ke ci
@@ -30343,17 +30324,12 @@
 該換則換	ke wun tsaq wun
 該收	ke shieu
 該於	ke yu
-該日	kiq gniq
-該有	ke yeu
 該欠	ke chi
-該款	kiq khun
-該段	kiq doe
 該減	ke kae
 該漲	ke cian
 該漲則漲	ke cian tsaq cian
 該漲未漲	ke cian vi cian
 該爲	ke wei
-該班	kiq pae
 該用	ke yon
 該由	ke yeu
 該當	ke taon
@@ -30371,11 +30347,9 @@
 該箱	kiq shian
 該約	ke iaq
 該線	kiq shi
-該股	kiq ku
 該自	ke zy
 該處	kiq tshyu
 該號	kiq ghau
-該行	kiq ghaon
 該補	ke pu
 該裝	ke tsaon
 該要	ke iau
@@ -30388,13 +30362,9 @@
 該進	ke cin
 該鄉	ke shian
 該鎮	kiq tsyun
-該鐘	kiq tson
 該隊	kiq dei
 該隱	ke in
-該集	kiq jiq
-該項	kiq ghaon
 該項目	kiq ghaon moq
-該類	kiq lei
 該黨	ke taon
 詳加	jian ko
 詳加說明	jian ko syuq min
@@ -32162,8 +32132,6 @@
 過分	kou ven
 過剩人口	kou jin gnin kheu
 過勞死	kou lau sy
-過去	kou chi
-過去	kou chiu
 過去了	kou chi lei
 過去分詞	kou chiu fen dzy
 過去完成式	kou chiu wun jin shiq
@@ -33763,7 +33731,6 @@
 長蛇座	jian dzo zou
 長蛇陣	jian dzo jin
 長蟲	jian dzon
-長街	jian ka
 長衣	jian i
 長袍	jian bau
 長袍馬褂	jian bau mo kuo
@@ -33782,7 +33749,6 @@
 長談	jian dae
 長谷	jian koq
 長谷川	jian koq tshoe
-長豐	jian fon
 長豐縣	jian fon yu
 長起	cian chi
 長起來	cian chi le
@@ -34259,7 +34225,6 @@
 阿弗洛狄忒	a faq loq diq thaq
 阿強	aq jian
 阿彌	o mi
-阿彌陀佛	o mi dou vaq
 阿彌陀如來	o mi dou zyu le
 阿彌陀經	o mi dou cin
 阿得萊德	a taq le taq
@@ -34485,7 +34450,6 @@
 阿肯色州	a khen saq cieu
 阿育吠陀	aq gnioq fi dou
 阿育吠陀	aq gnioq vi dou
-阿育王	aq gnioq waon
 阿胡斯	a wu sy
 阿膠	ou ciau
 阿芙樂爾號	a vu loq er ghau
