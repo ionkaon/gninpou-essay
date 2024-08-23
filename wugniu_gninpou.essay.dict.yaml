@@ -12,7 +12,7 @@
 
 ---
 name: wugniu_gninpou.essay
-version: "2024.07.20"
+version: "2024.08.23"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -11247,6 +11247,7 @@ use_preset_vocabulary: true
 大字報	da zy pau
 大孩子	dou ghe tsy
 大學	da ghoq
+大學	da yuq
 大學同學	da ghoq don ghoq
 大學四年	da ghoq sy gni
 大學城	da ghoq jin
